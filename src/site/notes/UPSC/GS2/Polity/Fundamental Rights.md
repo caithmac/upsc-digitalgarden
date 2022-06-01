@@ -11,8 +11,30 @@
 
 
 
-1. ![[ Right to equality| Right to equality]] (Articles 14–18)
-2. 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+# Right to equality
+
+- [[UPSC/GS2/Polity/Article 14. Equality before Law and Equal Protection of Laws|Article 14. Equality before Law and Equal Protection of Laws]]
+- [[Article 15. Prohibition of Discrimination on Certain Grounds|Article 15. Prohibition of Discrimination on Certain Grounds]]
+- [[UPSC/GS2/Polity/Article 16. Equality of Opportunity in Public Employment|Article 16. Equality of Opportunity in Public Employment]]
+- [[Article 17. Abolition of Untouchability|Article 17. Abolition of Untouchability]]
+- [[Article 18. Abolition of Titles|Article 18. Abolition of Titles]]
+
+
+
+</div></div>
+ 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -54,8 +76,9 @@ vi.[[ Right to practice any profession or to carry or any occupation, trade or b
 
 
 </div></div>
- (Articles 19–22)
-3. 
+ 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -71,8 +94,9 @@ vi.[[ Right to practice any profession or to carry or any occupation, trade or b
 
 
 </div></div>
- (Articles 23–24)
-4. 
+
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -91,8 +115,9 @@ vi.[[ Right to practice any profession or to carry or any occupation, trade or b
 
 
 </div></div>
- (Articles 25–28)
-5. 
+ 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -107,10 +132,13 @@ vi.[[ Right to practice any profession or to carry or any occupation, trade or b
 [[Article 30. Right of Minorities to Establish and Administer Educational Institutions|Article 30. Right of Minorities to Establish and Administer Educational Institutions]] 
 
 </div></div>
- (Articles 29–30)
+ 
+
 >  ~~[[Right to property|Right to property]] (Article 31)~~  
-> >  $Legal-Right.under,Article.300-A, in.part, XII$
-7. 
+ >  $Legal-Right.under,Article.300-A, in.part, XII$
+
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -241,9 +269,9 @@ vi.[[ Right to practice any profession or to carry or any occupation, trade or b
 
 
 </div></div>
- (Article 32)
+ 
 
-- 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
