@@ -13,7 +13,7 @@ Tags:
 
 
 
-[[UPSC/GS3/Economics/School of Art|School of Art]]
+[[UPSC/GS1/History/School of Art|School of Art]]
 [[Temple Architecture|Temple Architecture]]
 
 
