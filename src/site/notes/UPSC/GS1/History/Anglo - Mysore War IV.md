@@ -13,5 +13,5 @@ Tags:
 
 # [[UPSC/GS1/History/Anglo - Mysore War IV|Anglo - Mysore War IV]]
 
-[[UPSC/GS3/Economics/Tipu Sultan|Tipu Sultan]] dies 
-[[UPSC/GS3/Economics/Subsidiary Alliance|Subsidiary Alliance]] is signed
+[[UPSC/GS1/History/Tipu Sultan|Tipu Sultan]] dies 
+[[UPSC/GS1/History/Subsidiary Alliance|Subsidiary Alliance]] is signed
