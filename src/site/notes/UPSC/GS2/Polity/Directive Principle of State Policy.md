@@ -28,7 +28,7 @@
 >~ B.R. Ambedkar
 
 
-- [[Instrument of Instruction|Instrument of Instruction]] in [[UPSC/GS3/Economics/Government of India Act. 1935|Government of India Act. 1935]]
+- [[Instrument of Instruction|Instrument of Instruction]] in [[UPSC/GS1/History/Government of India Act. 1935|Government of India Act. 1935]]
 	- High ideals of  [[UPSC/GS2/Polity/Justice|Justice]],[[UPSC/GS2/Polity/Equality|Equality]],[[Liberty|Liberty]] outlined in [[UPSC/GS2/Polity/Preamble|Preamble]] are to be realized by [[UPSC/GS2/Polity/Directive Principle of State Policy|DPSP]]
 	- Non-Justiciable. 
 	- Embody the concept of 'Welfare State' : Not 'Police State'
