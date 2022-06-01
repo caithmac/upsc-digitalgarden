@@ -5,7 +5,7 @@
 # Welcome! 🌱
 I am a student on a journey to UPSC. Please come along. 
 
-[[UPSC/Mains Syllabus|Mains Syllabus]] from here you can dive into various subjects and how I am going through them. 
+[[UPSC/Mains Syllabus|Mains Syllabus]] from here you can dive into various subjects and how I am going through them.  You can go to [[About|About]] to know me! 
 
 I will be pushing changes twice a week, or when some very important things have taken place. 
 
@@ -48,7 +48,7 @@ IR/Diplomacy: Neighbors
 IR/Diplomacy: Not-Neighbors but affecting interests
 IR/Diplomacy: Institutions, Groupings, Agreements
 
->[!info] GS III
+>[!info] #GS3 
 >#Block-1 [[UPSC/GS3/Economics/Economy|Economy]], Investment Infrastructure
 Growth and Resource mobilization
 Economy: [[UPSC/GS3/Economics/Annual Financial Statement(Annual Budget)|Annual Financial Statement(Annual Budget)]]
@@ -74,6 +74,7 @@ Security- Security forces
 
 >[!error] GS IV
 
-[[UPSC/Current Affairs/Current Affairs|Current Affairs]]
+>[!Note] Current Affairs Daily
+>[[UPSC/Current Affairs/Current Affairs|Current Affairs]]
 
 ---
