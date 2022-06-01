@@ -11,6 +11,6 @@ Tags:
 
 
 
-- [[UPSC/GS3/Economics/British|British]] became victorious. 
+- [[UPSC/GS1/History/British|British]] became victorious. 
 - [[Treaty of Seringapatam|Treaty of Seringapatam]]
 - 
