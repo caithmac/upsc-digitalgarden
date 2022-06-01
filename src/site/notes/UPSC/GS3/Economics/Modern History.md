@@ -23,10 +23,10 @@
 1760. [[Batle of Wandiwash|Batle of Wandiwash]]
 1764. [[UPSC/GS3/Economics/Battle of Buxar|Battle of Buxar]]
 1765. [[UPSC/GS3/Economics/Dual System|Dual System]]
-1767. [[UPSC/GS3/Economics/Anglo - Mysore War I 1766-69|Anglo - Mysore War I 1766-69]]
+1767. [[UPSC/GS1/History/Anglo - Mysore War I 1766-69|Anglo - Mysore War I 1766-69]]
 1772. [[Hasting's Judicial Plan|Hasting's Judicial Plan]]
 1773. [[UPSC/GS3/Economics/Regulating Act 1773|Regulating Act 1773]]
-1775. [[UPSC/GS3/Economics/Anglo - Maratha War I|Anglo - Maratha War I]]
+1775. [[UPSC/GS1/History/Anglo - Maratha War I|Anglo - Maratha War I]]
 1784. [[UPSC/GS3/Economics/Pitts India Act - 1784|Pitts India Act - 1784]] 
 1788. [[UPSC/GS3/Economics/Cornwallis|Cornwallis]]
 1789. [[UPSC/GS3/Economics/Maratha|Maratha]] and [[Nizam|Nizam]] Tripartite
