@@ -11,4 +11,4 @@ Tags:
 
 
 
-[[UPSC/GS3/Economics/Bal Gangadhar Tilak|Bal Gangadhar Tilak]]
+[[UPSC/GS1/History/Bal Gangadhar Tilak|Bal Gangadhar Tilak]]
