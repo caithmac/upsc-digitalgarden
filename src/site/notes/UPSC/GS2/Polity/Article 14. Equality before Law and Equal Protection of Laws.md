@@ -11,7 +11,7 @@ Tags: #GS2
 >[!note] Equality Before Law
 >State shall not deny to any person equality before the law or the equal protection o the laws within the territory of India. 
 >[[Citizens as well as foreigners|Citizens as well as foreigners]]
->- [[UPSC/GS2/Polity/Equality before law|Equality before law]] is [[UPSC/GS3/Economics/British|British]] origin
+>- [[UPSC/GS2/Polity/Equality before law|Equality before law]] is [[UPSC/GS1/History/British|British]] origin
 >- ==Equality before law== 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
