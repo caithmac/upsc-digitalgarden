@@ -4,7 +4,7 @@
 
 ## Introduction to [[UPSC/GS2/Polity/Supreme Court|Supreme Court]]
 
-[[UPSC/GS3/Economics/Government of India Act. 1935|Government of India Act. 1935]] made Federal Courts, which was succeeded by [[UPSC/GS2/Polity/Supreme Court|Supreme Court]] in 1950. 
+[[UPSC/GS1/History/Government of India Act. 1935|Government of India Act. 1935]] made Federal Courts, which was succeeded by [[UPSC/GS2/Polity/Supreme Court|Supreme Court]] in 1950. 
 
 
 ### Composition and Appointment
