@@ -13,7 +13,7 @@ Tags:
 
 # [[UPSC/GS1/History/Anglo - Mysore War II 1780-84|Anglo - Mysore War II 1780-84]]
 
-- [[UPSC/GS3/Economics/British|British]] seized the [[UPSC/GS3/Economics/French|French]] port Mahe
+- [[UPSC/GS1/History/British|British]] seized the [[UPSC/GS1/History/French|French]] port Mahe
 - - [[Treaty of Mangalore|Treaty of Mangalore]]
-- [[UPSC/GS3/Economics/Hyder Ali|Hyder Ali]] dies
+- [[UPSC/GS1/History/Hyder Ali|Hyder Ali]] dies
   
