@@ -4,7 +4,7 @@
 
 "Ireland in the making.''
 
-[[UPSC/GS3/Economics/Annie Besant|Annie Besant]] -
+[[UPSC/GS1/History/Annie Besant|Annie Besant]] -
 
-[[UPSC/GS3/Economics/Bal Gangadhar Tilak|Bal Gangadhar Tilak]]
+[[UPSC/GS1/History/Bal Gangadhar Tilak|Bal Gangadhar Tilak]]
 
