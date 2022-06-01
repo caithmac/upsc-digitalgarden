@@ -2,8 +2,14 @@
 {"dg-publish":true,"permalink":"/upsc/mains-syllabus/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# Welcome! 🌱
+I am a student on a journey to UPSC. Please come along. 
 
-# Mains Syllabus
+[[UPSC/Mains Syllabus|Mains Syllabus]] from here you can dive into various subjects and how I am going through them. 
+
+I will be pushing changes twice a week, or when some very important things have taken place. 
+
+### Mains Syllabus
 >[!faq] #GS1
 #Block-1  [[UPSC/GS1/History/History|History]] 
 History: [[UPSC/GS1/History/Art & Culture|Art & Culture]]
@@ -70,4 +76,3 @@ Security- Security forces
 
 
 ---
-[[Home Page|Home Page]]
