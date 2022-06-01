@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/upsc/gs-3/economics/ancient-history/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+Topic: Ancient History
+Date: 2022-06-01
+Course: [[UPSC/GS3/Economics/Ancient History|Ancient History]]
+Tags: 
+
+---
+
+
+
+
 
  1. [[UPSC/GS3/Economics/Sources of History|Sources of History]]
 2. [[UPSC/GS3/Economics/Pre-Historic India|Pre-Historic India]]
