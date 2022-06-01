@@ -69,4 +69,4 @@
 
 ---
 
-[[Home Page|Home Page]]
+[[UPSC/Mains Syllabus|Mains Syllabus]]
