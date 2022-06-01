@@ -4,7 +4,7 @@
 
 
 [[UPSC/GS1/History/Ancient History|Ancient History]]
-[[UPSC/GS3/Economics/Modern History|Modern History]]
+[[UPSC/GS1/History/Modern History|Modern History]]
 [[Medieval History|Medieval History]]
 [[UPSC/GS1/History/Art & Culture|Art & Culture]]
 
