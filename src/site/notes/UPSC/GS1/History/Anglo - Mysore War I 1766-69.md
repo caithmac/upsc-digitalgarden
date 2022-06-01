@@ -13,6 +13,6 @@ Tags:
 
 # [[UPSC/GS1/History/Anglo - Mysore War I 1766-69|Anglo - Mysore War I 1766-69]] 
 
-This was fought b/w [[UPSC/GS3/Economics/Hyder Ali|Hyder Ali]] and [[Nizam|Nizam]] / [[UPSC/GS3/Economics/Maratha|Maratha]] / [[UPSC/GS3/Economics/British|British]]
+This was fought b/w [[UPSC/GS1/History/Hyder Ali|Hyder Ali]] and [[Nizam|Nizam]] / [[UPSC/GS1/History/Maratha|Maratha]] / [[UPSC/GS1/History/British|British]]
 	- Treaty of Madras 
-	- [[UPSC/GS3/Economics/Hyder Ali|Hyder Ali]] won this war
+	- [[UPSC/GS1/History/Hyder Ali|Hyder Ali]] won this war
