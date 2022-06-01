@@ -74,5 +74,6 @@ Security- Security forces
 
 >[!error] GS IV
 
+[[UPSC/Current Affairs/Current Affairs|Current Affairs]]
 
 ---
