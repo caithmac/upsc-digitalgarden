@@ -30,7 +30,7 @@
 - [[UPSC/GS2/Polity/High Court|High Court]]
 - [[UPSC/GS2/Polity/Tribunals|Tribunals]]
 - [[UPSC/GS2/Polity/National Legal Service Authority|National Legal Service Authority]]
-- [[UPSC/GS2/Polity/Panchayati Raj|Panchayati Raj]]
+- [[UPSC/GS2/Polity/Panchayati Raj|Panchayati Raj]] ^eb57a9
 - [[UPSC/GS2/Polity/Municipality|Municipality]]
 - Constitutional Bodies
 	- [[UPSC/GS2/Polity/Election Commission|Election Commission]]
