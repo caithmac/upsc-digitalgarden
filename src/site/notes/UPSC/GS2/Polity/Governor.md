@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/upsc/gs-2/polity/governor/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+### Appointment of Governor 
+### Conditions of governor's office
+### Term of governor's office
+### Powers and functions of governor 
+1. Executive Power
+2. Legislative Power
+3. Financial Power
+4. Judicial Power
+
+
+[[UPSC/GS2/Polity/Veto Power|Veto Power]]
+
+### Constitutional Position of Governor 
+- 
