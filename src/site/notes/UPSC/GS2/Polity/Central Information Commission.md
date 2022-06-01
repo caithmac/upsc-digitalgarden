@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/upsc/gs-2/polity/central-information-commission/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+
+	[[Right to Information Act 2005|Right to Information Act 2005]]
+		Creation of [[State Information Commission|State Information Commission]] at the state level.
+		
+Appointed by [[UPSC/GS2/Polity/President|President]]
