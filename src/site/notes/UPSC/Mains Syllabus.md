@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mains-syllabus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mains-syllabus/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Welcome! 🌱
@@ -13,15 +13,15 @@ I will be pushing changes twice a week, or when some very important things have 
 >[!faq] #GS1
 #Block-1  [[UPSC/GS1/History/History|History]] 
 History: [[UPSC/GS1/History/Art & Culture|Art & Culture]]
-History: India before Independence
+History: India before Independence -> [[UPSC/GS1/History/Modern History|Modern History]]
 History: India After independence
 History: [[World History|World History]]
-#Block-2 ==[[Social Science|Social Science]]==
+#Block-2 - [[Social Science|Social Science]]
 Social Science: Caste, Religion, Region, Globalization
 Social Science: Poverty, Population, Globalization
 Social Science: Globalization
 Social Science: Women
-#Block-3 ==[[Geography|Geography]]==
+#Block-3 [[Geography|Geography]]
 Geography: [[Physical|Physical]]
 Geography: Climate, Disaster 
 Geography: [[Resources Distribution|Resources Distribution]]
@@ -34,7 +34,7 @@ Polity: Basics of Constitution
 Polity: The Executive
 Polity: Legislature & Elections
 Polity: Separation of Powers
-Polity: Federalism & Local governance
+Polity: Federalism & [[UPSC/GS2/Polity/Constitution#^eb57a9|Local governance]]
 Polity: Bodies
 #Block-2 Welfare Schemes & Policies for sectors, services
 Welfare: Policies & Schemes
@@ -51,7 +51,7 @@ IR/Diplomacy: Institutions, Groupings, Agreements
 >[!info] GS III
 >#Block-1 [[UPSC/GS3/Economics/Economy|Economy]], Investment Infrastructure
 Growth and Resource mobilization
-Economy: Budget
+Economy: [[UPSC/GS3/Economics/Annual Financial Statement(Annual Budget)|Annual Financial Statement(Annual Budget)]]
 Economy: Investment and Infrastructure
 Economy: Liberalization
 #Block-2 Agriculture
