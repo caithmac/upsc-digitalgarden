@@ -28,3 +28,14 @@ Tags: #Pillar2
 >[!Conclusion]
 
 
+
+
+---
+Backlinks
+```dataview
+
+list from [[]]
+
+sort file.ctime desc
+
+```
