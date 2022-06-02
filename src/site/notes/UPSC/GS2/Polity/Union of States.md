@@ -28,7 +28,7 @@ Tags: #GS2
 2. The power to establish new states
 	1. Establishment of states which were no in existence before. 
 
->>> Admission or Establishment of new states of that are not part of the Union of India.
+> Admission or Establishment of new states of that are not part of the Union of India.
 
 
 
