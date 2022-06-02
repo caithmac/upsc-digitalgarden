@@ -4,7 +4,7 @@
 
 Topic: Anglo - Mysore War II 1780-84
 Date: 2022-06-01
-Course: {{filename}}
+Course: [[UPSC/GS1/History/Modern History|Modern History]] [[UPSC/GS1/History/History|History]]
 Tags: 
 
 ---
