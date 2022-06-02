@@ -23,9 +23,9 @@ Tags: #Pillar2
 - [[Types of Grants|Types of Grants]]
 - [[Horizontal distribution in 15th FC|Horizontal distribution in 15th FC]]
 
->[!Recomendation]
+>[!Note] Areee1
 
->[!Conclusion]
+>[!Note] Areee
 
 
 
