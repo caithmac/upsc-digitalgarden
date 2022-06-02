@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/upsc/gs-2/polity/president/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
+Topic: President
+Date: 2022-06-01
+Course: [[Polity|Polity]],[[UPSC/GS2/Polity/Constitution|Constitution]]
+Tags: 
+
+---
+
 - [[Union Executive|Union Executive]] consist of [[UPSC/GS2/Polity/President|President]], the [[UPSC/GS2/Polity/Vice President|Vice President]] ,[[UPSC/GS2/Polity/Prime Minister|Prime Minister]],[[UPSC/GS2/Polity/Central Council of Minister|Central Council of Minister]] and the [[UPSC/GS2/Polity/Attorney General|Attorney General]]
 - President is Head of the Indian State. 
 ##### **[[Election of the President|Election of the President]]**
