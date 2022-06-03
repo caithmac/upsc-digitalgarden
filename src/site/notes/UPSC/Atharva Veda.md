@@ -4,7 +4,7 @@
 
 Topic: Atharva Veda
 Date: 2022-06-01
-Course: [[Polity|Polity]] , [[UPSC/Constitution|Constitution]]
+Course: 
 Tags: 
 
 ---
