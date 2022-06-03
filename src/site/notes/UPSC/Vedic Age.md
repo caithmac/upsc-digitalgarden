@@ -3,11 +3,10 @@
 ---
 
 ---
-dg-publish: true
----
+
 Topic: Vedic Age
 Date: 2022-06-01
-Course: {{filename}}
+Course: [[UPSC/Ancient History|Ancient History]]
 Tags: 
 
 ---
