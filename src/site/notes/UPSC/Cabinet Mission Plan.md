@@ -4,7 +4,7 @@
 
 Topic: Cabinet Mission Plan
 Date: 2022-06-01
-Course: [[Polity|Polity]], [[UPSC/Constitution|Constitution]]
+Course: [[UPSC/Constitution|Constitution]]  
 Tags: 
 
 ---
