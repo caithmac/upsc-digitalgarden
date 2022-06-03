@@ -20,11 +20,7 @@ I started my journey when I was in last semester of M.Tech ✈️, I wanted to j
 
 Peace! 😍
 
-#####  ⌛⌚ Here is my time table ⏳⏲️
 
-
-<iframe width="1000" height= "600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNKYYr7T8_nP0GgLH6dg2ztNsRi1bbOKBzf3WUR9sOs3t11k-t1HLZJM-TCb2mWQzdrc5WciMsXEmw/pubhtml?gid=240835159&amp;single=true&amp;widget=true&amp;headers=false">
-</iframe>
 
 
 
