@@ -14,4 +14,4 @@ Tags:
 - Was a war b/w [[UPSC/Portuguese|Portuguese]] and [[UPSC/British|British]]
 - Beginning of the ascent of the [[UPSC/EIC|EIC]] presence in India. 
 - a smaller variant of navy was established, which was root of the modern [[Indian Navy|Indian Navy]]
-#modernhistoy
+\
