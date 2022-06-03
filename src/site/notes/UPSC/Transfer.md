@@ -4,7 +4,7 @@
 
 Topic: Transfer
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy|Economy]] -> [[UPSC/Balance of Payment|Balance of Payment]]
 Tags: #pillar3 
 
 ---
