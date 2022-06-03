@@ -4,7 +4,7 @@
 
 # [[UPSC/Regulating Act 1773|Regulating Act 1773]]
 why? Corruption amongst [[UPSC/EIC|EIC]]
-Eic applied 1,000,000 pounds- 1772
+[[UPSC/EIC|Eic]] applied 1,000,000 pounds- 1772
 Lack of judicial administration
  
 ## Changes in England
