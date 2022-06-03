@@ -11,9 +11,9 @@ I will be pushing changes twice a week, or when some very important things have 
 
 ### Mains Syllabus
 >[!faq] #GS1
-#Block-1  [[UPSC/GS1/History/History|History]] 
-History: [[UPSC/GS1/History/Art & Culture|Art & Culture]]
-History: India before Independence -> [[UPSC/GS1/History/Modern History|Modern History]]
+#Block-1  [[UPSC/History|History]] 
+History: [[UPSC/Art & Culture|Art & Culture]]
+History: India before Independence -> [[UPSC/Modern History|Modern History]]
 History: India After independence
 History: [[World History|World History]]
 #Block-2 - [[Social Science|Social Science]]
@@ -29,12 +29,12 @@ Geography: factors affecting industrial locations
 Geography: [[Urbanization|Urbanization]]
 
 >[!bug] #GS2
->#Block-1 [[Polity|Polity]] [[UPSC/GS2/Polity/Constitution|Constitution]]
+>#Block-1 [[Polity|Polity]] [[UPSC/Constitution|Constitution]]
 Polity: Basics of Constitution
 Polity: The Executive
 Polity: Legislature & Elections
 Polity: Separation of Powers
-Polity: Federalism & [[UPSC/GS2/Polity/Constitution#^eb57a9|Local governance]]
+Polity: Federalism & [[UPSC/Constitution#^eb57a9|Local governance]]
 Polity: Bodies
 #Block-2 Welfare Schemes & Policies for sectors, services
 Welfare: Policies & Schemes
@@ -49,9 +49,9 @@ IR/Diplomacy: Not-Neighbors but affecting interests
 IR/Diplomacy: Institutions, Groupings, Agreements
 
 >[!info] #GS3 
->#Block-1 [[UPSC/GS3/Economics/Economy|Economy]], Investment Infrastructure
+>#Block-1 [[UPSC/Economy|Economy]], Investment Infrastructure
 Growth and Resource mobilization
-Economy: [[UPSC/GS3/Economics/Annual Financial Statement(Annual Budget)|Annual Financial Statement(Annual Budget)]]
+Economy: [[UPSC/Annual Financial Statement(Annual Budget)|Annual Financial Statement(Annual Budget)]]
 Economy: Investment and Infrastructure
 Economy: Liberalization
 #Block-2 Agriculture
@@ -75,6 +75,6 @@ Security- Security forces
 >[!error] GS IV
 
 >[!Note] Current Affairs Daily
->[[UPSC/Current Affairs/Current Affairs|Current Affairs]]
+>[[UPSC/Current Affairs|Current Affairs]]
 
 ---
