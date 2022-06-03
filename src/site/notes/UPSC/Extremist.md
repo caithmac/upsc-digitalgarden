@@ -4,7 +4,7 @@
 
 Topic: Extremist
 Date: 2022-06-01
-Course: {{filename}}
+Course: [[UPSC/Modern History|Modern History]]
 Tags: 
 
 ---
