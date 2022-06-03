@@ -6,7 +6,7 @@
 
 Topic: Revolutionary  Activities
 Date: 2022-06-02
-Course: [[UPSC/Revolutionary  Activities|]]
+Course: [[UPSC/History|History]]
 Tags:
 Backlinks 
 ```dataview
