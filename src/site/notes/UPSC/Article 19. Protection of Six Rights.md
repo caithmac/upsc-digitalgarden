@@ -10,11 +10,12 @@ Course: [[Polity|Polity]],[[UPSC/Constitution|Constitution]]
 ----
 
 ##### Article 19. Protection of Six Rights
-i. [[Right to freedom to Speech and Expression|Right to freedom to Speech and Expression]]
-ii. [[Right to assemble peacefully and without arms|Right to assemble peacefully and without arms]]
-iii. [[Right to form associations or unions or co-operative societies.|Right to form associations or unions or co-operative societies.]] 
-iv. [[Right to move freely throughout the territory of India|Right to move freely throughout the territory of India]]
-v.[[ Right to reside and settle in any part of the territory of India| Right to reside and settle in any part of the territory of India]]
-vi.[[ Right to practice any profession or to carry or any occupation, trade or business| Right to practice any profession or to carry or any occupation, trade or business]]. 
+- ###### [[UPSC/Right to freedom to Speech and Expression|Right to freedom to Speech and Expression]]
+- ###### [[UPSC/Right to assemble peacefully and without arms|Right to assemble peacefully and without arms]]
+ - ###### [[UPSC/Right to form associations or unions or co-operative societies.|Right to form associations or unions or co-operative societies.]] 
+. [[UPSC/Right to move freely throughout the territory of India|Right to move freely throughout the territory of India]]
+[[ Right to reside and settle in any part of the territory of India| Right to reside and settle in any part of the territory of India]]
+ [[Right to practice any profession or to carry or any occupation, trade or
+business]
 
 
