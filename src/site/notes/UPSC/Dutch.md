@@ -13,3 +13,5 @@ Tags:
 
 - Arrived at [[Masulipatnam|Masulipatnam]] in 1605
 - [[UPSC/Battle of Bedara|Battle of Bedara]]
+- Established factory at [[Patna|Patna]] in 1632
+- 
