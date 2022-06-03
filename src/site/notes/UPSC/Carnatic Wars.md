@@ -12,7 +12,10 @@ Tags:
 
 
 Three Wars were fought
-[[Carnatic Wars I|Carnatic Wars I]]
-[[Carnatic Wars II|Carnatic Wars II]]
-[[Carnatic Wars III|Carnatic Wars III]]
-[[Battle of Wandiwash|Battle of Wandiwash]]
+[[UPSC/Carnatic Wars I|Carnatic Wars I]]
+[[UPSC/Carnatic Wars II|Carnatic Wars II]]
+[[UPSC/Carnatic Wars III|Carnatic Wars III]]
+[[UPSC/Battle of Wandiwash|Battle of Wandiwash]]
+
+- The background was the start of [[Austrian War of Succession|Austrian War of Succession]] and ended with the [[UPSC/Seven Years' War(1756-63)|Seven Years' War(1756-63)]]
+- 
