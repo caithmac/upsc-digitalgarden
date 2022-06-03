@@ -18,5 +18,4 @@ Tags:
 - [[UPSC/Blue Water Policy|Blue Water Policy]] by [[UPSC/Portuguese|Portuguese]]
 - [[UPSC/Battle of Swalley|Battle of Swalley]] in 1612 v/s [[UPSC/British|British]]
 - Used [[Hoogly|Hoogly]] for piracy in 1631-32
-
-#modernhistoy
+-
