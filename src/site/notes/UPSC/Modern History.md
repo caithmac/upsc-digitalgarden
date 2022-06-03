@@ -15,12 +15,13 @@
 1664. [[UPSC/French|French]]  / Fort St. George at [[Madras|Madras]]
       
 1707. [[Aurangzeb|Aurangzeb]] died
+1715. [[UPSC/Farrukhsiyar's Farmans|Farrukhsiyar's Farmans]] 
 1717. [[Murshid Quli Khan|Murshid Quli Khan]] becomes [[Nawab of Bengal|Nawab of Bengal]]
 1740. [[Alivardi Khan|Alivardi Khan]]
 1756. [[Siraj-ud-Daulah|Siraj-ud-Daulah]]
 1757. [[UPSC/Battle of Plassey|Battle of Plassey]]
 1759. [[UPSC/Battle of Bedara|Battle of Bedara]]
-1760. [[Batle of Wandiwash|Batle of Wandiwash]]
+1760. [[UPSC/Battle of Wandiwash|Battle of Wandiwash]]
 1764. [[UPSC/Battle of Buxar|Battle of Buxar]]
 1765. [[UPSC/Dual System|Dual System]]
 1767. [[UPSC/Anglo - Mysore War I 1766-69|Anglo - Mysore War I 1766-69]]
