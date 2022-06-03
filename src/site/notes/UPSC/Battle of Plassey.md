@@ -9,13 +9,20 @@ Tags:
 
 ---
 
+##### Background:: 🏖️
+- [[UPSC/EIC|EIC]] made rampant misuse of its trade privileges. 
+- Fortified Calcutta.
+- [[Black Hole Trageddy|Black Hole Trageddy]]
+
+##### Immediate Cause:: ⚔️
+- Fortification of Calcutta. 
+- Asylum of Krishna Das -> Fled with immense treasures against Nawab's will. 
+##### Result:: 🤔💭
+- [[UPSC/British|British]] basically won India. 
+- [[Mir Jafar|Mir Jafar]] was made the new Nawab.
+##### Significance:: 👀
+- Laid foundation of British Empire in India.
+- [[UPSC/Dual System|Dual System]] came into effect. 
 
 
-# [[UPSC/Battle of Plassey|Battle of Plassey]]
-##### War that was never fought
-Traitors of Nawab([[Siraj-ud-Daulah|Siraj-ud-Daulah]])
--  [[Mir Jafar|Mir Jafar]]
 
-[[Mir Qasim |Mir Qasim ]] was made Nawab
-
-#modernhistoy
