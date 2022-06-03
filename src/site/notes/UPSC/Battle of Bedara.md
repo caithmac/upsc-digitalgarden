@@ -9,4 +9,8 @@ Tags:
 
 ---
 
-[[UPSC/Battle of Bedara|Battle of Bedara]] was fought b/w [[UPSC/Dutch|Dutch]] and [[UPSC/British|British]] in year 1759
+- [[UPSC/Battle of Bedara|Battle of Bedara]] was fought b/w [[UPSC/Dutch|Dutch]] and [[UPSC/British|British]] in year 1759
+- Defeat of Dutch. 
+- [[Mir Jafar|Mir Jafar]] and [[UPSC/Dutch|Dutch]] fought [[UPSC/British|British]]
+
+
