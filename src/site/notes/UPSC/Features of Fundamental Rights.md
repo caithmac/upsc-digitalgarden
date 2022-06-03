@@ -9,20 +9,7 @@ Tags: #GS2
 
 ---
 >[!example] Features of Fundamental Rights
-> - Not absolute but qualified. [[UPSC/Reasonable restriction|Reasonable restriction]]  can be imposed on them by the state. 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
--Whether such restrictions are reasonable or not is to be decided by the courts.
-
-</div></div>
-
+> - Not absolute but qualified. [[UPSC/Reasonable restriction|Reasonable restriction]]  can be imposed on them by the state.
 > - They strike balance between the rights of individual and those of the society as whole between individual liberty and social control. 
 >  - All available against arbitrary action of the state. 
 >   - Some against the action of the private individuals. 
