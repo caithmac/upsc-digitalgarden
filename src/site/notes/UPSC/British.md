@@ -12,7 +12,7 @@ Tags:
 
 
 - [[Jahangir Farman|Jahangir Farman]] in year 1609 
-	- [[Captain William Hawkins|Captain William Hawkins]]
+	- [[UPSC/Captain William Hawkins|Captain William Hawkins]]
 - [[UPSC/British|British]] first factory in [[Surat|Surat]]
 - The fought multiple wars.[[ British Conquest and War| British Conquest and War]]
 - [[UPSC/EIC|EIC]] -> Queen Elizabeth I charter. 
