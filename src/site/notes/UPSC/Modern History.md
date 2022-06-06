@@ -23,7 +23,7 @@
 1759. [[UPSC/Battle of Bedara|Battle of Bedara]]
 1760. [[UPSC/Battle of Wandiwash|Battle of Wandiwash]]
 1764. [[UPSC/Battle of Buxar|Battle of Buxar]]
-1765. [[UPSC/Dual System|Dual System]]
+1765. [[UPSC/Dual System of Government|Dual System of Government]]
 1767. [[UPSC/Anglo - Mysore War I 1766-69|Anglo - Mysore War I 1766-69]]
 1772. [[Hasting's Judicial Plan|Hasting's Judicial Plan]]
 1773. [[UPSC/Regulating Act 1773|Regulating Act 1773]]
