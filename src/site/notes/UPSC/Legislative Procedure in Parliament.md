@@ -8,4 +8,4 @@
 	- [[ Ordinary Bills| Ordinary Bills]]
 	- [[UPSC/Money Bill|Money Bill]]
 	- [[ Financial Bill| Financial Bill]]
-	- [[Constitution Amendment Bill|Constitution Amendment Bill]]
+	- [[UPSC/Constitution Amendment Bill|Constitution Amendment Bill]]
