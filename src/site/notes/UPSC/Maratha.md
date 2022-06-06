@@ -9,3 +9,14 @@ Sahuji
 		 Sambhaji 
 
 [[Anglo - Maratha War |Anglo - Maratha War ]] 
+
+
+```mermaid
+graph TD;  
+    Sahuji-->Shivaji;  
+    Shivaji-->Rajaram;  
+    Shivaji-->Sambhaji;  
+    
+
+```
+
