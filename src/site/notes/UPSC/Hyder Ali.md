@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/upsc/hyder-ali/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-[[UPSC/Tipu Sultan|Tipu Sultan]] was Hyder Ali's son
+- Took the help of [[UPSC/French|French]] to set up an arsm factory at Dindigul.
+- Trained his army in European ways 
