@@ -33,15 +33,15 @@
 1789. [[UPSC/Maratha|Maratha]] and [[Nizam|Nizam]] Tripartite
 1793. [[UPSC/Permanent Settlement|Permanent Settlement]] 
       
-1803. [[Anglo - Maratha War II|Anglo - Maratha War II]]
+1803. [[UPSC/Anglo - Maratha War II|Anglo - Maratha War II]]
 1806. [[Vellore Mutiny |Vellore Mutiny ]]
 1813. [[Charter Act. |Charter Act. ]]
-1817. [[Anglo - Maratha War III|Anglo - Maratha War III]]
+1817. [[UPSC/Anglo - Maratha War III|Anglo - Maratha War III]]
 1828. [[Brahmo Samaj|Brahmo Samaj]]
 1833. [[UPSC/Charter Act.|Charter Act.]] 
 1838. [[Anglo- Afghan War |Anglo- Afghan War ]]
 1839. [[Ranjit Singh|Ranjit Singh]] died
-1845. [[Anglo- Sikh War I|Anglo- Sikh War I]]
+1845. [[UPSC/Anglo- Sikh War I|Anglo- Sikh War I]]
 1848. [[Anglo- Sikh War II|Anglo- Sikh War II]] / [[UPSC/Doctrine of Laps|Doctrine of Laps]]
 1849.  [[UPSC/Doctrine of Laps|Doctrine of Laps]] Satara was captured 
 1850. [[Religious Disability Act 1850|Religious Disability Act 1850]]
