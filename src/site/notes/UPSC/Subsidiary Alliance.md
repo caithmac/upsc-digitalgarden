@@ -3,7 +3,7 @@
 ---
 
 -  Indirect control and [[UPSC/British|British]] hegemony
-- Governor General - Lord [[Wellesley|Wellesley]] give final shape to it
+- Governor General - Lord [[Wellesley|Wellesley]] give final shape to it -> [[UPSC/Policy of Ring-Fence|Policy of Ring-Fence]]
 - there was imminent danger from France because of [[Napoleon|Napoleon]]  war
 - there was increasing hostility between Indian state and [[UPSC/British|British]]
 - with this new system the native state gave up their claim on
