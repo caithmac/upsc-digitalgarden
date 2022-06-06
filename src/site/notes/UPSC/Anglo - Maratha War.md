@@ -10,5 +10,5 @@ Tag:
 ---
 
 [[UPSC/Anglo - Maratha War I|Anglo - Maratha War I]]
-[[Anglo - Maratha War II|Anglo - Maratha War II]]
-[[Anglo - Maratha War III|Anglo - Maratha War III]]
+[[UPSC/Anglo - Maratha War II|Anglo - Maratha War II]]
+[[UPSC/Anglo - Maratha War III|Anglo - Maratha War III]]
