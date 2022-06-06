@@ -11,7 +11,7 @@
 >Novel Features of the Indian Constitution
 >~B.R. Ambedkar
 
-
+- 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -41,7 +41,7 @@
 </div></div>
 
 
-
+- 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -200,7 +200,7 @@
 
 
 ###### New Directive Principle
-By [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+- By [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -351,7 +351,7 @@ By [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]
 </div></div>
 
 
-By [[(forty-four Amendment) Act, 1978|(forty-four Amendment) Act, 1978]]
+- By [[(forty-four Amendment) Act, 1978|(forty-four Amendment) Act, 1978]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -405,7 +405,7 @@ By [[(forty-four Amendment) Act, 1978|(forty-four Amendment) Act, 1978]]
 </div></div>
 
 
-By [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
+- By [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -452,7 +452,7 @@ By [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
 </div></div>
 
 
-By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
+- By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -496,7 +496,7 @@ By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
 </div></div>
 
 
-
+##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -506,9 +506,9 @@ By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
 </div>
 
 
-##### Criticism of DPSP
+#### Criticism of DPSP
 
-1. No Legal Force 🚓👮🏽
+##### No Legal Force 🚓👮🏽
 >[!Quote] 
 >‘a cheque on a bank, payable only when the resources of the bank permit’
 
@@ -522,12 +522,12 @@ By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
 >[!Quote]
 >manifesto of aims and aspirations’
 
-2. Illogically Arranged 😷
+##### Illogically Arranged 😷
 >[!Quote]
 >‘the Directives are neither properly classified nor logically arranged. The declaration mixes up relatively unimportant issues with the most vital economic and social questions. It combines rather incongruously the modern with the old and provisions suggested by the reason and science with provisions based purely on sentiment and prejudice'
 >~N.Srinivasan
 
-3. Conservative 😒
+ ##### Conservative 😒
 >[!Quote]
 >>"The ghosts of Sydney Webb and Beatrice Webb stalk through the pages of the text. Part IV of the Constitution expresses Fabian Socialism without the socialism"
 >
@@ -538,8 +538,8 @@ By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
 
 </div></div>
 
-- [[Utility of DPSP|Utility of DPSP]]
-- 
+- ##### [[Utility of DPSP|Utility of DPSP]]
+- ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -558,7 +558,7 @@ By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
 
 </div></div>
  
-- Implementation of DPSP
+#####  Implementation of DPSP
 
 
 #### Directives outside Part IV
