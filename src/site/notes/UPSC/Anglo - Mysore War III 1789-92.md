@@ -9,8 +9,12 @@ Course: [[UPSC/Modern History|Modern History]]
 
 ---
 
-
-
-- [[UPSC/British|British]] became victorious. 
+##### Background:: 🏖️
+- Dispute between Travancore and Tipu. 
+- English sided with Travancore.
+- Tipu defeated English at first; but English took help of 
+##### Immediate Cause:: ⚔️
+##### Result:: 🤔💭
+- Tipu lost. 
+##### Significance:: 👀
 - [[Treaty of Seringapatam|Treaty of Seringapatam]]
-- 
