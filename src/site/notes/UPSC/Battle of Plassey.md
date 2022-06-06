@@ -22,7 +22,7 @@ Tags:
 - [[Mir Jafar|Mir Jafar]] was made the new Nawab.
 ##### Significance:: 👀
 - Laid foundation of British Empire in India.
-- [[UPSC/Dual System|Dual System]] came into effect. 
+
 
 
 
