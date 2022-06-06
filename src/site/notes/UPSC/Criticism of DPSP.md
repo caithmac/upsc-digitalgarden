@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/upsc/criticism-of-dpsp/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-##### Criticism of DPSP
+#### Criticism of DPSP
 
-1. No Legal Force 🚓👮🏽
+##### No Legal Force 🚓👮🏽
 >[!Quote] 
 >‘a cheque on a bank, payable only when the resources of the bank permit’
 
@@ -18,12 +18,12 @@
 >[!Quote]
 >manifesto of aims and aspirations’
 
-2. Illogically Arranged 😷
+##### Illogically Arranged 😷
 >[!Quote]
 >‘the Directives are neither properly classified nor logically arranged. The declaration mixes up relatively unimportant issues with the most vital economic and social questions. It combines rather incongruously the modern with the old and provisions suggested by the reason and science with provisions based purely on sentiment and prejudice'
 >~N.Srinivasan
 
-3. Conservative 😒
+ ##### Conservative 😒
 >[!Quote]
 >>"The ghosts of Sydney Webb and Beatrice Webb stalk through the pages of the text. Part IV of the Constitution expresses Fabian Socialism without the socialism"
 >
