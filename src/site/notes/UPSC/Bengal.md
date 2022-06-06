@@ -19,4 +19,3 @@ Was the richest province in [[India|India]]
 	[[UPSC/Battle of Buxar|Battle of Buxar]]
 
 
-#modernhistoy
