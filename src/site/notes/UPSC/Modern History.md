@@ -3,9 +3,9 @@
 ---
 
 - 1498. [[Portuguese |Portuguese ]]in [[Calicut|Calicut]]
-      
-- 1595.[[UPSC/Dutch|Dutch]] in Pulicut
-      
+---
+- 1595. [[UPSC/Dutch|Dutch]] in Pulicu
+---
 - 1608. [[UPSC/British|British]] in Surat
 - 1609. [[Jahangir Farman|Jahangir Farman]]
 - 1613. First Factory of [[UPSC/British|British]] at Surat
@@ -13,7 +13,8 @@
 - 1651. First English Factory
 - 1662. [[Bombay|Bombay]] as Dowry Gift from Portugal to English 
 - 1664. [[UPSC/French|French]]  / Fort St. George at [[Madras|Madras]]
-      
+---
+
 - 1707. [[Aurangzeb|Aurangzeb]] died
 - 1715. [[UPSC/Farrukhsiyar's Farmans|Farrukhsiyar's Farmans]] 
 - 1717. [[Murshid Quli Khan|Murshid Quli Khan]] becomes [[Nawab of Bengal|Nawab of Bengal]]
@@ -32,7 +33,8 @@
 - 1788. [[UPSC/Cornwallis|Cornwallis]]
 - 1789. [[UPSC/Maratha|Maratha]] and [[Nizam|Nizam]] Tripartite
 - 1793. [[UPSC/Permanent Settlement|Permanent Settlement]] 
-      
+---
+
 - 1803. [[UPSC/Anglo - Maratha War II|Anglo - Maratha War II]]
 - 1806. [[Vellore Mutiny |Vellore Mutiny ]]
 - 1813. [[Charter Act. |Charter Act. ]]
@@ -63,7 +65,8 @@
 - 1892. [[Indian Council Act|Indian Council Act]]
 - 1893. [[Durand Commission|Durand Commission]]
 - 1897. [[Ramakrishna Mission|Ramakrishna Mission]]
-      
+---
+
 - 1905. [[Swadeshi Movement|Swadeshi Movement]]
 - 1906. [[Shimla Deputation|Shimla Deputation]]
 - 1907. [[UPSC/Indian National Congress|Indian National Congress]] [[UPSC/Surat Split|Surat Split]]
