@@ -18,7 +18,7 @@ Bengal and Eastern India
 6. [[UPSC/Santhal Uprising|Santhal Uprising]]
 7. Ahom 
 8. [[Khasi Uprising|Khasi Uprising]]
-9. [[Pagal Panthis|Pagal Panthis]]
+9. [[UPSC/Pagal Panthis|Pagal Panthis]]
 10. [[Faraizi Revolt|Faraizi Revolt]]
 11. [[UPSC/Munda Revolt|Munda Revolt]]
 
@@ -41,7 +41,7 @@ South India
 
  North India 
 
-1. [[Wahabi Movement|Wahabi Movement]]
+1. [[UPSC/Wahabi Movement|Wahabi Movement]]
 2. [[Kuka Revolt|Kuka Revolt]]
 3. [[Deccan Revolt|Deccan Revolt]]
 
