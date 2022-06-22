@@ -15,7 +15,7 @@ Tags:
 
 
 # [[UPSC/Preamble|Preamble]] 
-> WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a [^1][[UPSC/Sovereign|Sovereign]] [[UPSC/Socialist|Socialist]] [[SECULAR|SECULAR]] [[UPSC/Democratic|Democratic]] [[REPUBLIC|REPUBLIC]]] and to secure to all its citizens: [[JUSTICE, social, economic and political|JUSTICE, social, economic and political]]; [[LIBERTY of thought, expression, belief, faith and worship|LIBERTY of thought, expression, belief, faith and worship]]; [[EQUALITY of status and of opportunity|EQUALITY of status and of opportunity]]; and to promote among them all [[FRATERNITY assuring the dignity of the individual|FRATERNITY assuring the dignity of the individual]] and the [^2][[unity and integrity of the Nation|unity and integrity of the Nation]]; IN OUR [[CONSTITUENT ASSEMBLY|CONSTITUENT ASSEMBLY]] this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
+> WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a [^1][[UPSC/Sovereign|Sovereign]] [[UPSC/Socialist|Socialist]] [[SECULAR|SECULAR]] [[UPSC/Democratic|Democratic]] [[UPSC/REPUBLIC|REPUBLIC]]] and to secure to all its citizens: [[JUSTICE, social, economic and political|JUSTICE, social, economic and political]]; [[LIBERTY of thought, expression, belief, faith and worship|LIBERTY of thought, expression, belief, faith and worship]]; [[EQUALITY of status and of opportunity|EQUALITY of status and of opportunity]]; and to promote among them all [[FRATERNITY assuring the dignity of the individual|FRATERNITY assuring the dignity of the individual]] and the [^2][[unity and integrity of the Nation|unity and integrity of the Nation]]; IN OUR [[CONSTITUENT ASSEMBLY|CONSTITUENT ASSEMBLY]] this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
 
 
 >[!source] #Sources 
@@ -37,7 +37,7 @@ Tags:
 	2. [[Socialist |Socialist ]]
 	3. [[Secular|Secular]][^3] 
 	4. [[UPSC/Democratic|Democratic]] 
-	5. [[Republic|Republic]]
+	5. [[UPSC/REPUBLIC|Republic]]
 	6. [[UPSC/Justice|Justice]]
 	7. [[Liberty|Liberty]]
 	8. [[UPSC/Equality|Equality]] 
