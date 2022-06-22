@@ -38,9 +38,9 @@ Course: [[UPSC/PSIR|PSIR]]
 - Further explained that what we sense or know through sensory organ is just reflection of ideas or true reality, it is not real. 
 - Idea is essence of everything which remain constant, permanent and never gets destroyed. Thus it is true reality. 
 - The physical world which we experience is a temporary image of idea, physical manifestation of idea are true thing. There is difference b/w knowing and knowledge. In physical world we know, we organize facts and information not knowledge. 
-- Plato expresed his philosphoy by [[UPSC/Allegory of the Cave|Allegory of the Cave]]; in this example people mistikanely understand shadow as reality. Similar phenomena which happens in real life. 
-- This understanding that phsycial world is temprory and realm of ideas is permanent is crucial for ruling class. 
-- Rulers must uncderstand that power, wealth, glory are temprory. 
+- Plato expressed his philosophy by [[UPSC/Allegory of the Cave|Allegory of the Cave]]; in this example people mistakenly understand shadow as reality. Similar phenomena which happens in real life. 
+- This understanding that physical world is temporary and realm of ideas is permanent is crucial for ruling class. 
+- Rulers must understand that power, wealth, glory are temporary. 
 - **Virtue and integrity are permanent**
 
 
@@ -48,16 +48,3 @@ Course: [[UPSC/PSIR|PSIR]]
 >[!Question]
 > [[Ideal is real/Reality is shadow of Idea. |Ideal is real/Reality is shadow of Idea. ]]
 
-##### Comunism of Property
-- The first two classes cant hold property. 
-- Root cause of corruption is difference of property among people 
-- State will provide basic need
-	- Food
-	- Clothes
-- Should live in groups. 
-	- Eat together and hold a common kitchen.
-
-###### Pourpose
-- Property is one of the major point of switching or diverting from one class to another. 
-- Trying to address corrupt methods to earn money. 
-- He believed that people accumulate more than they need. 
