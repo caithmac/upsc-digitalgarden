@@ -13,6 +13,6 @@ Tags:
 
 [[Gopath Brahmana|Gopath Brahmana]]
 [[Aaitariya Brahmana|Aaitariya Brahmana]]
-[[Panchvisa Brahmana|Panchvisa Brahmana]]
+[[UPSC/Panchvisa Brahmana|Panchvisa Brahmana]]
 [[Shatpatha Brahmana|Shatpatha Brahmana]]
 [[Vajasanami Brahmana|Vajasanami Brahmana]]
