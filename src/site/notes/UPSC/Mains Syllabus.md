@@ -77,4 +77,9 @@ Security- Security forces
 >[!Note] Current Affairs Daily
 >[[UPSC/Current Affairs|Current Affairs]]
 
+>[!Note] Optional
+> [[UPSC/PSIR|PSIR]]
+
+
+
 ---
