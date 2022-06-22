@@ -8,41 +8,7 @@ Date: 2022-06-16
 Course: [[UPSC/PSIR|PSIR]] 
 
 ----
-### 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-----
-Topic: Context of Plato's Thinking
-Date: 2022-06-22
-Course: [[UPSC/PSIR|PSIR]] 
-
-----
-##### Context of Plato's Thinking
-
- 428 BC, Athens
-- Complete decline of greek cities. 
-- Famous war "[[The Peloponnesian War|The Peloponnesian War]]" 
-- Aristocrat rulers
-- Restoration of Democracy (Rule of common folk)
-- Decline of traditional morality. 
-- Plato was student of [[UPSC/Socrates|Socrates]]
-- Death of [[UPSC/Socrates|Socrates]]
-
- > [!Quote] 
- > A good state is just state in which Wisdom Rules
- > ~ Plato
-
-
-
-</div></div>
-
+### [[UPSC/Context of Plato's Thinking#Context of Plato's Thinking|Context of Plato's Thinking#Context of Plato's Thinking]]
 
 >[!Question] Short note on [[UPSC/The Republic|The Republic]]
 
@@ -65,7 +31,7 @@ Course: [[UPSC/PSIR|PSIR]]
 
 ----
 
-##### Pourpose of Plato's Political Philosophy. 
+##### Purpose of Plato's Political Philosophy. 
 - Those who ought to rule they are not ruling.  -> Philosopher. 
 - Is to ensure Greek must get its glory back. 
 - [[UPSC/Socrates|Socrates]] ideas must be implemented/applied. 
