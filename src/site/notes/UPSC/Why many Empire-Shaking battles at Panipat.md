@@ -5,7 +5,7 @@
 ----
 Topic: Why many Empire-Shaking battles at Panipat
 Date: 2022-06-03
-Course: [[UPSC/History|History]] 
+Course:: [[UPSC/History|History]] 
 
 ----
 
