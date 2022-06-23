@@ -3,9 +3,9 @@
 ---
 
 ----
-Topic: Theory of Education
-Date: 2022-06-19
-Course: [[UPSC/PSIR|PSIR]] 
+Topic:: Theory of Education
+Date:: 2022-06-19
+Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
 
