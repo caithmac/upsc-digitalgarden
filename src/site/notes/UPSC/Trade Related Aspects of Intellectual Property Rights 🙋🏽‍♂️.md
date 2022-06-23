@@ -4,8 +4,7 @@
 
 Topic: Trade Related Aspects of Intellectual Property Rights 🙋🏽‍♂️
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
-Tags: #pillar4  #unanswered #question 
+Course:: [[UPSC/Economy|Economy]]
 
 ---
 
