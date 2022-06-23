@@ -9,16 +9,17 @@ Course: [[UPSC/PSIR|PSIR]]
 
 ----
 > [!Error] Short Note
+> ##### Reality is shadow of Idea / Ideal is real
+> - Plato identified idea as ultimate truth or true reality . 
+> -  Further explained that what we sense or know through sensory organ is just reflection of ideas or true reality, it is not real. 
+> - Idea is essence of everything which remain constant, permanent and never gets destroyed. Thus it is true reality. 
+> - The physical world which we experience is a temporary image of idea, physical manifestation of idea are true thing. There is difference b/w knowing and knowledge. In physical world we know, we organize facts and information not knowledge. 
+> - Plato expressed his philosophy by [[UPSC/Allegory of the Cave|Allegory of the Cave]]; in this example people mistakenly understand shadow as reality. Similar phenomena which happens in real life. 
+> - This understanding that physical world is temporary and realm of ideas is permanent is crucial for ruling class. 
+> - Rulers must understand that power, wealth, glory are temporary. 
+> - **Virtue and integrity are permanent**
 
-##### Reality is shadow of Idea / Ideal is real
-- Plato identified idea as ultimate truth or true reality . 
-- Further explained that what we sense or know through sensory organ is just reflection of ideas or true reality, it is not real. 
-- Idea is essence of everything which remain constant, permanent and never gets destroyed. Thus it is true reality. 
-- The physical world which we experience is a temporary image of idea, physical manifestation of idea are true thing. There is difference b/w knowing and knowledge. In physical world we know, we organize facts and information not knowledge. 
-- Plato expressed his philosophy by [[UPSC/Allegory of the Cave|Allegory of the Cave]]; in this example people mistakenly understand shadow as reality. Similar phenomena which happens in real life. 
-- This understanding that physical world is temporary and realm of ideas is permanent is crucial for ruling class. 
-- Rulers must understand that power, wealth, glory are temporary. 
-- **Virtue and integrity are permanent**
+^d1b2c4
 
 
 
