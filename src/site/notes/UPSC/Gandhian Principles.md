@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/upsc/gandhian-principles/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+Course:: [[Polity|Polity]]
+
+
 ##### Gandhian Principles
 
 >Article 40: 
