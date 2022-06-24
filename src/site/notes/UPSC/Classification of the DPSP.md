@@ -66,6 +66,9 @@
 </div>
 
 
+Course:: [[Polity|Polity]]
+
+
 ##### Gandhian Principles
 
 >Article 40: 
