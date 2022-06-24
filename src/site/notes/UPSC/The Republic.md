@@ -8,6 +8,7 @@ Date:: 2022-06-22
 Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
+- Dialogue format. 
 
 Plato's book deals with 
 - Moral Dilemma 
