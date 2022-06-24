@@ -27,10 +27,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ##### How did Plato kept Socrates alive? 
 - What were his method? 
-	- ###### By developing 
+	- ###### By writing and ideas made Socrates immortals.
+	- ###### Wrote the book [[UPSC/The Republic|The Republic]]; in which [[UPSC/Socrates|Socrates]] is chief orator.  Chapter Justice. 
 - Why he wanted to keep him alive? 
 -  Did the death of [[UPSC/Socrates|Socrates]] made any impact on life of [[UPSC/Plato|Plato]]. 
 
 ##### What he proposed after death of Socrates?
+- Put forward the concept of [[Philosopher King|Philosopher King]]. 
+- Which won't be democratic process. 
+- Thus furthering Socrates ideas. 
 
 
