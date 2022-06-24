@@ -5,7 +5,7 @@
 ----
 Topic: Reality is shadow of Idea/Idea is real
 Date: 2022-06-18
-Course: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
 > [!Error] Short Note
