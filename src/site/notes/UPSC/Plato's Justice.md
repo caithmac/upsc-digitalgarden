@@ -14,7 +14,7 @@ Course: [[UPSC/PSIR|PSIR]]
 	- To live in orientation of natural trait. 
 	- Duty 
 	- Derieved from virtue
-- Three types of Trait:  
+- Three types of Trait:   ^0dbe57
 	- **Traits of Wisdom/Reason** 
 		- Political Leaders
 		- Administration 
@@ -22,6 +22,8 @@ Course: [[UPSC/PSIR|PSIR]]
 		- Police
 		- Army 
 	- **Desire/Appetite** 
+		- Traders
+
 - [[UPSC/Plato's Justice|Plato's Justice]] is outcome of co-ordination of three classes. 
 - Mutual benifits for all classes. 
 - Beyond gender. 
@@ -39,7 +41,7 @@ Course: [[UPSC/PSIR|PSIR]]
 
 ##### Organic Theory of State
 - State is space where human nature is reflected in its best form. 
-- Human Nature biologicaly continue to evolve. 
+- Human Nature biologically continue to evolve. 
 
 >[!Quote]
 >**[[UPSC/State is individual writ large|State is individual writ large]]**
