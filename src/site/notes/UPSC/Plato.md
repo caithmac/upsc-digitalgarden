@@ -126,7 +126,7 @@ Course: [[UPSC/PSIR|PSIR]]
 ----
 Topic: Reality is shadow of Idea/Idea is real
 Date: 2022-06-18
-Course: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
 > [!Error] Short Note
@@ -211,6 +211,22 @@ Course: [[UPSC/Plato|]]
  
 
 ---
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Evolution of Plato's Education System
+Date:: 2022-06-24
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
 ##### Evolution of Plato's Education System
 - Equality of opportunity -> Men and Women get to harness their capability 
 - Education System is of all round development 
@@ -224,6 +240,11 @@ Course: [[UPSC/Plato|]]
 - Timer period of 35 years- Expensive and Hazardous
 - After passing through such long process it will be difficult for the guardians to maintain efficiency as desired by Plato 
 - as outcome of education all men/women do not posses equal  capacity for virtue therefore all are not entitle to participate in function of government on  basis of equality.
+
+
+
+</div></div>
+
 
 ---
 ##### 
@@ -242,8 +263,8 @@ Date:: 2022-06-23
 Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
-##### Criticism of Plato
-###### Aristotle was his greatest critique
+#### Criticism of Plato
+##### Aristotle was his greatest critique
 - Plato's idea can't be implemented. 
 - Maybe best idea but not applicable idea. 
 - [[UPSC/Plato|Plato]] is sacrificing good for sake of best, which is not applicable. 
@@ -251,46 +272,82 @@ Course:: [[UPSC/PSIR|PSIR]]
 - No one can be sure that Philosopher King will always his defeat desire. 
 - [[Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
 	- No check over [[Philosopher King|Philosopher King]] 
-- [[Aristotle|Aristotle]] argue that instead of [[Philosopher King|Philosopher King]] it should be law. 
+- [[UPSC/Aristotle|Aristotle]] argue that instead of [[Philosopher King|Philosopher King]] it should be law. 
 - Critical to [[UPSC/Plato's Communism|Plato's Communism]]
-	- [[Aristotle|Aristotle]]:: leads to good quality; makes us kind;
+	- [[UPSC/Aristotle|Aristotle]]:: leads to good quality; makes us kind;
 	- In Socializing 
 	- Consider best way to recognize effort
 	- Human being by nature is social - family is nothing but expression of social nature. 
 
-###### Karl Popper 
-- Enemy of open society 
-	- Division of society is hard and fixed
-	- There is nothing beyond these two classes. 
-	- Role of every person is fixed for life. 
-	- No option of switch or change
-	- All Political powers belongs to [[Philosopher King|Philosopher King]] - no one can say anything against him. 
-	- Orders are final and [[Philosopher King|Philosopher King]] is not limited by his own orders. 
-	- No circulation; no space of evolution -> means -> closed society where nothing new will be allowed 
-	- There is monopoly of merit/quality
-	- Is a class rule not rule of law. 
-- Totalitarian 
-	- Above law
-	- Control over all aspect of life. 
-	- No one is above ruler. 
-	- All rights belong to him. 
-	- [[Philosopher King|Philosopher King]] is holding final knowledge 
-	- His ordinance are not mightier than knowledge 
-	- He is above all laws; even laws made by him or her. 
-	- [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
-	- Against democracy. 
+##### Karl Popper 
+###### Enemy of open society 
+- Division of society is hard and fixed
+- There is nothing beyond these two classes. 
+- Role of every person is fixed for life. 
+- No option of switch or change
+- All Political powers belongs to [[Philosopher King|Philosopher King]] - no one can say anything against him. 
+- Orders are final and [[Philosopher King|Philosopher King]] is not limited by his own orders. 
+- No circulation; no space of evolution -> means -> closed society where nothing new will be allowed 
+- There is monopoly of merit/quality
+- Is a class rule not rule of law. 
+
+###### Totalitarian 
+- Above law
+- Control over all aspect of life. 
+- No one is above ruler. 
+- All rights belong to him. 
+- [[Philosopher King|Philosopher King]] is holding final knowledge 
+- His ordinance are not mightier than knowledge 
+- He is above all laws; even laws made by him or her. 
+- [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
+- Against democracy. 
 
 
 
 
 </div></div>
 
+---
 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Plato's Feminism
+Date:: 2022-06-24
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+# Plato's Feminism
+#### Argument: 
+
+##### First feminist 
+- Men and Women were allowed to be in any class. 
+- Made mandotry for women's consent. 
+- In his [[UPSC/Theory of Education|Theory of Education]] all kids are allowed to take state sponsored education. 
+- Greek was stratified; women condition was poor, he didn't make any special reference to women; hence treating them same as everybody. 
+
+##### Not feminist; accidental feminist. 
+- He failed to mention women. 
+- Generally meant men. 
+- Accidently left women. 
+-  ***I thank God that I was born Greek and not barbarian, freeman and not slave, man and not woman; but above all, that I was born in the age of Socrates***
+- Hard to believe that he made such big mistake; Women condition was bad. (Opposition of above argument)
+
+</div></div>
 
 
 ----
 
->[!Question] Write short Notes on the following questions. 
+>[!check]- Write short Notes on the following questions. 
 > - [[UPSC/Plato has kept Socrates alive|Plato has kept Socrates alive]].
 > - [[The idea behind Plato's theory of justice is to choose the best who can govern the best|The idea behind Plato's theory of justice is to choose the best who can govern the best]].
 > - [[Plato supported the rule of law but ended up being totalitarian|Plato supported the rule of law but ended up being totalitarian]].
@@ -301,4 +358,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 > - [[ What is the idea is the real and what is real is the just a shadow of the reality| What is the idea is the real and what is real is the just a shadow of the reality]]
 > - [[UPSC/Theory of communism by Plato|Theory of communism by Plato]]
 > - [[UPSC/Plato is rightly called 'The Father Of Philosophy'|Plato is rightly called 'The Father Of Philosophy']]
+> - [[Examine Plato as feminist |Examine Plato as feminist ]]
+> - [[UPSC/Plato's Theorem of Justice|Plato's Theorem of Justice]]
+> - [[UPSC/State is individual writ large|State is individual writ large]]
 
