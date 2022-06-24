@@ -4,8 +4,8 @@
 
 Topic: Champaran Satyagraha
 Date: 2022-06-01
-Course: [[UPSC/Modern History|Modern History]]
-Tags: 
+Course:: [[UPSC/Modern History|Modern History]]
+
 
 ---
 
