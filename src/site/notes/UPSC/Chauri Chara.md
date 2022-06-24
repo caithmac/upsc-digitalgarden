@@ -3,9 +3,8 @@
 ---
 
 Topic: Chauri Chara
-Date: 2022-06-01
-Course: [[UPSC/Modern History|Modern History]]
-Tags: 
+Date:: 2022-06-01
+Course:: [[UPSC/Modern History|Modern History]]
 
 ---
 
