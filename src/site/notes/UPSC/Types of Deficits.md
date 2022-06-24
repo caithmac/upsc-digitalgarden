@@ -21,7 +21,7 @@ Tags: #Pillar2
 > 5. [[UPSC/Revenue Deficit#^c9613e| ERD]]
 > 6. [[Budget Deficit|Budget Deficit]]
 > 7. [[UPSC/Fiscal Deficit|Fiscal Deficit]] = $(Revenue Expenditure  + Capital Expenditure) - (Revenue Receipts + Capital Receipts,excluding-Borrowings)$ = $Revenue Expenditure  + Capital Expenditure - Tax Revenue - (Non-Tax Revenue) - (recovery-of-loans)$
-> 8. [[Primary Deficit|Primary Deficit]]
+> 8. [[UPSC/Primary Deficit|Primary Deficit]]
 
 >[!faq] How to Finance these Budget?
 > 1. [[UPSC/Laffer Curve|Laffer Curve]] :: Demanding more money. 
