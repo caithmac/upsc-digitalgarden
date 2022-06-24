@@ -13,9 +13,9 @@ Course: [[UPSC/PSIR|PSIR]]
 - Philosopher 
 - Politician 
 
-- Started mobilising common people and telling people that the life of greek's life.
+- Started mobilizing common people and telling people that the life of Greek's life.
 - Kings are root cause of it all. 
+- Democracy was not good. 
 
  
-
 
