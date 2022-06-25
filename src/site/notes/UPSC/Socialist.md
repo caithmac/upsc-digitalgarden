@@ -4,13 +4,13 @@
 
 Topic: Socialist
 Date: 2022-05-30
-Course: [[Polity|Polity]], [[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]], [[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
 
 > [!info] [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
-> Even before this term was added, [[UPSC/Constitution|Constitution]] had [[UPSC/Socialist|Socialist]] content 
+> Even before this term was added, [[UPSC/Constitution MOC|Constitution MOC]] had [[UPSC/Socialist|Socialist]] content 
 
 
 
