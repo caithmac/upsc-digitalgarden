@@ -14,7 +14,7 @@ Tags: #Pillar2
 
 
 ### Notes
-1. [[Proportional Tax|Proportional Tax]]
+1. [[UPSC/Proportional Tax|Proportional Tax]]
 2. [[Progressive Tax |Progressive Tax ]]
 3. [[Regressive Tax|Regressive Tax]]
 
