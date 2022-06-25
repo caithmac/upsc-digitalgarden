@@ -5,7 +5,7 @@
 ----
 Topic: Chief Justice of India
 Date: 2022-06-03
-Course: [[Polity|Polity]] , [[UPSC/Constitution|Constitution]] 
+Course: [[Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
