@@ -5,7 +5,7 @@
 ----
 Topic: Article 16. Equality of Opportunity in Public Employment
 Date: 2022-06-03
-Course: [[Polity|Polity]] , [[UPSC/Constitution|Constitution]] 
+Course: [[Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
