@@ -4,7 +4,7 @@
 
 Topic: Parliament's power to reorganize the states
 Date: 2022-05-31
-Course: [[Polity|Polity]],[[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
