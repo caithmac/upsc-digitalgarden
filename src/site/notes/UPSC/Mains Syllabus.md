@@ -29,12 +29,12 @@ Geography: factors affecting industrial locations
 Geography: [[Urbanization|Urbanization]]
 
 >[!bug] #GS2
->#Block-1 [[Polity|Polity]] [[UPSC/Constitution|Constitution]]
+>#Block-1 [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 Polity: Basics of Constitution
 Polity: The Executive
 Polity: Legislature & Elections
 Polity: Separation of Powers
-Polity: Federalism & [[UPSC/Constitution#^eb57a9|Local governance]]
+Polity: Federalism & [[UPSC/Constitution MOC#^eb57a9|Local governance]]
 Polity: Bodies
 #Block-2 Welfare Schemes & Policies for sectors, services
 Welfare: Policies & Schemes
