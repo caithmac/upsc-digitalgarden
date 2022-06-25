@@ -9,9 +9,13 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 
-
-
 - The State came into being for sake of good life.
+	- Expression of Human nature 
+	- Institutionalization of human nature. 
+	- All aspect of human being gets expressed. 
+		- Basic Nature 
+		- Social Nature 
+		- Political Nature 
 - State is moral institution. 
 - The nature is end
 
