@@ -4,8 +4,8 @@
 
 Topic: Financial Market
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
-Tags: #pillar1A
+Course:: [[UPSC/Economy|Economy]]
+
 
 ---
 
@@ -17,6 +17,6 @@ Tags: #pillar1A
 - [[Debt Financing|Debt Financing]]
 - [[Debt Instruments|Debt Instruments]]
 	- [[Credit Rating|Credit Rating]]
-	- [[Gilt Edged|Gilt Edged]]
+	- [[UPSC/Gilt Edged|Gilt Edged]]
 	- [[Junk Bonds|Junk Bonds]]
 	- 
