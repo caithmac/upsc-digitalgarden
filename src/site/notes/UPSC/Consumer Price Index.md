@@ -4,14 +4,14 @@
 
 Topic: Consumer Price Index
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
-Tags: #pillar1A 
+Course:: [[UPSC/Economy|Economy]]
+
 
 ---
 
 > [!faq] 
-> - [ ] Types of CPI? 
-> - [ ] Who publishes all these CPI? #unanswered 
+> - [x] Types of CPI? 
+> - [x] Who publishes all these CPI? 
 
 
 
