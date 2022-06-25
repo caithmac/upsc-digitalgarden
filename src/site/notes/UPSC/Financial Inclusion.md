@@ -30,13 +30,6 @@ Tags: #pillar1A
 
 
 
-
-
-
-
-
-
-
 ### Notes
 - Item
 
