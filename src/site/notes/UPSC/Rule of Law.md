@@ -4,7 +4,7 @@
 
 Topic: Rule of Law
 Date: 2022-05-31
-Course: [[Polity|Polity]],[[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2  ^eb953a
 
 ---
@@ -38,7 +38,7 @@ Tags: #GS2  ^eb953a
 
 
 [^1]: A.V. Dicey, Introduction to the Study of the Law of the Constitution, Macmillan, 1931 Edition P. 183–191
-[^2]: In India, [[UPSC/Constitution|Constitution]] is the source of Individual Rights.
+[^2]: In India, [[UPSC/Constitution MOC|Constitution MOC]] is the source of Individual Rights.
 [^3]: Article 105
 [^4]: Article 194
 
