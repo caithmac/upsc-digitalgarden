@@ -6,7 +6,7 @@
 
 Topic: Administrative Reforms Commission
 Date: 2022-06-03
-Course: [[UPSC/Constitution|Constitution]], [[Polity|Polity]] 
+Course: [[UPSC/Constitution MOC|Constitution MOC]], [[Polity|Polity]] 
 
 ----
 
