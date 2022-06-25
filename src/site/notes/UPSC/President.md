@@ -5,7 +5,7 @@
 
 Topic: President
 Date: 2022-06-01
-Course: [[Polity|Polity]],[[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: 
 
 ---
@@ -26,7 +26,7 @@ Tags:
 ### Condition 
 ### Term
 ### Impeachment 
- If in violation of the [[UPSC/Constitution|Constitution]]
+ If in violation of the [[UPSC/Constitution MOC|Constitution MOC]]
  
 ### Vacancy
 [[UPSC/Vice President|Vice President]] takes up the job in case of vacancy due to death, resignation, removal or otherwise. 
@@ -63,7 +63,7 @@ Tags:
 
 Topic: Annual Financial Statement(Annual Budget)
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]/[[UPSC/Constitution|Constitution]]
+Course:[[UPSC/Economy|Economy]]/[[UPSC/Constitution MOC|Constitution MOC]]
 
 
 ---
