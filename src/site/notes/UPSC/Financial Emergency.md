@@ -6,7 +6,7 @@
 
 Topic: Financial Emergency
 Date: 2022-06-02
-Course: [[Polity|Polity]] , [[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]]
 Tags:
 Backlinks 
 ```dataview
