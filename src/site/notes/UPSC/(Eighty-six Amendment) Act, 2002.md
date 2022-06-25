@@ -5,7 +5,7 @@
 
 Topic: (Eighty-six Amendment) Act, 2002
 Date: 2022-06-02
-Course: [[UPSC/Constitution|Constitution]]
+Course: [[UPSC/Constitution MOC|Constitution MOC]]
 
 
 ---
