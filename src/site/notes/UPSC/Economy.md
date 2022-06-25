@@ -27,7 +27,7 @@
 -  [[UPSC/Monetary Policy|Monetary Policy]]
 -  [[UPSC/Money|Money]]
 -  [[UPSC/Mutual Funds|Mutual Funds]]
--  [[UPSC/nbfc|nbfc]]
+-  [[UPSC/NBFC|NBFC]]
 -  [[UPSC/NBFI|NBFI]]
 -  [[UPSC/Net Demand and Time Liability|Net Demand and Time Liability]]
 -  [[UPSC/OFCD|OFCD]]
