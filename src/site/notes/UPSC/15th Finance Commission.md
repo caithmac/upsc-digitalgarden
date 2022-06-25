@@ -4,13 +4,9 @@
 
 Topic: 15th Finance Commission
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course:: [[UPSC/Economy|Economy]]
 
 ---
-
-> [!Question]
-> Here is something! 
-
 
 ### Notes
 - [[Fiscal Federalism |Fiscal Federalism ]]
