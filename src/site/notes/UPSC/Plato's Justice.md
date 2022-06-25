@@ -10,10 +10,10 @@ Course: [[UPSC/PSIR|PSIR]]
 ----
 - For [[UPSC/Plato's Justice|Plato's Justice]] is: 
 	- Linked with Ideal state
-	- To perform duties as per natural trait. 
-	- To live in orientation of natural trait. 
+	- To perform duties as per natural trait 
+	- To live in orientation of natural trait 
 	- Duty 
-	- Derieved from virtue
+	- Derived from virtue
 - Three types of Trait:   ^0dbe57
 	- **Traits of Wisdom/Reason** 
 		- Political Leaders
@@ -25,7 +25,7 @@ Course: [[UPSC/PSIR|PSIR]]
 		- Traders
 
 - [[UPSC/Plato's Justice|Plato's Justice]] is outcome of co-ordination of three classes. 
-- Mutual benifits for all classes. 
+- Mutual benefits for all classes. 
 - Beyond gender. 
 
 >[!Question]
