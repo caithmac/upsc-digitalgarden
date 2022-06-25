@@ -4,7 +4,7 @@
 
 Topic: Articles
 Date: 2022-06-02
-Course: [[UPSC/Constitution|Constitution]]
+Course: [[UPSC/Constitution MOC|Constitution MOC]]
 Tags: 
 
 ---
@@ -17,7 +17,7 @@ Tags:
 Schedules and supplemental, incidental and consequential matters.
 PART II
 CITIZENSHIP ^62092d
-5. Citizenship at the commencement of the [[UPSC/Constitution|Constitution]].
+5. Citizenship at the commencement of the [[UPSC/Constitution MOC|Constitution MOC]].
 6. Rights of citizenship of certain persons who have migrated to India from Pakistan.
 7. Rights of citizenship of certain migrants to Pakistan.
 8. Rights of citizenship of certain persons of Indian origin residing outside India.
