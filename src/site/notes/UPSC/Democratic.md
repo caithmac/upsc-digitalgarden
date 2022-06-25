@@ -4,7 +4,7 @@
 
 Topic: Democratic
 Date: 2022-05-30
-Course: [[Polity|Polity]] [[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #pillar4 
 
 ---
