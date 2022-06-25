@@ -5,7 +5,7 @@
 ----
 Topic: Comptroller and Auditor General
 Date: 2022-06-03
-Course: [[UPSC/Constitution|Constitution]] 
+Course: [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
