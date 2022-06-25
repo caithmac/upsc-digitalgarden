@@ -6,7 +6,7 @@
 
 Topic: Preamble
 Date: 2022-06-02
-Course: [[UPSC/Constitution|Constitution]]
+Course: [[UPSC/Constitution MOC|Constitution MOC]]
 Tags:
 
 ----
@@ -25,13 +25,13 @@ Tags:
 
 ---
 
-> [!quote] 'Identity card of the [[UPSC/Constitution|Constitution]]'
+> [!quote] 'Identity card of the [[UPSC/Constitution MOC|Constitution MOC]]'
 > ~ N A Palkhivala 
 
 
 
 1. Ingredients of the [[UPSC/Preamble|Preamble]]
-	- It is source of authority of the Constitution , i.e [[UPSC/Constitution|Constitution]] derives it's power from the people of India.
+	- It is source of authority of the Constitution , i.e [[UPSC/Constitution MOC|Constitution MOC]] derives it's power from the people of India.
 2. Keywords in the Preamble
 	1. [[UPSC/Sovereign|Sovereign]]
 	2. [[Socialist |Socialist ]]
