@@ -7,7 +7,7 @@
 >[!source] Basics of FR 
 >==Taken from => USA (Bill of Right)==
 >[[Magna Carta of India|Magna Carta of India]]
->> More Elaborate than those found in the [[UPSC/Constitution|Constitution]] of any other country in the world, including [[America Constitution|America Constitution]] 
+>> More Elaborate than those found in the [[UPSC/Constitution MOC|Constitution MOC]] of any other country in the world, including [[America Constitution|America Constitution]] 
 
 
 
@@ -47,7 +47,7 @@
 ----
 Topic: Right to freedom
 Date: 2022-06-03
-Course: [[Polity|Polity]] , [[UPSC/Constitution|Constitution]] 
+Course: [[Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
@@ -248,7 +248,7 @@ Course: [[Polity|Polity]] , [[UPSC/Constitution|Constitution]]
 
 Topic: Features of Fundamental Rights
 Date: 2022-05-31
-Course: [[Polity|Polity]],[[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
