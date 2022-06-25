@@ -4,7 +4,7 @@
 
 Topic: Article 14. Equality before Law and Equal Protection of Laws
 Date: 2022-05-31
-Course: [[Polity|Polity]] [[UPSC/Constitution|Constitution]]
+Course: [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 
 
 ---
