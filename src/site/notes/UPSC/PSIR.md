@@ -28,7 +28,7 @@
 
 9.Indian Political Thought: _Dharamshastra, Arthashastra_ and Buddhist traditions; Sir Syed Ahmed Khan, Sri Aurobindo, M.K. Gandhi, B.R. Ambedkar, M.N. Roy.
 
-10.Western Political Thought: [[UPSC/Plato|Plato]], Aristotle, Machiavelli, Hobbes, Locke, John S. Mill, Marx, Gramsci, Hannah Arendt. ^b6782c
+10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, Hobbes, Locke, John S. Mill, Marx, Gramsci, Hannah Arendt. ^b6782c
 
 ### **Indian Government and politics**
 
