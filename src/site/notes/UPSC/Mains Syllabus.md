@@ -75,7 +75,7 @@ Security- Security forces
 >[!error] GS IV
 
 >[!Note] Current Affairs Daily
->[[UPSC/Current Affairs|Current Affairs]]
+>[[Current Affairs/Current Affairs|Current Affairs]]
 
 >[!Note] Optional
 > [[UPSC/PSIR|PSIR]]
