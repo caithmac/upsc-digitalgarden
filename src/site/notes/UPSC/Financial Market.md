@@ -15,7 +15,7 @@ Course:: [[UPSC/Economy|Economy]]
 
 ### Notes
 - [[Debt Financing|Debt Financing]]
-- [[Debt Instruments|Debt Instruments]]
+- [[UPSC/Debt Instruments|Debt Instruments]]
 	- [[Credit Rating|Credit Rating]]
 	- [[UPSC/Gilt Edged|Gilt Edged]]
 	- [[Junk Bonds|Junk Bonds]]
