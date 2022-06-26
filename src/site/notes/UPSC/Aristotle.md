@@ -415,6 +415,12 @@ Course:: [[UPSC/Aristotle|]]
 | 1              | Tyranny       | Monarchy       |
 | Few            |               |                |
 - Polity as best system 
+	- Power remains in the hand of middle class 
+	- Distributive justice led by middle class 
+	- It is fine balance and coordination of opposite elements
+	- In polity highest nature of human being gets expressed. 
+	- 
+- 
 - Democracy as worst system 
 - He also suggested for different societies 
 - Different models are considered to be ideal
