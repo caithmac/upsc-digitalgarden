@@ -16,8 +16,8 @@ Course: [[UPSC/Constitution MOC|Constitution MOC]] , [[Polity|Polity]]
 	- Laid down in [[Article 368|Article 368]]
 	- [[UPSC/Kesavananda Bharti Case|Kesavananda Bharti Case]] 
 - Types of Majorityx
-	1. [[Simple Majority|Simple Majority]]
-	2. [[Special Majority|Special Majority]]
+	1. [[UPSC/Simple Majority|Simple Majority]]
+	2. [[UPSC/Special Majority|Special Majority]]
 	3. [[Special Majority of House and consent of States|Special Majority of House and consent of States]]
 - Criticism of the Amendment Procedure
 - 
