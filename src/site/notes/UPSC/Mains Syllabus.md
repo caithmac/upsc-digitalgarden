@@ -29,7 +29,7 @@ Geography: factors affecting industrial locations
 Geography: [[Urbanization|Urbanization]]
 
 >[!bug] #GS2
->#Block-1 [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+>#Block-1 [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 Polity: Basics of Constitution
 Polity: The Executive
 Polity: Legislature & Elections
