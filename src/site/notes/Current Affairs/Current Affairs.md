@@ -27,8 +27,8 @@
 ##### Topic Wise
 ```dataview
 Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
-From #news
-Where Course= [[Governance]] 
+From #news 
+Where Course= [[Governance]]
 Sort date ASCENDING
 ```
 
@@ -43,7 +43,7 @@ Sort date ASCENDING
 ```dataview
 Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
 From #news
-Where Course= [[International Relation]] 
+Where Course= [[International Relations]] 
 Sort date ASCENDING
 ```
 
@@ -51,5 +51,18 @@ Sort date ASCENDING
 Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
 From #news
 Where Course= [[Economy]] 
+Sort date ASCENDING
+```
+```dataview
+Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
+From #news 
+Where Course= [[Defense]]
+Sort date ASCENDING
+```
+
+```dataview
+Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
+From #news 
+Where Course= [[Environment]]
 Sort date ASCENDING
 ```
