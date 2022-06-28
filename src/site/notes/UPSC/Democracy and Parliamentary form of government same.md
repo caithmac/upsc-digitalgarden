@@ -70,4 +70,4 @@ Course:: [[UPSC/Democracy and Parliamentary form of government same|]]
 	- Instability 
 	- Policy Paralysis 
 	- Corruption 
-	- Defection/Horse Trading 
+	- [[UPSC/defection|defection]]/Horse Trading 
