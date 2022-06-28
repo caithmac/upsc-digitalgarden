@@ -115,7 +115,7 @@
 </div>
 
 
-Course:: [[Polity|Polity]]
+Course:: [[UPSC/Polity|Polity]]
 
 
 ##### Gandhian Principles
@@ -466,7 +466,7 @@ Course:: [[Polity|Polity]]
 </div>
 
 
-Course:: [[Polity|Polity]]
+Course:: [[UPSC/Polity|Polity]]
 
 
 ##### Gandhian Principles
