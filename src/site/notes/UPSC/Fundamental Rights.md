@@ -47,7 +47,7 @@
 ----
 Topic: Right to freedom
 Date: 2022-06-03
-Course: [[Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
+Course: [[UPSC/Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
@@ -248,7 +248,7 @@ Course: [[Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]]
 
 Topic: Features of Fundamental Rights
 Date: 2022-05-31
-Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
