@@ -3,8 +3,8 @@
 ---
 
 Topic: Schemes for Water
-Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Date:: May 6, 2022
+Course:: [[UPSC/Economy|Economy]]
 Tags: #Pillar4
 
 ---
