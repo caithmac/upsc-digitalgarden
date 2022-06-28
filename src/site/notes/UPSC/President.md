@@ -5,7 +5,7 @@
 
 Topic: President
 Date: 2022-06-01
-Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: 
 
 ---
