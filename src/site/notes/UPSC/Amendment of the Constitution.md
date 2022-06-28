@@ -5,7 +5,7 @@
 ----
 Topic: Amendment of the Constitution
 Date: 2022-06-03
-Course: [[UPSC/Constitution MOC|Constitution MOC]] , [[Polity|Polity]] 
+Course: [[UPSC/Constitution MOC|Constitution MOC]] , [[UPSC/Polity|Polity]] 
 
 ----
 
