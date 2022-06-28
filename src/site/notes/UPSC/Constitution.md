@@ -22,7 +22,7 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
    - It does have some unwritten part too. 
 	   - Called Convention 
 ###### 2. Unwritten
-   - Britian 
+   - Britian  
    - It does have written part. [^1]
 
 ###### 1. Rigid 
