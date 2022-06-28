@@ -4,7 +4,7 @@
 
 Topic: Schedules
 Date: 2022-05-30
-Course: [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #gs2
 
 ---
@@ -36,7 +36,7 @@ Tags: #gs2
 - Ninth Schedule : Validation of certain Acts and Regulation
 
 - Tenth Schedule : Ground of defection 
-
+ ^05931d
 - Eleventh Schedule : Panchayat
 
 - Twelfth Schedule : Municipalities 
