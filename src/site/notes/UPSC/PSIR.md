@@ -24,7 +24,7 @@
 
 7.Concept of power: hegemony, ideology and legitimacy.
 
-8.Political Ideologies: Liberalism, Socialism, Marxism, Fascism, Gandhism and Feminism.
+8.Political Ideologies: [[UPSC/Liberalism|Liberalism]], Socialism, Marxism, Fascism, Gandhism and Feminism.
 
 9.Indian Political Thought: _Dharamshastra, Arthashastra_ and Buddhist traditions; Sir Syed Ahmed Khan, Sri Aurobindo, M.K. Gandhi, B.R. Ambedkar, M.N. Roy.
 
