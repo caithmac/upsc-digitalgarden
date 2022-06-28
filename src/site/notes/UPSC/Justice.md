@@ -4,7 +4,7 @@
 
 Topic: Justice
 Date: 2022-05-30
-Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
