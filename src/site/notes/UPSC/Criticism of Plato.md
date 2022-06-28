@@ -15,6 +15,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[UPSC/Plato|Plato]] is sacrificing good for sake of best, which is not applicable. 
 - Hard to find [[Philosopher King |Philosopher King ]] 
 - No one can be sure that Philosopher King will always his defeat desire. 
+- Better to be ruled by Law and collective wisdom of genration
+- Plato only focused on aspect of duty not on rights. 
+	- Human is social animal and man is required to hold range of rights. 
 - [[Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
 	- No check over [[Philosopher King|Philosopher King]] 
 - [[UPSC/Aristotle|Aristotle]] argue that instead of [[Philosopher King|Philosopher King]] it should be law. 
@@ -24,6 +27,29 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Consider best way to recognize effort
 	- Human being by nature is social - family is nothing but expression of social nature. 
 
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Karl Popper
+Date:: 2022-06-27
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+
+## Context 
+- Open Society and its enemy
+- Identifies Plato as a totalitarian 
+- For providing One class to rule. 
+ 
+## Body 
 ##### Karl Popper 
 ###### Enemy of open society 
 - Division of society is hard and fixed
@@ -41,10 +67,25 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Control over all aspect of life. 
 - No one is above ruler. 
 - All rights belong to him. 
+- Monopoly of trades.
+- Principal of class rule and class privileges.
 - [[Philosopher King|Philosopher King]] is holding final knowledge 
 - His ordinance are not mightier than knowledge 
 - He is above all laws; even laws made by him or her. 
 - [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
 - Against democracy. 
+
+
+## Criticism 
+- Commentary with Popper and against him. 
+- Bertrand Russell calls Plato a totalitarian.
+- Levinson in support of Plato 
+
+
+## Conclusion 
+
+
+</div></div>
+
 
 
