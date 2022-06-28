@@ -3,9 +3,9 @@
 ---
 
 Topic: Liquidity Adjustment Facility
-Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
-Tags: #pillar1A
+Date:: May 6, 2022
+Course::[[UPSC/Economy|Economy]]
+
 
 ---
 
