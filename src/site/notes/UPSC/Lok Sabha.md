@@ -5,7 +5,7 @@
 ----
 Topic: Lok Sabha
 Date: 2022-06-03
-Course: [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]] 
+Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
