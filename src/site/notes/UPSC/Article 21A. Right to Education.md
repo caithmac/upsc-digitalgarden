@@ -95,7 +95,7 @@ between the age of six and fourteen years
 
 Topic: Compulsory Education (RTE) Act, 2009
 Date: 2022-05-31
-Course: [[Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
