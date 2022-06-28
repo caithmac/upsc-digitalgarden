@@ -4,7 +4,7 @@
 
 Topic: Article 20. Protection in Respect of Conviction for Offences
 Date: 2022-05-31
-Course: [[Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 Tags: #GS2 
 
 ---
