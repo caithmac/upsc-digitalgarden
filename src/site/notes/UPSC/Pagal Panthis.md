@@ -4,8 +4,8 @@
 
 ----
 Topic: Pagal Panthis
-Date: 2022-06-07
-Course: [[UPSC/Modern History|Modern History]] -> [[UPSC/Revolts before 1857|Revolts before 1857]] 
+Date:: 2022-06-07
+Course:: [[UPSC/Modern History|Modern History]] -> [[UPSC/Revolts before 1857|Revolts before 1857]] 
 
 ----
 ##### Year:: 🗓️
