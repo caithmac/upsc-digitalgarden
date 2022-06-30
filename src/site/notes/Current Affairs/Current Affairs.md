@@ -66,3 +66,15 @@ From #news
 Where Course= [[Environment]]
 Sort date ASCENDING
 ```
+```dataview
+Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
+From #news 
+Where Course= [[Science-Tech]]
+Sort date ASCENDING
+```
+```dataview
+Table without ID file.link as "Headline", Course, Date , pageno as "Page No"
+From #news 
+Where Course= [[Welfare Schemes]]
+Sort date ASCENDING
+```
