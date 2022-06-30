@@ -270,7 +270,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[UPSC/Plato|Plato]] is sacrificing good for sake of best, which is not applicable. 
 - Hard to find [[Philosopher King |Philosopher King ]] 
 - No one can be sure that Philosopher King will always his defeat desire. 
-- Better to be ruled by Law and collective wisdom of genration
+- Better to be ruled by Law and collective wisdom of generation
 - Plato only focused on aspect of duty not on rights. 
 	- Human is social animal and man is required to hold range of rights. 
 - [[Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
