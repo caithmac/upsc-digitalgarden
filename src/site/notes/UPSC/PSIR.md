@@ -89,3 +89,12 @@
 **8. Recent developments in Indian Foreign policy:** India's position on the recent crisis in Afghanistan, Iraq and West Asia, growing relations with US and Israel; vision of a new world order.
 
 ***
+## Question
+
+```dataview
+Table without ID file.link as "Topic", Course 
+From #question or #answer 
+Where Course = [[PSIR]]
+```
+
+
