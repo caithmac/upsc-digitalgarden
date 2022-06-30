@@ -15,7 +15,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Biggest rebel of his time. 
 - "[[UPSC/The Leviathan|The Leviathan]]"
 - First person to give full theory on Sovereignty. 
-- 
 
 #### Hobbes Experience
 1. Fear is core. (**My mother gave birth to twin, Me and my fear.**)
@@ -37,16 +36,16 @@ Course:: [[UPSC/PSIR|PSIR]]
    - Rejected divine theory 
    - Not a royalist 
 
-##### Sovereignity
+##### Sovereignty
 ###### Feature.
 - Absolute
 - Order of sovereign is law. 
 	- Supreme authority to make laws and to enforce law. 
-	- In medieval time; authority was fedaral. No one knew who was supreme. 
+	- In medieval time; authority was federal. No one knew who was supreme. 
 	- Whose law will prevail. So there was chaos. 
 - No restrictions over sovereignty 
 - [[UPSC/The Leviathan|The Leviathan]] power can not be transfer to anyone. 
-- Sovereign is internaly and externally most powerful. 
+- Sovereign is internally and externally most powerful. 
 >[[ While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate| While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
 
 ###### Function of State
@@ -64,11 +63,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 - And man has every right to resist the state. 
 
 ##### Materialism 
-- Hobbes proposes to analyse human kind from materialistic pov with same symbolic languagae. 
-- Hobbes proposes to study huamn being as a set of purely physical process.  That are reducable to body and motion. 
+- Hobbes proposes to analyze human kind from materialistic point of view with same symbolic language. 
+- Hobbes proposes to study human being as a set of purely physical process.  That are reducible to body and motion. 
 	- Two Types of Physical Motion
-		1. Vital - Those basic and unthinking life function. This purely comprises purely physical aspecct of human existence. 
-		2. Volluntary - Those forms of human activity that are willed such as walking and speaking. Hobbes include Politics and other social and other various kindof social functions here. That is mainly psychological in nature. Knowing and willing constitute the whole of our psychological process. 
+		1. Vital - Those basic and unthinking life function. This purely comprises purely physical aspect of human existence. 
+		2. Voluntary - Those forms of human activity that are willed such as walking and speaking. Hobbes include Politics and other social and other various kind of social functions here. That is mainly psychological in nature. Knowing and willing constitute the whole of our psychological process. 
 
 
 ##### Individualism 
@@ -83,7 +82,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 > Life of a man is continuous search for power, after power which ceasesth only with his death. 
 
 ###### Reason behind power seeking nature of man. 
-- Applies "resolutive compositive" method to explain the fundamental characteristics of human nature. 
+- Applies "[[resolutive compositive method|resolutive compositive method]]" to explain the fundamental characteristics of human nature. 
 - Human Mind is made up of particle like everything else in Universe. They are in state of motion. 
 - All motions can be categorized into basic types - Love and Aversion. 
 - Love
