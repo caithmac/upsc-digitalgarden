@@ -16,6 +16,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 - Philosophical Basis 
 - Application Basis
+- Amorphous Ideiology 
+- Different Scholar used it in different perspective. It is full of consistent as well as contradictory ideas. 
+
+> Bottomore writes one can remain liberal and be for, and other remain liberal be against, a vast range of contradictory political proposition. 
+
+
 
 ##### Basic Beliefs 
 - Negative Liberty 
@@ -413,6 +419,7 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 
 
 >[!error] Hayek's View 
+>
 > 1. His view support neo-liberalism
 > 2. Liberty or freedom of a person is non coercion and he must not be subject of arbitrary will of another person. 
 > 3. Liberty must not be confused with any other meaning of freedom.
@@ -424,7 +431,36 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 > 9. Any attempt to bring equality other than equality of opportunity can not be done without force and will lead to limitation on liberty. States attempt to bring equality other than equality of opportunity is coercive in nature and will deprive person of liberty and freedom. 
 > 10. Social Justice is a mirage.
 
+##### Criticism of Neo-Liberalism 
+- 
+
+</div></div>
+ 
+--- 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Social Liberalism
+Date:: 2022-06-30
+Course:: [[UPSC/PSIR|PSIR]]
+
+----
+# Social Liberalism
+1. Social Liberalism is political ideology that sought to adress social justice without  violating or comproising basic liberal ideas. 
+2. Social Liberalism advocates state intervention in socia economic issue to bring social justice but without compromising liberty and freedom. 
+3. It advocates that for fair distribution of wealth and power at the same time firmly believed state and democracy could be the best institution to deliever justice. 
+4. Philosophically social liberalism believed that there is no fundamental contradiction between individual good, individual freedom and good of comunity or social good. Rawls and Amartya Sen are true supporter of Social Liberalism.  
+
 
 
 </div></div>
+
 
