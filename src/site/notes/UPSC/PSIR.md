@@ -12,7 +12,7 @@
 
 1.Political theory: meaning and approaches.
 
-2.Theories of the state: Liberal, Neo-liberal, Marxist, Pluralist, Post-colonial and [[feminist|feminist]].
+2.Theories of the state: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[feminist|feminist]].
 
 3.Justice: Conceptions of justice with special reference to Rawl's theory of justice and its communitarian critiques.
 
@@ -28,7 +28,7 @@
 
 9.Indian Political Thought: _Dharamshastra, Arthashastra_ and Buddhist traditions; Sir Syed Ahmed Khan, Sri Aurobindo, M.K. Gandhi, B.R. Ambedkar, M.N. Roy.
 
-10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, Hobbes, Locke, John S. Mill, Marx, Gramsci, Hannah Arendt. ^b6782c
+10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, [[UPSC/Thomas Hobbes|Thomas Hobbes]], Locke, John S. Mill, Marx, Gramsci, Hannah Arendt. ^b6782c
 
 ### **Indian Government and politics**
 
