@@ -62,6 +62,7 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 
 
 >[!error] Hayek's View 
+>
 > 1. His view support neo-liberalism
 > 2. Liberty or freedom of a person is non coercion and he must not be subject of arbitrary will of another person. 
 > 3. Liberty must not be confused with any other meaning of freedom.
@@ -73,3 +74,5 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 > 9. Any attempt to bring equality other than equality of opportunity can not be done without force and will lead to limitation on liberty. States attempt to bring equality other than equality of opportunity is coercive in nature and will deprive person of liberty and freedom. 
 > 10. Social Justice is a mirage.
 
+##### Criticism of Neo-Liberalism 
+- 
