@@ -50,6 +50,117 @@ Course: [[UPSC/PSIR|PSIR]]
 
 >[!Question]
 > [[UPSC/How to identify our dominant trait|How to identify our dominant trait]]? 
+---
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Plato's Theorem of Justice
+Date:: 2022-06-24
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+# What is Plato's Theorem of Justice
+### Introduction. 
+> [!Error] ##### Traditional Theory of Justice/ Customary View of Justice by Cephlus
+> - He defines justice as consisting in speaking the truth and paying ones debt. 
+
+
+> [!error] Radical Theory of Justice by Sophist or Thrasymachuc
+> - Might is right
+
+>[!error] Contractual Theory of Justice by Glaucon
+> - Justice is interest of weaker; it is child of fear 
+
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic: State is individual writ large
+Date: 2022-06-22
+Course:: [[UPSC/PSIR|PSIR]] 
+
+
+----
+
+## Introduction: 
+1. This statement reflects nature and construct of State. 
+2. As [[UPSC/Plato|Plato]] identifies state as 
+	 - Perfect
+	 - Organic
+	 - Natural
+3. As he identified interconnecting organic relationship between human beings nature and state. 
+
+##### State is individual writ large(15m,150words)
+- State is individual write large: The inner principal of human mind work themselves out in social institution and are manifested. 
+- The minds of individual and mind of states are identical: Life of state is life of men composing it. 
+- Therefore instead of analyzing the human soul and considering justice there, [[UPSC/Plato|Plato]] studies it as it exist in general in the state. 
+- State is formed of the individuals but in functional format therefore it is nothing but reflection of human nature. 
+
+> Like State, Like Humans.
+- In order to understand State, one needs to understand human nature. 
+- Without understanding human nature one can't determine the function and needs of human beings and will not be able to figure who is best to fit to rule over them. 
+- In order to create justice human nature firstly needs to be understood; state is magnification of individuals.
+- **Same principles which provides justice  at the level of Individuals are good enough to provide justice at level of state as well.** 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic: What is Justice
+Date: 2022-06-19
+Course: [[UPSC/PSIR|PSIR]] 
+
+----
+- For [[UPSC/Plato's Justice|Plato's Justice]] is: 
+	- Linked with Ideal state
+	- To perform duties as per natural trait 
+	- To live in orientation of natural trait 
+	- Duty 
+	- Derived from virtue
+- Three types of Trait:   ^0dbe57
+	- **Traits of Wisdom/Reason** 
+		- Political Leaders
+		- Administration 
+	- **Courage/Spirit**
+		- Police
+		- Army 
+	- **Desire/Appetite** 
+		- Traders
+
+- [[UPSC/Plato's Justice|Plato's Justice]] is outcome of co-ordination of three classes. 
+- Mutual benefits for all classes. 
+- Beyond gender. 
+
+>[!Question]
+> [[UPSC/How to identify our dominant trait|How to identify our dominant trait]]? 
+---
+
+![[UPSC/Plato's Theorem of Justice#What is Plato's Theorem of Justice|Plato's Theorem of Justice#What is Plato's Theorem of Justice]]
+
+---
 
 ##### Plato's Argument 
 - Justice is all about performing as per dominant natural trait. 
@@ -127,6 +238,46 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 </div></div>
 
+
+
+
+</div></div>
+
+
+>[!Question] Write short note on [[UPSC/State is individual writ large|State is individual writ large]]
+
+
+
+
+
+</div></div>
+
+
+
+
+</div></div>
+
+
+---
+
+##### Plato's Argument 
+- Justice is all about performing as per dominant natural trait. 
+- Individual justice as well as collective justice. 
+- Purpose of an individual is to get its highest form/Ideal Format 
+- An individual can't get it alone. 
+- State came into being for sake of good life.  => Highest form 
+- Pre-condition is; State must be ideal state. 
+
+##### Organic Theory of State
+- State is space where human nature is reflected in its best form. 
+- Human Nature biologically continue to evolve. 
+
+>[!Quote]
+>**[[UPSC/State is individual writ large|State is individual writ large]]**
+>Nature of Human Being is as nature of state. 
+>Like State,Like Humans. 
+
+### ![[UPSC/Plato's Communism#Plato's Communism|Plato's Communism#Plato's Communism]]
 
 
 
@@ -350,7 +501,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 Topic:: Types of Justice
 Date:: 2022-06-25
-Course:: [[UPSC/Aristotle|]] 
+Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
 
@@ -413,8 +564,11 @@ Course:: [[UPSC/Aristotle|]]
 | How many ruler | Self interest | Public Welfare |
 | -------------- | ------------- | -------------- |
 | 1              | Tyranny       | Monarchy       |
-| Few            |               |                |
-- Polity as best system 
+| Few            | Oligarchy     | Aristocracy    |
+| Many           | Democracy     | Polity         |
+
+
+Polity as best system 
 	- Power remains in the hand of middle class 
 	- Distributive justice led by middle class 
 	- It is fine balance and coordination of opposite elements
