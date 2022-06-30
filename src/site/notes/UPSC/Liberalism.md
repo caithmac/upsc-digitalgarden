@@ -95,6 +95,7 @@ Barbara Godwin in her book "Using Political Ideas" identified 7 features of libe
 6. Social justice based upon merit and tolerance 
 7. Tolerance 
 
+---
 
 
 
@@ -114,8 +115,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 
-
-
 # Classical Liberalism 
 Classical Liberalism was based on certain philosophical base
 - Rationality of Human Beings
@@ -131,7 +130,7 @@ Philosophical beliefs of Liberalism automatically leads to a political system in
 2. It prohibits all discrimination based on gender, religion, birth or any identity 
 3. It supports a system of formal equality 
 4. Classical Liberalism supports that there is contractual relationship between an individual and a state. 
-5. Function of state is limited that is only to maintain law and order and implement agreements done by citizens thus it supports mininmal state. 
+5. Function of state is limited that is only to maintain law and order and implement agreements done by citizens thus it supports minimal state. 
 6. Firmly believes state is an instrument that comes into existence by mutual consent for protection and implementation of liberty, freedom and formal equality. 
 7. Classical Liberals support government who rule the least.  
 
@@ -147,21 +146,277 @@ Philosophical beliefs of Liberalism automatically leads to a political system in
 
 - Supports Liberty of people
 - Didn't support absolute liberty 
-- Supported Negative Liberty 
+- Supported [[UPSC/Negative Liberty|Negative Liberty]] 
 	- Absence of Restriction; but 
 	- Under broader frame of law. 
 	- Maintain Law and Order
-- Limited State / Minimal State 
-- Formal Equality
+- [[Limited State|Limited State]] / Minimal State 
+- [[Formal Equality|Formal Equality]]
+- [[UPSC/State is necessary evil|State is necessary evil]] 
+
 ### Thinkers of Classical Liberalism 
-- Hoobs
+- [[UPSC/Thomas Hobbes|Thomas Hobbes]]
 - John Locke 
 - Benthem 
 - J S Mill 
-- Herbert Spencer 
-- Adam Smith 
+- [[Herbert Spencer |Herbert Spencer ]]
+- [[UPSC/Adam Smith|Adam Smith]] 
 - Thomas Pain 
+- [[UPSC/I Berlin|I Berlin]]
+- 
+
+---
+
+## 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Commentary on Classical Liberalism
+Date:: 2022-06-28
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+
+## Commentary on Classical Liberalism
+
+##### Context 
+On background of RRE, new tendency were emerging in the economic sector, social and political sphere which backed emergence of classical liberalism. 
+Classical Liberalism is thought to be way of life, which supports idea of liberty and equality making human being as an end not means. 
+
+##### Main Body
+Based on two principle 
+1. Rationality 
+   - Human being is best decision maker about himself. 
+   - Helps in establishing Negative Liberty 
+   - Uninterrupted freedom 
+   - No one responsible for action of human beings good or bad consequences goes with human being.
+2. Equal Moral Worth 
+   - All human being are equal worth at the time of birth. 
+   - Promoted the concept of Formal equality 
+   - Rooted out any social inequalities 
+   - You are best judge of your own decision and state wont stop you doing anything;  just follow Laws. 
+   - Minimal role of state.
+
+###### Criticism
+Ignoring the inequality present in reality. 
+Inequality is more based on economy.  
+
+
+##### Comments by Philosopher 
+###### Support
+###### Opposition 
+##### Conclusion
+- Next phase was Modern Liberalism 
+
 
 
 
 </div></div>
+ 
+---
+
+#### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Liberal theory of State
+Date:: 2022-06-28
+Course:: [[UPSC/PSIR|PSIR]]  
+
+----
+# Liberal theory of State
+##### Context
+- Rejection of state.
+- Classic Liberals rejected earlier divine theory of state
+1. State is not created by god
+2. State is not natural institution 
+3. There is a special purpose of political obligation(to follow states order)
+
+##### Main Body 
+- After rejecting the divine theory they proposed 
+- State is outcome of mutual consent
+- It is not a natural institution but mechanistic and artificial institution 
+- The purpose of political obligation of because it is created through consent. 
+- ###### Function of State
+- The primary function of state is to promote right liberty freedom of people. 
+	- These are essentially associated with absence of restriction 
+- As state is outcome of consent. Its primary function is to implement free will of people.  That is closely associated with liberty and freedom. 
+- Function of state is very much limited. 
+	- Promotion of negativve liberty 
+	- [[UPSC/Procedural Justice|Procedural Justice]]
+	- Formal Equality 
+
+###### Supporters 
+- Liberal's slogan is "The government is best which governs the least"
+- John Locke confined the function of state to protect the Natural Rights. 
+- Hobbes State will ensure right to life of person
+- I Berlin supported that states function should be minimum that too only protect negative liberty 
+- Adam Smith restricted state must not interfere in economic affairs and must not try to reorder it. 
+- Apart from above scholars; all the Neo-Liberals also supported minimal role of state. 
+###### Critique
+T H Green, Laski, Hobbhouse criticized the idea of limited and negative state and promoted positive and welfare. 
+Positive State; Liberalism has always seen the poor as they if they become poor of their own mistakes. 
+T H Green criticized Classical Liberalism ; Will is the cause of state not the force. 
+###### General Critiscism 
+Classical Liberalism is also considered as philosophy of Capitalist of class. 
+Ideology of urban entrepreneur middle class which later became industrialist and capitalist
+Laski commented : The purpose of the Capitalist was to free owners of means of production from all those constraints which hampered complete economic exploitations 
+
+
+
+</div></div>
+
+
+
+</div></div>
+
+
+---
+
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Modern Liberalism
+Date:: 2022-06-28
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+# Modern Liberalism
+##### Positive Liberalism/Welfare State
+- Emerged after evaluating exploitative impact of [[UPSC/Classic Liberalism|Classic Liberalism]]
+- Industrial Revolution backed by [[UPSC/Classic Liberalism|Classic Liberalism]] led to high inequality, inhuman working condition and overall complete deterioration of human life. 
+- [[Socialism|Socialism]] , [[Marxism|Marxism]] promoted idea of [[UPSC/Justice|Justice]] available to every and each society. 
+- Due to this immense pressure a new form of liberalism, [[Positive Liberty|Positive Liberty]]/ Welfare State/ [[UPSC/Modern Liberalism|Modern Liberalism]]
+- [[T H Green|T H Green]], [[Laski|Laski]], [[Bosanquet|Bosanquet]], [[Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
+
+###### Justification for Welfare State
+- Man is a part of social whole and liberty could be secured only so long as they could be reconciled with social good. 
+- Liberty of a person should be compromised for social good. Led to emergence of [[Positive Liberty|Positive Liberty]](restrictive liberty in favor of social good)
+- Societies are considered potentially harmonious and ordered structure in which all social classes work for the common good. There is a societal good apart from thus individual good can not be achieved without social good.. Led to emergence of compromising individual liberty in favor of society which extended role of state. 
+- Liberty in the society implied adjustment of mutual claims that are made possible through a system of rights. In order to adjust mutual claims state has to play a positive role by restriction and extension on liberty. 
+- Liberty was not merely absence of restraint but condition necessary for free and full development of self(self development holds a purpose). State helped to achieve that purpose with restriction and extension of liberty. 
+- Equality provided the basis through which liberty comes to acquire a positive meaning. Liberty and equality are complimentary not contradictory. 
+- The state is an instrument for the development of human personality for welfare measures. The state has positive character and is capable of performing socially useful function. 
+
+---
+
+- Led to new urban town
+- Rejected [[UPSC/Negative Liberty|Negative Liberty]] 
+- Supported [[Positive Liberty|Positive Liberty]]
+- Enhance role of state. 
+- Formal Equality 
+- [[UPSC/Procedural Justice|Procedural Justice]]
+- Affirmative action 
+	- [[Progressive Tax|Progressive Tax]]
+	- Liberal
+	- Supporting to those individual those who are not in position to support their basic minimum needs. 
+	- Welfare policies and schemes
+	-
+
+
+
+</div></div>
+ 
+
+---
+
+# 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Neo-Liberalism
+Date:: 2022-06-30
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+
+# Neo-Liberalism
+Neo-Liberalism believes in certain ideas 
+- Individualism - Rationalism
+- Individual Rights
+- Spontaneous order 
+- Minimal state 
+- Free Market
+- Natural Harmony of state
+
+Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Nozick. 
+
+##### Phases of Neo-Liberal Discourses
+1. Emergence of Neo-Liberal Policies (1970s)
+   - Was characterized by heavy pro market policy mainly in northern states. 
+   - This phase reflected era of rolling back functions of state in all aspect of life
+   - This phase witnessed interventions like structural adjustment policy. - cut in food subsidies, social spending, development of corporate welfare, capital market deregulation and cut in unnecessary expenditures from public budget. 
+   > This phase also witnessed rise of social and protest movement. 
+   
+2. Washington Consensus(1980s)
+   -    This phase witnessed consolidation of neo liberal policies which has been popularly termed as Washington consensus. Washington consensus has impacted on economic policies of afro-asian-latin country. Core principle are as below. 
+   - Fiscal Discipline
+   - Tax reforms
+   - Financial Liberalization 
+   - Trade Liberalization 
+   - Exchange Rates 
+   - Deregulation 
+   - Property Rights 
+>Neera Chandoke summaries'
+>The state both in north and the 3rd world country should withdraw from the social sector. 
+>The market should be access to all spheres of life and social reproduction and thus be free from all constraints. 
+>People should organize their own socio economic reproduction instead of depending of state. 
+
+3. Post Washington Consensus(1990s-present)
+   - In third phase major world economic and non-economic institution are discussing the problem of governance. 
+   - State mechanism should be more focused on delivering prescribed services rather than socio economic sphere of life. 
+
+##### State
+- State should be minimal state and must be limited to function of providng security against force theft fraud at the same time enforcement of contract.  
+- State must be there to promote the interest of everyone mainly in economic terms. 
+- Neo-Liberals support workfare state against welfare state. 
+>As per neo-liberals idea behind workfarism is poverty , unemployment doesn't occur because there are few jobs but because unemployed people are ill suited to jobs or who do not have economic ideas vibarant. 
+>Liverterian state has to provide all such activites which leads to consolidation of individual rights establishing free arkets and establish peace. 
+>Concep of Robert Nozick is considered to be best explaination of neo-liberal state
+>> 1. All individual have inalienable rights independent to society. They are not dependent over the state or society for poseesing of the individual rights. 
+>> 2. Function of state is to ensure there should not be violation of this inalienable right of individual. Nozcik believe in "Nightwatchman state"
+>> 3. Liberty must get priorty over equality. Function of state must be limited only to ensuring exercise of liberty.  
+>> 4. He categoricaly instructed state not to go for [[Progressive Tax|Progressive Tax]] , Public Healthcare. State intervention means both ones resources and ones self. Seizing the result of someones labour is equivalent to seizing hours from him and directing various activities thus welfare state is threat to liberty and independence of individual. 
+>> 5. [[The minimal state is inspiring as well as right|The minimal state is inspiring as well as right]]. What is importonat is that state must not use cohersive appartus for pourpose of getting some citizens other and prohibit activity of other for their own good and protection. 
+
+
+> Hayek's View 
+> 1. His view support neo-liberalism
+> 2. Liberty or freedom of a person is non cohersion and he must not be subject of arbitrary will of another person. 
+> 3. Liberty must not be confused with any other meaning of freedom.
+> 4. Absence or presence of a freedom can not be suffiicient condition of liberty. Liberty is bigger condition which enable a person to act as per his will without being under arbitrary will of either state or individual. 
+> 5. State might emerge as a threat to liberty in this way freedom from constraints of state is condition of liberty. 
+> 6. In order to pro
+
+</div></div>
+
