@@ -22,7 +22,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 Topic:: Types of Justice
 Date:: 2022-06-25
-Course:: [[UPSC/Aristotle's Justice|]] 
+Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
 
