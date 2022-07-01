@@ -5,7 +5,7 @@
 ----
 Topic:: Democracy and Parliamentary form of government same
 Date:: 2022-06-25
-Course:: [[UPSC/Democracy and Parliamentary form of government same|]] 
+Course:: [[UPSC/Constitution MOC|Constitution MOC]] 
 
 ----
 
@@ -71,3 +71,20 @@ Course:: [[UPSC/Democracy and Parliamentary form of government same|]]
 	- Policy Paralysis 
 	- Corruption 
 	- [[UPSC/defection|defection]]/Horse Trading 
+###### Should there be change? 
+1. The reasons which were in mind of constituent assembly, at the time formation of constitution are still relevant. 
+2.  Institution won't make difference unless political culture changes, as suggested by Ambedkar ,"The constitution will work or not, will depend upon the person holding the institutions." 
+   > "The constitution will work or not, will depend upon the person holding the institution. "
+   
+3. Presidential system has it own challenge, problem of gridlock. 
+4. USA is the only country in world where the democratic feature of presidential system could be retained. In all other countries -> Dictatorship.  
+
+##### Conclude. 
+Institution won't make difference until and unless the person holding these institution do not to change.  The main reason of dissatisfaction with parliamentary system is defection, corruption, hence we can experiment with following system. 
+1. Introduction of the system of constructive vote of non confidence as in Germany. 
+2. Tighten the [[Anti defection|Anti defection]] law. 
+
+
+### Semi-Presidential 
+- France, Maldives
+- France is known as lab of 
