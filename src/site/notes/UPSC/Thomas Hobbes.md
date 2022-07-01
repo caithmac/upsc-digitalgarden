@@ -54,6 +54,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Sovereignty is its absoluteness. Ultimate source of law. Sole interpreter. Divine laws are not applicable over sovereign although he accepted existence but sovereign is the sole interpreter. 
 - Sovereignty is indivisible, inseparable and can not be communicated or given anybody else. Sovereign is also creator of property and taxation doesn't require consent of people. 
 
+Hobbes Political Obligation
+- Why people should follow what Sovereign is saying? 
+	1. 
 
 ###### Function of State
 - State is [[UPSC/Sovereign|Sovereign]]. 
@@ -70,6 +73,15 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Most important thing for which state is exist preservation of life.
 - If a state is not able to do so, it is failed state. 
 - And man has every right to resist the state. 
+
+###### Feature of Social Contract
+1. Social COntratc of hobbes 'establish mechanistic notion of state. State is not at all end, it is means to end. '
+2. Hobbesian Contract established absolute sovereignity and its utilatarian basis. 
+3. Sate is base on reason
+   - One of the basic premise of accepting orders of state because authority os state is rational aphrension that goal of self preservation better served through it. 
+4. People have no right to resist because of moral obligation of state of nature. As sovereign is no party to contract, so resisting to sovereign holds no meaning. 
+5. Coercive authority of state.
+6. In general didn't provide any right against sovereign there is only one condition where people are allowed to disobey sovereign because such act of sovereign destroy very basic purpose of contract that is taking life of citizens.  
 
 ##### Materialism 
 - Hobbes proposes to analyze human kind from materialistic point of view with same symbolic language. 
@@ -116,6 +128,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Preference of security over liberty. 
 - Man has no liberty where state has made laws/ 
 > Liberty in proper sense is absence of law. 
+
+
+
+
 
 ---
 ```dataview
