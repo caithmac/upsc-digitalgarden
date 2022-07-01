@@ -6,8 +6,7 @@
 >> Communalism, Regionalism, Secularism; Social Empowerment
   Salient features of Indian Society; Diversity of India;
   
->[!todo] ###### Social Science: Caste, Religion, Region, Globalization
->
+>[!todo] Social Science: Caste, Religion, Region, Globalization
 >- Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations. (बहु-सांस्कृतिक भारतीय समाज को समझने में क्या जाती की प्रासंगिकता समाप्त हो गई है? उदाहरों सहित विस्तृत उत्तर दीजिए l)	2020
 >- Is diversity and pluralism in India under threat due to globalisation? Justify your answer. (क्या भारत में विविधता एवं बहुलवाद वैश्वीकरण के कारण संकट में है? औचित्यपूर्ण उत्तर दीजिए l)	2020
 >- Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue. (क्या आप सहमत है की भारत में क्षेत्रीयता बढ़ती हुई सांस्कृतिक मुखरता का परिणाम परतीत होती है? तर्क कीजिए l )	2020
@@ -33,7 +32,7 @@
 >> Poverty, Population; Development and associated issues
 
 
->[!todo] ###### Social Science: Poverty, Population, Globalization
+>[!todo] Social Science: Poverty, Population, Globalization
 >- COVID-19 pandemic accelerated class inequalities and poverty in India. Comment. (कोविद-19 महामारी ने भारत में वर्ग असमानताओं एवं गरीबी को गति दे दी है l टिपण्णी कीजिए l)	2020
 >- How have digital initiatives in India contributed to the functioning of the educational system in the country? Elaborate your answer. (भारत में डिजिटल पहल ने किस प्रकार से देश की शिक्षा व्यवस्था के संचालन में योगदान किया है? विस्तृत उत्तर दीजिए l)	2020
 >- What makes Indian society unique in sustaining its culture? Discuss. (क्या बात है जो भारतीय समाज को अपनी संस्कृति को जीवित रखने में अद्वितीय बना देती है ? चर्चा कीजिए | ) (10m,150 words)	2019
@@ -51,7 +50,7 @@ The life cycle of a joint family depends on economic factors rather than social 
 > **GS1 Syllabus Topic:**
 >> Globalisation (effects on Indian society)
 
->[!todo] ###### Social Science: Globalization
+>[!todo] Social Science: Globalization
 >- Are we losing our local identity for the global identity? Discuss. (क्या हम वैश्विक पहचान के लिए अपनी स्थानीय पहचान को खोते जा रहे हैं ? चर्चा कीजिए | ) (15m,250 words)	2019
 >- ‘Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate.	2018
 >- Discuss the positive and negative effects of globalization on women in India. (2013, Asked about Globalization effect on Elderly)	2015
@@ -62,7 +61,7 @@ The life cycle of a joint family depends on economic factors rather than social 
 > **GS1 Syllabus Topic:**
 >> Role of women and women’s organisation
 
->[!todo] ###### Social Science: Women
+>[!todo] Social Science: Women
 >- “Empowering women is the key to control population growth”. Discuss (“महिला सशक्तिकरण जनसंख्या संवृद्धि को नियंत्रित करने की कुंजी है |” चर्चा कीजिए | ) (10m,150 words)	2019
 >- What are the continued challenges for women in India against time and space? (भारत में महिलाओं के समक्ष समय और स्थान संबंधित निरंतर चुनोतियाँ क्या-क्या है ?) (15m,250 words)	2019
 >- ‘Women’s movement in India has not addressed the issues of women of lower social strata. Substantiate your view.	2018
