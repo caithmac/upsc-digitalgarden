@@ -174,3 +174,7 @@ Laski commented : The purpose of the Capitalist was to free owners of means of p
 
 </div></div>
 
+---
+```dataview 
+list from [[]]
+```
