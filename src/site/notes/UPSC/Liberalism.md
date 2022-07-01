@@ -286,6 +286,10 @@ Laski commented : The purpose of the Capitalist was to free owners of means of p
 
 </div></div>
 
+---
+```dataview 
+list from [[]]
+```
 
 
 </div></div>
@@ -464,3 +468,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 </div></div>
 
 
+---
+```dataview
+list from [[]]
+```
