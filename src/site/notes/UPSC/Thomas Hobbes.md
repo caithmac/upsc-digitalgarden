@@ -15,6 +15,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Biggest rebel of his time. 
 - "[[UPSC/The Leviathan|The Leviathan]]"
 - First person to give full theory on Sovereignty. 
+- 
 
 #### Hobbes Experience
 1. Fear is core. (**My mother gave birth to twin, Me and my fear.**)
@@ -28,7 +29,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	    -  Logical thinking 
 5.  Was Logical and accepting scientific methods 
 6. He tried to understand Human Nature and Psychology through scientific nature. 
-7. Was in British Royal Court and because of RRE
+7. Was in British Royal Court and because of Renaissance Reform Enlightenment
    - Civil War was going on 
    - Kings using this to get out of church 
    - Parliament wanted to get democracy 
@@ -48,6 +49,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Sovereign is internally and externally most powerful. 
 >[[ While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate| While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
 
+- Essentially lies in power of determining on behalf of community what needs to be done to promote peace and order to promote welfare. 
+- All men apart from sovereign becomes its subject.
+- Sovereignty is its absoluteness. Ultimate source of law. Sole interpreter. Divine laws are not applicable over sovereign although he accepted existence but sovereign is the sole interpreter. 
+- Sovereignty is indivisible, inseparable and can not be communicated or given anybody else. Sovereign is also creator of property and taxation doesn't require consent of people. 
+
+
 ###### Function of State
 - State is [[UPSC/Sovereign|Sovereign]]. 
 	- No other association, not even church will have power over the state. 
@@ -56,6 +63,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Man is free only to the extent state has permitted him to be free by not making the law. 
 	- If a man doesn't follow law, state has the right to punish him. 
 >“[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]].”
+
+[[UPSC/Why Hobbes supports strong and absolute state|Why Hobbes supports strong and absolute state]]
 
 ###### Purpose of State
 - Most important thing for which state is exist preservation of life.
@@ -74,6 +83,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Man being prior to state. 
 	- Opposite of [[UPSC/State is prior than individual|State is prior than individual]]
 - Man is individualistic by nature and social only out of necessity. 
+- [[UPSC/Hobbes was first individualist|Hobbes was first individualist]] 
 
 ##### Absolutist
 - One who gives absolute power to the state. 
@@ -81,6 +91,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### Human Nature 
 > Life of a man is continuous search for power, after power which ceasesth only with his death. 
 
+>[[UPSC/Hobbesian Theory of Right|Hobbesian Theory of Right]]
 ###### Reason behind power seeking nature of man. 
 - Applies "[[resolutive compositive method|resolutive compositive method]]" to explain the fundamental characteristics of human nature. 
 - Human Mind is made up of particle like everything else in Universe. They are in state of motion. 
@@ -96,6 +107,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Power is a means to obtain the things which gives us pleasure. It can be physical power, economic power, political power or any other sort of power.
 
 
+
 ##### Liberty 
 > Liberty is where law is silent
 - Extreme liberty results into anarchy. 
@@ -105,3 +117,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Man has no liberty where state has made laws/ 
 > Liberty in proper sense is absence of law. 
 
+---
+```dataview
+list from [[]]
+```
