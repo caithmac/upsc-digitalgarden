@@ -34,3 +34,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 - State is highest institutions 
 - Politics is the highest intellectual activity 
 - Human beings nature(social politics)  completely gets unfolded at the level of state only. 
+
+
+---
+```dataview
+list from [[]]
+```
