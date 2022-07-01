@@ -39,7 +39,7 @@ Course:: [[UPSC/Economy|Economy]]
 ----
 Topic:: EXIM
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/Economy|Economy]] 
 
 ----
 >[!error] Export Import Bank
