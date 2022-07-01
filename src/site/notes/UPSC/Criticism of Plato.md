@@ -46,7 +46,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ## Context 
 - Open Society and its enemy
-- Identifies Plato as a totalitarian 
+- Identifies [[UPSC/Plato|Plato]] as a totalitarian 
 - For providing One class to rule. 
  
 ## Body 
@@ -87,5 +87,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 </div></div>
 
-
+---
+```dataview 
+list from [[]]
+```
 
