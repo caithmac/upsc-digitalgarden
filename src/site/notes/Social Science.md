@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/social-science/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+>**GS1 Syllabus Topic:**
+>> Communalism, Regionalism, Secularism; Social Empowerment
+  Salient features of Indian Society; Diversity of India;
+  
 >[!todo] ###### Social Science: Caste, Religion, Region, Globalization
 >
 >- Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations. (बहु-सांस्कृतिक भारतीय समाज को समझने में क्या जाती की प्रासंगिकता समाप्त हो गई है? उदाहरों सहित विस्तृत उत्तर दीजिए l)	2020
@@ -23,6 +27,10 @@
 >- Debate the issue of whether and how contemporary movements for assertion of Dalit identity work towards annihilation of caste.	2015
 >- How do the Indian debates on secularism differ from the debates in the West?	2014
 >- Growing feeling of regionalism is an important factor in the generation of demand for a separate state. Discuss.	2013
+---
+
+> **GS1 Syllabus Topic:**
+>> Poverty, Population; Development and associated issues
 
 
 >[!todo] ###### Social Science: Poverty, Population, Globalization
@@ -39,12 +47,20 @@
 >- Discuss the changes in the trends of labour migration within and outside India in the last four decades.	2015
 The life cycle of a joint family depends on economic factors rather than social values. Discuss.	2014
 
+---
+> **GS1 Syllabus Topic:**
+>> Globalisation (effects on Indian society)
+
 >[!todo] ###### Social Science: Globalization
 >- Are we losing our local identity for the global identity? Discuss. (क्या हम वैश्विक पहचान के लिए अपनी स्थानीय पहचान को खोते जा रहे हैं ? चर्चा कीजिए | ) (15m,250 words)	2019
 >- ‘Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate.	2018
 >- Discuss the positive and negative effects of globalization on women in India. (2013, Asked about Globalization effect on Elderly)	2015
 >- To what extent globalization has influenced the core of cultural diversity in India? Explain.	2016
 >- Critically examine the effects of globalization on the aged population in India.	2013
+
+---
+> **GS1 Syllabus Topic:**
+>> Role of women and women’s organisation
 
 >[!todo] ###### Social Science: Women
 >- “Empowering women is the key to control population growth”. Discuss (“महिला सशक्तिकरण जनसंख्या संवृद्धि को नियंत्रित करने की कुंजी है |” चर्चा कीजिए | ) (10m,150 words)	2019
