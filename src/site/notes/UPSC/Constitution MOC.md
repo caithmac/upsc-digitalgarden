@@ -55,7 +55,6 @@
 - [[National Disaster Management Authority|National Disaster Management Authority]]
 - [[UPSC/Important Cases|Important Cases]]
 
-
 ---
 
 [[UPSC/Mains Syllabus|Mains Syllabus]]
