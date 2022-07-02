@@ -18,7 +18,7 @@ History: [[UPSC/Art & Culture|Art & Culture]]
 History: India before Independence -> [[UPSC/Modern History|Modern History]]
 History: India After independence
 History: [[World History|World History]]
-#Block-2 - [[Social Science|Social Science]]
+#Block-2 - [[UPSC/Social Science|Social Science]]
 Social Science: Caste, Religion, Region, Globalization
 Social Science: Poverty, Population, Globalization
 Social Science: Globalization
