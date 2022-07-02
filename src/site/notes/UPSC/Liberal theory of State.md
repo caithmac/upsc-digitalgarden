@@ -32,7 +32,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ###### Supporters 
 - Liberal's slogan is "The government is best which governs the least"
-- John Locke confined the function of state to protect the Natural Rights. 
+-  [[UPSC/John Locke|John Locke]] confined the function of state to protect the Natural Rights. 
 - Hobbes State will ensure right to life of person
 - I Berlin supported that states function should be minimum that too only protect negative liberty 
 - Adam Smith restricted state must not interfere in economic affairs and must not try to reorder it. 
