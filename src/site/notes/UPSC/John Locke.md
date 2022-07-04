@@ -82,3 +82,26 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Property has been accumulated by following these three laws. 
 		- There we equal and enough opportunities to all. 
 		- No injustice in accumulation of property. He also destroyed any birth right based idea. 
+
+##### Concept of Property 
+- According to Locke right to property is most important and crucial right, social contract has been done to save this property and even state can not impose any limitation without the consent of owner of property. Right to property is intimately connected with right to life and liberty as it is necessary consequence. Sometimes Locke sums up all natural right in the right to property. Man creates property by mixing his labor with the object of his nature. In the beginning objects of nature all the things were held in common but common ownership is not enough to satisfy their need. Man must mix his labor with his resources provided by nature to enable him to make use of them in a more effective and profitable way.  Sincle man owns his own personality, his body and limbs, mind, the object with which he mixes his labor becomes his own property by right. 
+- Labor theory of Value 
+- Possesive Individualism 
+- According to Locke labour not only creates property but it also determines value of property. He said that 90% value of propety must be determined on basis of labor. Locke puts three limitation over property. 
+	1. Labor limitation 
+	2. Utility-sufficiency limitation 
+	3. Spoilage 
+- Locke doesnt believes that man has unlimited right of appropriation. 
+- Many critics have found these right to be verbal and in favor of accumulation of unlimited property . Macpherson criticised Locke by arguing that -
+	-  locke made labor a commodity to purchase and sell and made it rightful for a man to appropriate the product of other men labour. 
+	- Introduction of currency which allows man to exchange goods for money,removes the limitation imposed by non spooilage principle 
+	- Locke not only justifies unequal property but approves of unlimited individual appropriation. 
+	- Macpherson concludes that Locke is oresented as an idelegoue of Possesive Individualism of market economy and disctatorship of bourgeoisie. He is seen as typical spirit of captilism. 
+- John Plamentz ciritic
+	- Locke as pro-captialist and anti-people. He further said that limitation imposed by locke are either irrelevant or inadequate. 
+- [[UPSC/I Berlin|I Berlin]] , Alan Ryan, Richard Ascraft,John Dun
+	- Supported Locke's view. And argued that Macpherson's view overlooks the oveririding role of natural law and idea of common good that it implies. 
+	- John Plamentaz > Locke was the first of the liberal of our era. 
+- John Dunning
+	- Most distinctive contribution of locke to political theory is the theory of natural right 
+	- 
