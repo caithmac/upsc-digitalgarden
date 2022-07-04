@@ -30,6 +30,7 @@
 
 10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, [[UPSC/Thomas Hobbes|Thomas Hobbes]], [[UPSC/John Locke|John Locke]], John S. Mill, Marx, Gramsci, Hannah Arendt. ^b6782c
 
+Extra - [[UPSC/Rousseau|Rousseau]] 
 ### **Indian Government and politics**
 
 1.  **Indian Nationalism:** 
