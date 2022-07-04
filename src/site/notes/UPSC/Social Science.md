@@ -3,7 +3,7 @@
 ---
 
 >**GS1 Syllabus Topic:**
->> Communalism, Regionalism, Secularism; Social Empowerment
+>> [[UPSC/Communalism|Communalism]], [[UPSC/Regionalism|Regionalism]], [[UPSC/Secularism|Secularism]]; Social Empowerment
   [[UPSC/Salient features of Indian Society|Salient features of Indian Society]]; Diversity of India;
   
 >[!todo] Social Science: Caste, Religion, Region, Globalization
