@@ -21,9 +21,9 @@ Course:: [[UPSC/Social Science|Social Science]]
 >[!todo] Changes in caste system 
 >- Trends of Inter caste marriage 
 >- Challenge to orthodoxy - Practices of the caste system such as:
-	>-  child marriage, 
-	>- ban on widow re-marriage
-	>- insensitiveness of superior class towards the low caste people are being challenged in the wake of urbanization. 
+	>>-  child marriage, 
+	>>- ban on widow re-marriage
+	>>- insensitiveness of superior class towards the low caste people are being challenged in the wake of urbanization. 
 
 >[!todo] Factors affecting the change in caste system 
 >- Sanskritization: People from "lower caste" can climb the ladder by changing the customs and rituals such as by adopting vegetarianism.
