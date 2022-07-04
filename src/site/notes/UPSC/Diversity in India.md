@@ -47,6 +47,10 @@ Course:: [[UPSC/Social Science|Social Science]]
 
 >[!done] Conclusion 
 >Problem is not of diversity per se, but the handling of diversity in India society. The problems of regionalism, communalism, ethnic conflicts etc. have arisen because the fruits of development haven’t been distributed equally or the cultures of some groups haven’t been accorded due recognition.
+>Constitution and its values must form guiding principles of our society
+> A homogenize society witness stagnation in due-course and ultimately decline. A good example would be Pakistan, who tried to impose culture on East-Pakistan ultimately leading to creation of Bangladesh. 
+
+
 
 
 
