@@ -59,7 +59,7 @@ The life cycle of a joint family depends on economic factors rather than social 
 
 ---
 > **GS1 Syllabus Topic:**
->> Role of women and women’s organisation
+>> [[UPSC/Role of women and women’s organisation|Role of women and women’s organisation]]
 
 >[!todo] Social Science: Women
 >- “Empowering women is the key to control population growth”. Discuss (“महिला सशक्तिकरण जनसंख्या संवृद्धि को नियंत्रित करने की कुंजी है |” चर्चा कीजिए | ) (10m,150 words)	2019
@@ -70,3 +70,9 @@ The life cycle of a joint family depends on economic factors rather than social 
 >- Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India.	2014
 >- Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments.	2014
 >- Male membership needs to be encouraged in order to make women’s organization free from gender bias. Comment.	2013
+
+```dataview
+Table without ID file.link as "Topic", Source
+Where Course = [[Social Science]]
+Sort date ASCENDING
+```
