@@ -584,12 +584,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 | Many           | Democracy     | Polity         |
 
 
-Polity as best system 
+- Polity as best system 
 	- Power remains in the hand of middle class 
-	- Distributive justice led by middle class 
+	-  Distributive justice led by middle class 
 	- It is fine balance and coordination of opposite elements
-	- In polity highest nature of human being gets expressed. 
-	- 
+	- In polity highest nature of human being gets expressed.  
 - Democracy as worst system 
 - He also suggested for different societies 
 - Different models are considered to be ideal
@@ -628,7 +627,10 @@ Polity as best system
 	- Introduction of education as per form of government; Aristotle suggested the Education must be associated with different form of government. 
 	- State must do all effort to maintain proportional equality not only in economic term but political as well as social term 
 
-
+>[!Question]
+>- [[UPSC/Which type of government is considered best by Aristotle, and why|Which type of government is considered best by Aristotle, and why]]
+>- [[UPSC/The onset of western political thoughts starts with idelogical discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with idelogical discourse between Aristotle and Plato regarding the conception of state]]
+>- 
 --- 
 ```dataview 
 list from [[]]
