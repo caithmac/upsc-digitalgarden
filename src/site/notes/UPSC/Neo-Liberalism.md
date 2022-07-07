@@ -54,11 +54,11 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 
 
 >[!error] Concept of Robert Nozick is considered to be best explanation of neo-liberal state
->> 1. All individual have inalienable rights independent to society. They are not dependent over the state or society for possessing of the individual rights. 
->> 2. Function of state is to ensure there should not be violation of this inalienable right of individual. Nozcik believe in "Nightwatchman state"
->> 3. Liberty must get priority over equality. Function of state must be limited only to ensuring exercise of liberty.  
->> 4. He categorically instructed state not to go for [[Progressive Tax|Progressive Tax]] , Public Healthcare. State intervention means both ones resources and ones self. Seizing the result of some ones labor is equivalent to seizing hours from him and directing various activities thus welfare state is threat to liberty and independence of individual. 
->> 5. [[The minimal state is inspiring as well as right|The minimal state is inspiring as well as right]]. What is important is that state must not use coercive apparatus for purpose of getting some citizens other and prohibit activity of other for their own good and protection. 
+> 1. All individual have inalienable rights independent to society. They are not dependent over the state or society for possessing of the individual rights. 
+> 2. Function of state is to ensure there should not be violation of this inalienable right of individual. Nozcik believe in "Nightwatchman state"
+> 3. Liberty must get priority over equality. Function of state must be limited only to ensuring exercise of liberty.  
+> 4. He categorically instructed state not to go for [[Progressive Tax|Progressive Tax]] , Public Healthcare. State intervention means both ones resources and ones self. Seizing the result of some ones labor is equivalent to seizing hours from him and directing various activities thus welfare state is threat to liberty and independence of individual. 
+> 5. [[The minimal state is inspiring as well as right|The minimal state is inspiring as well as right]]. What is important is that state must not use coercive apparatus for purpose of getting some citizens other and prohibit activity of other for their own good and protection. 
 
 
 >[!error] Hayek's View 
