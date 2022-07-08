@@ -29,7 +29,7 @@
 ---
 
 > **GS1 Syllabus Topic:**
->> Poverty, Population; Development and associated issues
+>> Poverty, [[Population|Population]]; Development and associated issues
 
 
 >[!todo] Social Science: Poverty, Population, Globalization
@@ -44,11 +44,11 @@
 >- “An essential condition to eradicate poverty is to liberate the poor from deprivation.” Substantiate this statement with suitable examples	2016
 >- Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India.	2015
 >- Discuss the changes in the trends of labour migration within and outside India in the last four decades.	2015
-The life cycle of a joint family depends on economic factors rather than social values. Discuss.	2014
+>- The life cycle of a joint family depends on economic factors rather than social values. Discuss.	2014
 
 ---
 > **GS1 Syllabus Topic:**
->> Globalisation (effects on Indian society)
+>> [[UPSC/Globalisation|Globalisation]] (effects on Indian society)
 
 >[!todo] Social Science: Globalization
 >- Are we losing our local identity for the global identity? Discuss. (क्या हम वैश्विक पहचान के लिए अपनी स्थानीय पहचान को खोते जा रहे हैं ? चर्चा कीजिए | ) (15m,250 words)	2019
