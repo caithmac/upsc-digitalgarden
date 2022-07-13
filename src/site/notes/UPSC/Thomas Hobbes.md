@@ -15,7 +15,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Biggest rebel of his time. 
 - "[[UPSC/The Leviathan|The Leviathan]]"
 - First person to give full theory on Sovereignty. 
-- 
 
 #### Hobbes Experience
 1. Fear is core. (**My mother gave birth to twin, Me and my fear.**)
@@ -36,9 +35,26 @@ Course:: [[UPSC/PSIR|PSIR]]
 8. Supported power of King
    - Rejected divine theory 
    - Not a royalist 
+---
 
-##### Sovereignty
-###### Feature.
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Hobbes Sovereignty
+Date:: 2022-07-10
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+
+###### Feature of Hobbes Sovereignty 
 - Absolute
 - Order of sovereign is law. 
 	- Supreme authority to make laws and to enforce law. 
@@ -54,10 +70,35 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Sovereignty is its absoluteness. Ultimate source of law. Sole interpreter. Divine laws are not applicable over sovereign although he accepted existence but sovereign is the sole interpreter. 
 - Sovereignty is indivisible, inseparable and can not be communicated or given anybody else. Sovereign is also creator of property and taxation doesn't require consent of people. 
 
-Hobbes Political Obligation
-- Why people should follow what Sovereign is saying? 
-	1. 
+</div></div>
 
+---
+
+
+##### Hobbes Political Obligation
+- Why people should follow what Sovereign is saying? 
+
+
+
+---
+
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Hobbes State
+Date:: 2022-07-10
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+##### Hobbes State
 ###### Function of State
 - State is [[UPSC/Sovereign|Sovereign]]. 
 	- No other association, not even church will have power over the state. 
@@ -65,30 +106,52 @@ Hobbes Political Obligation
 	- Man has liberty only where law is silent.
 	- Man is free only to the extent state has permitted him to be free by not making the law. 
 	- If a man doesn't follow law, state has the right to punish him. 
+
 >“[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]].”
 
-[[UPSC/Why Hobbes supports strong and absolute state|Why Hobbes supports strong and absolute state]]
+> [[UPSC/Why Hobbes supports strong and absolute state|Why Hobbes supports strong and absolute state]]
 
 ###### Purpose of State
 - Most important thing for which state is exist preservation of life.
 - If a state is not able to do so, it is failed state. 
 - And man has every right to resist the state. 
 
-###### Feature of Social Contract
-1. Social COntratc of hobbes 'establish mechanistic notion of state. State is not at all end, it is means to end. '
-2. Hobbesian Contract established absolute sovereignity and its utilatarian basis. 
-3. Sate is base on reason
-   - One of the basic premise of accepting orders of state because authority os state is rational aphrension that goal of self preservation better served through it. 
-4. People have no right to resist because of moral obligation of state of nature. As sovereign is no party to contract, so resisting to sovereign holds no meaning. 
-5. Coercive authority of state.
-6. In general didn't provide any right against sovereign there is only one condition where people are allowed to disobey sovereign because such act of sovereign destroy very basic purpose of contract that is taking life of citizens.  
+###### [[UPSC/Feature of Social Contract|Feature of Social Contract]]
 
-##### Materialism 
-- Hobbes proposes to analyze human kind from materialistic point of view with same symbolic language. 
+
+
+
+
+</div></div>
+
+ 
+
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Hobbes Materialism
+Date:: 2022-07-10
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+##### Hobbes Materialism
+Hobbes proposes to analyze human kind from materialistic point of view with same symbolic language. 
 - Hobbes proposes to study human being as a set of purely physical process.  That are reducible to body and motion. 
 	- Two Types of Physical Motion
 		1. Vital - Those basic and unthinking life function. This purely comprises purely physical aspect of human existence. 
 		2. Voluntary - Those forms of human activity that are willed such as walking and speaking. Hobbes include Politics and other social and other various kind of social functions here. That is mainly psychological in nature. Knowing and willing constitute the whole of our psychological process. 
+
+</div></div>
+
+---
 
 
 ##### Individualism 
@@ -99,8 +162,26 @@ Hobbes Political Obligation
 
 ##### Absolutist
 - One who gives absolute power to the state. 
+---
 
-##### Human Nature 
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Hobbes on Human Nature
+Date:: 2022-07-10
+Course:: [[UPSC/Thomas Hobbes|]] 
+
+----
+##### Hobbes on Human Nature
+
 > Life of a man is continuous search for power, after power which ceasesth only with his death. 
 
 >[[UPSC/Hobbesian Theory of Right|Hobbesian Theory of Right]]
@@ -119,15 +200,44 @@ Hobbes Political Obligation
 - Power is a means to obtain the things which gives us pleasure. It can be physical power, economic power, political power or any other sort of power.
 
 
+</div></div>
+ 
 
-##### Liberty 
+---
+
+
+
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Hobbes's Liberty
+Date:: 2022-07-10
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+##### Hobbes's Liberty
 > Liberty is where law is silent
+
 - Extreme liberty results into anarchy. 
+
 > Liberty signifies properly the absence of opposition in external impediments to motion. 
 - Hobbs has provided justification to the absolute authority of the state. 
 - Preference of security over liberty. 
-- Man has no liberty where state has made laws/ 
+- Man has no liberty where state has made laws
+
 > Liberty in proper sense is absence of law. 
+
+
+</div></div>
+
 
 
 
