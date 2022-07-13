@@ -59,6 +59,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - He is above all laws; even laws made by him or her. 
 - [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
 - Against democracy. 
+- 
 
 
 ## Criticism 
