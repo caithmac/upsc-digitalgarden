@@ -280,6 +280,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
 	- No check over [[Philosopher King|Philosopher King]] 
 - [[UPSC/Aristotle|Aristotle]] argue that instead of [[Philosopher King|Philosopher King]] it should be law. 
+- Unchecked power, even wielded by the best and the wisest, would be intoxicating, for power corrupts and absolute power corrupts absolutely.  
 - Critical to [[UPSC/Plato's Communism|Plato's Communism]]
 	- [[UPSC/Aristotle|Aristotle]]:: leads to good quality; makes us kind;
 	- In Socializing 
@@ -337,6 +338,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - He is above all laws; even laws made by him or her. 
 - [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
 - Against democracy. 
+- 
 
 
 ## Criticism 
@@ -422,7 +424,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 > - [[UPSC/Why Plato is considered totalitarian🤔|Why Plato is considered totalitarian🤔]]
 > - [[Explain Plato's communism and compare it with Marxian communism |Explain Plato's communism and compare it with Marxian communism ]]
 > - [[UPSC/Popper's attack on Plato and provide a suitable device against it|Popper's attack on Plato and provide a suitable device against it]]
-> - 
+> - [[UPSC/Socratic influence is precursor to all western political thought, including Platonic thought itself|Socratic influence is precursor to all western political thought, including Platonic thought itself]]
+> - [[Discuss Aristotle's evaluation of platonic idea of state |Discuss Aristotle's evaluation of platonic idea of state ]]
+> - [[UPSC/State exist for sake of good life and not for life only|State exist for sake of good life and not for life only]]
+> - [[UPSC/Aristotle describes revolution well but does not want it|Aristotle describes revolution well but does not want it]]
 
 ---
 ```dataview 
