@@ -30,6 +30,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 Aristotle's writes in justification of Slavery 
 >[!quote] For that some should rule and others be ruled is a thing not only necessary, but expedient; from the hour of their birth, some are marked out for subjection, others for rule.
 
+>[!cite] Each man is an end in itself. No one ought to be treat other person as a means to an end. 
+>~ Immanuel Kant
+
+
 >[!bug] Conclusion
 >- His justification should not be taken as philosophical view but it was out of necessities of time; he was setting the ground for emancipation of slaves. 
 >- According to Barker: Aristotle's conception of slavery is more a justification of necessity than a deduction from disinterested observation of facts.
+
+
