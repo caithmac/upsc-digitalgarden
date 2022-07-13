@@ -180,7 +180,7 @@ Course: [[UPSC/PSIR|PSIR]]
 
 ---
 
-##### Plato's Argument 
+##### Plato's Argument on Justic
 - Justice is all about performing as per dominant natural trait. 
 - Individual justice as well as collective justice. 
 - Purpose of an individual is to get its highest form/Ideal Format 
@@ -288,7 +288,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 
-##### Plato's Argument 
+##### Plato's Argument on Justic
 - Justice is all about performing as per dominant natural trait. 
 - Individual justice as well as collective justice. 
 - Purpose of an individual is to get its highest form/Ideal Format 
