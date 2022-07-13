@@ -21,6 +21,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
 	- No check over [[Philosopher King|Philosopher King]] 
 - [[UPSC/Aristotle|Aristotle]] argue that instead of [[Philosopher King|Philosopher King]] it should be law. 
+- Unchecked power, even wielded by the best and the wisest, would be intoxicating, for power corrupts and absolute power corrupts absolutely.  
 - Critical to [[UPSC/Plato's Communism|Plato's Communism]]
 	- [[UPSC/Aristotle|Aristotle]]:: leads to good quality; makes us kind;
 	- In Socializing 
@@ -78,6 +79,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - He is above all laws; even laws made by him or her. 
 - [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
 - Against democracy. 
+- 
 
 
 ## Criticism 
