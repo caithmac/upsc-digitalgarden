@@ -14,7 +14,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - 1588-1679
 - Biggest rebel of his time. 
 - "[[UPSC/The Leviathan|The Leviathan]]"
-- First person to give full theory on Sovereignty. 
+- First person to give full theory on [[UPSC/Sovereignty|Sovereignty]]. 
 
 #### Hobbes Experience
 1. Fear is core. (**My mother gave birth to twin, Me and my fear.**)
@@ -238,6 +238,19 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 </div></div>
 
+
+
+
+>[!question]
+>- [[UPSC/While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate|While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
+>- [[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]]
+>- [[UPSC/Difference between Positive Liberty and Negative Liberty|Difference between Positive Liberty and Negative Liberty]]
+>- [[UPSC/What is meaning of absolute state|What is meaning of absolute state]]
+>- [[UPSC/What are the arguments to establish Hobbes of all Individualist|What are the arguments to establish Hobbes of all Individualist]]
+>- [[Possesive Individualism |Possesive Individualism ]]
+>- [[UPSC/Normative Individualists|Normative Individualists]]
+>- [[UPSC/Positive Law|Positive Law]]
+>- 
 
 
 
