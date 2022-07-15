@@ -419,6 +419,9 @@ Aristotle's writes in justification of Slavery
 >[!cite] Each man is an end in itself. No one ought to be treat other person as a means to an end. 
 >~ Immanuel Kant
 
+>[!cite] What is, should not determine what ought to be rather it should be vice-versa. 
+
+
 
 >[!bug] Conclusion
 >- His justification should not be taken as philosophical view but it was out of necessities of time; he was setting the ground for emancipation of slaves. 
@@ -636,7 +639,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 >[!Question]
 >- [[UPSC/Which type of government is considered best by Aristotle, and why|Which type of government is considered best by Aristotle, and why]]
 >- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
->- [[Man is by nature, a political animal|Man is by nature, a political animal]]
+>- [[UPSC/Man is by nature, a political animal|Man is by nature, a political animal]]
+>- [[UPSC/The Authority of statesman is different than authority of masters|The Authority of statesman is different than authority of masters]]
+>- [[UPSC/Law is reason without passion|Law is reason without passion]]
 >- 
 --- 
 ```dataview 
