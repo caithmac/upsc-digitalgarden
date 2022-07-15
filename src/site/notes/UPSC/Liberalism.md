@@ -146,7 +146,7 @@ Philosophical beliefs of Liberalism automatically leads to a political system in
 - Economical Ideas 
 - Social Ideas 
 
-- [[Individualism|Individualism]] 
+- [[UPSC/Individualism|Individualism]] 
 - [[UPSC/Utilitarianism|Utilitarianism]] 
 - [[Pleasurism|Pleasurism]](Rights/Liberty)
 
@@ -466,6 +466,16 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 </div></div>
+
+
+---
+>[!Question]
+>1. [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
+>2. [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
+>
+
+
+
 
 
 ---
