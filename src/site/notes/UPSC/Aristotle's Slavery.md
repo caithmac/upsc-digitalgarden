@@ -33,6 +33,9 @@ Aristotle's writes in justification of Slavery
 >[!cite] Each man is an end in itself. No one ought to be treat other person as a means to an end. 
 >~ Immanuel Kant
 
+>[!cite] What is, should not determine what ought to be rather it should be vice-versa. 
+
+
 
 >[!bug] Conclusion
 >- His justification should not be taken as philosophical view but it was out of necessities of time; he was setting the ground for emancipation of slaves. 
