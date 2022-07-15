@@ -34,7 +34,7 @@ Philosophical beliefs of Liberalism automatically leads to a political system in
 - Economical Ideas 
 - Social Ideas 
 
-- [[Individualism|Individualism]] 
+- [[UPSC/Individualism|Individualism]] 
 - [[UPSC/Utilitarianism|Utilitarianism]] 
 - [[Pleasurism|Pleasurism]](Rights/Liberty)
 
