@@ -22,7 +22,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - State is not limited. 
 - Absolutism 
 - Father of Liberalism. 
-- [[John Locke was liberal in and out|John Locke was liberal in and out]]
+- [[UPSC/John Locke was individualist in and out|John Locke was individualist in and out]]
 - Supporter of Parliament
 - Democracy
 - Rights of People
@@ -161,3 +161,9 @@ He further explained state of nature. Human nature is good helpful, people live 
 	- When executive doesnt rule according to legislature 
 	- when govt puts people under foreign rule 
 	- The end of law is not to abolish or restraint but to preserve and enlarge freedom. As per Locke citizens are householders who employ night watchamn to gaurd the house and the citizens remain vigilant to watchman that the 
+
+> [!question]
+> [[UPSC/No Law, No Liberty|No Law, No Liberty]]
+> [[UPSC/Sole purpose for which state is created is protection of property|Sole purpose for which state is created is protection of property]]
+> [[UPSC/John Locke was individualist in and out|John Locke was individualist in and out]]
+
