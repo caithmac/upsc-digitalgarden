@@ -18,7 +18,7 @@
 
 4.Equality: Social, political and economic; relationship between equality and freedom; Affirmative action.
 
-5.Rights: Meaning and theories; different kinds of rights; concept of Human Rights. [[Debates of Asian Value|Debates of Asian Value]]
+5.Rights: Meaning and theories; different kinds of rights; concept of Human Rights. [[UPSC/Debates of Asian Value|Debates of Asian Value]]
 
 6.Democracy: Classical and contemporary theories; different models of democracy-representative, participatory and deliberative. 
 
@@ -100,7 +100,4 @@ Where Course = [[PSIR]]
 
 ---
 
-```dataview 
-Table without ID file.link as "Topic", Source 
-Where Course = [[PSIR]]
-```
+
