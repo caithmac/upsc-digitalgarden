@@ -250,12 +250,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 >- [[Possesive Individualism |Possesive Individualism ]]
 >- [[UPSC/Normative Individualists|Normative Individualists]]
 >- [[UPSC/Positive Law|Positive Law]]
->- 
-
-
-
-
-
+ 
 ---
 ```dataview
 list from [[]]
