@@ -12,7 +12,7 @@
 
 1.Political theory: meaning and approaches.
 
-2.Theories of the state: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[feminist|feminist]].
+2.Theories of the state: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[UPSC/Feminism|Feminism]].
 
 3.Justice: Conceptions of justice with special reference to Rawl's theory of justice and its communitarian critiques.
 
@@ -99,5 +99,3 @@ Where Course = [[PSIR]]
 ```
 
 ---
-
-
