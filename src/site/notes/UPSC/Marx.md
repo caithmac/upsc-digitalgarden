@@ -51,6 +51,8 @@ Background
 4. Capitalism 
 5. Socialism 
 6. Communism 
-7. ]
 
 
+##### State of Marxism 
+
+##### Class Struggle 
