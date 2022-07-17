@@ -472,6 +472,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 >[!Question]
 >1. [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
 >2. [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
+>3. [[UPSC/Discuss the relationship between Liberty and equality are they complementary or contradictory|Discuss the relationship between Liberty and equality are they complementary or contradictory]]
 >
 
 
