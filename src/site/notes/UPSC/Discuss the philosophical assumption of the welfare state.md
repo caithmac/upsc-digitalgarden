@@ -14,3 +14,4 @@ Welfare state can be justified on the following grounds.
 - WS believes in regulated capitalist economy in favor of society. 
 - Unlike the nightwatchman state it has positive character and performs socially useful function. 
 - The welfare state was characterized by continued features [[democracy|democracy]], represented government, [[UPSC/Constitutionalism|constitutionalism]], deliberative legislation and universal franchise.
+- The welfare state doesn't belong to a particular class but to the whole society. 
