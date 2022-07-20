@@ -250,6 +250,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 >- [[Possesive Individualism |Possesive Individualism ]]
 >- [[UPSC/Normative Individualists|Normative Individualists]]
 >- [[UPSC/Positive Law|Positive Law]]
+>- [[Hobbsian sovereign's authority is based on nothing but fear of death and that is why it is moraly binding |Hobbsian sovereign's authority is based on nothing but fear of death and that is why it is moraly binding ]]
+>-
  
 ---
 ```dataview
