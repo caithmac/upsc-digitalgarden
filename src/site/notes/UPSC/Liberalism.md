@@ -276,7 +276,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ###### Critique
 T H Green, Laski, Hobbhouse criticized the idea of limited and negative state and promoted positive and welfare. 
 Positive State; Liberalism has always seen the poor as they if they become poor of their own mistakes. 
-T H Green criticized Classical Liberalism ; Will is the cause of state not the force. 
+T H Green criticized Classical Liberalism ; **Will, not force, is the basis of the state."**
 ###### General Critiscism 
 Classical Liberalism is also considered as philosophy of Capitalist of class. 
 Ideology of urban entrepreneur middle class which later became industrialist and capitalist
