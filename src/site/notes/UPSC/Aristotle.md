@@ -162,7 +162,7 @@ Course: [[UPSC/PSIR|PSIR]]
 
 ---
 
-##### Plato's Argument on Justic
+##### Plato's Argument on Justice
 - Justice is all about performing as per dominant natural trait. 
 - Individual justice as well as collective justice. 
 - Purpose of an individual is to get its highest form/Ideal Format 
@@ -270,7 +270,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 
-##### Plato's Argument on Justic
+##### Plato's Argument on Justice
 - Justice is all about performing as per dominant natural trait. 
 - Individual justice as well as collective justice. 
 - Purpose of an individual is to get its highest form/Ideal Format 
@@ -542,9 +542,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Not talking about Foreigner and Slaves
 			- Only for Freemen; Women and Residents. 
 	- ###### Distributive Justice ^508271
-		- Associcated with distribution of honour 
+		- Associated with distribution of honor 
 		- Distribution of rewards and awards 
-		> Equal should be treated equally and unequals should be treated unequally. 
+		> Equal should be treated equally and unequal  should be treated unequally. 
 
 
 
