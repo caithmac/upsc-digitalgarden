@@ -82,7 +82,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ##### Context 
 On background of RRE, new tendency were emerging in the economic sector, social and political sphere which backed emergence of classical liberalism. 
-Classical Liberalism is thought to be way of life, which supports idea of liberty and equality making human being as an end not means. 
+Classical Liberalism is thought to be way of life, which supports idea of liberty and equality making human being as an end not means. \
+
+Renaissance 
 
 ##### Main Body
 Based on two principle 
