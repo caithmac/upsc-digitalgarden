@@ -49,6 +49,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Even if we agree God did that, then there is a conclusive prove that God has allowed Adam to pass the authority to his son or successor. 
 - There is a problem in identifying who are the real successor. 
 - Locke finally says so much time has passed since supposedly God gave authority to Adam, that the event itself has lost relevance and we need a new contract to establish new rules of authority 
+
 - Locke in his **second treaty of civil Government** explained that 
 >"Man being by nature is all free, equal and independent, no one can be put out of this state, and subjected to political power of an other, without his own consent." 
 
