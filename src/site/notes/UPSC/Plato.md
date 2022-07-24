@@ -269,6 +269,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 #### Criticism of Plato
 ##### Aristotle was his greatest critique
+
+Contemporary 
 - Plato's idea can't be implemented. 
 - Maybe best idea but not applicable idea. 
 - [[UPSC/Plato|Plato]] is sacrificing good for sake of best, which is not applicable. 
