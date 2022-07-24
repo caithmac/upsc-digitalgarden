@@ -129,3 +129,32 @@ Background
 # Mao
 - Antagonostic contradiction
 - Non-antagonistic contradiction
+
+##### Theory of Alineation 
+- With discovery of youn Marx the traditional image of karl marx as an economist politician and socioligist, has now been eclipsed by the picture of him as humanist. In his book, "Economical and Philoshophical Manuscript", Marx presented humanist face of Marxism, he was more concerned about impact of Capitalism over human essence. He examined impact of capitalism in terms of alineation and loss of identity. 
+- Marxist George Lukacs had devepoled Theory of Alination given by marx. 
+- Marx identified three levels of alineation, fourth level is complete mechanization of human being. 
+	- Human being is alinetad from his own product and work process, because worker plays no role in deciding what to produce and how to produce, it also destroy creativity of mankind. 
+	- Only workers are not subject to alineation, but capitalist are too. 
+	- Second Level - Man is alienated from his or her famliy and friends because of capatilaist value of competitivenes force everyone to live at an expanse of others and divide society into antagonistic class. 
+	- Affection Love and closeness of family and social institution gets destroyed by spirit of competitivenes. 
+	- Third Level - Man is alienated from nature. Because of lack of time, destruction of creativity, competitveness and struggle for existence, material satisfaction, alienate him or her from nature. 
+	- Finally alienated man from his own work, family and nature gets alienated from himself and completely gets converted into machines. 
+	- The realm of nescities dominates his life and reduce him to an animal existence. 
+	- The capitalist system subordinates all human faculties and qualities to the condition created by private ownership of capital and property. 
+- Frantz Fanon, TRIED To analyze radical consiousnes and identifed capitalism has completely destroyed normal human consciousnes and lead to radical consciousnes.. 
+- Erichh Formm, he has been described as humanist marxist, neo-fredian He is big critic of modern civikisation and his understanding is known as psycho-political analysis modern capitalist system. In his boo ,'Escape from freedom', he treats modernisation as sole cause of political and social deformation of contemporary world. Security rather than freedom. Concept of indivulity , agressivenes, self assertion, pursuit of power and self worth replace conforism, coordination, conformation and suboridnation. In the modern era of capitalism which led to helplessnes and alineation.   
+- Robert Nisbet - A leading socioligist was worried with problem of man from society. Alineation has been defined by him as " State of mind which can find hope and desire inviting apathy,boredom and even hostility. " He used the word profound dislocations of human being and accused rise of political state as root cause of alineation. 
+- Herbert Marcuse - He identifed that modern capitalism replaced pleasure principle by performance principle based on efficiency. A society or civilisation the individual can give expression to his creative and contemplative impulses and buildup higher form of culture based on harmony between man and nature is destroyed by  capitalistic desire for property, which he called surplus repression. In his book, "One Dimensional Man," he analysed capitalist impact in terms of reducing human personality. Capitalism erects materialistic needs and at the same time market provides solution. One dimensional man has been created through changes in consumption pattern and in the structure of labour force. 
+
+- Economic Determinism 
+- It is theory that suggest that economic forces of society determines, shape and define all political social intellectual and technological aspect of civilsation. 
+- Marx with the idea of class sturggle expressed that societies are divided into competing economic classes. With theor of base and superstructure he further narated that dominant force of society not only control political power but determine social and cultural institution. 
+-  Marxist theory of economic determinism has been critisiced, it is not only the economic factor but other factors are equally important in bringing social change. 
+- If economic determines society, polity and morality value system, then economy itself is shape by these, it is two way process. 
+- Economic forces are not immune to the influences of polity, society,culture, religion, values, norms, if the base saves superstructure , then superstructure also saves base. 
+- Fukuyama, rejected marxist theory but identified two major application of it, 
+- It has been used as tool of social analysis 
+- It gives voice to voiceless, voice of poor, oppressed people. 
+- Karl Popper, 'Open Society and its enemy', criticised, Plato, Hegel and Marx. Accordding to Popper, Marx created the myth of class war and violent revolution. In Popper's view all these false prophet were advocate of close society that supresses free speech, equal rights and critical delibration. He further argued that science and freedom only flourished in open society and not  close society. 
+- 
