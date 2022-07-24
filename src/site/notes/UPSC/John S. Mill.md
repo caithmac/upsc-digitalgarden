@@ -125,7 +125,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 
 >[!Question]
->[[Discuss Wayper criticism of Mill as reluctant democrat|Discuss Wayper criticism of Mill as reluctant democrat]]
->[[Mill's criticism of Democracy is genuine concern for democracy |Mill's criticism of Democracy is genuine concern for democracy ]]
+>- [[UPSC/Discuss Wayper criticism of Mill as reluctant democrat|Discuss Wayper criticism of Mill as reluctant democrat]]
+>- [[Mill's criticism of Democracy is genuine concern for democracy |Mill's criticism of Democracy is genuine concern for democracy ]]
+
 
 [^1]: https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf
