@@ -12,10 +12,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Substantive Equality - State is to promote equality by welfare action.
 	- Idea of free legal aid. 
 	- Reservation 
-	- Towards equality of Opporunity 
+	- Towards equality of Opportunity 
 
 - Complex Equality - Walzer,
 	- Unequal treatment but also equal treatment 
-	- Varies as per different aspect of human treatement. 
+	- Varies as per different aspect of human treatment. 
 
 
