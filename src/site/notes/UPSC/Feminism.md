@@ -15,7 +15,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 - Feminism began as social movement in late 18th century primary discussing 
-	- Women are soicaly-politicaly-economicaly disadvantageous position 
+	- Women are socially-politically-economically disadvantageous position 
 	- There is discrimination each and every part of life. 
 	- Social and economic forces are led by men and has adverse impact over women. 
 - The word feminism refers an intense awareness of identity as women. 
@@ -35,7 +35,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Right to property 
 - Right to Education 
 - Right to vote
-- Marry Wollsoncraft, Maria Steward, Molly Yard, The Grimik Sisters.
+- Marry Wollstonecraft, Maria Steward, Molly Yard, The Gramick Sisters.
 - In the first wave after the publication of Vindication of Women, demand of social economic and political right gradually increased. 
 - 1860-1920 women's liberation movement was highly focused on civil economic and political rights. 
 - Seneca Falls convention 
