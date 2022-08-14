@@ -8,7 +8,7 @@ Date:: 2022-07-11
 Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
-Background
+#### Background
 - Rise of liberal ideologies.
 - Led to complete transformation of feudal system. 
 - Industrial Revolution, capitalist class rise. 
@@ -43,7 +43,6 @@ Background
 ##### Materialism 
 - Is the base of evolution and development because of material; forces 
 - Not because of ideas 
-- 
 
 1. Primitive Communism
 2. Master-Slave
@@ -64,7 +63,6 @@ Background
 
 - [[Dialectic materialism|Dialectic materialism]]
 
-
 ##### Social Aspect of Marxism 
 - Class sturggle. 
 ##### Economic Aspect 
@@ -76,18 +74,40 @@ Background
 - Theory of alienation 
 ##### Philosophical 
 - Theory of Dialectics 
+---
 
 
-### Marxist Conception of State
+### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Marxist Conception of State
+Date:: 2022-08-03
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+
+## Marxist Conception of State
 - State is an instrument of exploitation. 
 - How state came into being 
 	- Came into being at stage of  history in order to maintain domination of captialist class. 
 - Function of state is always exxplotive. 
 - Always use security to maintain domination of captialist class. 
 - After the revolution state is in control of worker class and it will be used to stop counter revolution. As state is an instrument of exploitation, there will be no need of state after communism. State will wither away. 
-- As per marx, state is a reflection of dominant force or class. 
+- As per [[UPSC/Marx|marx]], state is a reflection of dominant force or class. 
 - State is an organized corcive and opperesive power. 
 - State is an executive committee of bourgesie. The primary task is to provide law and order and establish stablise maintain existing economic relationship. 
+
+</div></div>
+
+
 
 #### Theory of Revolution 
 - As per Marx, revolution is progressive in nature. 
@@ -126,7 +146,7 @@ Background
  - Marxist revolution can only make people to take a leap from kingdom of nesceiety to kingdom of freedom. Human essence could be only realised only when the captialism will be routed out and communism is established. 
 
 
-# Mao
+##### Mao
 - Antagonostic contradiction
 - Non-antagonistic contradiction
 
@@ -147,7 +167,7 @@ Background
 - Robert Nisbet - A leading socioligist was worried with problem of man from society. Alineation has been defined by him as " State of mind which can find hope and desire inviting apathy,boredom and even hostility. " He used the word profound dislocations of human being and accused rise of political state as root cause of alineation. 
 - Herbert Marcuse - He identifed that modern capitalism replaced pleasure principle by performance principle based on efficiency. A society or civilization the individual can give expression to his creative and contemplative impulses and buildup higher form of culture based on harmony between man and nature is destroyed by  capitalistic desire for property, which he called surplus repression. In his book, "One Dimensional Man," he analysed capitalist impact in terms of reducing human personality. Capitalism erects materialistic needs and at the same time market provides solution. One dimensional man has been created through changes in consumption pattern and in the structure of labour force. 
 
-- Economic Determinism 
+##### Economic Determinism 
 - It is theory that suggest that economic forces of society determines, shape and define all political social intellectual and technological aspect of civilsation. 
 - Marx with the idea of class sturggle expressed that societies are divided into competing economic classes. With theor of base and superstructure he further narated that dominant force of society not only control political power but determine social and cultural institution. 
 -  Marxist theory of economic determinism has been critisiced, it is not only the economic factor but other factors are equally important in bringing social change. 
