@@ -90,9 +90,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Kate Millet describe patriarchal government whereby the halve of population which is female is controlled by half of population that is male. 
 - Patriarchy leads to control over labor of women all the technical works are assigned to men on the other hand the domestic and unpaid work has been assigned to women. 
 - It is the basis of structure of family social institution and other economic and political institution which ultimately result in subjugation of women. 
-
-
-
 - Most of anti-feminist argue that gender division in society is natural; women and men simply fulfil social role that nature designed them for. A women physical and anatomical makeup suits her as subordinate and domestic role in society. 
 - Biology is destiny. 
 - The biological factor determines nature inclination prefernces and over all role of men in society, therefore existing division, matters.
@@ -100,8 +97,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Sex refers to biological difference between male and female these difference are unalterable. 
 - Gender on the other hand is cultural role that society ascribe to man and women. 
 - Gender difference is imposed thorough masculanity.
-- pATRIARCHIAL IDEA BLUR THE distinction b/w gender and sex, the difference is based on biology. 
+- PATRIARCHIAL IDEA BLUR THE distinction b/w gender and sex, the difference is based on biology. 
 - Femisnist believe that there is no logical link b/w sexx and gender. Gender difference are socialy connecte. 
+
 >Women are not born but made. 
 
 - [[Personal is political|Personal is political]]
