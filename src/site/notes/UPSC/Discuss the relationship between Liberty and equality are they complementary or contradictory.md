@@ -32,7 +32,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 > Barker; claims made for equality can not be viewd in isolation for principle stands by principle of lberty and fraternity. 
 
-Major supporters of this viewpoints were; [[UPSC/Rousseau|Rousseau]]; Matland, TH Green; [[Hobbhouse|Hobbhouse]], RH Tawney, [[Barker|Barker]], Laski, Macpherson.
+Major supporters of this viewpoints were; [[UPSC/Rousseau|Rousseau]]; Matland, TH Green; [[UPSC/Hobbhouse|Hobbhouse]], RH Tawney, [[Barker|Barker]], [[UPSC/Laski|Laski]], Macpherson.
 
 
 
