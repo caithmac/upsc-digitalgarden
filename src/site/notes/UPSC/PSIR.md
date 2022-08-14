@@ -12,7 +12,7 @@
 
 1.Political theory: meaning and approaches.
 
-2.Theories of the state: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[UPSC/Feminism|Feminism]].
+2.[[UPSC/Theories of the state|Theories of the state]]: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[UPSC/Feminism|Feminism]].
 
 3.Justice: Conceptions of justice with special reference to Rawl's theory of justice and its communitarian critiques.
 
@@ -24,13 +24,14 @@
 
 7.Concept of power: hegemony, ideology and legitimacy.
 
-8.Political Ideologies: [[UPSC/Liberalism|Liberalism]], Socialism, Marxism, Fascism, Gandhism and Feminism.
+8.Political Ideologies: [[UPSC/Liberalism|Liberalism]], [[UPSC/Socialism|Socialism]], Marxism, Fascism, Gandhism and [[UPSC/Feminism|Feminism]].
 
 9.Indian Political Thought: _Dharamshastra, Arthashastra_ and Buddhist traditions; Sir Syed Ahmed Khan, Sri Aurobindo, M.K. Gandhi, B.R. Ambedkar, M.N. Roy.
 
 10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, [[UPSC/Thomas Hobbes|Thomas Hobbes]], [[UPSC/John Locke|John Locke]], [[UPSC/John S. Mill|John S. Mill]], [[UPSC/Marx|Marx]], [[UPSC/Gramsci|Gramsci]], Hannah Arendt. ^b6782c
 
-Extra - [[UPSC/Rousseau|UPSC/Rousseau]] 
+Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]] 
+
 ### **Indian Government and politics**
 
 1.  **Indian Nationalism:** 
@@ -99,3 +100,9 @@ Where Course = [[PSIR]]
 ```
 
 ---
+### Sources
+```dataview
+Table without ID file.link as "Topic", Source
+From #optional 
+Sort date ASCENDING
+```
