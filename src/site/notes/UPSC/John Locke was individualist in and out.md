@@ -3,7 +3,7 @@
 ---
 
 ----
-Topic:: John Locke was individualist in and out
+Topic:: [[UPSC/John Locke|John Locke]] was individualist in and out
 Date:: 2022-07-13
 Course:: [[UPSC/PSIR|PSIR]] 
 
@@ -17,4 +17,3 @@ Reasons why Locke is an individualist in an out
 - He also creates civil societies as intermediate institution only for the convenience of individual 
 - Political authority was not absolute he gives the right to resistance. He also provides freedom of right of religion but in limited sense. 
 - Macpherson in the 'Political theory of possessive individualism', termed the right to property as typical expression of possessive individualism. 
-- 
