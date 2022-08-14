@@ -16,7 +16,7 @@ Tags: #pillar4
 ### Notes
 - [[Capitalism|Capitalism]]
 - [[Mixed-Economy|Mixed-Economy]]
-- [[Socialism|Socialism]]
+- [[UPSC/Socialism|Socialism]]
 - [[closed economy|closed economy]]
 - [[open economy|open economy]]
 - 
