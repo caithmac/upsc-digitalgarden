@@ -40,6 +40,6 @@ Inequality is more based on economy.
 ###### Support
 ###### Opposition 
 ##### Conclusion
-- Next phase was Modern Liberalism 
+- Next phase was [[Modern Liberalism |Modern Liberalism ]]
 
 
