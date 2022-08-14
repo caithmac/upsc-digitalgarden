@@ -71,9 +71,9 @@ Identify benefit/profit/loss
    - Rise of liberalism 
 - Liberalism was destructive in its early phase. 
 
-1. Classical Liberalism  - Industrial Revolution to 1950
-2. Modern Liberalism - 1950 - 1980
-3. Neo Liberalism - 1980 - present
+1. [[UPSC/Classic Liberalism|Classic Liberalism]] - Industrial Revolution to 1950
+2. [[UPSC/Modern Liberalism|Modern Liberalism]] - 1950 - 1980
+3. [[UPSC/Neo-Liberalism|Neo-Liberalism]] - 1980 - present
 
 ###### Economics 
 - Method of production was conventional (Agriculture)''
@@ -90,16 +90,24 @@ Identify benefit/profit/loss
 
 
 ## Liberalism 
-Liberalism is dynamic and flexible concept which is difficult to define. Right from its inception it has been consistently changing, adding and discarding something. Alblaster writes liberalism should be seen not as fixed and absolute term but as historical moment that keeps on changing. Laski it is hardly less a habit of mind than a body of doctrine. Richar Welleim; Liberalism is a belief in the value of liberty of Individual. Grim write Liberalism it represents a system of ideas that aim at realization of pluralist society favoring diversity of politics, economics, religion and other cultural life. 
+Liberalism is dynamic and flexible concept which is difficult to define. Right from its inception it has been consistently changing, adding and discarding something. 
 
-Barbara Godwin in her book "Using Political Ideas" identified 7 features of liberalism. 
-1. Human being is a free, rational, self improving and autonomous entity.
-2. Government is based on consent and contract 
-3. [[UPSC/Constitutionalism|Constitutionalism]] and [[UPSC/Rule of Law|Rule of Law]] 
-4. Freedom as choice which includes right to choose government from among different representatives. 
-5. Equality of opportunity 
-6. Social justice based upon merit and tolerance 
-7. Tolerance 
+> Alblaster writes" liberalism should be seen not as fixed and absolute term but as historical moment that keeps on changing". 
+
+>[[UPSC/Laski|Laski]]- "it is hardly less a habit of mind than a body of doctrine". 
+
+>Richar Welleim; "Liberalism is a belief in the value of liberty of Individual". 
+
+>Grim write "Liberalism it represents a system of ideas that aim at realization of pluralist society favoring diversity of politics, economics, religion and other cultural life". 
+
+> [!bug] Barbara Godwin in her book "Using Political Ideas" identified 7 features of liberalism. 
+> 1. Human being is a free, rational, self improving and autonomous entity.
+> 2. Government is based on consent and contract 
+> 3. [[UPSC/Constitutionalism|Constitutionalism]] and [[UPSC/Rule of Law|Rule of Law]] 
+> 4. Freedom as choice which includes right to choose government from among different representatives. 
+> 5. Equality of opportunity 
+> 6. Social justice based upon merit and tolerance 
+> 7. Tolerance 
 
 ---
 
@@ -221,7 +229,7 @@ Inequality is more based on economy.
 ###### Support
 ###### Opposition 
 ##### Conclusion
-- Next phase was Modern Liberalism 
+- Next phase was [[Modern Liberalism |Modern Liberalism ]]
 
 
 
@@ -272,17 +280,17 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Liberal's slogan is "The government is best which governs the least"
 -  [[UPSC/John Locke|John Locke]] confined the function of state to protect the Natural Rights. 
 - Hobbes State will ensure right to life of person
-- I Berlin supported that states function should be minimum that too only protect negative liberty 
+-[[ I Berlin| I Berlin]] supported that states function should be minimum that too only protect negative liberty 
 - Adam Smith restricted state must not interfere in economic affairs and must not try to reorder it. 
 - Apart from above scholars; all the Neo-Liberals also supported minimal role of state. 
 ###### Critique
-T H Green, Laski, Hobbhouse criticized the idea of limited and negative state and promoted positive and welfare. 
+[[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[UPSC/Hobbhouse|Hobbhouse]] criticized the idea of limited and negative state and promoted positive and welfare. 
 Positive State; Liberalism has always seen the poor as they if they become poor of their own mistakes. 
-T H Green criticized Classical Liberalism ; **Will, not force, is the basis of the state."**
+[[UPSC/T H Green|T H Green]] criticized Classical Liberalism ; **Will, not force, is the basis of the state."**
 ###### General Critiscism 
 Classical Liberalism is also considered as philosophy of Capitalist of class. 
 Ideology of urban entrepreneur middle class which later became industrialist and capitalist
-Laski commented : The purpose of the Capitalist was to free owners of means of production from all those constraints which hampered complete economic exploitations 
+[[UPSC/Laski|Laski]] commented : The purpose of the Capitalist was to free owners of means of production from all those constraints which hampered complete economic exploitations 
 
 
 
@@ -320,13 +328,13 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### Positive Liberalism/Welfare State
 - Emerged after evaluating exploitative impact of [[UPSC/Classic Liberalism|Classic Liberalism]]
 - Industrial Revolution backed by [[UPSC/Classic Liberalism|Classic Liberalism]] led to high inequality, inhuman working condition and overall complete deterioration of human life. 
-- [[Socialism|Socialism]] , [[Marxism|Marxism]] promoted idea of [[UPSC/Justice|Justice]] available to every and each society. 
-- Due to this immense pressure a new form of liberalism, [[Positive Liberty|Positive Liberty]]/ Welfare State/ [[UPSC/Modern Liberalism|Modern Liberalism]]
-- [[T H Green|T H Green]], [[Laski|Laski]], [[Bosanquet|Bosanquet]], [[Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
+- [[UPSC/Socialism|Socialism]] , [[Marxism|Marxism]] promoted idea of [[UPSC/Justice|Justice]] available to every and each society. 
+- Due to this immense pressure a new form of liberalism, [[UPSC/Positive Liberty|Positive Liberty]]/ Welfare State/ [[UPSC/Modern Liberalism|Modern Liberalism]]
+- [[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[Bosanquet|Bosanquet]], [[UPSC/Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
 
 ###### Justification for Welfare State
 - Man is a part of social whole and liberty could be secured only so long as they could be reconciled with social good. 
-- Liberty of a person should be compromised for social good. Led to emergence of [[Positive Liberty|Positive Liberty]](restrictive liberty in favor of social good)
+- Liberty of a person should be compromised for social good. Led to emergence of [[UPSC/Positive Liberty|Positive Liberty]](restrictive liberty in favor of social good)
 - Societies are considered potentially harmonious and ordered structure in which all social classes work for the common good. There is a societal good apart from thus individual good can not be achieved without social good.. Led to emergence of compromising individual liberty in favor of society which extended role of state. 
 - Liberty in the society implied adjustment of mutual claims that are made possible through a system of rights. In order to adjust mutual claims state has to play a positive role by restriction and extension on liberty. 
 - Liberty was not merely absence of restraint but condition necessary for free and full development of self(self development holds a purpose). State helped to achieve that purpose with restriction and extension of liberty. 
@@ -337,7 +345,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 - Led to new urban town
 - Rejected [[UPSC/Negative Liberty|Negative Liberty]] 
-- Supported [[Positive Liberty|Positive Liberty]]
+- Supported [[UPSC/Positive Liberty|Positive Liberty]]
 - Enhance role of state. 
 - Formal Equality 
 - [[UPSC/Procedural Justice|Procedural Justice]]
@@ -408,7 +416,23 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
    - In third phase major world economic and non-economic institution are discussing the problem of governance. 
    - State mechanism should be more focused on delivering prescribed services rather than socio economic sphere of life. 
 
-##### State
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Neo- Liberalism State
+Date:: 2022-08-03
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+##### Neo- Liberalism State
 - State should be minimal state and must be limited to function of providing security against force theft fraud at the same time enforcement of contract.  
 - State must be there to promote the interest of everyone mainly in economic terms. 
 - Neo-Liberals support workfare state against welfare state. 
@@ -436,6 +460,13 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 > 8. He further argued that there is substantial difference between people's talent and skill. Any effort to bring equality other than equality of opportunity will bring inequality. 
 > 9. Any attempt to bring equality other than equality of opportunity can not be done without force and will lead to limitation on liberty. States attempt to bring equality other than equality of opportunity is coercive in nature and will deprive person of liberty and freedom. 
 > 10. Social Justice is a mirage.
+
+
+
+
+
+</div></div>
+
 
 ##### Criticism of Neo-Liberalism 
 - 
