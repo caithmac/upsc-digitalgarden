@@ -45,7 +45,23 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
    - In third phase major world economic and non-economic institution are discussing the problem of governance. 
    - State mechanism should be more focused on delivering prescribed services rather than socio economic sphere of life. 
 
-##### State
+##### 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+----
+Topic:: Neo- Liberalism State
+Date:: 2022-08-03
+Course:: [[UPSC/PSIR|PSIR]] 
+
+----
+##### Neo- Liberalism State
 - State should be minimal state and must be limited to function of providing security against force theft fraud at the same time enforcement of contract.  
 - State must be there to promote the interest of everyone mainly in economic terms. 
 - Neo-Liberals support workfare state against welfare state. 
@@ -73,6 +89,13 @@ Idea of Neo Liberalism was well promoted by Hayek, Friedman, Aynrand, Robert Noz
 > 8. He further argued that there is substantial difference between people's talent and skill. Any effort to bring equality other than equality of opportunity will bring inequality. 
 > 9. Any attempt to bring equality other than equality of opportunity can not be done without force and will lead to limitation on liberty. States attempt to bring equality other than equality of opportunity is coercive in nature and will deprive person of liberty and freedom. 
 > 10. Social Justice is a mirage.
+
+
+
+
+
+</div></div>
+
 
 ##### Criticism of Neo-Liberalism 
 - 
