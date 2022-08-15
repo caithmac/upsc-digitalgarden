@@ -165,7 +165,7 @@ Philosophical beliefs of Liberalism automatically leads to a political system in
 	- Under broader frame of law. 
 	- Maintain Law and Order
 - [[Limited State|Limited State]] / Minimal State 
-- [[Formal Equality|Formal Equality]]
+- [[UPSC/Formal Equality|Formal Equality]]
 - [[UPSC/State is necessary evil|State is necessary evil]] 
 
 ### Thinkers of Classical Liberalism 
