@@ -14,9 +14,9 @@
 
 2.[[UPSC/Theories of the state|Theories of the state]]: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[UPSC/Feminism|Feminism]].
 
-3.Justice: Conceptions of justice with special reference to Rawl's theory of justice and its communitarian critiques.
+3. Conceptions of justice with special reference to Rawl's theory of justice and its communitarian critiques.
 
-4.Equality: Social, political and economic; relationship between equality and freedom; Affirmative action.
+4.[[UPSC/Equalityy|Equalityy]]: Social, political and economic; relationship between equality and freedom; Affirmative action.
 
 5.Rights: Meaning and theories; different kinds of rights; concept of Human Rights. [[UPSC/Debates of Asian Value|Debates of Asian Value]]
 
