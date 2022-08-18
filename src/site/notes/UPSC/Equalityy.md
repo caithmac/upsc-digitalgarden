@@ -82,3 +82,26 @@ Course:: [[UPSC/PSIR|PSIR]]
 			- Equality is moral value 
 			- Is social idea
 			- Is political idea
+		- There is undeniable differences among people in terms of trait, abilities and circumstances. 
+		- There can not ever be equality in empirical terms. This could be only in format of ideals. 
+		- He further argued that normative ideal of equality should be the basis of society of equal. 
+			- Not in emperical sense. 
+		- For him, the basic question of political philosophy what it is for people to relate as equals, what so of - social, political and economic institution, are appropriate to such society. 
+
+ ##### Priority view of Derek Parfit 
+ - He accept equality in format of value of redistribution and he proposed how redistribution should work categorising it in line of priority. 
+ - He eastablishes his view of game of person effective claim. 
+	 - Position A : A and B are equal. 
+	 - Position 2 : A has worked hard and has risen above B 
+	 - Position 3 : By leveling down A is again brought down to level of B. 
+ - He further argued in different game that there should be priority of compensation, he identified three category to be compensated. 
+	 - Category 1: Those who are worse off in life as a whole. 
+	 - Category 2: Those who are worse off at the time. 
+	 - Category 3: Those who have need that are moraly urgent. 
+#####  Harry Frankfurt Doctrine of Sufficency
+- He created new debate by introducing radical moral view that, eggelaterian concern should be sufficiency not equality. In his article, equality as moral idea, he as criticized economic egalataranism on basis of hollow effect. 
+- He makes a claim that his doctrine of sufficiency provides an alternative to egalataranism. 
+- Economic equality is imposible because people conceptualis equality as per their individual nature and circumstances. He further argues that equality is imposible task as it can not be achieved through material possesion,. For him what is important from point of view of morality is not that everyone should have same but that each should have enough. And enough is essentialy associated with the basic need. 
+
+
+>[!question] 
