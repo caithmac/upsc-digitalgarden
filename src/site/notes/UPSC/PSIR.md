@@ -22,7 +22,7 @@
 
 6.Democracy: Classical and contemporary theories; different models of democracy-representative, participatory and deliberative. 
 
-7.Concept of power: hegemony, ideology and legitimacy.
+7.[[UPSC/Concept of power|Concept of power]]: hegemony, ideology and legitimacy.
 
 8.Political Ideologies: [[UPSC/Liberalism|Liberalism]], [[UPSC/Socialism|Socialism]], Marxism, Fascism, Gandhism and [[UPSC/Feminism|Feminism]].
 
