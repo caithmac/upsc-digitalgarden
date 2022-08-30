@@ -71,8 +71,19 @@
 >- Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments.	2014
 >- Male membership needs to be encouraged in order to make women’s organization free from gender bias. Comment.	2013
 
-```dataview
-Table without ID file.link as "Topic", Source
-Where Course = [[Social Science]]
-Sort date ASCENDING
-```
+| Topic                                                                                                  | Source  |
+| ------------------------------------------------------------------------------------------------------ | ------- |
+| [[UPSC/Caste System.md\|Caste System]]                                                                 | SOC1    |
+| [[UPSC/Communalism.md\|Communalism]]                                                                   | SOC1B   |
+| [[UPSC/Diversity in India.md\|Diversity in India]]                                                     | SOC1    |
+| [[UPSC/Evolution of Communism.md\|Evolution of Communism]]                                             | SOC1B   |
+| [[UPSC/Family in India.md\|Family in India]]                                                           | SOC1    |
+| [[UPSC/Marriage.md\|Marriage]]                                                                         | SOC1    |
+| [[UPSC/Salient features of Indian Society.md\|Salient features of Indian Society]]                     | SOC1    |
+| [[UPSC/Secularism.md\|Secularism]]                                                                     | SOC1D   |
+| [[UPSC/Regionalism.md\|Regionalism]]                                                                   | SOC1C   |
+| [[UPSC/Reorganization of states on linguistic basis.md\|Reorganization of states on linguistic basis]] | SOC1    |
+| [[UPSC/Education-Employment Trade off.md\|Education-Employment Trade off]]                             | onlyias |
+| [[UPSC/Maternity Aspect.md\|Maternity Aspect]]                                                         | onlyias |
+| [[UPSC/Role of women and women’s organisation.md\|Role of women and women’s organisation]]             | SOC2    |
+
