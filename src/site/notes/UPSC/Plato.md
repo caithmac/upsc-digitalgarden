@@ -361,9 +361,17 @@ While Popper's critique of Plato is not without merit the philosophical defense 
 </div></div>
 
 ---
-```dataview 
-list from [[]]
-```
+- [[UPSC/Aristotle's Property|Aristotle's Property]]
+- [[UPSC/Aristotle|Aristotle]]
+- [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/Greek Political Thinkers|Greek Political Thinkers]]
+- [[UPSC/Karl Popper|Karl Popper]]
+- [[UPSC/Marx|Marx]]
+- [[UPSC/PSIR|PSIR]]
+- [[UPSC/Plato has kept Socrates alive|Plato has kept Socrates alive]]
+- [[UPSC/State is individual writ large|State is individual writ large]]
+- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+
 
 
 
@@ -432,6 +440,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 > - [[UPSC/Aristotle describes revolution well but does not want it|Aristotle describes revolution well but does not want it]]
 
 ---
-```dataview 
-list from [[]]
-```
+- [[UPSC/Aristotle's Property|Aristotle's Property]]
+- [[UPSC/Aristotle|Aristotle]]
+- [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/Greek Political Thinkers|Greek Political Thinkers]]
+- [[UPSC/Karl Popper|Karl Popper]]
+- [[UPSC/Marx|Marx]]
+- [[UPSC/PSIR|PSIR]]
+- [[UPSC/Plato has kept Socrates alive|Plato has kept Socrates alive]]
+- [[UPSC/State is individual writ large|State is individual writ large]]
+- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+
