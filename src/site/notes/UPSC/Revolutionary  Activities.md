@@ -9,13 +9,9 @@ Date: 2022-06-02
 Course: [[UPSC/History|History]]
 Tags:
 Backlinks 
-```dataview
+- [[UPSC/Revolutionary  Activities|Revolutionary  Activities]]
+- [[UPSC/Political Aspect|Political Aspect]]
 
-list from [[]]
-
-sort file.ctime desc
-
-```
 
 ----
 
