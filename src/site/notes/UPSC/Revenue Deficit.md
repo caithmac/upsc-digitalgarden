@@ -27,11 +27,7 @@ Tags: #Pillar2
 
 --- 
 ###### Backlinks
-```dataview
+- [[UPSC/Types of Deficits|Types of Deficits]]
+- [[UPSC/Economy|Economy]]
 
-list from [[]]
-
-sort file.ctime desc
-
-```
 ---
