@@ -342,9 +342,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ---
-```dataview
-list from [[]]
-```
+- [[UPSC/Aristotle's Justice|Aristotle's Justice]]
+- [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/PSIR|PSIR]]
+- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+
 
 
 </div></div>
@@ -644,6 +646,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 >- [[UPSC/Law is reason without passion|Law is reason without passion]]
 >- 
 --- 
-```dataview 
-list from [[]]
-```
+- [[UPSC/Aristotle's Justice|Aristotle's Justice]]
+- [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/PSIR|PSIR]]
+- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+
