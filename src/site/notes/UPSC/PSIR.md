@@ -10,25 +10,25 @@
 
 ### Political Theory and Indian Politics:
 
-1.Political theory: meaning and approaches.
+1. Political theory: meaning and approaches.
 
-2.[[UPSC/Theories of the state|Theories of the state]]: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[UPSC/Feminism|Feminism]].
+2. [[UPSC/Theories of the state|Theories of the state]]: [[UPSC/Liberalism|Liberalism]], [[UPSC/Neo-Liberalism|Neo-Liberalism]], Marxist, Pluralist, Post-colonial and [[UPSC/Feminism|Feminism]].
 
 3. Conceptions of justice with special reference to Rawl's theory of justice and its communitarian critiques.
 
-4.[[UPSC/Equalityy|Equalityy]]: Social, political and economic; relationship between equality and freedom; Affirmative action.
+4. [[UPSC/Equalityy|Equalityy]]: Social, political and economic; relationship between equality and freedom; Affirmative action.
 
-5.Rights: Meaning and theories; different kinds of rights; concept of Human Rights. [[UPSC/Debates of Asian Value|Debates of Asian Value]]
+5. Rights: Meaning and theories; different kinds of rights; concept of Human Rights. [[UPSC/Debates of Asian Value|Debates of Asian Value]]
 
-6.Democracy: Classical and contemporary theories; different models of democracy-representative, participatory and deliberative. 
+6. Democracy: Classical and contemporary theories; different models of democracy-representative, participatory and deliberative. 
 
-7.[[UPSC/Concept of power|Concept of power]]: hegemony, ideology and legitimacy.
+7. [[UPSC/Concept of power|Concept of power]]: hegemony, ideology and legitimacy.
 
-8.Political Ideologies: [[UPSC/Liberalism|Liberalism]], [[UPSC/Socialism|Socialism]], Marxism, Fascism, Gandhism and [[UPSC/Feminism|Feminism]].
+8. Political Ideologies: [[UPSC/Liberalism|Liberalism]], [[UPSC/Socialism|Socialism]], Marxism, Fascism, Gandhism and [[UPSC/Feminism|Feminism]].
 
-9.Indian Political Thought: _Dharamshastra, Arthashastra_ and Buddhist traditions; Sir Syed Ahmed Khan, Sri Aurobindo, M.K. Gandhi, B.R. Ambedkar, M.N. Roy.
+9. Indian Political Thought: _Dharamshastra, Arthashastra_ and Buddhist traditions; Sir Syed Ahmed Khan, Sri Aurobindo, M.K. Gandhi, B.R. Ambedkar, M.N. Roy.
 
-10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, [[UPSC/Thomas Hobbes|Thomas Hobbes]], [[UPSC/John Locke|John Locke]], [[UPSC/John S. Mill|John S. Mill]], [[UPSC/Marx|Marx]], [[UPSC/Gramsci|Gramsci]], Hannah Arendt. ^b6782c
+10.Western Political Thought: [[UPSC/Plato|Plato]], [[UPSC/Aristotle|Aristotle]], Machiavelli, [[UPSC/Thomas Hobbes|Thomas Hobbes]], [[UPSC/John Locke|John Locke]], [[UPSC/John S. Mill|John S. Mill]], [[UPSC/Marx|Marx]], [[UPSC/Gramsci|Gramsci]], [[UPSC/Hannah Arendt|Hannah Arendt]]. ^b6782c
 
 Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]] 
 
