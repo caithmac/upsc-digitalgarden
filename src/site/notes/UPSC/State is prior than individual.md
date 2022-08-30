@@ -20,8 +20,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 
-```dataview
-list from [[]]
+- [[UPSC/Aristotle's State|Aristotle's State]]
+- [[UPSC/State exist for sake of good life and not for life only|State exist for sake of good life and not for life only]]
+- [[UPSC/Thomas Hobbes|Thomas Hobbes]]
 
-```
 
