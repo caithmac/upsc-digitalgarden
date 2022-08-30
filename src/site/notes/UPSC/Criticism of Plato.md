@@ -102,7 +102,6 @@ While Popper's critique of Plato is not without merit the philosophical defense 
 </div></div>
 
 ---
-```dataview 
-list from [[]]
-```
+- [[UPSC/Plato|Plato]]
+
 
