@@ -12,6 +12,11 @@ Course:: [[UPSC/Social Science|Social Science]]
 
 >_“It is impossible to think about the welfare of the world unless the condition of women is improved. It is impossible for a bird to fly on only one wing.” —_ **Swami Vivekananda.**
 
+> “The wife inspires or retards the husband;the mother makes or mars the child." - Annie Besant
+
+>“The wife inspires or retards the husband;the mother makes or mars the child. The power of women to uplift...or debase man is practically unlimited and man and woman must walk forward hand-in-hand to the raising of India,elses he will never be raised at all...out of our schools and colleges shall grow the India of the future...the battle for the education of girls is just beginning and may Ishwara bless those who are vanguard and all beneficent powers enlighten their minds and strengthen their hearts...,” read extracts from her speech, ‘The EducationofIndianGirls’
+
+
 - Status of women has changed over the span of recorded history. 
 - From participating in Nationalist Movements to being pushed into the domestic household space, to their resurgence as super-women today, women in our country have seen it all. 
 - Women rights have raise under the law, but in practice they continue to suffer from discrimination, harassment and humiliation. 
