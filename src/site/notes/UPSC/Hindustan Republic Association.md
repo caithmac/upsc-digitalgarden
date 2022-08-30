@@ -9,13 +9,8 @@ Date: 2022-06-02
 Course: [[UPSC/Modern History|Modern History]]
 Tags:
 Backlinks 
-```dataview
+- [[UPSC/Revolutionary  Activities|Revolutionary  Activities]]
 
-list from [[]]
-
-sort file.ctime desc
-
-```
 
 ----
 
