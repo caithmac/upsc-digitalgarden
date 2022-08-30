@@ -297,9 +297,9 @@ Ideology of urban entrepreneur middle class which later became industrialist and
 </div></div>
 
 ---
-```dataview 
-list from [[]]
-```
+- [[UPSC/Multiculturism|Multiculturism]]
+- [[UPSC/PSIR|PSIR]]
+
 
 
 </div></div>
@@ -513,6 +513,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ---
-```dataview
-list from [[]]
-```
+- [[UPSC/Multiculturism|Multiculturism]]
+- [[UPSC/PSIR|PSIR]]
+
