@@ -9,13 +9,9 @@ Date: 2022-06-02
 Course: [[UPSC/Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]]
 Tags:
 Backlinks 
-```dataview
+- [[UPSC/President|President]]
+- [[UPSC/Emergency Provisions|Emergency Provisions]]
 
-list from [[]]
-
-sort file.ctime desc
-
-```
 
 ----
 
