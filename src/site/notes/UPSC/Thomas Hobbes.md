@@ -255,6 +255,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 >
  
 ---
-```dataview
-list from [[]]
-```
+- [[UPSC/Classic Liberalism|Classic Liberalism]]
+- [[UPSC/Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke]]
+- [[UPSC/Methodological Individualist|Methodological Individualist]]
+- [[UPSC/Normative Individualists|Normative Individualists]]
+- [[UPSC/PSIR|PSIR]]
+
