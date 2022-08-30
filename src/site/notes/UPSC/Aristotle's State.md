@@ -37,6 +37,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ---
-```dataview
-list from [[]]
-```
+- [[UPSC/Aristotle|Aristotle]]
+
