@@ -27,10 +27,6 @@ Course:: [[UPSC/Economy|Economy]]
 
 ---
 Backlinks
-```dataview
+- [[UPSC/Taxation and Fiscal Capacity|Taxation and Fiscal Capacity]]
+- [[UPSC/Economy|Economy]]
 
-list from [[]]
-
-sort file.ctime desc
-
-```
