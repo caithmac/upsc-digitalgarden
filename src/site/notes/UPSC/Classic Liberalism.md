@@ -177,6 +177,8 @@ Ideology of urban entrepreneur middle class which later became industrialist and
 </div></div>
 
 ---
-```dataview 
-list from [[]]
-```
+- [[UPSC/Discuss the relationship between Liberty and equality are they complementary or contradictory|Discuss the relationship between Liberty and equality are they complementary or contradictory]]
+- [[UPSC/John S. Mill|John S. Mill]]
+- [[UPSC/Liberalism|Liberalism]]
+- [[UPSC/Modern Liberalism|Modern Liberalism]]
+
