@@ -37,3 +37,18 @@ Course:: [[UPSC/PSIR|PSIR]]
 - For her action belongs to public realm and it is political phase of ones life, in her words "Men are free as long as they act, neither before or after: far to be free and to act are same thing."
 - Plurality is not only presence of many but engagement of many. 
 - Freedom can not be achived in isolation. Action needs plurality in same way performance artist needs audience. 
+- For her modernity is categroised by loss of world, by which she means restricition or elimination of the public sphere of action. And speech in favour of the private word of introspection and private pursuit of economic interest. 
+- Modernity is age of mass society. 
+- Modernity is leading to blurring the distinction between public and private. Animal Labouran over Humo Faber. 
+- The ideal man is Zonn Politikon. 
+- Modernity is age of beuracratic administration and anonymus labour rather than politics and action. Of elite domination and manipulation of public opinion. 
+- She criticised even capitalism which is root cause of shrinking of public space and expansion of private space. Capitalism lead to economic sphere of life and it covers social as well as political life. 
+
+##### Rise of totalitarianism. 
+- In her book the origin of totlaianarism she analysed rise of hitler and stalin. 
+- She understood totalitaranism in its way of functioning. 
+- She describes totalitarinsim as new form of government as it is different way of political subjugation, despotism, dictatorship, authoritanism use terror to subjugate politcal rivalary, but tolitaranism uses terror to subjugate mass. 
+- Violence is just means but in totalitarianism it become an end in itself an objective in itself. 
+- Totalitarian regime perform violence for sake of violence/ n
+- Tot. get expressed in values, feelings and thought. Other form of govt. might control speech and certain freedom but tot. tries to control our thought and feeling by implanting discrimanatory and violent idea. 
+- Tot. regime use racial superiority or identity based superiority. In tot. state capitalism shift focus on material sphere rather than political sphere. There is gradual decline of public life and more dependecny on beuracrat and technocrat , propoganda, manipulation were the main tool of totalitarainism. and there is complete decline of citizen participation and delibration. 
