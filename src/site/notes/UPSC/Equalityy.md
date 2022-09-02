@@ -57,7 +57,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Dworkin is critical of welfare egglatarian and adequate his theory of Equality of resources, 
 		- When inequality emerge due to uniequal tallent there is no redistributoon to equalise but he believed that justice requires an equal auction from time to time and equality of resiurces is devoted to whole life because we must not allow distrubtion of resources to be endownment sensetive that is being affected by difference principle. 
 	- ###### Equality of capability 
-		- Amartya Sen criticised existing models of understanding of equality. He also criticised measures taken to adress problem of equality. He was convinced of the inadequacy of income inequality, economic and resources equality and even the combination of all three
+		- [[UPSC/Amartya Sen|Amartya Sen]] criticised existing models of understanding of equality. He also criticised measures taken to adress problem of equality. He was convinced of the inadequacy of income inequality, economic and resources equality and even the combination of all three
 		- **Income and economic equality contradict with non-economic circumstances and this inturn, results in inequality.**
 		- He argued that because of parametric variation income resource are material goods do not go hand in hand. 
 		- He identifeid 5 types of parametric variations 
