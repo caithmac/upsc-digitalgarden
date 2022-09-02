@@ -13,7 +13,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - The government approach is centered on electoral procedure, accountability and good government. 
 
 Democracy as value system has been commented by
-- [[Amartya Sen|Amartya Sen]] 
+- [[UPSC/Amartya Sen|Amartya Sen]] 
 > Democracy has instrumental value, educative value and intrinsic value. 
 
 - [[Ambedkar|Ambedkar]] on the other hand believed that 
@@ -34,11 +34,20 @@ Democracy first arrived in west European countries and was called 'First Wave' a
 - Christoher Jefferlot, Indian democracy remains procedural and is far from perfect. He points at the use of money and muscle power and argues that India has long way to go to become substantive democracy.
 
 # Theory of Democracy 
+## Classical Theory 
 - Prtoective Model by [[UPSC/Bentham|Bentham]] and [[UPSC/John Locke|John Locke]]
 	- Democracy is only meant to protect the rights of people
 - Developmental Model by [[UPSC/John S. Mill|John S. Mill]] 
 	- Democracy should give opportunity to development of human personality 
-
+## Contemprory Theory 
+- They are focusing on imperical and procedural aspect, i.e electoral participation. 
+- Ellitest Theory : Neither posible nor desirable for masses to participate in governance. 
+- Pluralist Prespective : Focus on pressure and interest groups and how the state is attempting to strike a balance between them. 
+### Mcpherson's Theory 
+- Mcpherson criticizes both classical and contemproray theory while classsical theories ignore the ground relaties 
+- While contemprory theory ignores substantive aspects of democracy. 
+- He critiscizes the  view of Schumpeter and Dahl. 
+- Schumpter gave market market model of democracy and Dahl talked about polyarchy. 
 
 ---
 **Backlinks**
