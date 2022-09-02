@@ -7,7 +7,7 @@
 - [[Current Affairs/June-2022|June-2022]]
 - [[Current Affairs/July-2022|July-2022]]
 - [[Current Affairs/August-2022|August-2022]]
-- [[September-2022|September-2022]]
+- [[Current Affairs/September-2022|September-2022]]
 - [[October-2022|October-2022]]
 - [[November-2022|November-2022]]
 - [[December-2022|December-2022]]
