@@ -16,10 +16,14 @@ Democracy as value system has been comented by
 - Amartya Sen 
 > Democracy has instrumental value, educative value and intrensic value. 
 
+- Ambedkar on the other hand believed that 
+> Democracy is just top soil of India. 
+
 
 
 
 ---
+**Backlinks**
 - [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
 - [[UPSC/PSIR|PSIR]]
 
