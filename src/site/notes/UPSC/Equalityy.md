@@ -105,3 +105,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 >[!question] 
+
+
+---
+**Backlinks**
+- [[UPSC/Equalityy|Equalityy]]
+- [[UPSC/PSIR|PSIR]]
+
