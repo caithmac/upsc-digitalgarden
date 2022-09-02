@@ -34,5 +34,9 @@ She suggested conflict of multiculturalism could be resolved by delibrative rela
 Delibrative relatiovsim refer to a conscious decion of diff minority to accept a set of ethical values as standard. Delibrative relativism will be aplicable to handle fundamental conflicts like Social Justice. 
 
 
+---
+**Backlinks**
+- [[UPSC/Multiculturism|Multiculturism]]
+
 
 
