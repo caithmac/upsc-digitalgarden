@@ -21,7 +21,7 @@
 >- Has the formation of linguistic States strengthened the cause of Indian Unity?	2016
 >- Why are the tribals in India referred to as the Scheduled Tribes? Indicate the major provisions enshrined in the Constitution of India for their upliftment.	2016
 >- What is the basis of regionalism? Is it that unequal distribution of benefits of development on regional basis eventually promotes regionalism? Substantiate your answer.	2016
->- Mahatma Gandhi and Dr. B.R. Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate.	2015
+>- Mahatma Gandhi and Dr. [[UPSC/B.R. Ambedkar|B.R. Ambedkar]], despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate.	2015
 >- Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity.	2015
 >- Debate the issue of whether and how contemporary movements for assertion of Dalit identity work towards annihilation of caste.	2015
 >- How do the Indian debates on secularism differ from the debates in the West?	2014
