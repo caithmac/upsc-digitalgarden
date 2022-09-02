@@ -39,3 +39,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[Short Note Democracy|Short Note Democracy]]
 - [[Short Note Multiculturalism|Short Note Multiculturalism]]
 - [[UPSC/Poly-ethnic rights|Poly-ethnic rights]]
+
+---
+**Backlinks**
+
