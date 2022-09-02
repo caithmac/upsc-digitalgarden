@@ -133,9 +133,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 **Backlinks**
+- [[UPSC/Democracy|Democracy]]
 - [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
 - [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
 - [[UPSC/Negative Liberty|Negative Liberty]]
 - [[UPSC/PSIR|PSIR]]
-- [[UPSC/Democracy|Democracy]]
 
