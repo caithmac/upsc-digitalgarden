@@ -130,3 +130,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 [^1]: https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf
+
+---
+**Backlinks**
+- [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
+- [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
+- [[UPSC/Negative Liberty|Negative Liberty]]
+- [[UPSC/PSIR|PSIR]]
+
