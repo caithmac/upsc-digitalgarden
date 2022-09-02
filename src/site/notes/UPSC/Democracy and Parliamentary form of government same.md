@@ -73,7 +73,7 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 	- [[UPSC/defection|defection]]/Horse Trading 
 ###### Should there be change? 
 1. The reasons which were in mind of constituent assembly, at the time formation of constitution are still relevant. 
-2.  Institution won't make difference unless political culture changes, as suggested by Ambedkar ,"The constitution will work or not, will depend upon the person holding the institutions." 
+2.  Institution won't make difference unless political culture changes, as suggested by [[UPSC/B.R. Ambedkar|B.R. Ambedkar]] ,"The constitution will work or not, will depend upon the person holding the institutions." 
    > "The constitution will work or not, will depend upon the person holding the institution. "
    
 3. Presidential system has it own challenge, problem of gridlock. 
