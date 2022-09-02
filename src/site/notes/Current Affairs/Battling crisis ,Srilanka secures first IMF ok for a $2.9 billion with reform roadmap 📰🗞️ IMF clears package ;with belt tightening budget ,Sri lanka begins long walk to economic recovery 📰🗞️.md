@@ -8,6 +8,7 @@ Date:: [[Current Affairs/02-09-2022|02-09-2022]]
 Course:: [[UPSC/International Relations|International Relations]] 
 
 ----
+![IMF bailout and Sri Lanka’s long, difficult road to recovery | Explained News,The Indian Express](https://indianexpress.com/article/explained/explained-global/explained-imf-bailout-sri-lankas-long-difficult-road-recovery-8125699/)
 ##### What to read and why? 
 _Know about International Monetary Fund (IMF) recent approval of a loan of $2.9 billion to Sri Lanka,know about IMF_
 
