@@ -36,3 +36,8 @@ Major supporters of this viewpoints were; [[UPSC/Rousseau|Rousseau]]; Matland, T
 
 
 
+---
+**Backlinks**
+- [[UPSC/Liberalism|Liberalism]]
+
+
