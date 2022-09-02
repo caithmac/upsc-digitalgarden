@@ -137,4 +137,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
 - [[UPSC/Negative Liberty|Negative Liberty]]
 - [[UPSC/PSIR|PSIR]]
+- [[UPSC/Democracy|Democracy]]
 
