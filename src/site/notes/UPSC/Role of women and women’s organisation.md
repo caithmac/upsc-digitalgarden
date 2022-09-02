@@ -83,7 +83,7 @@ Course:: [[UPSC/Social Science|Social Science]]
 
 #### Empowerment 
 - Only possible when they participated in their own development and this in turn was possible only when the concentration were to be small with an effective local level development vision 
-> Amartya Sen, "freedom in one are foster freedom in other area as well"
+> [[UPSC/Amartya Sen|Amartya Sen]], "freedom in one are foster freedom in other area as well"
 
 - During 1980 - gender was made an important component in development programming. 
 - Beginning of the 30% reservation for women in panchayats for women to enter decision making domain. 
