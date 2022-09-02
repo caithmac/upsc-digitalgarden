@@ -75,6 +75,13 @@ Course:: [[UPSC/PSIR|PSIR]]
 - What is value pluralism? 
 
 
+---
+**Backlinks**
+- [[UPSC/Equalityy|Equalityy]]
+- [[UPSC/Features of the DPSP|Features of the DPSP]]
+- [[UPSC/Menaka Gandhi Case|Menaka Gandhi Case]]
+- [[UPSC/Preamble|Preamble]]
+
 
 
 </div></div>
@@ -119,4 +126,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 </div></div>
 
+
+---
+**Backlinks**
+- [[UPSC/Equalityy|Equalityy]]
+- [[UPSC/Features of the DPSP|Features of the DPSP]]
+- [[UPSC/Menaka Gandhi Case|Menaka Gandhi Case]]
+- [[UPSC/Preamble|Preamble]]
 
