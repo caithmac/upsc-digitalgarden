@@ -297,6 +297,7 @@ Ideology of urban entrepreneur middle class which later became industrialist and
 </div></div>
 
 ---
+- [[UPSC/Democracy|Democracy]]
 - [[UPSC/Multiculturism|Multiculturism]]
 - [[UPSC/PSIR|PSIR]]
 
@@ -513,6 +514,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ---
+- [[UPSC/Democracy|Democracy]]
 - [[UPSC/Multiculturism|Multiculturism]]
 - [[UPSC/PSIR|PSIR]]
 
