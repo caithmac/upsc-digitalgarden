@@ -10,7 +10,7 @@
 
 
 - [[Instrument of Instruction|Instrument of Instruction]] in [[UPSC/Government of India Act. 1935|Government of India Act. 1935]]
-	- High ideals of  [[UPSC/Justice|Justice]],[[UPSC/Equality|Equality]],[[Liberty|Liberty]] outlined in [[UPSC/Preamble|Preamble]] are to be realized by [[UPSC/Directive Principle of State Policy|DPSP]]
+	- High ideals of  [[UPSC/Justice|Justice]],[[UPSC/Equality|Equality]],[[UPSC/Liberty|Liberty]] outlined in [[UPSC/Preamble|Preamble]] are to be realized by [[UPSC/Directive Principle of State Policy|DPSP]]
 	- Non-Justiciable. 
 	- Embody the concept of 'Welfare State' : Not 'Police State'
 	- Helps the court in examining and determining the constitutional validity of a law. 
