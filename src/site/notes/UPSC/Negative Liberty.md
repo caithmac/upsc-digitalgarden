@@ -56,10 +56,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 **Backlinks**
-- [[Liberty|Liberty]]
 - [[UPSC/Classic Liberalism|Classic Liberalism]]
 - [[UPSC/I Berlin|I Berlin]]
 - [[UPSC/John S. Mill|John S. Mill]]
 - [[UPSC/Modern Liberalism|Modern Liberalism]]
 - [[UPSC/The Leviathan|The Leviathan]]
+- [[UPSC/Liberty|Liberty]]
 
