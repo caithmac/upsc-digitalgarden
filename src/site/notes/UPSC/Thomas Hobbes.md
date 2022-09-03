@@ -31,7 +31,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 7. Was in British Royal Court and because of Renaissance Reform Enlightenment
    - Civil War was going on 
    - Kings using this to get out of church 
-   - Parliament wanted to get democracy 
+   - Parliament wanted to get [[UPSC/Democracy|democracy]] 
 8. Supported power of King
    - Rejected divine theory 
    - Not a royalist 
