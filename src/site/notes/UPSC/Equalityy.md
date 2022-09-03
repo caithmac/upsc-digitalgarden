@@ -12,7 +12,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Those who believe in Liberty; they believe in [[UPSC/Formal Equality|Formal Equality]]
 - They talk about idea of legal 
 - [[UPSC/Substantive Equality|Substantive Equality]]
-- There is a debate over priority of two important value, that is [[Liberty|Liberty]] and [[UPSC/Equalityy|Equalityy]]  Scholars of PS recognise equality is important value as liverty abut there understanding of equality varies. 
+- There is a debate over priority of two important value, that is [[UPSC/Liberty|Liberty]] and [[UPSC/Equalityy|Equalityy]]  Scholars of PS recognise equality is important value as liverty abut there understanding of equality varies. 
 - Aristotle identiefied inequality as root cause of revolution and he proposed ""
 - In modern days, idea of formal equality was very much challenged which led to emergence of idea of substantive equality.
 - Sandra Friedman has argued that substantive equality should be viewd as 4 dimensional concept of recognition, redistribution,participation and transformation. 
@@ -21,7 +21,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Equality of results. 
 	- Right based 
 	- value driven approach
-- Michal Walzer introduces - [[Complex Equality|Complex Equality]] 
+- Michal Walzer introduces - [[UPSC/Complex Equality|Complex Equality]] 
 
 - Starting Point Equality  
 	- ###### Equality of Opportunity 
