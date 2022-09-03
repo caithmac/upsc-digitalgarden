@@ -39,7 +39,7 @@ Tags:
 	4. [[UPSC/Democratic|Democratic]] 
 	5. [[UPSC/REPUBLIC|Republic]]
 	6. [[UPSC/Justice|Justice]]
-	7. [[Liberty|Liberty]]
+	7. [[UPSC/Liberty|Liberty]]
 	8. [[UPSC/Equality|Equality]] 
 	9. [[Fraternity|Fraternity]]
 3. [[UPSC/Significance of the Preamble|Significance of the Preamble]]
