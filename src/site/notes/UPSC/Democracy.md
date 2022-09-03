@@ -107,14 +107,12 @@ Democracy first arrived in west European countries and was called 'First Wave' a
 ---
 
 **Backlinks**
-| File                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[UPSC/Democracy.md\|Democracy]]                                                                                                                                                                               |
-| [[UPSC/Discuss the philosophical assumption of the welfare state.md\|Discuss the philosophical assumption of the welfare state]]                                                                               |
-| [[UPSC/Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke.md\|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke]] |
-| [[UPSC/John S. Mill.md\|John S. Mill]]                                                                                                                                                                         |
-| [[UPSC/PSIR.md\|PSIR]]                                                                                                                                                                                         |
-| [[UPSC/Rousseau.md\|Rousseau]]                                                                                                                                                                                 |
-| [[UPSC/Thomas Hobbes.md\|Thomas Hobbes]]                                                                                                                                                                       |
+- [[UPSC/Democracy|Democracy]]
+- [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
+- [[UPSC/Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke]]
+- [[UPSC/John S. Mill|John S. Mill]]
+- [[UPSC/PSIR|PSIR]]
+- [[UPSC/Rousseau|Rousseau]]
+- [[UPSC/Thomas Hobbes|Thomas Hobbes]]
 
 
