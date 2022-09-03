@@ -18,7 +18,7 @@
 
 4. [[UPSC/Equalityy|Equalityy]]: Social, political and economic; relationship between equality and freedom; Affirmative action.
 
-5. Rights: Meaning and theories; different kinds of rights; concept of Human Rights. [[UPSC/Debates of Asian Value|Debates of Asian Value]]
+5. [[UPSC/Rights|Rights]]: Meaning and theories; different kinds of rights; concept of Human Rights. [[UPSC/Debates of Asian Value|Debates of Asian Value]]
 
 6. [[UPSC/Democracy|Democracy]]: Classical and contemporary theories; different models of democracy-representative, participatory and deliberative. 
 
@@ -91,6 +91,7 @@ Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]]
 **8. Recent developments in Indian Foreign policy:** India's position on the recent crisis in Afghanistan, Iraq and West Asia, growing relations with US and Israel; vision of a new world order.
 
 ***
+> https://caithmac-upsc.netlify.app/notes/upsc-democracy-md change this to https://caithmac-upsc.netlify.app/upsc/democracy by deleting /notes and -md and /upsc/topic name
 ## Question
 
 | Topic                                                                                                                                                                                                                                                                                        | Course                 |
@@ -208,8 +209,8 @@ Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]]
 | [[UPSC/Bentham.md\|Bentham]]                                                                                                                                                                                                                         | C14               |
 | [[UPSC/Utilitarianism.md\|Utilitarianism]]                                                                                                                                                                                                           | C13               |
 | [[UPSC/John S. Mill.md\|John S. Mill]]                                                                                                                                                                                                               | C14 C15           |
-| [[UPSC/Multiculturism.md\|Multiculturism]]                                                                                                                                                                                                           | C16               |
 | [[UPSC/Sovereignty.md\|Sovereignty]]                                                                                                                                                                                                                 | C16               |
+| [[UPSC/Multiculturism.md\|Multiculturism]]                                                                                                                                                                                                           | C16               |
 | [[UPSC/Hobbes's Liberty.md\|Hobbes's Liberty]]                                                                                                                                                                                                       | C10               |
 | [[UPSC/Hobbes State.md\|Hobbes State]]                                                                                                                                                                                                               | \-                |
 | [[UPSC/Hobbes Sovereignty.md\|Hobbes Sovereignty]]                                                                                                                                                                                                   | \-                |
@@ -265,4 +266,5 @@ Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]]
 | [[UPSC/Hannah Arendt.md\|Hannah Arendt]]                                                                                                                                                                                                             | C34               |
 | [[UPSC/Fascism.md\|Fascism]]                                                                                                                                                                                                                         | C35               |
 | [[UPSC/Democracy.md\|Democracy]]                                                                                                                                                                                                                     | C36 C37           |
+| [[UPSC/Rights.md\|Rights]]                                                                                                                                                                                                                           | C37               |
 
