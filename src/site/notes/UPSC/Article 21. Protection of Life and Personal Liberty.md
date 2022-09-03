@@ -38,7 +38,7 @@
 - Akin to [[Police State|Police State]]
 - Therefore; Police cannot deprive anyone arbitrarily; but can do so if legislative makes such law in that regard. 
 - [[UPSC/Procedure Established by Law|Procedure Established by Law]]
-- [[Liberty|Liberty]] => Absence of confinement 
+- [[UPSC/Liberty|Liberty]] => Absence of confinement 
 - Till [[UPSC/Menaka Gandhi Case|Menaka Gandhi Case]] 
 	- [[UPSC/Article 19. Protection of Six Rights|Article 19. Protection of Six Rights]] denoted rights of free person
 	- Included many rights 
