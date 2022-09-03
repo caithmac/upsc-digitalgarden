@@ -59,11 +59,10 @@ Democracy first arrived in west European countries and was called 'First Wave' a
 | Capitalist | 99%        | 99%           | 0          | 99            |
 | Worker     | 1%         | 1%            | 0          | 99            |
 |            | Unequal    |               | Equal      |               |
-#### Critique
+#### Critique of Mcpherson
 - Doesnt provide methods to implement the idea. 
 - His theory can be used as an execuse to oppress minority views since he does not define what comes under extractive power or developmental 
 - Western scholars have been criticesed by proponent [[UPSC/Debates of Asian Value|Debates of Asian Value]] on the ground that [[UPSC/Democracy|Democracy]] is only obsession of western society and it is not compatible with asian value system. 
-- 
 - [[UPSC/Amartya Sen|Amartya Sen]] talks about capability approach - for him defining crietria of democracy is fulfilment of capibility of individual. He rejects asian value thesis by arguing that asia itself doesn't any have any uniform value. 
 - The socio economic development China and economic had was more becuase of political will of leaders and capacity building of masses rather than value asian system. 
 
@@ -72,17 +71,48 @@ Democracy first arrived in west European countries and was called 'First Wave' a
 - The institution of global governance are neither representative nor transparent nor accountable. He talks about setting world government in long run and reform of UN, IMF and WTO for short term. 
 - He also talks for strengthing grass root democracy making judiciary more important and restoring freedom of press. 
 
-# Model of Democracy
-- [[UPSC/John Locke|John Locke]] was the cheif proponent representative government. 
-- [[UPSC/John S. Mill|John S. Mill]] in his book representive government argues that representative government is second best government. 
-- One of biggest issue of RD is to ensure uniform and equitable representation.
-
+## Model of Democracy
+1. **Representative Government**
+	- [[UPSC/John Locke|John Locke]] was the cheif proponent representative government. 
+	- [[UPSC/John S. Mill|John S. Mill]] in his book representive government argues that representative government is second best government. 
+	- One of biggest issue of RD is to ensure uniform and equitable representation.
+	- [[UPSC/John S. Mill|John S. Mill]] was fearful of tyranny of majority therefore he suggested multiple reforms in the idea such as plural voting, open ballet.
+	- RD has two model of representation 
+		- Delegate Model - Where representatives are not given any freedom to take decision, they stick to public mandate. Given by [[UPSC/John Locke|John Locke]] and [[UPSC/Bentham|Bentham]]
+		- Enlightenment Model - Where representatives have more experience than public therefore more flexibility in decision making 
+		- [[UPSC/Rousseau|Rousseau]] criticizes RD by saying Englishmen are free only once in 5 years. 
+		- [[Gandhi|Gandhi]] , [[UPSC/M.N. Roy|M.N. Roy]] , [[Jayprakash Narayan|Jayprakash Narayan]] supported party less democracy. 
+		- As a alternative of RD, participatory or direct democracy was floated.  
+2. **Direct Democracy** 
+	- The idea of Direct Democracy starts from [[UPSC/Aristotle|Aristotle]] but he takes a very narrow view on participation. 
+	- [[UPSC/Rousseau|Rousseau]] brings the idea of general will to conduct direct democracy. But the idea itself has been criticsed on the grounds of being totalitarian and majoritarian. 
+	- [[Gandhi|Gandhi]] gave the concept of partyless politics and emphasised on the idea of revivng panchati raj.
+	- [[UPSC/M.N. Roy|M.N. Roy]] also talked about enlightened association. 
+	-  
+3. **Radical Democracy** 
+	- Thinkers like Haber Mass, Ernest Laclau, Chantal Mouffe, Nancy Fraser, Seyla Benhabib talk about the idea of radical democracy.
+	- the only basis to treat a party or association as truly participative is when it fulfils the following condition this maxim was known as ideal speech situation. 
+		- When there is no force excepts force of  arguments. 
+		- Where all have equal right to speak
+		- Whatever ideas are expressed they are pure and honest. 
+		- This is followed by the idea of comunicative action where individuals in ideal speech situation are understanding each other and are accountable to each other. 
+		- Nancy Fraser extends this idea to subaltern(marginalised) classes and argues that they should have their own sphere of communication. This sub sphere was contra public. 
+4. **Delibrative Democracy**
+	- Joshua Cohen talks about delibrative democracy as per him its an indepent and ongoing association of people with continuity of participation. 
+	- It has to be accepted that for arriving at decision delibration is the only method. 
+	- There should be a non coercive and difference of opinion should be respected. Delibration than would provide legitamacy 
+	- Delibrative democracy allows development of trust in the system, has educative value. 
+	- Delibrative democracy has consocitional value and substantive impact that is it transisons the procedural democracy to substantive democracy. 
+	- [[Discuss the interelationship between participatory and delibrative deomcracy. Ellaborate with example and explain how they are two sides of coin.|Discuss the interelationship between participatory and delibrative deomcracy. Ellaborate with example and explain how they are two sides of coin.]] 
 ---
+
 **Backlinks**
-| File                                                                                                                             |
-| -------------------------------------------------------------------------------------------------------------------------------- |
-| [[UPSC/Democracy.md\|Democracy]]                                                                                                 |
-| [[UPSC/Discuss the philosophical assumption of the welfare state.md\|Discuss the philosophical assumption of the welfare state]] |
-| [[UPSC/PSIR.md\|PSIR]]                                                                                                           |
+- [[UPSC/Democracy|Democracy]]
+- [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
+- [[UPSC/Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke]]
+- [[UPSC/John S. Mill|John S. Mill]]
+- [[UPSC/PSIR|PSIR]]
+- [[UPSC/Rousseau|Rousseau]]
+- [[UPSC/Thomas Hobbes|Thomas Hobbes]]
 
 
