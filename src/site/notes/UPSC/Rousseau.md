@@ -52,7 +52,7 @@ In his theorem criticised progress of science.
 - General will is sum of actual will. 
 - General will is unitarity and sovereign, it is collective person having a life, will and purpose of its own. 
 - General will can not be defied/denied as it is sum of actual will. Denial of general will will be taken as act under the influence of real will. 
-- General will represent popular sovereignty, it presents idea of direct democracy, everyone is part of general will and becomes ruler at the same to be ruled. 
+- General will represent popular sovereignty, it presents idea of direct [[UPSC/Democracy|democracy]], everyone is part of general will and becomes ruler at the same to be ruled. 
 - General will is considered to be absolute, so few scholar identifies totalitarianism in it. 
 ###### Difficulties 
 - General Will can become totalitarian. As there is no checks and balance and no right is recognized against the general will. 
