@@ -53,7 +53,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Discussion and debates clarify ideas. 
 	- Truth has multi dimensional character and it could be understood only through debate and discussion. 
 - Freedom of speech leads social development and enrichment as it distinguish between true or false, right or wring. Mill supported expression of everything whether it hold correct or incorrect idea. 
-- Freedom of speech is essential for democracy as subjugation of one person leads to ground subjugation of all 
+- Freedom of speech is essential for [[UPSC/Democracy|democracy]] as subjugation of one person leads to ground subjugation of all 
 - 
 > If all mankind minus one, were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that **one person, than he, if he had the power, would be justified in silencing mankind**[^1]
 
