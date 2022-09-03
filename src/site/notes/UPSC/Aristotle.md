@@ -344,6 +344,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ---
 - [[UPSC/Aristotle's Justice|Aristotle's Justice]]
 - [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/Democracy|Democracy]]
 - [[UPSC/PSIR|PSIR]]
 - [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
 
@@ -648,6 +649,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 --- 
 - [[UPSC/Aristotle's Justice|Aristotle's Justice]]
 - [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/Democracy|Democracy]]
 - [[UPSC/PSIR|PSIR]]
 - [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
 
