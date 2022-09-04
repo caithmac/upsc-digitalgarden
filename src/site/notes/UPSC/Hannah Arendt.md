@@ -52,3 +52,18 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Totalitarian regime perform violence for sake of violence/ n
 - Tot. get expressed in values, feelings and thought. Other form of govt. might control speech and certain freedom but tot. tries to control our thought and feeling by implanting discrimanatory and violent idea. 
 - Tot. regime use racial superiority or identity based superiority. In tot. state capitalism shift focus on material sphere rather than political sphere. There is gradual decline of public life and more dependecny on beuracrat and technocrat , propoganda, manipulation were the main tool of totalitarainism. and there is complete decline of citizen participation and delibration. 
+### Banality of Evil 
+- "Duty is duty" 
+- Her idea is that when people do not think before acting
+- Absence of  any parameter to judge their actions or activity. 
+- Imapct of both becomes - activity becomes ordinary(common belief or idea)
+- When the activity becomes banal - it leads to peoples participation. 
+#### Idea of Revolution 
+- Revolution creates universal category where all participants have a uniform understanding of the system or the value created at the time. 
+- It always lead to creation of public space. 
+- Hannah's understanding of revvolution is dfifferent from  both [[UPSC/Marx|Marx]] and [[UPSC/Liberalism|Liberalism]] understanding and interpreatation of revolution. 
+- She critisized liberal revolution that it fails to make liberty as an  integrate lvalue  all. In other word failed to create public space for liberty. 
+- Marxist revolution was critisized for not creating universal category for everyone. 
+- For Hannah Arendt revolution creates universal category. It helps to create public space and enhance political capacity of participants. 
+- A political revolution helps to display and evolve fundamental political capacity of individual acting together for establishment of public space of freedom.
+- She stresses that revolution helps to generate a permanenet political space in which activity of delibration, descion are coordinated and coordinated action are exercised. 
