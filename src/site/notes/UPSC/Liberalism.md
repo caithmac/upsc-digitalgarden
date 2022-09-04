@@ -298,6 +298,7 @@ Ideology of urban entrepreneur middle class which later became industrialist and
 
 ---
 - [[UPSC/Democracy|Democracy]]
+- [[UPSC/Hannah Arendt|Hannah Arendt]]
 - [[UPSC/Multiculturism|Multiculturism]]
 - [[UPSC/PSIR|PSIR]]
 
@@ -515,6 +516,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 - [[UPSC/Democracy|Democracy]]
+- [[UPSC/Hannah Arendt|Hannah Arendt]]
 - [[UPSC/Multiculturism|Multiculturism]]
 - [[UPSC/PSIR|PSIR]]
 
