@@ -11,8 +11,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 [[UPSC/Plato's Justice|Plato's Justice]]
 [[UPSC/Aristotle's Justice|Aristotle's Justice]]
 
-
-
+##### What is procedural justice? 
+- Where procedure must be just. 
+- Whatever the outcome
 
 
 
