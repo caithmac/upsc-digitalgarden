@@ -261,4 +261,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[UPSC/Methodological Individualist|Methodological Individualist]]
 - [[UPSC/Normative Individualists|Normative Individualists]]
 - [[UPSC/PSIR|PSIR]]
+- [[UPSC/Rights|Rights]]
 
