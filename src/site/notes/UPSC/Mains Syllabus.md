@@ -78,6 +78,7 @@ Security- Security forces
 
 >[!Note] Current Affairs Daily
 >[[Current Affairs/Current Affairs|Current Affairs]]
+>[[Bihar Current Affairs|Bihar Current Affairs]]
 
 >[!Note] Optional
 > [[UPSC/PSIR|PSIR]]
