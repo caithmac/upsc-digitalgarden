@@ -16,5 +16,6 @@ Topic:: Laski
 - [[UPSC/Liberalism|Liberalism]]
 - [[UPSC/Modern Liberalism|Modern Liberalism]]
 - [[UPSC/Rights|Rights]]
+- [[UPSC/Social Democratic|Social Democratic]]
 
 
