@@ -71,16 +71,16 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Coercive power. 
 - Authority correspond to all three power when legitimacy is associated with it. 
 
-##### Legitimacy
+##### [[Legitimacy|Legitimacy]]
 - Legitimacy is defined around the idea of exercise of power in any act. 
 - In political science, legitimacy is essentially associated with right and acceptance of authority. 
 - Legitimacy is value whereby something or someone is recognized as right and proper. 
 - Legitimacy leads to acceptance and recognition/.
 - In general there are two theory of legitimacy. 
-- ###### Liberal Theory 
+- ##### Liberal Theory 
 	- The ideal of impartiality is clearly a part of it. This theory accepts that people follow order of government as the laws are impartial and rational. Th
 	- This theory was criticized by Joseph Raz and he supported discourse theory of legitimacy. 
-- ###### Deliberative theory 
+- ##### Deliberative theory 
 	- Attempts to overcome liberal ideal of impartiality by modifying the concept of rationality. 
 	- The discourse theory contends that rationality can not be a possession of separate autonomous individual rather a shared achievement possible within the framework of free and rational public. 
 	- Habermas is considered to be supporter of this theory the key to legitimacy is "non instrumental" ideal of non-communicative rationality. 
@@ -89,3 +89,19 @@ Course:: [[UPSC/PSIR|PSIR]]
 > [[UPSC/How does reliance on authority affect nature of power|How does reliance on authority affect nature of power]]
 
 ##### [[UPSC/Foucault Concept of Power|Foucault Concept of Power]]
+
+
+##### Legitimancy Crisis
+- Habbermass has developed an alternative to webberian approach to legitamacy. 
+- Habbermass didn't adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth. 
+- Habbermass admited that modern capitalist society or liberal democracy have a system of drying out of consent and support of the people. Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy. 
+- In his work "Legitamacy Crisis 1973", he identified arising crisis tendency within capitalist society. These crisis tendency emerged as a result of fundamnetal contradiction between the logic of capitalist accumulation and popular pressure of welfarism unleashed by democratic politics. 
+- In modern capitalist society legitamacy is secured by democratic process, which lead to further demarcts for social welfare provision. Increased poupular participationn and social equality. 
+- This inturn puts pressure on the state to expands its social responsibility and state intervention for removing inequality. Such demands and activities leads to increased expenditure on welfare. 
+- It leads to increase in taxation and public spending and restrict capitalist accumulatiuon by restricting profit level and discouraging interpricess. 
+- Thus a capitalist society is constantly in the grip of crisis tendency that is legitamacy. 
+- According to habbermass capitalist democracy can not satisfy both for popular demands for social equality welfare right and requirement of a market economy based on private proft. The implication of such crisis involves a disturbance  of integration or cohesion of society and regulatory structure of capitalist system
+###### State Action 
+- In such scenario of crisis, modern state uses resources for system steering and ideologiocal measure to legitamise and stablise the existing structure. 
+- State not only try to dissociate political and economic sphere but at the same time promote non intervrntion in economy is the best way of development. (Margret Thatcher's Roll back of state)
+- With above measure state gets success in establishing that the exploitative relationship between wage labour and capitalist is no longer part of political spehre. Politioal sphere becomes less personal and highly beuracrised. 
