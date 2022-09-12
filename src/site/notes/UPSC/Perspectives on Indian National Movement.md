@@ -87,6 +87,29 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- He however insist that the Gandhian leadership had a certain coincidence of subjective attitudes and inhibition with bourgeois interest. 
 
 ### Dalit Perspective
+- Challenge before nationalist leaders was to integrate the divergent interests of different social groups in India in united movement against British. 
+- Dalit leadership wanted to be internally wanted to be free of all the oppression before the freedom from British. 
+
+- #### Context
+	- British after [[UPSC/Revolution of 1857|Revolution of 1857]] utilised dividing Indians on different line, one being giving opportunity to dalits and protecting their right, liberty, equality and justice.
+	- This gave Dalit leaders a boost and birth to new consciousnes among Dalits. 
+
+- [[Jotiba Phule|Jotiba Phule]] first raised voice for liberation of Dalits.
+	- In his book **Gulamgiri** he describe Brahmins as Aryans who came from outside and subduded the indigenous people who were Shudras and he gave a call to discard caste. 
+	- He was natural critic of Nationalism which he equated with another form of Brahmanism. 
+	- He argued that "there can not be a nation worth the name until and unless all the people ... such as Shudras, AtiShudras, Bhils and fisherman etc become truly educated, and are able to think independently for themselves and are unifromly unified and emotionaly integrated."
+	- Phule was also against the reform initiative taken by Brahmo Samaj, Prarthana Samaj, Arya Samaj and others to rationalise Brahmanical system. 
+	- He strongly argued that without emacipating the oppressed the reform initiatives ensured National movements and the Dalits domination of upper castes in other forms
+	- Nationalism was seen by him as an ideology created b upper castes to downplay the internal divisions withing Indian Society.
+
+- [[Jotiba Phule|Jotiba Phule]] , [[Periyar|Periyar]] [[UPSC/B.R. Ambedkar|B.R. Ambedkar]] were critics of the anti-colonial struggle by the upper caste elites without aboloshing internal oppression in Indian society.
+
+- ##### National Movement and Integration of Dalit Issues. 
+	1. In Calcutta Session - 1917  [[UPSC/Indian National Congress|Indian National Congress]] passed a resolution for abolishment of untouchability. 
+	2. 
+
+
+
 
 
 
