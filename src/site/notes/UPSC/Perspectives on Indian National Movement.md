@@ -106,7 +106,23 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 - ##### National Movement and Integration of Dalit Issues. 
 	1. In Calcutta Session - 1917  [[UPSC/Indian National Congress|Indian National Congress]] passed a resolution for abolishment of untouchability. 
-	2. 
+	2. In Napur Session 1920 - Untouchability was made integral part for natioanal liberation. 
+	3. In Belgaum session - 1924 - Gandhi supported Vaikom Satyagrah movement organised by the Kerala Congress Committee to secure the rights if untouchables for using the forbidden roads to the temple. 
+	4. In CWC Delhi 1929- Anti-untouchability sub-committee with Madan Mohan Malviya as its president and Jamnalal Bajaj as the secretary to ensure Dalits rights to enter temples. 
+
+
+- ##### Views of Ambedkar 
+	- To him, without ensuring equal rights of Dalits political freedom had no meaning. Gaining political freedom from the British was not adequate to him unless the struggle for freedom ensured the dignity of life and equal rights to all its citizens. 
+	- Nation though one words means many classes. Philosophically it may be possible to consider a nation as a unit but sociologicaly it cannot be regarded as consisting of many classes and the freedom of the nation if it is to be a reality must vouchsafe the freedom of the different classes comprised in it, particularly those who are treated as the servile class. 
+	- He argued that no one but they themselves can remove their grieveances, And for it they need politica power in our own hands. 
+	- He also knew that no share of political powe can evidently come to them as long as the British government remains as it is.   Only sawaraj constitution was a way that they stood a chance of getting the political power in our hands, without which we can not bring salvation to our people. 
+
+- Conclusion 
+	- Strong advocacy of Dalit leaders for giving primacy to their socio-economic and political rights and not to anti-colonial struggle was primarily rooted in their experiences of living in an unjust society. 
+	- Their notion of nationhood was based upon dismanaling the existing opressive inequalities and also having equal rights in every sphere of life. 
+	- 
+
+
 
 
 
