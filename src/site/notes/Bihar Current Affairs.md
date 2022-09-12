@@ -244,12 +244,12 @@ Course:: [[Bihar|Bihar]]
 - will be started in at least one panchayat in all the districts
 - Mukhyamantri Gramin Solar Street Light Scheme from April 15.
 - The following schemes are included under the Mukhyamantri Seven Nishchay Yojana- 
-	- *Bihar Student Credit Card Scheme* 
-	- *Har Ghar Bijli Yojana *
-	* *Ghar tak Pakki Gali-Naliyan * 
-	- *Awsar Badhe, Aage Padhein *
-	- *Har Ghar Nal Ka Jal Scheme *
-	- *Aarakshit Rozgar, Mahilaon ka Adhikar Scheme *
+	- *Bihar Student Credit Card Scheme* 
+	- *Har Ghar Bijli Yojana *
+	* *Ghar tak Pakki Gali-Naliyan*
+	- *Awsar Badhe, Aage Padhein *
+	- *Har Ghar Nal Ka Jal Scheme *
+	- *Aarakshit Rozgar, Mahilaon ka Adhikar Scheme *
 	- *Shauchalay Nirman Ghar ka Samman*
 
 ##### Tallest Statue of Mata Sita in Sitamarhi
