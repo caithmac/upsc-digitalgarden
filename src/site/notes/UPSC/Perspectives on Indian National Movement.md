@@ -119,18 +119,70 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 - Conclusion 
 	- Strong advocacy of Dalit leaders for giving primacy to their socio-economic and political rights and not to anti-colonial struggle was primarily rooted in their experiences of living in an unjust society. 
-	- Their notion of nationhood was based upon dismanaling the existing opressive inequalities and also having equal rights in every sphere of life. 
-	- 
+	- Their notion of nationhood was based upon dismanaling the existing opressive inequalities and also having equal rights in every sphere of life.
 
 
+### Socialist Perspective 
+- Critical of [[Gandhi|Gandhi]] but later on realised opposition to Gandhi is political sucide
+- Gandhi's Swarjya was loosely defined term which could be molded towards socialistic orientation. 
+- Acharya Narendra Dev was of the view that "Gandhi's approach of reconciliation between classes is impractical."
+	- He did not subscribe to Gandhi' sharp criticism of modern civilisation. 
+	- He also was skeptic of non-violence as a viable option. 
+- [[Jayprakash Narayan|Jayprakash Narayan]] in his book " Why Socialism?" wrote that "any freedom can be realised only in the atmosphere of economic equality."
+- ]
+
+#### Genesis of Congress Socialist Party
+- At Patna in 1934
+- JP book "Why Socialism?" became a textbook. 
+
+##### The Merrut Thesis
+- CSP experience sharpened after last two national struggle. 
+- Formed at the end of [[UPSC/Civil Disobedience|Civil Disobedience]] 
+- CSP declared that the task before them is to form a national movement into real anti-imperialist movement.
+- Movement aiming at freedom from the freign power and the native system of exploitation.  
+- For it the leaders need to be changed from bourgeoise leadership to leadership of radical socialism.
+- This task could only be completed when internally congress there is an organised bpdy of Marxist socialism. 
+- The party task was to coordinated all other anti-imperialist forces in the country. 
+- Party was to take only anti-imperialist stand on the congress platform, but not abondon its socialist propoganda when on their own stage. 
+- Congress constructive programme should neither be obstructed nor interfered with. It should only be exposed and scientificaly criticize. 
+- They had a belied that only marixst socialism could lead the anti-imperialist forces to their ultimate destiny. 
+##### Confrence of Faispur
+- CSP wanted to make Congress a united and all embracing unified front against imperialism. 
+- Congress overall had been sucesfull in uniting diverse elements seeking national liberation. 
+- While the congress was mass organisation, its leadership remained predominately bourgeoise.  
+- Also, now the leadership was not as united. There were many factions in Congress too. Many socialist-inclined leaders like, SC Bose, Jawahar Lal Nehru, Pattabai Sittaramiya had emerged. 
+- Faispur conference was a way to consolidate the socialist forces and also the left leadership to be consolidated. 
 
 
+### Radical Humanist Perspective
+- Associated with [[UPSC/M.N. Roy|M.N. Roy]] . 
+- He was of the view that [[UPSC/Indian National Congress|Indian National Congress]] was burgoise party. 
+- He later developed his radical humanist perspective. 
+- Radical Humanis as a perspective is against the idea of Nation. 
+- It is a cosmopolitan vision. 
+- The goal of mass movement should be attainment of freedom in the widest sense. 
+- Radical Humanist movement aimed at establishing radicaal democracy. It means party less democracy and moral policies.  
+- His radical democracy stood for 
+	- Abolition of feudalism 
+	- Nationalisation of land 
+	- Nationalisation of Industries Protection of rights of minorities 
+	- Compulsory education 
+	- Purification of politics
+- He maintained that although the case of India's freedom struggle was very dear to him, it was necessary to support the allied power in the war against fascism. 
+- Roy supported  a national movement, but not led by Congress. 
+- For him Congress did not represented the interest of Indian masses. 
+- A national government free from party control would be able to take the necessary decisions in that direction. 
+
+---
 
 
-
-
-
-
+>[!Question] 
+> 1. [[What was the difference between JP Narayan and MN Roy thought on Nationalism|What was the difference between JP Narayan and MN Roy thought on Nationalism]]
+> 2. [[Comment. Dalit perspective on Indian Natioanal Movement|Comment. Dalit perspective on Indian Natioanal Movement]]
+> 3. [[Comment in 150 words. Marxist understanding of India's freedom struggle|Comment in 150 words. Marxist understanding of India's freedom struggle]]
+> 4. [[Critically examine the radical humanist perspective on Indian National Movement|Critically examine the radical humanist perspective on Indian National Movement]]
+> 5. [[Dalit perspective on Indian Natioanal Movement. Discuss|Dalit perspective on Indian Natioanal Movement. Discuss]]
+> 6. [[Ansawer in 150 words. Role of socialists in Indian National Movement|Ansawer in 150 words. Role of socialists in Indian National Movement]]
 
 
 
