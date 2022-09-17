@@ -10,7 +10,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 # Perspectives on Indian National Movement
 
-## Colonial Perspective 
+>[!hint] ## Colonial Perspective 
 - According to [[John Strachey|John Strachey]]  there was never a nation called India. There is no "indian nation" , no "people of India" 
 	- It had no political, physical social or religious unity according to European ideas. 
 - [[John Seeley|John Seeley]] expressed that India is merely a geographical expression much like Africa or Europe. It marks territories of many language and many nation. 
@@ -21,8 +21,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- As India was inhabited by " great variety of nation" and was essentially 'variegated jumble of races and people, castes and creeds'
 	- And British administration was handling all the administration in a way as to prevent these ancient divisions from breaking out once more into open and sanguinary strife. 
 
-## Nationalist Perspective 
-### Liberal
+>[!hint] ## Nationalist Perspective 
+
+>[!example] ### Liberal
 - They didn't attempt to go to extreme opposite of Colonial Perspective of 'Never a nation' with 'always a nation'
 - They accepted Colonial arguments and didn't contest British on  'India was not nation'. Rather put forward a simple word, "yet", India was not yet a nation. 
 - Hence as S N Banerjee said, "India is nation in making", which was the title of his autobiography too. 
@@ -34,7 +35,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[Tara Chand|Tara Chand]] also thought that the creation of an Indian nation was a recent phenomenon which emerged due to combined economic and political change 
 
 
-### Cultural Nationalism
+>[!example] ### Cultural Nationalism
 - [[UPSC/Cultural Nationalism|Cultural Nationalism]]
 - [[Radha Kumud Mookerji|Radha Kumud Mookerji]] - India had been great and unified since ancient times. There had existed sense of geographical unity of India. 
 - H B Sarda -   "The ancient Hindus were the great nation that has yet flourished in the Earth"
@@ -42,7 +43,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - - [[Aurobindo Ghosh|Aurobindo Ghosh]] - Held that India was always a nation. Nation has a spirit and spirit never dies. 
 
 
-### Marxist 
+>[!example] ### Marxist 
 - Based on the analysis of modes of production and class
 - There was basic contradiction between imperialism and Indian society 
 - They try to explain these with reference to the economic changes under colonialism 
@@ -86,7 +87,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- He held that [[Gandhi|Gandhi]] was no more bourgeoise tool in any simplistic or mechanical sense" and that he can hardly be considered as a puppet in the hands of the capitalists. 
 	- He however insist that the Gandhian leadership had a certain coincidence of subjective attitudes and inhibition with bourgeois interest. 
 
-### Dalit Perspective
+>[!example] ### Dalit Perspective
 - Challenge before nationalist leaders was to integrate the divergent interests of different social groups in India in united movement against British. 
 - Dalit leadership wanted to be internally wanted to be free of all the oppression before the freedom from British. 
 
@@ -98,7 +99,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- In his book **Gulamgiri** he describe Brahmins as Aryans who came from outside and subduded the indigenous people who were Shudras and he gave a call to discard caste. 
 	- He was natural critic of Nationalism which he equated with another form of Brahmanism. 
 	- He argued that "there can not be a nation worth the name until and unless all the people ... such as Shudras, AtiShudras, Bhils and fisherman etc become truly educated, and are able to think independently for themselves and are unifromly unified and emotionaly integrated."
-	- Phule was also against the reform initiative taken by Brahmo Samaj, Prarthana Samaj, Arya Samaj and others to rationalise Brahmanical system. 
+	- Phule was also against the reform initiative taken by **Brahmo Samaj**, **Prarthana Samaj**, **Arya Samaj** and others to rationalise Brahmanical system. 
 	- He strongly argued that without emacipating the oppressed the reform initiatives ensured National movements and the Dalits domination of upper castes in other forms
 	- Nationalism was seen by him as an ideology created b upper castes to downplay the internal divisions withing Indian Society.
 
@@ -122,7 +123,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Their notion of nationhood was based upon dismanaling the existing opressive inequalities and also having equal rights in every sphere of life.
 
 
-### Socialist Perspective 
+>[!example] ### Socialist Perspective 
 - Critical of [[Gandhi|Gandhi]] but later on realised opposition to Gandhi is political sucide
 - Gandhi's Swarjya was loosely defined term which could be molded towards socialistic orientation. 
 - Acharya Narendra Dev was of the view that "Gandhi's approach of reconciliation between classes is impractical."
@@ -154,7 +155,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Faispur conference was a way to consolidate the socialist forces and also the left leadership to be consolidated. 
 
 
-### Radical Humanist Perspective
+>[!example] ### Radical Humanist Perspective
 - Associated with [[UPSC/M.N. Roy|M.N. Roy]] . 
 - He was of the view that [[UPSC/Indian National Congress|Indian National Congress]] was burgoise party. 
 - He later developed his radical humanist perspective. 
