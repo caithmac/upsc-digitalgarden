@@ -81,8 +81,8 @@
 | [[UPSC/Marriage.md\|Marriage]]                                                                         | SOC1    |
 | [[UPSC/Salient features of Indian Society.md\|Salient features of Indian Society]]                     | SOC1    |
 | [[UPSC/Secularism.md\|Secularism]]                                                                     | SOC1D   |
-| [[UPSC/Regionalism.md\|Regionalism]]                                                                   | SOC1C   |
 | [[UPSC/Reorganization of states on linguistic basis.md\|Reorganization of states on linguistic basis]] | SOC1    |
+| [[UPSC/Regionalism.md\|Regionalism]]                                                                   | SOC1C   |
 | [[UPSC/Education-Employment Trade off.md\|Education-Employment Trade off]]                             | onlyias |
 | [[UPSC/Maternity Aspect.md\|Maternity Aspect]]                                                         | onlyias |
 | [[UPSC/Role of women and women’s organisation.md\|Role of women and women’s organisation]]             | SOC2    |
