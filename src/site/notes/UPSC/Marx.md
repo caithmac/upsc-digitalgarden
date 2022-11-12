@@ -177,4 +177,3 @@ Course:: [[UPSC/PSIR|PSIR]]
 - It has been used as tool of social analysis 
 - It gives voice to voiceless, voice of poor, oppressed people. 
 - [[UPSC/Karl Popper|Karl Popper]], 'Open Society and its enemy', criticized, [[UPSC/Plato|Plato]], Hegel and [[UPSC/Marx|Marx]]. According to Popper, Marx created the myth of class war and violent revolution. In Popper's view all these false prophet were advocate of close society that suppresses free speech, equal rights and critical deliberation. He further argued that science and freedom only flourished in open society and not  close society. 
-- 
