@@ -8,7 +8,7 @@ Date:: 2022-07-06
 Course:: [[UPSC/PSIR|PSIR]] 
 
 ----
-For Aristotle monarchy resemble the [[Philosopher King|Philosopher King]], but it is not feasible. Monarchy transcend into Tyranny, therefore next best for him is Polity. 
+For Aristotle monarchy resemble the [[UPSC/Philosopher King|Philosopher King]], but it is not feasible. Monarchy transcend into Tyranny, therefore next best for him is Polity. 
 Why is Polity is best? 
 - Polity neigther rule of poor nor rich but middle class 
 - While Democracy is rule of poor which will eventually replace into tyranny and the rich will be always against it. 
