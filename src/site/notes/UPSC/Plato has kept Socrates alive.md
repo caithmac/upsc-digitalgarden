@@ -33,7 +33,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 -  Did the death of [[UPSC/Socrates|Socrates]] made any impact on life of [[UPSC/Plato|Plato]]. 
 
 ##### What he proposed after death of Socrates?
-- Put forward the concept of [[Philosopher King|Philosopher King]]. 
+- Put forward the concept of [[UPSC/Philosopher King|Philosopher King]]. 
 - Which won't be democratic process. 
 - Thus furthering Socrates ideas. 
 
