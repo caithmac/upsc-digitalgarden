@@ -9,7 +9,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 Aristotle's practical approach comes in conflict with Plato's vision of ideal state. 
-- The rule of [[Philosopher King|Philosopher King]] is not practical
+- The rule of [[UPSC/Philosopher King|Philosopher King]] is not practical
 - Aristotle focuses on best practicable rather than best overall. 
 - Property is not evil for Aristotle. 
 - Those who have property have a stake in political system hence are more cautious about its stability and order. 
