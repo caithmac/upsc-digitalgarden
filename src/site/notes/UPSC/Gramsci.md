@@ -36,10 +36,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 - From marxian perspective relationship between political economic and cultural ideological sphere is relation of dependence and controll. Economic structure is primary, superstructure is secondary and subordiante. 
 - Gramsci highlighted role of superstructure in maintaining capitalism. 
 - Capitalism not only with help of instrument of coercion but with instrument of validation generate consent. 
-- In the words Perry Anderson ; "Gramsci hegemony means the ideological subordiantion of the working class by the capitalist class, which enables it to rule by consent." From Gramscian perspective, state and civil society organisation are instrument of socialiastion and cultural transformation. 
-- In the words of Gramsci; "In capitalism, state has become and educator. Belief, consensus and agreement are the basis of state power, rather than state power being the basis of belief and consensus."
-- Gramsci highlighted ==the notion of hegomony, the popular national culture, and notion of organic intellectual==, these are major ways to create consent.,
-- The cultural and political leadership is linked to achieve consent. Gramsci said "hegemony is born in factory", he higlighted the role of culture in creating social hegemony of ruling class. 
+- In the words **Perry Anderson** ;
+  > "Gramsci hegemony means the ideological subordiantion of the working class by the capitalist class, which enables it to rule by consent." From Gramscian perspective, state and civil society organisation are instrument of socialiastion and cultural transformation. 
+- In the words of Gramsci; 
+  > "In capitalism, state has become and educator. Belief, consensus and agreement are the basis of state power, rather than state power being the basis of belief and consensus."
+- Gramsci highlighted the notion of hegomony, the popular national culture, and notion of organic intellectual, these are major ways to create consent.,
+- The cultural and political leadership is linked to achieve consent. Gramsci said "*hegemony is born in factory*", he higlighted the role of culture in creating social hegemony of ruling class. 
 - No longer is power controlled is derieved from dyanamics of base of ownership of production but via ideologial institution. 
 - In word of Gramsci, culture and ideology is no longer thing to be explained, but a thing that does the explaining; no longer and effect, it is becoming cause. 
 
