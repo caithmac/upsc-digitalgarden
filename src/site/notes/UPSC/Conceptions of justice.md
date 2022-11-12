@@ -93,28 +93,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Next principal can not be implemented until unless first principal is achieved.
 	- Sequence is fixed and must not be changed. 
 
-> [!con]
-- 
-
-> [!pro]
-> I think this is a good feature because...
 
 
-
-> [!con]
-> This is a bad feature becacuse...
-```
-
-```
-> [!idea]
-> I think it would be great to add...
-
-
-
-
-
-
----
 
 **Backlinks**
 | File                   |
