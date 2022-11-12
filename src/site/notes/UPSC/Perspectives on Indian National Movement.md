@@ -10,7 +10,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 # Perspectives on Indian National Movement
 
->[!hint] ## Colonial Perspective 
+## Colonial Perspective 
 - According to [[John Strachey|John Strachey]]  there was never a nation called India. There is no "indian nation" , no "people of India" 
 	- It had no political, physical social or religious unity according to European ideas. 
 - [[John Seeley|John Seeley]] expressed that India is merely a geographical expression much like Africa or Europe. It marks territories of many language and many nation. 
@@ -21,9 +21,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- As India was inhabited by " great variety of nation" and was essentially 'variegated jumble of races and people, castes and creeds'
 	- And British administration was handling all the administration in a way as to prevent these ancient divisions from breaking out once more into open and sanguinary strife. 
 
->[!hint] ## Nationalist Perspective 
+ ## Nationalist Perspective 
 
->[!example] ### Liberal
+ ### Liberal
 - They didn't attempt to go to extreme opposite of Colonial Perspective of 'Never a nation' with 'always a nation'
 - They accepted Colonial arguments and didn't contest British on  'India was not nation'. Rather put forward a simple word, "yet", India was not yet a nation. 
 - Hence as S N Banerjee said, "India is nation in making", which was the title of his autobiography too. 
@@ -35,15 +35,15 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[Tara Chand|Tara Chand]] also thought that the creation of an Indian nation was a recent phenomenon which emerged due to combined economic and political change 
 
 
->[!example] ### Cultural Nationalism
+### Cultural Nationalism
 - [[UPSC/Cultural Nationalism|Cultural Nationalism]]
 - [[Radha Kumud Mookerji|Radha Kumud Mookerji]] - India had been great and unified since ancient times. There had existed sense of geographical unity of India. 
 - H B Sarda -   "The ancient Hindus were the great nation that has yet flourished in the Earth"
 - J P Jayswal - "India possessed everything which modern British could claim - big empires, enduring and successful republic, representative elective institution etc"
-- - [[Aurobindo Ghosh|Aurobindo Ghosh]] - Held that India was always a nation. Nation has a spirit and spirit never dies. 
+- - [[UPSC/Aurobindo Ghosh|Aurobindo Ghosh]] - Held that India was always a nation. Nation has a spirit and spirit never dies. 
 
 
->[!example] ### Marxist 
+ ### Marxist 
 - Based on the analysis of modes of production and class
 - There was basic contradiction between imperialism and Indian society 
 - They try to explain these with reference to the economic changes under colonialism 
@@ -87,7 +87,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- He held that [[Gandhi|Gandhi]] was no more bourgeoise tool in any simplistic or mechanical sense" and that he can hardly be considered as a puppet in the hands of the capitalists. 
 	- He however insist that the Gandhian leadership had a certain coincidence of subjective attitudes and inhibition with bourgeois interest. 
 
->[!example] ### Dalit Perspective
+ ### Dalit Perspective
 - Challenge before nationalist leaders was to integrate the divergent interests of different social groups in India in united movement against British. 
 - Dalit leadership wanted to be internally wanted to be free of all the oppression before the freedom from British. 
 
@@ -123,7 +123,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Their notion of nationhood was based upon dismanaling the existing opressive inequalities and also having equal rights in every sphere of life.
 
 
->[!example] ### Socialist Perspective 
+### Socialist Perspective 
 - Critical of [[Gandhi|Gandhi]] but later on realised opposition to Gandhi is political sucide
 - Gandhi's Swarjya was loosely defined term which could be molded towards socialistic orientation. 
 - Acharya Narendra Dev was of the view that "Gandhi's approach of reconciliation between classes is impractical."
@@ -155,7 +155,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Faispur conference was a way to consolidate the socialist forces and also the left leadership to be consolidated. 
 
 
->[!example] ### Radical Humanist Perspective
+ ### Radical Humanist Perspective
 - Associated with [[UPSC/M.N. Roy|M.N. Roy]] . 
 - He was of the view that [[UPSC/Indian National Congress|Indian National Congress]] was burgoise party. 
 - He later developed his radical humanist perspective. 
@@ -189,9 +189,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 **Backlinks**
-| File                   |
-| ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
+| File                                         |
+| -------------------------------------------- |
+| [[UPSC/Aurobindo Ghosh.md\|Aurobindo Ghosh]] |
+| [[UPSC/PSIR.md\|PSIR]]                       |
 
 
 
