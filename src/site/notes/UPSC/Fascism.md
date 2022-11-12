@@ -30,7 +30,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 #### Ideological Influences or background of fascism
 - Fascism borrows heavily from all those thinker who have been described as absolutist or totalitarian at any point of time. 
-- The idea of unquestioned obedience and complete faith on the capability of the leader is derived from [[Philosopher King|Philosopher King]] of [[UPSC/Plato|Plato]]
+- The idea of unquestioned obedience and complete faith on the capability of the leader is derived from [[UPSC/Philosopher King|Philosopher King]] of [[UPSC/Plato|Plato]]
 - The centrality of power and disregard for morality and ethical aspect this comes from [[Machiavelli|Machiavelli]] and so does the supreme focus on national interest. 
 - Frome [[UPSC/Thomas Hobbes|Thomas Hobbes]] he derives idea of absolute authority of state. 
 - From [[UPSC/Rousseau|Rousseau]] - Man has to be forced to be free. 
