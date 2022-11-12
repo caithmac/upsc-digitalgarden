@@ -9,12 +9,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 Platonic state is based on idealistic view, while Marxian state is based on materialistic. Other comparison are as follow.
-| .                                          | Plato                                                                            | [[UPSC/Marx|Marx]]                                                     |
+| .                                          | [[UPSC/Plato|Plato]]                                                                            | [[UPSC/Marx|Marx]]                                                     |
 | ------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Division in society                        | 3 division in society                                                            | 2 division in society                                        |
 | Ruler                                      | Guardian Class                                                                   | Rich people                                                  |
 | Nature of ownership                        | Communism of Property and wives; Private property only limited to producer class | Capitalist class  but after revolution common ownership      |
-| Final Authority                            | [[Philosopher King|Philosopher King]]                                                             | Before revolution Capitalist; After revolution Working Class |
+| Final Authority                            | [[UPSC/Philosopher King|Philosopher King]]                                                             | Before revolution Capitalist; After revolution Working Class |
 | Nature of Philosophy                       | Idealist                                                                         | Materialist                                                  |
 | Criterion of differentiation               | Quality of soul                                                                  | Property ownership                                           |
 | Nature of relationship between the society | Cooperative                                                                      | Conflict and violent                                         |
