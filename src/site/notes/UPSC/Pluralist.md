@@ -9,7 +9,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 Pluralist
-#### Classical Pluralist Perspective of STate
+#### Classical Pluralist Perspective of State
 - State is place  of group conflict, therefore, highly responsive to group pressure. 
 - Group with varying resources exist in their relations of continual conflict
 - Power is an observable and dispersed phenomena
