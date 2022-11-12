@@ -56,9 +56,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                                           |
 | -------------------------------------------------------------- |
-| [[UPSC/PSIR.md\|PSIR]]                                         |
 | [[UPSC/Dharamshastra.md\|Dharamshastra]]                       |
 | [[UPSC/Indian Political Thought.md\|Indian Political Thought]] |
+| [[UPSC/PSIR.md\|PSIR]]                                         |
 
 
 
