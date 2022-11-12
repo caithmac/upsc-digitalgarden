@@ -43,7 +43,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Might is right
 	- Hence people requested Brahma and Brahma created Manu 
 - ##### Ideals of Kingship 
-	- King has divine personality 
+	- King has divine personality  ^e72a98
 		- 8 gods have give a part of their personality to the king. Thus king combine Indra, Varuna, Agni, Vayu, Surya, Chandra, Yama and Kubera.
 	- There is a difference in idea of kingship in east and west 
 		- WEST - Kings used to have divine personality + Divine rights 
@@ -91,6 +91,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 | [[UPSC/Dharamshastra.md\|Dharamshastra]]                       |
 | [[UPSC/Indian Political Thought.md\|Indian Political Thought]] |
 | [[UPSC/Manu Smriti.md\|Manu Smriti]]                           |
+| [[UPSC/Saptanga Theory.md\|Saptanga Theory]]                   |
 
 
 
