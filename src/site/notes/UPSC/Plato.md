@@ -279,9 +279,9 @@ Contemporary
 - Better to be ruled by Law and collective wisdom of generation
 - Plato only focused on aspect of duty not on rights. 
 	- Human is social animal and man is required to hold range of rights. 
-- [[Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
-	- No check over [[Philosopher King|Philosopher King]] 
-- [[UPSC/Aristotle|Aristotle]] argue that instead of [[Philosopher King|Philosopher King]] it should be law. 
+- [[UPSC/Philosopher King|Philosopher King]] orders are law; but Philosopher King may not always be in similar state of mind. 
+	- No check over [[UPSC/Philosopher King|Philosopher King]] 
+- [[UPSC/Aristotle|Aristotle]] argue that instead of [[UPSC/Philosopher King|Philosopher King]] it should be law. 
 - Unchecked power, even wielded by the best and the wisest, would be intoxicating, for power corrupts and absolute power corrupts absolutely.  
 - Critical to [[UPSC/Plato's Communism|Plato's Communism]]
 	- [[UPSC/Aristotle|Aristotle]]:: leads to good quality; makes us kind;
@@ -322,8 +322,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - There is nothing beyond these two classes. 
 - Role of every person is fixed for life. 
 - No option of switch or change
-- All Political powers belongs to [[Philosopher King|Philosopher King]] - no one can say anything against him. 
-- Orders are final and [[Philosopher King|Philosopher King]] is not limited by his own orders. 
+- All Political powers belongs to [[UPSC/Philosopher King|Philosopher King]] - no one can say anything against him. 
+- Orders are final and [[UPSC/Philosopher King|Philosopher King]] is not limited by his own orders. 
 - No circulation; no space of evolution -> means -> closed society where nothing new will be allowed 
 - There is monopoly of merit/quality
 - Is a class rule not rule of law. 
@@ -335,10 +335,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 - All rights belong to him. 
 - Monopoly of trades.
 - Principal of class rule and class privileges.
-- [[Philosopher King|Philosopher King]] is holding final knowledge 
+- [[UPSC/Philosopher King|Philosopher King]] is holding final knowledge 
 - His ordinance are not mightier than knowledge 
 - He is above all laws; even laws made by him or her. 
-- [[Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
+- [[UPSC/Philosopher King|Philosopher King]] restrict everyone to remain in their domain and release order to follow it. 
 - Against democracy. 
 - 
 
@@ -351,7 +351,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ## Defense of Plato against Popper's critique
 - Plato's state is not police state. Rather it is lead by rational and ethical ruler who had a life of education. training, dedication and renunciation.
 - Since order in society can  destroy individual himself, Plato is concerned about order and society and rulers with well ordered souls. 
-- The [[Philosopher King|Philosopher King]] are denied even basic amenities like family and property. Plato's rule can be anything but not rule of privilege class. 
+- The [[UPSC/Philosopher King|Philosopher King]] are denied even basic amenities like family and property. Plato's rule can be anything but not rule of privilege class. 
 - Platonic state enabled the individual to fulfil himself to highest capability. Therefore, state was not end in itself but means. 
 
 ## Conclusion 
@@ -364,6 +364,7 @@ While Popper's critique of Plato is not without merit the philosophical defense 
 - [[UPSC/Aristotle's Property|Aristotle's Property]]
 - [[UPSC/Aristotle|Aristotle]]
 - [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/Explain Plato's communism and compare it with Marxian communism|Explain Plato's communism and compare it with Marxian communism]]
 - [[UPSC/Fascism|Fascism]]
 - [[UPSC/Greek Political Thinkers|Greek Political Thinkers]]
 - [[UPSC/Karl Popper|Karl Popper]]
@@ -444,6 +445,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[UPSC/Aristotle's Property|Aristotle's Property]]
 - [[UPSC/Aristotle|Aristotle]]
 - [[UPSC/Criticism of Plato|Criticism of Plato]]
+- [[UPSC/Explain Plato's communism and compare it with Marxian communism|Explain Plato's communism and compare it with Marxian communism]]
 - [[UPSC/Fascism|Fascism]]
 - [[UPSC/Greek Political Thinkers|Greek Political Thinkers]]
 - [[UPSC/Karl Popper|Karl Popper]]
