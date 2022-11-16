@@ -14,7 +14,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Industrial Revolution backed by [[UPSC/Classic Liberalism|Classic Liberalism]] led to high inequality, inhuman working condition and overall complete deterioration of human life. 
 - [[UPSC/Socialism|Socialism]] , [[Marxism|Marxism]] promoted idea of [[UPSC/Justice|Justice]] available to every and each society. 
 - Due to this immense pressure a new form of liberalism, [[UPSC/Positive Liberty|Positive Liberty]]/ Welfare State/ [[UPSC/Modern Liberalism|Modern Liberalism]]
-- [[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[Bosanquet|Bosanquet]], [[UPSC/Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
+- [[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[UPSC/Bosanquet|Bosanquet]], [[UPSC/Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
 
 ###### Justification for Welfare State
 - Man is a part of social whole and liberty could be secured only so long as they could be reconciled with social good. 
