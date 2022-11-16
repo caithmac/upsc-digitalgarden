@@ -16,7 +16,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 >Libertarian state has to provide all such activities which leads to consolidation of individual rights establishing free markets and establish peace. 
 
 
->[!error] Concept of [[Robert Nozick|Robert Nozick]] is considered to be best explanation of neo-liberal state
+>[!error] Concept of [[UPSC/Robert Nozick|Robert Nozick]] is considered to be best explanation of neo-liberal state
 > 1. All individual have inalienable rights independent to society. They are not dependent over the state or society for possessing of the individual rights. 
 > 2. Function of state is to ensure there should not be violation of this inalienable right of individual. Nozcik believe in "Nightwatchman state"
 > 3. Liberty must get priority over equality. Function of state must be limited only to ensuring exercise of liberty.  
