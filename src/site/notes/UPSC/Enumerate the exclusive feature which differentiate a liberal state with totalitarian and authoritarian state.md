@@ -19,6 +19,6 @@ A liberal state can be easily be identified from a totalitarian and authoritaria
 - A liberal state has more than one political party.  There is active non-violent struggle to capture political power among these parties and even pressure group play vital role. 
 - Seperation of power is distinct feature of liberal state but not in strict sense. The liberal state doesn't sanction supermacy of any particular philosophy or idelogies. 
 - While there are dominant ideologies in every liberal state there position is non permanent. 
-- In liberal state there are two centres of power one economic and other political, as per [[UPSC/Marx|Marx]] the economic centres control the political centres. 
+- In liberal state there are two centres of power one economic and other political, as per [[UPSC/Karl Marx|Karl Marx]] the economic centres control the political centres. 
 
 
