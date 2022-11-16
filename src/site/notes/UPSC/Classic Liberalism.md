@@ -20,9 +20,9 @@ Classical Liberalism was based on certain philosophical base
 	- Clearly opposes discrimination based on any abstract ideas 
 
 Philosophical beliefs of Liberalism automatically leads to a political system in 
-1. Extensive Individual Freedom in all sphere of life. (Negative Liberty)
+1. Extensive Individual Freedom in all sphere of life. ([[UPSC/Negative Liberty|Negative Liberty]])
 2. It prohibits all discrimination based on gender, religion, birth or any identity 
-3. It supports a system of formal equality 
+3. It supports a system of [[UPSC/Formal Equality|formal equality]] 
 4. Classical Liberalism supports that there is contractual relationship between an individual and a state. 
 5. Function of state is limited that is only to maintain law and order and implement agreements done by citizens thus it supports minimal state. 
 6. Firmly believes state is an instrument that comes into existence by mutual consent for protection and implementation of liberty, freedom and formal equality. 
