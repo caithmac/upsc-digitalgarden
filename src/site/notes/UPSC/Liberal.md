@@ -23,7 +23,7 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 ##### Any difference between Liberty and Freedom 
 - No difference in liberty and freedome (GS)
 - Yes, some philosopher like Karl Marx used freedom because Liberty-> Liberal -> Capitalism 
-- [[Karl Marx|Karl Marx]] => "Freedom from necessity, which meanas fulfilment of basic needs"
+- [[UPSC/Karl Marx|Karl Marx]] => "Freedom from necessity, which meanas fulfilment of basic needs"
 
 
 >[!Error]- [[Compare right to freedom given in article 19 with personal liberty in article 21|Compare right to freedom given in article 19 with personal liberty in article 21]]
