@@ -9,7 +9,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 #### Neo - Marxist 
-- Identfied various reason as to why theories of [[UPSC/Marx|Marx]] failed to get culiminated in revolution. 
+- Identfied various reason as to why theories of [[UPSC/Karl Marx|Karl Marx]] failed to get culiminated in revolution. 
 - They argued that in post industrial society there is projected better living standard and bridging the gap between social classes through mass education, mass production and mass consumption. 
 - Arguments of :
 - Working class has not evolve into revolutionary movemnt
