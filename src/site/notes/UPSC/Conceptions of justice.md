@@ -17,7 +17,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Whatever the outcome
 
 ##### Theory of Entitlement 
-- [[Robert Nozick|Robert Nozick]] - Whatever modern property distribution, is it just or unjust? 
+- [[UPSC/Robert Nozick|Robert Nozick]] - Whatever modern property distribution, is it just or unjust? 
 - He is against idea redustribution of resources on the name of justice. 
 - **Principal of just acquisition** 
 - **Principal of Just Transfer**
