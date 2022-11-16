@@ -57,7 +57,6 @@
 
 
 
-- [[PANCHAYATS (EXTENSION TO THE SCHEDULED AREAS) ACT, 1996|PANCHAYATS (EXTENSION TO THE SCHEDULED AREAS) ACT, 1996]]
 - [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
 - [[UPSC/Administrative Reforms Commission|Administrative Reforms Commission]]
 - [[UPSC/Administrative relations|Administrative relations]]
@@ -98,6 +97,7 @@
 - [[UPSC/Lok Sabha|Lok Sabha]]
 - [[UPSC/Mains Syllabus|Mains Syllabus]]
 - [[UPSC/National Judicial Appointments Commission Act ,2014|National Judicial Appointments Commission Act ,2014]]
+- [[UPSC/PANCHAYATS (EXTENSION TO THE SCHEDULED AREAS) ACT, 1996|PANCHAYATS (EXTENSION TO THE SCHEDULED AREAS) ACT, 1996]]
 - [[UPSC/Parliament's power to reorganize the states|Parliament's power to reorganize the states]]
 - [[UPSC/Preamble as part of the constitution|Preamble as part of the constitution]]
 - [[UPSC/Preamble|Preamble]]
