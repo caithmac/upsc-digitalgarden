@@ -19,8 +19,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Positive liberty supports interventation of state in order to promote an effextive exercise of liberty. 
 - The core concept emphasised that positive liberty is the liberty of all in a civil society. 
 
-- Quentin Skinner : He is credited with bringing back the positive notion of liberty in discussion of liberty.
-- In his famous essay, "A third form of liberty", he argued that the concept like liberty are deeply normative, highly inderminate and extensively implicated in a long history of ideological debate and therefore the only way is to understand them in historical context. 
+- **Quentin Skinner** : He is credited with bringing back the positive notion of liberty in discussion of liberty.
+- In his famous essay, "*A third form of liberty*", he argued that the concept like liberty are deeply normative, highly inderminate and extensively implicated in a long history of ideological debate and therefore the only way is to understand them in historical context. 
 - Christman argued that positive liberty is essential in inequal society where range of limitation are there and few of them are self imposed. "Saving positive freedom"
 - "Few of them are self imposed" : 
 - Taylor and Pitt argued in favour of positive liberty asking for state intervention not only to realise liberty. But at the same time to realise it in a meaningful way. 
