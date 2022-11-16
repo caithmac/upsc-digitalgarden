@@ -63,7 +63,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- After World War - urban petty bourgeois class became more influential. 
 	- Leadership though remained in the hands of the "propertied class"
 		- These element prevented radicalization of the national movement. 
-	- [[Gandhi|Gandhi]] was "the mascot of the bourgeoisie" according to [[R P Dutt|R P Dutt]]
+	- [[UPSC/Gandhi|Gandhi]] was "the mascot of the bourgeoisie" according to [[R P Dutt|R P Dutt]]
 	- He argued that [[UPSC/Non Cooperation Movement|Non Cooperation Movement]] was withdrawn because it threatened propertied class. 
 	- His work was a trendsetter in the Marxist perspective of National Movement. 
 
@@ -84,7 +84,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - [[Sumit Sarkar|Sumit Sarkar]] argued that [[Swadeshi Movement|Swadeshi Movement]] was a "simplistic version of the Marxian class approach"
 	- He uses [[Trotsky|Trotsky]] conception of substitution where by the intelligentsia acts "repeatedly as a kind of proxy for as yet passive social forces with which it had little organic connection"
 	- He also uses [[UPSC/Gramsci|Gramsci]]'s  category of traditional intellectual and original intellectual. 
-	- He held that [[Gandhi|Gandhi]] was no more bourgeoise tool in any simplistic or mechanical sense" and that he can hardly be considered as a puppet in the hands of the capitalists. 
+	- He held that [[UPSC/Gandhi|Gandhi]] was no more bourgeoise tool in any simplistic or mechanical sense" and that he can hardly be considered as a puppet in the hands of the capitalists. 
 	- He however insist that the Gandhian leadership had a certain coincidence of subjective attitudes and inhibition with bourgeois interest. 
 
  ### Dalit Perspective
@@ -124,7 +124,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ### Socialist Perspective 
-- Critical of [[Gandhi|Gandhi]] but later on realised opposition to Gandhi is political sucide
+- Critical of [[UPSC/Gandhi|Gandhi]] but later on realised opposition to Gandhi is political sucide
 - Gandhi's Swarjya was loosely defined term which could be molded towards socialistic orientation. 
 - Acharya Narendra Dev was of the view that "Gandhi's approach of reconciliation between classes is impractical."
 	- He did not subscribe to Gandhi' sharp criticism of modern civilisation. 
