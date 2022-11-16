@@ -63,3 +63,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- They do not prefer complete nationalisation but planning and management. 
 	- Eben Stein 'All successful democratic government is a compromise between public control, efficiency and private initiative. '
 	- Norman Thomas, Joseph Sungpeter, Tony Benn, 
+
+
+>[!Question]
+>[[Briefly explain the post Marxian development in socialist thought|Briefly explain the post Marxian development in socialist thought]]
+
