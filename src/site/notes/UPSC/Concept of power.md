@@ -37,8 +37,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Power has been identified with developmental and extractive capacity. In other words, power means ability and use  and development of human capacities. It has two aspects- extractive and development, which can be called ethical and empirical dimension respectively. Since a mans ability to use and develop his capacity becomes the power, it is called mans development power. Beside man should use his capacity in a way so that he may extract benefits from other. It leads to power of extractive power. 
 - ##### Marxian Theory 
 	- Links politics and economics through instrument of power. 
-	- [[Karl Marx|Karl Marx]] viewed political power as being possessed those who control means of production. The relation of production therefore determines distribution of political power. 
-	- Thus, [[UPSC/Marx|Marx]] sees a close integration between political power and prevailing socio-economic system and regards it as transient - it shall disappear with rise of stateless and classless society. 
+	- [[UPSC/Karl Marx|Karl Marx]] viewed political power as being possessed those who control means of production. The relation of production therefore determines distribution of political power. 
+	- Thus, [[UPSC/Karl Marx|Karl Marx]] sees a close integration between political power and prevailing socio-economic system and regards it as transient - it shall disappear with rise of stateless and classless society. 
 
 ### Dimension of Power 
 - Power has two specific dimension 
