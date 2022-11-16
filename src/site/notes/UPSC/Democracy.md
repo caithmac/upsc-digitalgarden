@@ -81,12 +81,12 @@ Democracy first arrived in west European countries and was called 'First Wave' a
 		- Delegate Model - Where representatives are not given any freedom to take decision, they stick to public mandate. Given by [[UPSC/John Locke|John Locke]] and [[UPSC/Bentham|Bentham]]
 		- Enlightenment Model - Where representatives have more experience than public therefore more flexibility in decision making 
 		- [[UPSC/Rousseau|Rousseau]] criticizes RD by saying Englishmen are free only once in 5 years. 
-		- [[Gandhi|Gandhi]] , [[UPSC/M.N. Roy|M.N. Roy]] , [[Jayprakash Narayan|Jayprakash Narayan]] supported party less democracy. 
+		- [[UPSC/Gandhi|Gandhi]] , [[UPSC/M.N. Roy|M.N. Roy]] , [[Jayprakash Narayan|Jayprakash Narayan]] supported party less democracy. 
 		- As a alternative of RD, participatory or direct democracy was floated.  
 2. **Direct Democracy** 
 	- The idea of Direct Democracy starts from [[UPSC/Aristotle|Aristotle]] but he takes a very narrow view on participation. 
 	- [[UPSC/Rousseau|Rousseau]] brings the idea of general will to conduct direct democracy. But the idea itself has been criticsed on the grounds of being totalitarian and majoritarian. 
-	- [[Gandhi|Gandhi]] gave the concept of partyless politics and emphasised on the idea of revivng panchati raj.
+	- [[UPSC/Gandhi|Gandhi]] gave the concept of partyless politics and emphasised on the idea of revivng panchati raj.
 	- [[UPSC/M.N. Roy|M.N. Roy]] also talked about enlightened association. 
 	-  
 3. **Radical Democracy** 
