@@ -72,7 +72,7 @@
 - 1907. [[UPSC/Indian National Congress|Indian National Congress]] [[UPSC/Surat Split|Surat Split]]
 - 1909. [[UPSC/Morley - Minto Reforms|Morley - Minto Reforms]] 
 - 1911. [[ Delhi Durbar| Delhi Durbar]]
-- 1915. [[Gandhi|Gandhi]] 
+- 1915. [[UPSC/Gandhi|Gandhi]] 
 - 1916. [[UPSC/Lucknow Pact|Lucknow Pact]]
 - 1917.  [[UPSC/Champaran Satyagraha|Champaran Satyagraha]]
 - 1918. [[UPSC/Kheda Satyagraha|Kheda Satyagraha]]
