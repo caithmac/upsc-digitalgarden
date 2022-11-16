@@ -65,7 +65,7 @@ Thus India reflects more of a continuation and less of change from the British R
 - Assembly was neither elected by people nor people decided its structure or mode of functioning
 
 #### Evolution of Constituent Assembly.
-- [[Gandhi|Gandhi]] promised that Swaraj will not be the 'Free Gift'
+- [[UPSC/Gandhi|Gandhi]] promised that Swaraj will not be the 'Free Gift'
 - Swaraj is an expression of Indians. 
 - In 1934 CWC of INC adopted resolution the constituent assembly will be elected on the basis of Universal Adult Franchise. 
 - However in practice
