@@ -62,7 +62,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- These are external thing which by their shear absence restrict a person's freedom. 
 		- I am normally said to be free to the degree to which no man or body of men interfere with my activity. Liberty in this sense is simply the are within which man can act unobstructed by others. 
 - D M White assert that negative liberty is social and political construct. 
-- [[UPSC/I Berlin|I Berlin]] view on liberty is associated with Value Pluralism and critque of monoism. 
+- [[UPSC/I Berlin|I Berlin]] view on liberty is associated with [[UPSC/Value Pluralism|Value Pluralism]] and critque of monoism. 
 - He belived that there are range of values and they are not essentialy connected to each other. 
 	- It is not essential that there should be harmony with values. 
 	- There is no heirchary and judgement of superiority or inferiority essentially concected to values. 
@@ -72,7 +72,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - In his book, four Essays, those who ever valued liberty for its own sake believed that to be free to choose and not be choosen from, is the inalieanable ingredient in what makes human being human. 
 
 ##### Value Pluralism 
-- What is value pluralism? 
+- What is [[UPSC/Value Pluralism|value pluralism]]? 
 
 
 ---
@@ -113,8 +113,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Positive liberty supports interventation of state in order to promote an effextive exercise of liberty. 
 - The core concept emphasised that positive liberty is the liberty of all in a civil society. 
 
-- Quentin Skinner : He is credited with bringing back the positive notion of liberty in discussion of liberty.
-- In his famous essay, "A third form of liberty", he argued that the concept like liberty are deeply normative, highly inderminate and extensively implicated in a long history of ideological debate and therefore the only way is to understand them in historical context. 
+- **Quentin Skinner** : He is credited with bringing back the positive notion of liberty in discussion of liberty.
+- In his famous essay, "*A third form of liberty*", he argued that the concept like liberty are deeply normative, highly inderminate and extensively implicated in a long history of ideological debate and therefore the only way is to understand them in historical context. 
 - Christman argued that positive liberty is essential in inequal society where range of limitation are there and few of them are self imposed. "Saving positive freedom"
 - "Few of them are self imposed" : 
 - Taylor and Pitt argued in favour of positive liberty asking for state intervention not only to realise liberty. But at the same time to realise it in a meaningful way. 
