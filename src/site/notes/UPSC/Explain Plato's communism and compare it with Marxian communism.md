@@ -9,7 +9,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 Platonic state is based on idealistic view, while Marxian state is based on materialistic. Other comparison are as follow.
-| .                                          | [[UPSC/Plato|Plato]]                                                                            | [[UPSC/Marx|Marx]]                                                     |
+| .                                          | [[UPSC/Plato|Plato]]                                                                            | [[UPSC/Karl Marx|Karl Marx]]                                                     |
 | ------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | Division in society                        | 3 division in society                                                            | 2 division in society                                        |
 | Ruler                                      | Guardian Class                                                                   | Rich people                                                  |
