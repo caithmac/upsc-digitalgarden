@@ -140,9 +140,9 @@ Classical Liberalism was based on certain philosophical base
 	- Clearly opposes discrimination based on any abstract ideas 
 
 Philosophical beliefs of Liberalism automatically leads to a political system in 
-1. Extensive Individual Freedom in all sphere of life. (Negative Liberty)
+1. Extensive Individual Freedom in all sphere of life. ([[UPSC/Negative Liberty|Negative Liberty]])
 2. It prohibits all discrimination based on gender, religion, birth or any identity 
-3. It supports a system of formal equality 
+3. It supports a system of [[UPSC/Formal Equality|formal equality]] 
 4. Classical Liberalism supports that there is contractual relationship between an individual and a state. 
 5. Function of state is limited that is only to maintain law and order and implement agreements done by citizens thus it supports minimal state. 
 6. Firmly believes state is an instrument that comes into existence by mutual consent for protection and implementation of liberty, freedom and formal equality. 
@@ -332,7 +332,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Industrial Revolution backed by [[UPSC/Classic Liberalism|Classic Liberalism]] led to high inequality, inhuman working condition and overall complete deterioration of human life. 
 - [[UPSC/Socialism|Socialism]] , [[Marxism|Marxism]] promoted idea of [[UPSC/Justice|Justice]] available to every and each society. 
 - Due to this immense pressure a new form of liberalism, [[UPSC/Positive Liberty|Positive Liberty]]/ Welfare State/ [[UPSC/Modern Liberalism|Modern Liberalism]]
-- [[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[Bosanquet|Bosanquet]], [[UPSC/Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
+- [[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[UPSC/Bosanquet|Bosanquet]], [[UPSC/Hobbhouse|Hobbhouse]], founded intelectual root of modern liberalism. 
 
 ###### Justification for Welfare State
 - Man is a part of social whole and liberty could be secured only so long as they could be reconciled with social good. 
@@ -442,7 +442,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 >Libertarian state has to provide all such activities which leads to consolidation of individual rights establishing free markets and establish peace. 
 
 
->[!error] Concept of [[Robert Nozick|Robert Nozick]] is considered to be best explanation of neo-liberal state
+>[!error] Concept of [[UPSC/Robert Nozick|Robert Nozick]] is considered to be best explanation of neo-liberal state
 > 1. All individual have inalienable rights independent to society. They are not dependent over the state or society for possessing of the individual rights. 
 > 2. Function of state is to ensure there should not be violation of this inalienable right of individual. Nozcik believe in "Nightwatchman state"
 > 3. Liberty must get priority over equality. Function of state must be limited only to ensuring exercise of liberty.  
