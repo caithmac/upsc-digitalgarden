@@ -11,79 +11,79 @@ Course:: [[UPSC/PSIR|PSIR]]
 # Power 
 - Power is relational.
 - It does not hold absolute meaning, always relative in nature. 
-- <mark style="background: #FFB8EBA6;">Power could be exercised only if it hold same meaning for everyone</mark>. 
-- Power is seen in different walks of life, in <mark style="background: #FFB8EBA6;"> political theory power is central issue</mark>.
-- <mark style="background: #FFB8EBA6;">For state power is force exercised by state in the name of law</mark>. 
-- <mark style="background: #FF5582A6;">Harold Laswell</mark> and <mark style="background: #FF5582A6;">Abraham Caplan</mark>  <mark style="background: #D2B3FFA6;">constructed exercise of power as act effecting or determining other acts</mark>. 
-- <mark style="background: #FF5582A6;">Robert Dahl</mark> defined power as <mark style="background: #ADCCFFA6;">one actors ability to make another to do something that later would not otherwise do</mark>. 
-- [[UPSC/Hannah Arendt|Hannah Arendt]] argued that <mark style="background: #D2B3FFA6;">power is not the property of agents or actor, but of group and collectivity acting together</mark>. 
-- <mark style="background: #FF5582A6;">Fredrich</mark> : Power is a certain kind of human relationship. 
-- <mark style="background: #FF5582A6;">Tawney</mark> : It is a capacity of an individual or group to modify others conduct as one desire, 
+- Power could be exercised only if it hold same meaning for everyone. 
+- Power is seen in different walks of life, in  political theory power is central issue.
+- For state power is force exercised by state in the name of law. 
+- Harold Laswell and Abraham Caplan  constructed exercise of power as act effecting or determining other acts. 
+- Robert Dahl defined power as one actors ability to make another to do something that later would not otherwise do. 
+- [[UPSC/Hannah Arendt|Hannah Arendt]] argued that power is not the property of agents or actor, but of group and collectivity acting together. 
+- Fredrich : Power is a certain kind of human relationship. 
+- Tawney : It is a capacity of an individual or group to modify others conduct as one desire, 
 - The precise connotation of power become difficult when the term become interchangeable with several related theme. In political theory it is mainly associated with - force. 
-- <mark style="background: #FFB8EBA6;">Force is different from power</mark>, it is <mark style="background: #FFB8EBA6;">most brutal manifestation of power</mark>. 
-- The <mark style="background: #FFB8EBA6;">technique in force</mark> involved are <mark style="background: #BBFABBA6;">threat</mark>, <mark style="background: #BBFABBA6;">restraint</mark>, <mark style="background: #BBFABBA6;">intimidation</mark>, <mark style="background: #BBFABBA6;">blackmail</mark>, <mark style="background: #BBFABBA6;">terrorism</mark> and <mark style="background: #BBFABBA6;"> military force</mark>. 
-- <mark style="background: #BBFABBA6;">Influence</mark> - <mark style="background: #FFB8EBA6;">it represent sublimation of power. It may be due to social prestige, intellectual and spiritual immense high morality</mark> .
-- <mark style="background: #BBFABBA6;">Control</mark> - it is also different from power and it is<mark style="background: #FFB8EBA6;"> more comprehensive</mark> and <mark style="background: #FFB8EBA6;">less concentrated than power</mark>. <mark style="background: #FFB8EBA6;">Control could be of different nature, legislative, executive and judicial and financial</mark>. <mark style="background: #FFB8EBA6;">Power is more intense in comparison to control</mark>. 
+- Force is different from power, it is most brutal manifestation of power. 
+- The technique in force involved are threat, restraint, intimidation, blackmail, terrorism and  military force. 
+- Influence - it represent sublimation of power. It may be due to social prestige, intellectual and spiritual immense high morality .
+- Control - it is also different from power and it is more comprehensive and less concentrated than power. Control could be of different nature, legislative, executive and judicial and financial. Power is more intense in comparison to control. 
 
 ## Implication of Power
-- <mark style="background: #D2B3FFA6;">Power can not be encircled only in political or economical sphere, it is broadly social phenomena.</mark> <mark style="background: #ADCCFFA6;">Power is a latent force, force is manifested power and authority is instinulised power</mark>. 
-- <mark style="background: #ADCCFFA6;">Power appears in different ways in different occasion be it a formal organization or in an informal organization. Or in organized or unorganized community</mark>. 
+- Power can not be encircled only in political or economical sphere, it is broadly social phenomena. Power is a latent force, force is manifested power and authority is instinulised power. 
+- Power appears in different ways in different occasion be it a formal organization or in an informal organization. Or in organized or unorganized community. 
 - Power resides in a combination of numbers, social organization and resources. This is the source of power. 
-- <mark style="background: #FFB8EBA6;">Wherever the social forces are weak legal rational authority are also weak</mark>, <mark style="background: #FFB8EBA6;">there are consistent power struggle in both of the authority</mark>, in such society <mark style="background: #FFB8EBA6;">traditional authority, legal rational authority do not fall in similar line</mark>. 
+- Wherever the social forces are weak legal rational authority are also weak, there are consistent power struggle in both of the authority, in such society traditional authority, legal rational authority do not fall in similar line. 
 
 
 
 ### Different Power Theory 
 - ##### Liberal Democratic Theory
-	- Power has been identified with <mark style="background: #BBFABBA6;">developmental</mark> and <mark style="background: #BBFABBA6;">extractive capacity</mark>. In other words, <mark style="background: #FFB8EBA6;">power means ability and use  and development of human capacities</mark>. 
+	- Power has been identified with developmental and extractive capacity. In other words, power means ability and use  and development of human capacities. 
 	- It has two aspects- 
-		- <mark style="background: #BBFABBA6;">extractive or ethical</mark>
+		- extractive or ethical
 			- Man should use his capacity in a way so that he may extract benefits from other. It leads to power of extractive power. 
-		- <mark style="background: #BBFABBA6;">development, or empirical</mark> dimension respectively. 
+		- development, or empirical dimension respectively. 
 			- Since a mans ability to use and develop his capacity becomes the power, it is called mans development power.
 	
 - ##### Marxian Theory 
 	- Links politics and economics through instrument of power. 
-	- [[UPSC/Karl Marx|Karl Marx]] viewed political power as being possessed those who control means of production. The <mark style="background: #FFB8EBA6;">relation of production therefore determines distribution of political power</mark>. 
-	- Thus, [[UPSC/Karl Marx|Karl Marx]] sees a <mark style="background: #FFB8EBA6;">close integration between political power and prevailing socio-economic system</mark> and regards it as transient - <mark style="background: #ADCCFFA6;">it shall disappear with rise of stateless and classless society</mark>. 
+	- [[UPSC/Karl Marx|Karl Marx]] viewed political power as being possessed those who control means of production. The relation of production therefore determines distribution of political power. 
+	- Thus, [[UPSC/Karl Marx|Karl Marx]] sees a close integration between political power and prevailing socio-economic system and regards it as transient - it shall disappear with rise of stateless and classless society. 
 
 ### Dimension of Power 
 - Power has two specific dimension 
-	- <mark style="background: #BBFABBA6;">Transitive</mark>
-		- Consist of <mark style="background: #FFB8EBA6;">subordination of ones will by will of another</mark>.
-		-  In this sense <mark style="background: #FFB8EBA6;">power is not possible without counter power</mark>, both in symmetrical relationship. 
-		- <mark style="background: #FF5582A6;">Max Webber</mark>'̥s formulation reflects transitive power. 
-	- <mark style="background: #BBFABBA6;">Intransitive </mark>
-		- It is <mark style="background: #FFB8EBA6;">not zero sum game</mark> but has positive pay off. 
-		- It refers to the <mark style="background: #FFB8EBA6;">subordination one persons will to the will of another, within a community</mark>. It takes into account, the communality that exist within members of community.  
+	- Transitive
+		- Consist of subordination of ones will by will of another.
+		-  In this sense power is not possible without counter power, both in symmetrical relationship. 
+		- Max Webber'̥s formulation reflects transitive power. 
+	- Intransitive 
+		- It is not zero sum game but has positive pay off. 
+		- It refers to the subordination one persons will to the will of another, within a community. It takes into account, the communality that exist within members of community.  
 - Along with this 
 	- economic power 
 	- ideological power or 
 	- other set of power. 
-- Idea of <mark style="background: #FF5582A6;">David Held</mark>,̥ 
-- <mark style="background: #FF5582A6;">Eric R Wolf</mark> ̥distinguishes between four modality of power. 
-- <mark style="background: #FF5582A6;">Michael Mann</mark>;̥ there are two expression of state power, 
+- Idea of David Held,̥ 
+- Eric R Wolf ̥distinguishes between four modality of power. 
+- Michael Mann;̥ there are two expression of state power, 
 	- despotic and 
 	- infrastructural..
-- <mark style="background: #FF5582A6;">Galbrith</mark> ̥distinguishes three 
+- Galbrith ̥distinguishes three 
 
 
 ##### What is authority? 
-- Authority refers to person, group of person <mark style="background: #ADCCFFA6;">who holds ability of use of legitimate power.</mark>
--  <mark style="background: #FF5582A6;">Max Webber</mark> ̥suggested 3 fold classification that exist in modern state. 
-	- <mark style="background: #BBFABBA6;">Legal Rational Authority</mark> - 
-		-  <mark style="background: #D2B3FFA6;">Is explicit and right to give order and have them obeyed by virtue of an office held within a system of deliberately framed rules which set out rights and duty</mark>. 
-	- <mark style="background: #BBFABBA6;">Traditional</mark> -
-		-  exist where a person, <mark style="background: #ABF7F7A6;">such as tribal chief or religious leader hold superior position of command</mark> in accordance with long tradition and is obeyed <mark style="background: #FFB8EBA6;">because everyone accepts scanty of tradition</mark>. 
-	- <mark style="background: #BBFABBA6;">Charismatic</mark> -
-		-  It rest on <mark style="background: #FFB8EBA6;">position of exceptional personal quality</mark> that cause a person to be accepted as leader. This might be <mark style="background: #FFB8EBA6;">intellect ortar skills, quality of outstanding heroism</mark>. 
+- Authority refers to person, group of person who holds ability of use of legitimate power.
+-  Max Webber ̥suggested 3 fold classification that exist in modern state. 
+	- Legal Rational Authority - 
+		-  Is explicit and right to give order and have them obeyed by virtue of an office held within a system of deliberately framed rules which set out rights and duty. 
+	- Traditional -
+		-  exist where a person, such as tribal chief or religious leader hold superior position of command in accordance with long tradition and is obeyed because everyone accepts scanty of tradition. 
+	- Charismatic -
+		-  It rest on position of exceptional personal quality that cause a person to be accepted as leader. This might be intellect ortar skills, quality of outstanding heroism. 
 - The concept of power and authority is related but they are different too, 
-- Both the term <mark style="background: #FFB8EBA6;">refer to different properties and logically connected which makes it difficult to differentiate</mark>. 
+- Both the term refer to different properties and logically connected which makes it difficult to differentiate. 
 - Authority is a type of authorization of use of legitimate power. 
-- Authority is essentially associated with positive outcome in case of power it is not necessary. <mark style="background: #FF5582A6;">Professor Raphal</mark>,̥ in his book "<mark style="background: #FF5582A6;">Problems of political philosophy</mark>"̥ defined power in terms 
-	- <mark style="background: #FFB8EBA6;">Ability </mark>
-	- <mark style="background: #FFB8EBA6;">Power in social context</mark> 
-	- <mark style="background: #FFB8EBA6;">Coercive power. </mark>
+- Authority is essentially associated with positive outcome in case of power it is not necessary. Professor Raphal,̥ in his book "Problems of political philosophy"̥ defined power in terms 
+	- Ability 
+	- Power in social context 
+	- Coercive power. 
 - Authority correspond to all three power when legitimacy is associated with it. 
 
 ##### [[Legitimacy|Legitimacy]]
