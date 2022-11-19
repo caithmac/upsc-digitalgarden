@@ -92,12 +92,6 @@ Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]]
 
 ***
 ## Highligts
-- <mark style="background: #FFB8EBA6;">General Highlight</mark>
-- <mark style="background: #FF5582A6;">Author's and Book</mark>
-- <mark style="background: #BBFABBA6;">Technical Word</mark>
-- <mark style="background: #ADCCFFA6;">Direct Quotation </mark>
-- <mark style="background: #D2B3FFA6;">Paraphrase</mark> 
-- <mark style="background: #ABF7F7A6;">Example</mark>
 
 
 ## Question
