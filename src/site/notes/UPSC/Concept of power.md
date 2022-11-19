@@ -12,8 +12,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Power is relational.
 - It does not hold absolute meaning, always relative in nature. 
 - <mark style="background: #FFB8EBA6;">Power could be exercised only if it hold same meaning for everyone</mark>. 
-- Power is seen in different walks of life, in <mark style="background: #FFB8EBA6;"> political theory power is central issue</mark>.
-- <mark style="background: #FFB8EBA6;">For state power is force exercised by state in the name of law</mark>. 
+- Power is seen in different walks of life, <mark style="background: #FFB8EBA6;">in  political theory power is central issue.</mark>
+- <mark style="background: #FFB8EBA6;">For state, power is force exercised by state in the name of law</mark>. 
 - <mark style="background: #FF5582A6;">Harold Laswell</mark> and <mark style="background: #FF5582A6;">Abraham Caplan</mark>  <mark style="background: #D2B3FFA6;">constructed exercise of power as act effecting or determining other acts</mark>. 
 - <mark style="background: #FF5582A6;">Robert Dahl</mark> defined power as <mark style="background: #ADCCFFA6;">one actors ability to make another to do something that later would not otherwise do</mark>. 
 - [[UPSC/Hannah Arendt|Hannah Arendt]] argued that <mark style="background: #D2B3FFA6;">power is not the property of agents or actor, but of group and collectivity acting together</mark>. 
@@ -94,11 +94,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 - In general there are two theory of legitimacy. 
 - ##### Liberal Theory 
 	- The ideal of impartiality is clearly a part of it. This theory accepts that people follow order of government as the laws are impartial and rational. 
-	- This theory was criticized by Joseph Raz and he supported discourse theory of legitimacy. 
+	- This theory was criticized by <mark style="background: #FFB8EBA6;">Joseph Raz</mark> and he supported discourse theory of legitimacy. 
 - ##### Deliberative theory 
 	- Attempts to overcome liberal ideal of impartiality by modifying the concept of rationality. 
-	- The discourse theory contends that rationality can not be a possession of separate autonomous individual rather a shared achievement possible within the framework of free and rational public. 
-	- Habermas is considered to be supporter of this theory the key to legitimacy is "non instrumental" ideal of non-communicative rationality. 
+	- The discourse theory contends that <mark style="background: #ADCCFFA6;">rationality can not be a possession of separate autonomous individual rather a shared achievement possible within the framework of free and rational public</mark>. 
+	- <mark style="background: #FF5582A6;">Habermas</mark> ̥is considered to be supporter of this theory the key to legitimacy is "<mark style="background: #BBFABBA6;">non instrumental</mark>" ideal of non-communicative rationality. 
 	- This can only achieved in what he call ideal speech situation. 
 
 > [[UPSC/How does reliance on authority affect nature of power|How does reliance on authority affect nature of power]]
@@ -107,22 +107,23 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ##### Legitimacy Crisis
+
 >[!error] Introduction 
 
-
-- Habbermass has developed an alternative to webberian approach to legitamacy. 
-- Habbermass didn't adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth. 
-- Habbermass admited that modern capitalist society or liberal democracy have a system of drying out of consent and support of the people. Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy. 
-- In his work "Legitamacy Crisis 1973", he identified arising crisis tendency within capitalist society. These crisis tendency emerged as a result of fundamnetal contradiction between the logic of capitalist accumulation and popular pressure of welfarism unleashed by democratic politics. 
-- In modern capitalist society legitamacy is secured by democratic process, which lead to further demarcts for social welfare provision. Increased poupular participationn and social equality. 
-- This inturn puts pressure on the state to expands its social responsibility and state intervention for removing inequality. Such demands and activities leads to increased expenditure on welfare. 
-- It leads to increase in taxation and public spending and restrict capitalist accumulatiuon by restricting profit level and discouraging interpricess. 
+- <mark style="background: #FF5582A6;">Habbermass</mark> ̥has developed an alternative to webberian approach to legitamacy. 
+- Habbermass didn't <mark style="background: #FFB8EBA6;">adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth</mark>. 
+- Habbermass admited that <mark style="background: #FFB8EBA6;">modern capitalist society or liberal democracy have a system of drying out of consent and support of the people</mark>. <mark style="background: #FFB8EBA6;">Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy</mark>. 
+- In his work "<mark style="background: #FF5582A6;">Legitamacy Crisis 1973</mark>"̥, he<mark style="background: #FFB8EBA6;"> identified arising crisis tendency within capitalist society</mark>. These <mark style="background: #D2B3FFA6;">crisis tendency emerged as a result of fundamnetal contradiction between the logic of capitalist accumulation and popular pressure of welfarism unleashed by democratic politics</mark>. 
+- The cycle of welfarism - capitalism- legitamacy
+	- In modern capitalist society legitamacy is secured by democratic process, which lead to further demand for social welfare provision. Increased poupular participationn and social equality. 
+	- This inturn puts pressure on the state to expands its social responsibility and state intervention for removing inequality. Such demands and activities leads to increased expenditure on welfare. 
+	- It leads to increase in taxation and public spending and restrict capitalist accumulatiuon by restricting profit level and discouraging interpricess. 
 -  Thus a capitalist society is constantly in the grip of crisis tendency that is legitamacy. 
 - According to habbermass capitalist democracy can not satisfy both for popular demands for social equality welfare right and requirement of a market economy based on private proft. The implication of such crisis involves a disturbance  of integration or cohesion of society and regulatory structure of capitalist system
 
 >[!hint] Conclusion
 
 ###### State Action 
-- In such scenario of crisis, modern state uses resources for system steering and ideologiocal measure to legitamise and stablise the existing structure. 
+- In such scenario of crisis, modern state uses resources for <mark style="background: #BBFABBA6;">system steering</mark> and ideologiocal measure to legitamise and stablise the existing structure. 
 - State not only try to dissociate political and economic sphere but at the same time promote non intervrntion in economy is the best way of development. (Margret Thatcher's Roll back of state)
-- With above measure state gets success in establishing that the exploitative relationship between wage labour and capitalist is no longer part of political spehre. Politioal sphere becomes less personal and highly beuracrised. 
+- With above measure state gets success in establishing that the exploitative relationship between wage labour and capitalist is no longer part of political spehre. <mark style="background: #FFB8EBA6;">Politioal sphere becomes less personal and highly beuracrised</mark>. 
