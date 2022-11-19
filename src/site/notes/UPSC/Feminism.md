@@ -19,7 +19,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- There is discrimination each and every part of life. 
 	- Social and economic forces are led by men and has adverse impact over women. 
 - The word feminism refers an intense awareness of identity as women. 
-- The subjugation of women is central fact of history and is main cause of all psychological order of society. According to Janet Richards "The essence of feminism has strong fundamental case intended only to mean that there are excellent reason for thinking that women suffer from social injustice because of their sex, the proposition is to be regarded as feminism."
+- The subjugation of women is central fact of history and is main cause of all psychological order of society. According to **Janet Richards** "*The essence of feminism has strong fundamental case intended only to mean that there are excellent reason for thinking that women suffer from social injustice because of their sex, the proposition is to be regarded as feminism."*
 - 
 
 ##### Core Question 
@@ -35,8 +35,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Right to property 
 - Right to Education 
 - Right to vote
-- Marry Wollstonecraft, Maria Steward, Molly Yard, The Gramick Sisters.
-- In the first wave after the publication of Vindication of Women, demand of social economic and political right gradually increased. 
+- *Marry Wollstonecraft*, *Maria Steward*, *Molly Yard*, *The Gramick Sisters*.
+- In the first wave after the publication of **Vindication of Women**, demand of social economic and political right gradually increased. 
 - 1860-1920 women's liberation movement was highly focused on civil economic and political rights. 
 - Seneca Falls convention 
 - National Women Suffrage Association 
@@ -65,7 +65,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Men achieve undisputed paternity by insisting on monogamous marriage, a restriction that is applied to wife depriving them of other sexual partner.
 	- Socialist proposed that traditional patriarchal family should be replaced by system of communal living and free love. Engels believed that women constitute a reserve army of labour which can be recruited into workforce when there is a need to increase production, but easily shed and return to domestic life during depression, without imposing a burden on state or employer. 
 - Socialist and Marxist believes that women's question can not be separated from economic life and it could be addressed through revolution. 
-- Juliet Michel women fulfill four function
+- **Juliet Michel** women fulfill four function
 	- They are member of workforce and are active in production without any wages. 
 	- They bear children thus reproduce human species without getting much credit of it. 
 	- They are responsible for socializing children. 
@@ -80,29 +80,29 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Demand of redefining the political - personal is political 
 - Idea of patriarchy, debate of sex and gender. 
 - In second wave it was established there is  no consensus among feminist and there is difference among feminist demand along with understanding of women subjugation. 
-- Andrea Dworkin, Kate millet; 'Sexual Politics', Eva Figgis. "Patriarchal Attitude", Germaine Greer, Simone de Beauvoir, 
-- Radical Feminist do not ask for equal right but liberation. 
+- Andrea Dworkin, Kate millet; 'Sexual Politics', Eva Figgis. "Patriarchal Attitude", Germaine Greer, [[Simone de Beauvoir|Simone de Beauvoir]], 
+- Radical Feminist do not ask for equal right but *liberation*. 
 - They identified patriarchy as root cause of subjugation
 - They believe in completely transformation that must be radical in nature
 - Reject idea of political activism and promotes consciousness raising 
-- They identified personal is political along with sexual politics and talks about transformation of private realm, few of the radical feminist talks about sisterhood and identifies women as better sex than men. 
+- They identified [[UPSC/Personal is political|personal is political]] along with sexual politics and talks about transformation of private realm, few of the radical feminist talks about sisterhood and identifies women as better sex than men. 
 -  Patriarchy positioned men and women in hierarchy, actually it is type of power relationship. It is the patriarchy that defines male supremacy and male dominance, patriarchy is core value that determines structure and functioning and political institution 
 - Kate Millet describe patriarchal government whereby the halve of population which is female is controlled by half of population that is male. 
 - Patriarchy leads to control over labor of women all the technical works are assigned to men on the other hand the domestic and unpaid work has been assigned to women. 
 - It is the basis of structure of family social institution and other economic and political institution which ultimately result in subjugation of women. 
 - Most of anti-feminist argue that gender division in society is natural; women and men simply fulfil social role that nature designed them for. A women physical and anatomical makeup suits her as subordinate and domestic role in society. 
 - Biology is destiny. 
-- The biological factor determines nature inclination prefernces and over all role of men in society, therefore existing division, matters.
-- Radical feminist challenged the idea that biology is destiny by drawing a sharp distinction between sex and gendrer. 
+- The biological factor determines nature inclination preferences and over all role of men in society, therefore existing division, matters.
+- Radical feminist challenged the idea that biology is destiny by drawing a sharp distinction between sex and genders. 
 - Sex refers to biological difference between male and female these difference are unalterable. 
 - Gender on the other hand is cultural role that society ascribe to man and women. 
-- Gender difference is imposed thorough masculanity.
+- Gender difference is imposed thorough masculinity.
 - PATRIARCHIAL IDEA BLUR THE distinction b/w gender and sex, the difference is based on biology. 
-- Femisnist believe that there is no logical link b/w sexx and gender. Gender difference are socialy connecte. 
+- Feminist believe that there is no logical link b/w sex and gender. Gender difference are socially connected. 
 
->Women are not born but made. 
+>[!quote] Women are not born but made. 
 
-- [[Personal is political|Personal is political]]
+- [[UPSC/Personal is political|Personal is political]]
 - [[Radical feminist firmly critcised the idea of politcs stops at front door, in the light of this statement explain public man and private women|Radical feminist firmly critcised the idea of politcs stops at front door, in the light of this statement explain public man and private women]]. 
 - [[Radical feminist view of politics of everyday life|Radical feminist view of politics of everyday life]]. 
 
