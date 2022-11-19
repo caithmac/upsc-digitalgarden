@@ -90,7 +90,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Legitimacy is defined around the idea of exercise of power in any act. 
 - In political science, <mark style="background: #FFB8EBA6;">legitimacy is essentially associated with right and acceptance of authority</mark>. 
 - Legitimacy is value <mark style="background: #FFB8EBA6;">whereby something or someone is recognized as right and proper</mark>. 
-- Legitimacy leads to acceptance and recognition/.
+- Legitimacy leads to <mark style="background: #FFB8EBA6;">acceptance and recognition</mark>/.
 - In general there are two theory of legitimacy. 
 - ##### Liberal Theory 
 	- The ideal of impartiality is clearly a part of it. This theory accepts that people follow order of government as the laws are impartial and rational. 
