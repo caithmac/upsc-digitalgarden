@@ -108,8 +108,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ##### Legitimacy Crisis
 
->[!error] Introduction 
-
 - <mark style="background: #FF5582A6;">Habbermass</mark> ̥has developed an alternative to webberian approach to legitamacy. 
 - Habbermass didn't <mark style="background: #FFB8EBA6;">adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth</mark>. 
 - Habbermass admited that <mark style="background: #FFB8EBA6;">modern capitalist society or liberal democracy have a system of drying out of consent and support of the people</mark>. <mark style="background: #FFB8EBA6;">Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy</mark>. 
@@ -121,7 +119,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 -  Thus a capitalist society is constantly in the grip of crisis tendency that is legitamacy. 
 - According to habbermass capitalist democracy can not satisfy both for popular demands for social equality welfare right and requirement of a market economy based on private proft. The implication of such crisis involves a disturbance  of integration or cohesion of society and regulatory structure of capitalist system
 
->[!hint] Conclusion
+>[!question] [[UPSC/Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis|Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis]].
+>
 
 ###### State Action 
 - In such scenario of crisis, modern state uses resources for <mark style="background: #BBFABBA6;">system steering</mark> and ideologiocal measure to legitamise and stablise the existing structure. 
