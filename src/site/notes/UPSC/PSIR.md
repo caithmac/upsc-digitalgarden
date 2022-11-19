@@ -91,7 +91,15 @@ Extra - [[UPSC/Rousseau|Rousseau]] , [[UPSC/Bentham|Bentham]]
 **8. Recent developments in Indian Foreign policy:** India's position on the recent crisis in Afghanistan, Iraq and West Asia, growing relations with US and Israel; vision of a new world order.
 
 ***
-> https://caithmac-upsc.netlify.app/notes/upsc-democracy-md change this to https://caithmac-upsc.netlify.app/upsc/democracy by deleting /notes and -md and /upsc/topic name
+## Highligts
+- <mark style="background: #FFB8EBA6;">General Highlight</mark>
+- <mark style="background: #FF5582A6;">Author's and Book</mark>
+- <mark style="background: #BBFABBA6;">Technical Word</mark>
+- <mark style="background: #ADCCFFA6;">Direct Quotation </mark>
+- <mark style="background: #D2B3FFA6;">Paraphrase</mark> 
+- <mark style="background: #ABF7F7A6;">Example</mark>
+
+
 ## Question
 
 | Topic                                                                                                                                                                                                                                                                                        | Course                 |
