@@ -31,11 +31,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Set of values and rules for action which are proposed to individual by diverse institutuion such as family education system or churches. He argues that good is something that is practised not discovered. 
  
 ##### Power 
-- Not a thing but a relation. Power is not simply represive but it constructive too. 
-- Power is not simply property of state. Power is not something that is excluvily localised in govt and state. Rather power is exercised throughout social body.
+- Not a thing but a relation. <mark style="background: #FFB8EBA6;">Power is not simply represive but it constructive too</mark>. 
+- Power is not simply property of state. 
+- Power is not something that is excluvily localised in govt and state.
+-  Rather power is exercised throughout social body.
 - Power operates at most micro level of social relation. 
 - Power is omnipresent at every level of social body, power is not personalised but instituionlised, it belongs to institution. 
-- His model is known as capilary model of power. In which he attempted to understand relations of power looking at struggle and resistance. 
+- His model is known as <mark style="background: #BBFABBA6;">capilary model of power</mark>. 
+- In which he attempted to understand relations of power looking at struggle and resistance. 
 - He moves from the soveriegnity conception of power towards what he calls disciplinary power or micromechanism of power - the techniques and tactics of domination - that, as closely linked grid of disciplinary, keep the social body in steady state.  
 - According to him power is not just negative, coercive or rerepresive thing, that forces us to do things against our wishes but also can be necessarym, productive and positive force in society. 
 - There are many types of power he identified. According to him, physicall bodies are subjugated and made to behave in a certain ways, as microsm of social control of the wider population through what he called biopower. Disciplinary and biopower ceates discursive practice or body of knowledge and behaviour that defines what is normal, acceptable, deviant etc. But it is discursive practise that is in constant flux. 
