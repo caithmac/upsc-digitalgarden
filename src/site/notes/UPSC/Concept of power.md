@@ -85,6 +85,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Power in social context 
 	- Coercive power. 
 - Authority correspond to all three power when legitimacy is associated with it. 
+Bleh 
 
 ##### [[Legitimacy|Legitimacy]]
 - Legitimacy is defined around the idea of exercise of power in any act. 
