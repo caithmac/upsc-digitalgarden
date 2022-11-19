@@ -18,7 +18,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Robert Dahl defined power as one actors ability to make another to do something that later would not otherwise do. 
 - [[UPSC/Hannah Arendt|Hannah Arendt]] argued that power is not the property of agents or actor, but of group and collectivity acting together. 
 - Fredrich : Power is a certain kind of human relationship. 
-- Tawney : It id a capacity of an individual or group to modify others conduct as one desire, 
+- Tawney : It is a capacity of an individual or group to modify others conduct as one desire, 
 - The precise connotation of power become difficult when the term become interchangeable with several related theme. In political theory it is mainly associated with - force. 
 - Force is different from power, it is most brutal manifestation of power. 
 - The technique in force involved are threat, restraint, intimidation, blackmail, terrorism and military force. 
@@ -30,6 +30,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Power appears in different ways in different occasion be it a formal organization or in an informal organization. Or in organized or unorganized community. 
 - Power resides in a combination of numbers, social organization and resources. This is the source of power. 
 - Wherever the social forces are weak legal rational authority are also weak, there are consistent power struggle in both of the authority, in such society traditional authority, legal rational authority do not fall in similar line. 
+
 
 
 ### Different Power Theory 
@@ -91,7 +92,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### [[UPSC/Foucault Concept of Power|Foucault Concept of Power]]
 
 
-##### Legitimancy Crisis
+##### Legitimacy Crisis
+>[!error] Introduction 
+
+
 - Habbermass has developed an alternative to webberian approach to legitamacy. 
 - Habbermass didn't adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth. 
 - Habbermass admited that modern capitalist society or liberal democracy have a system of drying out of consent and support of the people. Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy. 
@@ -99,8 +103,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 - In modern capitalist society legitamacy is secured by democratic process, which lead to further demarcts for social welfare provision. Increased poupular participationn and social equality. 
 - This inturn puts pressure on the state to expands its social responsibility and state intervention for removing inequality. Such demands and activities leads to increased expenditure on welfare. 
 - It leads to increase in taxation and public spending and restrict capitalist accumulatiuon by restricting profit level and discouraging interpricess. 
-- Thus a capitalist society is constantly in the grip of crisis tendency that is legitamacy. 
-- According to habbermass capitalist democracy can not satisfy both for popular demands for social equality welfare right and requirement of a market economy based on private proft. The implication of such crisis involves a disturbance  of integration or cohesion of society and regulatory structure of capitalist system
+-  <mark style="background: #ADCCFFA6;">Thus a capitalist society is constantly in the grip of crisis tendency that is legitamacy. </mark>
+- According to habbermass capitalist democracy can not satisfy both for <mark style="background: #FFB8EBA6;">popular demands for social equality welfare right</mark> and <mark style="background: #FFB8EBA6;">requirement of a market economy based on private proft</mark>. The implication of such crisis involves a disturbance  of integration or cohesion of society and regulatory structure of capitalist system
+
+>[!]
+
 ###### State Action 
 - In such scenario of crisis, modern state uses resources for system steering and ideologiocal measure to legitamise and stablise the existing structure. 
 - State not only try to dissociate political and economic sphere but at the same time promote non intervrntion in economy is the best way of development. (Margret Thatcher's Roll back of state)
