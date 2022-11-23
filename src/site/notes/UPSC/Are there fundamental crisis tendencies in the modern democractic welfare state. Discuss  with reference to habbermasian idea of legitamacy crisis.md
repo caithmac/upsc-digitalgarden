@@ -19,10 +19,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 >What :  Cycle of Legitamacy and Welfarism 
 
 - According to Habermas: 
-- In modern capitalist society, legitamacy is obtained by democratic methods, which leads to more demand by people for more social welfarism, increase of popular participation and social equality. 
-- This puts pressure on state to cast wider net to expand its social responsibilities and state intervention for removing inequality. But this all comes at cost and and state has to increase its expenditure on welfare programme.
+- In modern capitalist society, legitimacy is obtained by democratic methods, which leads to more demand by people for more social welfarism, increase of popular participation and social equality. 
+- This puts pressure on state to cast wider net to expand its social responsibilities and state intervention for removing inequality. But this all comes at cost and and state has to increase its expenditure on welfare program.
 - This increased expenditure has to be borne by someone, hence this extra burden is passed on to the tax payers. Which restricts their spending and thus lowering the profits of capitalists and accumulation. 
-- Thus the capitalist society is constantly in the grip of crisis tendency that is legitamacy.
+- Thus the capitalist society is constantly in the grip of crisis tendency that is legitimacy.
 
 
 >[!done] Body 2 : Are there fundamental crisis tendencies in the modern democractic welfare state? 
@@ -43,12 +43,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 >  	Charismatic Leaders - in  hope for better future of depalated people
 >  	Civil Societies - welfare state or all out revolution. 
 
-- This phenonmena is no where better captured than the Arab Spring. It gripped the imagination of North African people and West Asia. Many European countries are also glaring example of this phenonmena, 
+- This phenomena is no where better captured than the Arab Spring. It gripped the imagination of North African people and West Asia. Many European countries are also glaring example of this phenomena, 
 - This civil unrest can lead to two paths. 
-- The first path being, there will be rise of popular leaders who with the help of masses resurect the society. A leader who rules by conforming to populist demands, vote bank politics and works on rhetoric and excusionism of minority voices. 
+- The first path being, there will be rise of popular leaders who with the help of masses resurrect the society. A leader who rules by conforming to populist demands, vote bank politics and works on rhetoric and exclusionism of minority voices. 
 - This can be seen in the rise of leaders like Giorgia Meloni, Recep Erdogan, and erstwhile leaders of Brazil and Hungary. 
 - The second path can be formation of civil societies which can work to remove said inequalities and work on welfarism. 
-- But this could lead to total revolution, whose result is hard to predic, few state can come out stronger while other state may crumble and never stand up on their legs. 
+- But this could lead to total revolution, whose result is hard to predict, few state can come out stronger while other state may crumble and never stand up on their legs. 
 
 >[!tip] Conclusion 
 >Hence, to maintain legitamacy state has to work to build trust among citizens.  Elections are the best way to seek legitamacy. They can also gauge legitamacy by voter turnout in the disturbed areas. 
