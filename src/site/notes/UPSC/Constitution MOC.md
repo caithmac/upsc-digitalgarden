@@ -92,6 +92,7 @@
 - [[UPSC/Financial Emergency|Financial Emergency]]
 - [[UPSC/Fundamental Rights|Fundamental Rights]]
 - [[UPSC/Justice|Justice]]
+- [[UPSC/K.S. Puttaswamy case|K.S. Puttaswamy case]]
 - [[UPSC/Kesavananda Bharti Case|Kesavananda Bharti Case]]
 - [[UPSC/Liberal|Liberal]]
 - [[UPSC/Lok Sabha|Lok Sabha]]
