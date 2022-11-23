@@ -9,8 +9,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ----
 ##### Procedural Justice
-- Procedure of justice should be just. 
 - Justice can not be evaluated on line of outcome. 
+- Procedure of justice should be just. 
 
 
 
