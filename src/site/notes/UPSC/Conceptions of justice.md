@@ -42,41 +42,41 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Liberal tradition 
 - [[Egalitarian|Egalitarian]] 
 - Kantian assumption 
-- He was mainly *worried* about outcome of Liberal theroem of Justice
+- He was mainly *worried* about outcome of Liberal theorem of Justice
 - He completely rejected the methodology of Marxist and [[UPSC/Socialist|Socialist]] justice. 
 - He was willing to fuse procedural and substantive justice. 
 - Method of distribution should be procedural and result should be substantive. 
 - *Original Position*
 - *Veil of Ignorance* 
 - Justice as fairness is Rawl's theory of justice for liberal society. Rawl's constructed justice as fairness around specific interpretation of the ideas that citizens are free and equal and society should be fare. He sees it as a resolving tension between ideas of freedom and equality, which have been highlighted both by socialist critique of liberal democracy and by conservative critique of modern welfare subject. 
-- Justice as fairness aimes to describe a just arrangement of the major political and social institution of the liberal society,. The political constitution, legal system and economy and family and so on. 
-- Rawl calls this arangement as basic structure. 
+- Justice as fairness aims to describe a just arrangement of the major political and social institution of the liberal society,. The political constitution, legal system and economy and family and so on. 
+- Rawl calls this arrangement as basic structure. 
 - Basic structure is the location of justice because these institution distribute main burden and benefit of social life. 
 - Rawls in order to establish his theorem of justice imagined a condition that is original position. 
 - ##### Original Position
 	- Aims to move from abstract conception to determinate principals of social justice. 
-	- The stratagy of OP is to construct a method of reasoning that models idea of justice. 
-	- OP is an imaginary situation,in which each real citien has a representative and all representative have come to agreement on which principal of justice should order political institution of real citizens. 
-	- OP is a fair situation in which each citizen is representated as only free and equal citizen. 
-	- Each representative wants only what free and equal citizen wants. And each tries to agree to the prinicpal for basic structure while situated fairly wrt other representative. 
-	- The most striking feature of OP is *vigil of ignorance*, which prevents arbitary facts from citizens from influencing agreement among their citizens. 
-	- Each representative in OP is therefore deprived of knowledege of race, class and gender of citizens they represent. 
+	- The strategy of OP is to construct a method of reasoning that models idea of justice. 
+	- OP is an imaginary situation, in which each real citizen has a representative and all representative have come to agreement on which principal of justice should order political institution of real citizens. 
+	- OP is a fair situation in which each citizen is represented as only free and equal citizen. 
+	- Each representative wants only what free and equal citizen wants. And each tries to agree to the principal for basic structure while situated fairly wrt other representative. 
+	- The most striking feature of OP is *vigil of ignorance*, which prevents arbitrary facts from citizens from influencing agreement among their citizens. 
+	- Each representative in OP is therefore deprived of knowledge of race, class and gender of citizens they represent. 
 	- In fact the vigil of ignorance deprives party of all fact about citizen which are irrelevant to choice of principal of justice. 
-	- Moreover the vigil of ignorance screens out specific info. what soceity is rn. So as to  get as clearer view of permanent features of just social system. 
+	- Moreover the vigil of ignorance screens out specific info. what society is rn. So as to  get as clearer view of permanent features of just social system. 
 	- In vigil of ignorance parties do not know 
 		- Age 
 		- Gender 
-		- Ethinicity 
+		- Ethnicity 
 		- Race 
 		- Income 
 		- Wealth 
 		- Natural Indominate 
 	- The political system of society , its class structure, economic system or level of economic development. 
 	- Parties do know 
-		- Citizens in society have different comprehnsive doctrine and plans of life.  
+		- Citizens in society have different comprehensive doctrine and plans of life.  
 		- The society is under condition of moderate scarcity, there is enough to go around , but not enough for everyone to get what they want 
 		- General facts and common sense about human social life, general conclusion of science, economics and psychology. 
-	- The vigil of ignorance situates the representative of free and equal citizens fairly wrt another. The situation of parties emobodies reasonable conditions, within which parties can make a rational and all  well accepted principal of justice.  
+	- The vigil of ignorance situates the representative of free and equal citizens fairly wrt another. The situation of parties embodies reasonable conditions, within which parties can make a rational and all  well accepted principal of justice.  
 - ##### First Principal
 - All primary goods are available to all. 
 - ##### Difference Principal
@@ -94,6 +94,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Sequence is fixed and must not be changed. 
 
 
+>[!question] [[UPSC/Explain Justice as fairness. How does an overlapping consensus among cultural, religious, and ideological group is achieved by Rawls|Explain Justice as fairness. How does an overlapping consensus among cultural, religious, and ideological group is achieved by Rawls]] 
 
 
 **Backlinks**
