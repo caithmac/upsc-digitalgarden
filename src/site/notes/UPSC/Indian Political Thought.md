@@ -44,7 +44,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ### Salient Feature of IPT 
 - Enormous continuity in ancient and modern Indian thought 
 - There is a continuity in the concept of Dharma and Dand 
-- Indian political thought is communitarian [[UPSC/communitarianism|communitarianism]]
+- Indian political thought is communitarian [[UPSC/Communitarianism|Communitarianism]]
 - [[Pluralistic|Pluralistic]]
 - [[Cosmopolitan|Cosmopolitan]]
 - Indians have not defined Nation in narrow teritorial sense. 
