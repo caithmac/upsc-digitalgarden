@@ -19,7 +19,7 @@ Asian values were codified in the Bangkok declaration of 1993. Which reemphasisi
 - Concerned with socio economic prosperity 
 - Collective welbeing of the community 
 - Loyality and respect to the figures of authority 
-- Priority of collectivism and [[UPSC/communitarianism|communitarianism]] 
+- Priority of collectivism and [[UPSC/Communitarianism|Communitarianism]] 
 
 Asian value debate although got popularity, it has certain flaw.  
 - There is no  common culture of asian country 
