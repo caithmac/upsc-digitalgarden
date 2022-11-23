@@ -39,16 +39,19 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Power is omnipresent at every level of social body, power is not personalised but instituionlised, it belongs to institution. 
 - His model is known as <mark style="background: #BBFABBA6;">capilary model of power</mark>. 
 - In which he attempted to understand relations of power looking at struggle and resistance. 
-- He moves from the soveriegnity conception of power towards what he calls disciplinary power or micromechanism of power - the techniques and tactics of domination - that, as closely linked grid of disciplinary, keep the social body in steady state.  
-- According to him power is not just negative, coercive or rerepresive thing, that forces us to do things against our wishes but also can be necessarym, productive and positive force in society. 
-- There are many types of power he identified. According to him, physicall bodies are subjugated and made to behave in a certain ways, as microsm of social control of the wider population through what he called biopower. Disciplinary and biopower ceates discursive practice or body of knowledge and behaviour that defines what is normal, acceptable, deviant etc. But it is discursive practise that is in constant flux. 
+- He moves from the <mark style="background: #FFB8EBA6;">soveriegnity conception of power</mark> towards what he calls disciplinary power or micromechanism of power - the techniques and tactics of domination - that, as closely linked grid of disciplinary, keep the social body in steady state.  
+- According to him power is <mark style="background: #FFB8EBA6;">not just negative, coercive or rerepresive thing</mark>, that forces us to do things against our wishes but <mark style="background: #FFB8EBA6;">also can be necessary, productive and positive force in society</mark>. 
+- There are many types of power he identified. According to him, physicall bodies are subjugated and made to behave in a certain ways, as microsm of social control of the wider population through what he called biopower. 
+- Disciplinary and biopower ceates discursive practice or body of knowledge and behaviour that defines what is normal, acceptable, deviant etc. But it is discursive practise that is in constant flux. 
 - His approach to power is that it transcends politics and sees power as everyday, socialised embodied phenomena. That is why state centre power struggle including revolution do not always lead to change in the social order. 
+
+>[!question] "[[UPSC/Power flows throughout the system like blood in the capillaries of our body.|Power flows throughout the system like blood in the capillaries of our body.]]"
 
 ##### Knowledge is Power. 
 - He uses the term,, to signify that power is constituted through accepted form of knowledge, scientific knowledge and truth, in this conncection he narrates that power is everywhere and comes from everywhere in this sense (power) is neither an agency nor structure it is kind of meta power or regime of truth pervades society and which is in constant flux and negotiotaion. 
 - He noted that truth and knowledge in this world is only produced by virtue of multiple form of constraint. 
 - Each society has its regime of  truth that is type of discourse which accepts make function as true: the mechanism and instances which enable one to distinguishes true and false statement. 
-- Paul Rabinow - Identified three models of objectification in writing of FOucalt. In other words three models of organising principle used by foucault to explain how human being becomes subjects. 
+- Paul Rabinow - Identified three models of objectification in writing of Foucault. In other words three models of organising principle used by foucault to explain how human being becomes subjects. 
 	- Dividing Practise 
 		- Involves exclusion of people who are precieved as threat to community. 
 		- It was believed that threat to society could be solved through exclusion. Theives into prision, "==ships of fool=="
