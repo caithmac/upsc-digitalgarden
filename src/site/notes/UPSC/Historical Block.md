@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/historical-block/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/historical-block/"}
 ---
 
 ----
 Topic:: Historical Block
 Date:: 2022-07-25
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
-- [[UPSC/Gramsci|Gramsci]] used historical block. 
--  [[UPSC/Gramsci|Gramsci]] in his book "Prision Notes "; highlighted concept of historical bloc. In concept of Historical Bloc, he is refering to unity and alignment of structure and super structure, the process of formation of historic bloc gets intitiated in arena of super structure it is in format of homofenous, political, economic alliances which does not have internal contradiction. 
+- [[UPSC/Gramsci\|Gramsci]] used historical block. 
+-  [[UPSC/Gramsci\|Gramsci]] in his book "Prision Notes "; highlighted concept of historical bloc. In concept of Historical Bloc, he is refering to unity and alignment of structure and super structure, the process of formation of historic bloc gets intitiated in arena of super structure it is in format of homofenous, political, economic alliances which does not have internal contradiction. 
 - Gramscian historical bloc refers to Gramscian historical bloc refers to historical congurence between material forces, institution and ideology or alliance of different class forces politically organised around a set of hegominic idea. 
 - Historic bloc is not a political party it is a combination of subjective and objective forces ready for revolution
 - Stephen Gill argues that a historical bloc is process which is intitiated by conscious social force which intends to establish a new hegemony,
