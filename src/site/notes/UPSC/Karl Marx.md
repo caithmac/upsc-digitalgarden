@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/karl-marx/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/karl-marx/"}
 ---
 
 ----
 Topic:: Marx
 Date:: 2022-07-11
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 #### Background
@@ -61,7 +61,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ###### Unity of Opposite 
 ###### Negation of Negation  
 
-- [[Dialectic materialism|Dialectic materialism]]
+- [[Dialectic materialism\|Dialectic materialism]]
 
 ##### Social Aspect of Marxism 
 - Class sturggle. 
@@ -80,19 +80,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: Marxist Conception of State
-Date:: 2022-08-03
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 
 ## Marxist Conception of State
 - State is an instrument of exploitation. 
@@ -101,7 +89,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Function of state is always exxplotive. 
 - Always use security to maintain domination of captialist class. 
 - After the revolution state is in control of worker class and it will be used to stop counter revolution. As state is an instrument of exploitation, there will be no need of state after communism. State will wither away. 
-- As per [[UPSC/Karl Marx|Karl Marx]], state is a reflection of dominant force or class. 
+- As per [[UPSC/Karl Marx\|Karl Marx]], state is a reflection of dominant force or class. 
 - State is an organized corcive and opperesive power. 
 - State is an executive committee of bourgesie. The primary task is to provide law and order and establish stablise maintain existing economic relationship. 
 
@@ -129,9 +117,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Marx argued that these intermeditary class are actually divided but these division get surfaced only during struggle. He denied modern stratification approach and argued that classes have meaning only as they are real group in social structure. Here group means interaction among memebers common consciousness and similar type of behaviour in entire group member. 
 
 > [!question]
->1.  [[Discuss Marxian notion of state, is it correct to say state is essentially belongs to one class|Discuss Marxian notion of state, is it correct to say state is essentially belongs to one class]]
->2. [[Locate Marxian notion of state and its interrealtion with other socioeconomic institution in his conception of base and superstructure|Locate Marxian notion of state and its interrealtion with other socioeconomic institution in his conception of base and superstructure]]
->3. [[Discuss marxist theory of revolution, how this revolution is difference from aristotlian concept of revolution|Discuss marxist theory of revolution, how this revolution is difference from aristotlian concept of revolution]]
+>1.  [[Discuss Marxian notion of state, is it correct to say state is essentially belongs to one class\|Discuss Marxian notion of state, is it correct to say state is essentially belongs to one class]]
+>2. [[Locate Marxian notion of state and its interrealtion with other socioeconomic institution in his conception of base and superstructure\|Locate Marxian notion of state and its interrealtion with other socioeconomic institution in his conception of base and superstructure]]
+>3. [[Discuss marxist theory of revolution, how this revolution is difference from aristotlian concept of revolution\|Discuss marxist theory of revolution, how this revolution is difference from aristotlian concept of revolution]]
 
 #### Economic and philosophic manuscript of 1884 
 - Traced at later period consider writing as Humanist phase of Marx or Young Marx. 
@@ -176,4 +164,4 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Fukuyama, rejected marxist theory but identified two major application of it, 
 - It has been used as tool of social analysis 
 - It gives voice to voiceless, voice of poor, oppressed people. 
-- [[UPSC/Karl Popper|Karl Popper]], 'Open Society and its enemy', criticized, [[UPSC/Plato|Plato]], Hegel and [[UPSC/Karl Marx|Karl Marx]]. According to Popper, Marx created the myth of class war and violent revolution. In Popper's view all these false prophet were advocate of close society that suppresses free speech, equal rights and critical deliberation. He further argued that science and freedom only flourished in open society and not  close society. 
+- [[UPSC/Karl Popper\|Karl Popper]], 'Open Society and its enemy', criticized, [[UPSC/Plato\|Plato]], Hegel and [[UPSC/Karl Marx\|Karl Marx]]. According to Popper, Marx created the myth of class war and violent revolution. In Popper's view all these false prophet were advocate of close society that suppresses free speech, equal rights and critical deliberation. He further argued that science and freedom only flourished in open society and not  close society. 
