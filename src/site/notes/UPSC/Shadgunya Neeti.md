@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/shadgunya-neeti/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/shadgunya-neeti/"}
 ---
 
 ----
 Topic:: Shadgunya Neeti
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 - Vijigishu can adopt following options depending on situation 
@@ -28,7 +28,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                   |
 | -------------------------------------- |
-| [[UPSC/Arthashastra.md\|Arthashastra]] |
+| [[UPSC/Arthashastra\|Arthashastra]] |
 
 
 
