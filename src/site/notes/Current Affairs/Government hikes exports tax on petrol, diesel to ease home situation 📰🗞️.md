@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/government-hikes-exports-tax-on-petrol-diesel-to-ease-home-situation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/government-hikes-exports-tax-on-petrol-diesel-to-ease-home-situation/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Government hikes exports tax on petrol, diesel to ease home situation 📰🗞️|Government hikes exports tax on petrol, diesel to ease home situation 📰🗞️]]
-Date:: [[Current Affairs/02-07-2022|02-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Government hikes exports tax on petrol, diesel to ease home situation 📰🗞️\|Government hikes exports tax on petrol, diesel to ease home situation 📰🗞️]]
+Date:: [[Current Affairs/02-07-2022\|02-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
