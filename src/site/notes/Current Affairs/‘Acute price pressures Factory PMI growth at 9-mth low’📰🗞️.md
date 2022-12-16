@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/acute-price-pressures-factory-pmi-growth-at-9-mth-low/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/acute-price-pressures-factory-pmi-growth-at-9-mth-low/"}
 ---
 
 ----
-Headline:: [[Current Affairs/‘Acute price pressures Factory PMI growth at 9-mth low’📰🗞️|‘Acute price pressures Factory PMI growth at 9-mth low’📰🗞️]]
-Date:: [[Current Affairs/02-07-2022|02-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/‘Acute price pressures Factory PMI growth at 9-mth low’📰🗞️\|‘Acute price pressures Factory PMI growth at 9-mth low’📰🗞️]]
+Date:: [[Current Affairs/02-07-2022\|02-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
