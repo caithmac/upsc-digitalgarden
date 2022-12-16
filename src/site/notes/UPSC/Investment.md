@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/investment/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/investment/"}
 ---
 
 Topic: Investment
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar3 
 
 ---
@@ -14,8 +14,8 @@ Tags: #pillar3
 
 
 ### Notes
-- [[FDI|FDI]]
-- [[FII|FII]]
+- [[FDI\|FDI]]
+- [[FII\|FII]]
 
 
 
