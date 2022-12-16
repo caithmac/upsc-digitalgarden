@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mahajanpada/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mahajanpada/"}
 ---
 
 
-[[UPSC/Magadha|Magadha]]
+[[UPSC/Magadha\|Magadha]]
