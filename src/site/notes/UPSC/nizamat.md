@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/nizamat/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/nizamat/"}
 ---
 
 ----
 Topic: nizamat
 Date: 2022-06-03
-Course: [[UPSC/Modern History|Modern History]] 
+Course: [[UPSC/Modern History\|Modern History]] 
 
 ----
 - Police and Judicial functions.
