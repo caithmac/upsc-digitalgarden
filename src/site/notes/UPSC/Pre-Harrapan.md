@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/pre-harrapan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/pre-harrapan/"}
 ---
 
-[[Mohenjo-Daro|Mohenjo-Daro]]
+[[Mohenjo-Daro\|Mohenjo-Daro]]
