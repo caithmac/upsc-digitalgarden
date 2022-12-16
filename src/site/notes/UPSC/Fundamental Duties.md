@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/fundamental-duties/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/fundamental-duties/"}
 ---
 
 
 
-- [[Features of the Fundamental Duties|Features of the Fundamental Duties]]
-- [[Criticism of Fundamental Duties|Criticism of Fundamental Duties]]
-- [[Significance of Fundamental Duties|Significance of Fundamental Duties]]
-- [[Verma Committee|Verma Committee]]
+- [[Features of the Fundamental Duties\|Features of the Fundamental Duties]]
+- [[Criticism of Fundamental Duties\|Criticism of Fundamental Duties]]
+- [[Significance of Fundamental Duties\|Significance of Fundamental Duties]]
+- [[Verma Committee\|Verma Committee]]
 
 
 > It shall be the duty of every citizen of India to provide opportunities for education to his child or ward between the age of six and fourteen years
