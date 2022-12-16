@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aristotle-s-slavery/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aristotle-s-slavery/"}
 ---
 
 ----
 Topic:: Aristotle's Slavery
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 #####  Aristotle's Slavery
@@ -29,6 +29,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 Aristotle's writes in justification of Slavery 
 >[!quote] For that some should rule and others be ruled is a thing not only necessary, but expedient; from the hour of their birth, some are marked out for subjection, others for rule.
+
+^033a14
 
 >[!cite] Each man is an end in itself. No one ought to be treat other person as a means to an end. 
 >~ Immanuel Kant
