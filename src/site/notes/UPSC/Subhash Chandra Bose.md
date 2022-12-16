@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/subhash-chandra-bose/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/subhash-chandra-bose/"}
 ---
 
-[[Forward Bloc|Forward Bloc]] 
+[[Forward Bloc\|Forward Bloc]] 
