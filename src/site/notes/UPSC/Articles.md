@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/articles/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/articles/"}
 ---
 
 Topic: Articles
 Date: 2022-06-02
-Course: [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: 
 
 ---
 
-[[Article 1. Name and territory of the Union|Article 1. Name and territory of the Union]]. ^7e0c80
+[[Article 1. Name and territory of the Union\|Article 1. Name and territory of the Union]]. ^7e0c80
 2. Admission or establishment of new States.
 2A. [Omitted.] ^431d38
 3. Formation of new States and alteration of areas, boundaries or names of existing States.
@@ -17,7 +17,7 @@ Tags:
 Schedules and supplemental, incidental and consequential matters.
 PART II
 CITIZENSHIP ^62092d
-5. Citizenship at the commencement of the [[UPSC/Constitution MOC|Constitution MOC]].
+5. Citizenship at the commencement of the [[UPSC/Constitution MOC\|Constitution MOC]].
 6. Rights of citizenship of certain persons who have migrated to India from Pakistan.
 7. Rights of citizenship of certain migrants to Pakistan.
 8. Rights of citizenship of certain persons of Indian origin residing outside India.
@@ -620,7 +620,7 @@ CHAPTER IV.SPECIAL DIRECTIVES
 350B. Special Officer for linguistic minorities.
 351. Directive for development of the Hindi language.
 PART XVIII
-[[UPSC/Emergency Provisions|Emergency Provisions]]
+[[UPSC/Emergency Provisions\|Emergency Provisions]]
 352. Proclamation of Emergency.
 353. Effect of Proclamation of Emergency.
 354. Application of provisions relating to distribution of revenues while a Proclamation of Emergency 
