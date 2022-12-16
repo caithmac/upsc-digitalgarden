@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/foucault-concept-of-power/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/foucault-concept-of-power/"}
 ---
 
 ----
 Topic:: Foucault Concept of Power
 Date:: 2022-08-29
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### Discipline 
@@ -45,7 +45,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Disciplinary and biopower ceates discursive practice or body of knowledge and behaviour that defines what is normal, acceptable, deviant etc. But it is discursive practise that is in constant flux. 
 - His approach to power is that it transcends politics and sees power as everyday, socialised embodied phenomena. That is why state centre power struggle including revolution do not always lead to change in the social order. 
 
->[!question] "[[UPSC/Power flows throughout the system like blood in the capillaries of our body.|Power flows throughout the system like blood in the capillaries of our body.]]"
+>[!question] "[[UPSC/Power flows throughout the system like blood in the capillaries of our body.\|Power flows throughout the system like blood in the capillaries of our body.]]"
 
 ##### Knowledge is Power. 
 - He uses the term,, to signify that power is constituted through accepted form of knowledge, scientific knowledge and truth, in this conncection he narrates that power is everywhere and comes from everywhere in this sense (power) is neither an agency nor structure it is kind of meta power or regime of truth pervades society and which is in constant flux and negotiotaion. 
