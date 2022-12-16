@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bihar-current-affairs/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/bihar-current-affairs/"}
 ---
 
 ----
 Topic:: Bihar Current Affairs
 Date:: 2022-09-04
-Course:: [[Bihar|Bihar]]  
+Course:: [[Bihar\|Bihar]]  
 
 ----
 >[!error] # August 2021
@@ -445,7 +445,7 @@ budget 2022-23-
 - Surjapuri language is made up of a combination of Bangla, Maithili and Hindi and its speakers live mainly in Kishanganj, Katihar, Purnea and Araria districts of the state. This language is also known as ‘Kishanganjia’
 ##### Traffic Park in Each District of Bihar
 
-##### Prepaid Meters will be Installed in Five Districts of Bihar [[Bihar Current Affairs#^26a871|Bihar Current Affairs#^26a871]]
+##### Prepaid Meters will be Installed in Five Districts of Bihar [[Bihar Current Affairs#^26a871\|Bihar Current Affairs#^26a871]]
 
 ##### Upgradation of Kasturba Gandhi Balika Vidyalayas in Bihar
 - e Bihar Education Department has prepared an action plan to upgrade 534 Kasturba Gandhi Balika Vidyalayas to plus-two
@@ -487,7 +487,7 @@ budget 2022-23-
 **Backlinks**
 | File                                                |
 | --------------------------------------------------- |
-| [[Bihar Current Affairs.md\|Bihar Current Affairs]] |
-| [[UPSC/Mains Syllabus.md\|Mains Syllabus]]          |
+| [[Bihar Current Affairs\|Bihar Current Affairs]] |
+| [[UPSC/Mains Syllabus\|Mains Syllabus]]          |
 
 
