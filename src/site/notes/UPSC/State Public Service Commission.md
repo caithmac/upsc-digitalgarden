@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/state-public-service-commission/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/state-public-service-commission/"}
 ---
 
-[[UPSC/State Public Service Commission|State Public Service Commission]] 🤢🤮
+[[UPSC/State Public Service Commission\|State Public Service Commission]] 🤢🤮
 
 Article 325 to 323 :: Part XIV
 
 ### Composition
-Appointed by [[UPSC/Governor|Governor]]
+Appointed by [[UPSC/Governor\|Governor]]
 
 
 ### Removal
-Only by [[UPSC/President|President]]
+Only by [[UPSC/President\|President]]
 
 
 ### Independence
