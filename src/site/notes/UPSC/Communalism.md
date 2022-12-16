@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/communalism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/communalism/"}
 ---
 
 ----
 Topic:: Communalism
 Date:: 2022-07-02
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 
@@ -40,7 +40,7 @@ religions.
 >-  India, politics of opportunism, is the biggest cause of communalism driven by the  middle/ upper class for secular gains and trusted by the lower sections that identify with the cause.
 >- Historical Factors: British historians divivided Indian history as Ancient India as being ruled by Hindus and Medieval period as the period of Muslim rule, when Hindus were exploited and threatened.
 
->[!bug] [[Evolution of Communism |Evolution of Communism ]]
+>[!bug] [[Evolution of Communism \|Evolution of Communism ]]
 
 >[!error] Measures to address the problem of communalism
 >1. Problem of communalism in India is grave and can have far reaching consequences. 
