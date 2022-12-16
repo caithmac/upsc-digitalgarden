@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/invisible/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/invisible/"}
 ---
 
 Topic: Invisible
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar3 
 
 ---
@@ -14,9 +14,9 @@ Tags: #pillar3
 
 
 ### Notes
--  [[Service|Service]]
--  [[UPSC/Income|Income]]
-- [[UPSC/Transfer|Transfer]]
+-  [[Service\|Service]]
+-  [[UPSC/Income\|Income]]
+- [[UPSC/Transfer\|Transfer]]
 
 
 
