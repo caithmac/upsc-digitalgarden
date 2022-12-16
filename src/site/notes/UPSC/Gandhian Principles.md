@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/gandhian-principles/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/gandhian-principles/"}
 ---
 
-Course:: [[UPSC/Polity|Polity]]
+Course:: [[UPSC/Polity\|Polity]]
 
 
 ##### Gandhian Principles
