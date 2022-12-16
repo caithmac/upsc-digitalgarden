@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/plato-s-feminism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/plato-s-feminism/"}
 ---
 
 ----
 Topic:: Plato's Feminism
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Plato's Feminism
@@ -14,7 +14,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### First feminist 
 - Men and Women were allowed to be in any class. 
 - Made mandotry for women's consent. 
-- In his [[UPSC/Theory of Education|Theory of Education]] all kids are allowed to take state sponsored education. 
+- In his [[UPSC/Theory of Education\|Theory of Education]] all kids are allowed to take state sponsored education. 
 - Greek was stratified; women condition was poor, he didn't make any special reference to women; hence treating them same as everybody. 
 
 ##### Not feminist; accidental feminist. 
