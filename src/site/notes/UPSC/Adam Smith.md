@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/adam-smith/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/adam-smith/"}
 ---
 
 ----
 Topic:: Adam Smith
 Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
