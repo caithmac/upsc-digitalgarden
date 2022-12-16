@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/pardoning-power/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/pardoning-power/"}
 ---
 
-# Of [[UPSC/President|President]]
+# Of [[UPSC/President\|President]]
 
-# Of [[UPSC/Governor|Governor]]
+# Of [[UPSC/Governor\|Governor]]
