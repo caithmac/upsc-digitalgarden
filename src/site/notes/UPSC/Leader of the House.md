@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/leader-of-the-house/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/leader-of-the-house/"}
 ---
 
-[[UPSC/Prime Minister|Prime Minister]]
+[[UPSC/Prime Minister\|Prime Minister]]
