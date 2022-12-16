@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/revenue-expenditure/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/revenue-expenditure/"}
 ---
 
 Topic: Revenue Expenditure
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
@@ -14,7 +14,7 @@ Tags: #Pillar2
 
 
 ### Notes
-- [[UPSC/Subsidies|Subsidies]]
+- [[UPSC/Subsidies\|Subsidies]]
 - 
 
 
