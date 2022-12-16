@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/what-is-the-iskander-m-missile-system-russia-has-promised-to-arm-belarus-with/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/what-is-the-iskander-m-missile-system-russia-has-promised-to-arm-belarus-with/"}
 ---
 
 ----
-Headline:: [[Current Affairs/What is the Iskander-M missile system Russia has promised to arm Belarus with📰🗞️|What is the Iskander-M missile system Russia has promised to arm Belarus with📰🗞️]]
-Date:: [[Current Affairs/28-06-2022|28-06-2022]]
-Course:: [[Defense|Defense]] 
+Headline:: [[Current Affairs/What is the Iskander-M missile system Russia has promised to arm Belarus with📰🗞️\|What is the Iskander-M missile system Russia has promised to arm Belarus with📰🗞️]]
+Date:: [[Current Affairs/28-06-2022\|28-06-2022]]
+Course:: [[Defense\|Defense]] 
 
 ----
 ##### What to read and why? 
