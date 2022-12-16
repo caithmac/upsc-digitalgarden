@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/yajur-veda/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/yajur-veda/"}
 ---
 
-[[Shatpatha Brahmana|Shatpatha Brahmana]]
-[[Vajasanami Brahmana|Vajasanami Brahmana]]
+[[Shatpatha Brahmana\|Shatpatha Brahmana]]
+[[Vajasanami Brahmana\|Vajasanami Brahmana]]
 
