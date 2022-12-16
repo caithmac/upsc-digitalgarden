@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/dandi-march/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/dandi-march/"}
 ---
 
 Topic: Dandi March
 Date: 2022-06-01
-Course: [[UPSC/Modern History|Modern History]]
+Course: [[UPSC/Modern History\|Modern History]]
 Tags: 
 
 ---
