@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/late-harrapan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/late-harrapan/"}
 ---
 
-[[Lothal|Lothal]]
+[[Lothal\|Lothal]]
