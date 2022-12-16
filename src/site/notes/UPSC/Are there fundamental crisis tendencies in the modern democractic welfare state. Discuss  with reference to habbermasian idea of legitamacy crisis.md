@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/are-there-fundamental-crisis-tendencies-in-the-modern-democractic-welfare-state-discuss-with-reference-to-habbermasian-idea-of-legitamacy-crisis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/are-there-fundamental-crisis-tendencies-in-the-modern-democractic-welfare-state-discuss-with-reference-to-habbermasian-idea-of-legitamacy-crisis/"}
 ---
 
 ----
 Topic:: Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis
 Date:: 2022-11-19
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 #### Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss with reference to habbermasian idea of legitamacy crisis (20marks)
@@ -15,7 +15,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 >  
 
 
->[!done] Body 1 :  Habbermasian Idea of Legitamacy 
+>[!done] Body 1 :  Habermasian Idea of Legitamacy 
 >What :  Cycle of Legitamacy and Welfarism 
 
 - According to Habermas: 
@@ -64,7 +64,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                           |
 | ---------------------------------------------- |
-| [[UPSC/Concept of power.md\|Concept of power]] |
+| [[UPSC/Concept of power\|Concept of power]] |
 
 
 
