@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/inevitability-of-agnipath/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/inevitability-of-agnipath/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Inevitability  of Agnipath✒️💭|Inevitability  of Agnipath✒️💭]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[Defense|Defense]] 
+Headline:: [[Current Affairs/Inevitability  of Agnipath✒️💭\|Inevitability  of Agnipath✒️💭]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[Defense\|Defense]] 
 
 ----
 ##### What to read and why? 
