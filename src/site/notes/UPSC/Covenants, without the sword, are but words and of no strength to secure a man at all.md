@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/covenants-without-the-sword-are-but-words-and-of-no-strength-to-secure-a-man-at-all/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/covenants-without-the-sword-are-but-words-and-of-no-strength-to-secure-a-man-at-all/"}
 ---
 
 ----
 Topic:: Covenants, without the sword, are but words and of no strength to secure a man at all
 Date:: 2022-06-29
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### Introduction 
