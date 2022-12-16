@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/enrolment-dip-to-go-on-in-keeping-with-fall-in-child-population-growth-rate-ncert-study/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/enrolment-dip-to-go-on-in-keeping-with-fall-in-child-population-growth-rate-ncert-study/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Enrolment dip to go on, in keeping with fall in child population growth rate NCERT study📰🗞️|Enrolment dip to go on, in keeping with fall in child population growth rate NCERT study📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[Education|Education]] 
+Headline:: [[Current Affairs/Enrolment dip to go on, in keeping with fall in child population growth rate NCERT study📰🗞️\|Enrolment dip to go on, in keeping with fall in child population growth rate NCERT study📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[Education\|Education]] 
 
 ----
 ##### What to read and why? 
