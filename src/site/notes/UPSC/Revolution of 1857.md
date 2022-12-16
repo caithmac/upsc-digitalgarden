@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/revolution-of-1857/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/revolution-of-1857/"}
 ---
 
 
@@ -7,7 +7,7 @@
 ##### Background:: 🏖️
 ###### Before the Merrut Incident:: 
 - 19th Native Infantry at Behrampur
-- 34th Native Infantry -> [[Mangal Pandey|Mangal Pandey]]
+- 34th Native Infantry -> [[Mangal Pandey\|Mangal Pandey]]
 ##### Immediate Cause:: ⚔️
 - Sepoys felt their religion was i grave danger
 - Bone dust in atta
@@ -22,20 +22,20 @@
 
 ##### Causes 
 -  Political Causes
-	- [[UPSC/EIC|EIC]] policy of effective control 
+	- [[UPSC/EIC\|EIC]] policy of effective control 
 	- Policy of Anexation 
 	- Doctrine of Laps
 	- Extinction of Native Indian States
 -  Economic and Administrative 
 	- Land Revenue Settlement 
-		- [[UPSC/Mahalwari|Mahalwari]] ; [[UPSC/Ryotwari|Ryotwari]] 
+		- [[UPSC/Mahalwari\|Mahalwari]] ; [[UPSC/Ryotwari\|Ryotwari]] 
 	- Heavy Taxation
 	- Rampant Corruption
 	- Talukdars and Zamindars - getting depprived/confostications of their estates.  
 -  Socio and Religious Causes
 	- Racialism
 	- Contempt towars practice of Hindu's and Muslim
-	- [[Lex Loci Act, 1850|Lex Loci Act, 1850]]
+	- [[Lex Loci Act, 1850\|Lex Loci Act, 1850]]
 - Military Causes
 	- Religious Interference
 	- No "Bhatta"
@@ -69,7 +69,7 @@
 - A political perspective
 
 ##### Impact of the Revolt
-- [[[Government of India Act. 1858|[Government of India Act. 1858]]
+- [[[Government of India Act. 1858\|[Government of India Act. 1858]]
 - Governor General of India -> Viceroy
 - Secratary of State for India + 15 member. 
 - Indian Civil Services - on basis of Competition. 
