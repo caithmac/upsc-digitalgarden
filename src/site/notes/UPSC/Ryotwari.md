@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/ryotwari/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/ryotwari/"}
 ---
 
 Rental revenue directly with riot flash farmer
