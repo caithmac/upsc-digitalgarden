@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/parliament-s-power-to-reorganize-the-states/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/parliament-s-power-to-reorganize-the-states/"}
 ---
 
 Topic: Parliament's power to reorganize the states
 Date: 2022-05-31
-Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]],[[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #GS2 
 
 ---
@@ -15,6 +15,6 @@ Tags: #GS2
 
 
 > [!question] Can Parliament diminish area of state(under Article 3.) in form of cession ? 
-> No, [[UPSC/Supreme Court|Supreme Court]] court held that power of parliament to diminish area of state in form of cession can only be done by amending the constitution under [[Article 368|Article 368]]. 
+> No, [[UPSC/Supreme Court\|Supreme Court]] court held that power of parliament to diminish area of state in form of cession can only be done by amending the constitution under [[Article 368\|Article 368]]. 
 
 
