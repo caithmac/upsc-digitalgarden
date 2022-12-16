@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/fiscal-stimulus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/fiscal-stimulus/"}
 ---
 
 Topic: Fiscal Stimulus
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
