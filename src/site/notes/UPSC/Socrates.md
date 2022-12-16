@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/socrates/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/socrates/"}
 ---
 
 ----
 Topic: Socrates
 Date: 2022-06-19
-Course: [[UPSC/PSIR|PSIR]] 
+Course: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
