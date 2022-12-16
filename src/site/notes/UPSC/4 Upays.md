@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/4-upays/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/4-upays/"}
 ---
 
 ----
 Topic:: 4 Upays
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 - 4 Upayas 
@@ -18,7 +18,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                   |
 | -------------------------------------- |
-| [[UPSC/Arthashastra.md\|Arthashastra]] |
+| [[UPSC/Arthashastra\|Arthashastra]] |
 
 
 
