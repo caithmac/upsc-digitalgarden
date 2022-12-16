@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/t-bill/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/t-bill/"}
 ---
 
 Topic: T-Bill
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
