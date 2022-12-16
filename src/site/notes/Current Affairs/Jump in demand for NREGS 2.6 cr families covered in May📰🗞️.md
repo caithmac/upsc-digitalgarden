@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/jump-in-demand-for-nregs-2-6-cr-families-covered-in-may/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/jump-in-demand-for-nregs-2-6-cr-families-covered-in-may/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Jump in demand for NREGS 2.6 cr families covered in May📰🗞️|Jump in demand for NREGS 2.6 cr families covered in May📰🗞️]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[Welfare Schemes|Welfare Schemes]] 
+Headline:: [[Current Affairs/Jump in demand for NREGS 2.6 cr families covered in May📰🗞️\|Jump in demand for NREGS 2.6 cr families covered in May📰🗞️]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[Welfare Schemes\|Welfare Schemes]] 
 
 ----
 ##### What to read and why? 
