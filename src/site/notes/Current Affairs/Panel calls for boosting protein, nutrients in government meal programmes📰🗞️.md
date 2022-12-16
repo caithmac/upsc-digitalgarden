@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/panel-calls-for-boosting-protein-nutrients-in-government-meal-programmes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/panel-calls-for-boosting-protein-nutrients-in-government-meal-programmes/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Panel calls for boosting protein, nutrients in government meal programmes📰🗞️|Panel calls for boosting protein, nutrients in government meal programmes📰🗞️]]
-Date:: [[Current Affairs/04-07-2022|04-07-2022]]
-Course:: [[Current Affairs/Governance|Governance]] 
+Headline:: [[Current Affairs/Panel calls for boosting protein, nutrients in government meal programmes📰🗞️\|Panel calls for boosting protein, nutrients in government meal programmes📰🗞️]]
+Date:: [[Current Affairs/04-07-2022\|04-07-2022]]
+Course:: [[Current Affairs/Governance\|Governance]] 
 
 ----
 ##### What to read and why? 
