@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/comparison-of-plato-and-aristotle/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/comparison-of-plato-and-aristotle/"}
 ---
 
 ----
 Topic:: Comparison of Plato and Aristotle
 Date:: 2022-06-27
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ## Context 
