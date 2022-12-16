@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/what-are-the-arguments-to-establish-hobbes-of-all-individualist/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/what-are-the-arguments-to-establish-hobbes-of-all-individualist/"}
 ---
 
 ----
 Topic:: What are the arguments to establish Hobbes of all Individualist
 Date:: 2022-07-13
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 Hobbes had accepted the discrete, egoistic, self-interested, atomistic. individual as the building block of his all powerful state. 
