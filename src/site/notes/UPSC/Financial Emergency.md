@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/financial-emergency/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/financial-emergency/"}
 ---
 
 ----
 
 Topic: Financial Emergency
 Date: 2022-06-02
-Course: [[UPSC/Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]] , [[UPSC/Constitution MOC\|Constitution MOC]]
 Tags:
 Backlinks 
-- [[UPSC/President|President]]
-- [[UPSC/Emergency Provisions|Emergency Provisions]]
+- [[UPSC/President\|President]]
+- [[UPSC/Emergency Provisions\|Emergency Provisions]]
 
 
 ----
