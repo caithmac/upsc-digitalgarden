@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/sanarth-udyog-bharat/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/sanarth-udyog-bharat/"}
 ---
 
 Topic: Samarth Udyog Bharat
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar4 
 
 ---
