@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/ndia-s-m-rna-covid-vaccine/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/ndia-s-m-rna-covid-vaccine/"}
 ---
 
 ----
-Headline:: [[Current Affairs/ndia’s mRNA Covid vaccine📰🗞️|ndia’s mRNA Covid vaccine📰🗞️]]
-Date:: [[Current Affairs/30-06-2022|30-06-2022]]
-Course:: [[Science-Tech|Science-Tech]] 
+Headline:: [[Current Affairs/ndia’s mRNA Covid vaccine📰🗞️\|ndia’s mRNA Covid vaccine📰🗞️]]
+Date:: [[Current Affairs/30-06-2022\|30-06-2022]]
+Course:: [[Science-Tech\|Science-Tech]] 
 
 ----
 ##### What to read and why? 
