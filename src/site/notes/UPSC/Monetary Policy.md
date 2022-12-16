@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/monetary-policy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/monetary-policy/"}
 ---
 
 Topic: Monetary Policy
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
@@ -13,22 +13,22 @@ Tags: #pillar1A
 - Item
 
 ### Notes
-- Combat [[UPSC/Inflation|Inflation]]
+- Combat [[UPSC/Inflation\|Inflation]]
 	- Reduce money Supply 
 	- Tight Money Policy 
 	- Dear Money Policy
-- Combat [[Deflation|Deflation]]
+- Combat [[Deflation\|Deflation]]
 	- Increased money suply
 	- Easy Money Supply 
 	- Cheap Money Supply
 
-[[UPSC/Instruments of Monetary Policy|Instruments of Monetary Policy]]
+[[UPSC/Instruments of Monetary Policy\|Instruments of Monetary Policy]]
 
 
 
 | Inflation                                              | Deflation                           |
 | ------------------------------------------------------ | ----------------------------------- |
-| [[RBI|RBI]] increases [[UPSC/Reserve Ratios|Reserve Ratios]]                   | [[RBI|RBI]] decrease [[UPSC/Reserve Ratios|Reserve Ratios]] |
+| [[RBI\|RBI]] increases [[UPSC/Reserve Ratios\|Reserve Ratios]]                   | [[RBI\|RBI]] decrease [[UPSC/Reserve Ratios\|Reserve Ratios]] |
 | Banks are left with less money                         | Banks are left with more money      |
 | Increase in interest rates to keep profit margins same | They decrease interest              |
 | People borrow less                                     | People borrow more                  |
@@ -37,4 +37,4 @@ Tags: #pillar1A
 
 
 >[!Note] Monetary Policy=> Limitation
->1. [[UPSC/Fiscal Deficit|Fiscal Deficit]]
+>1. [[UPSC/Fiscal Deficit\|Fiscal Deficit]]
