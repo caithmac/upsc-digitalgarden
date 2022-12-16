@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/india-slargestfloatingsolar-plant-andwhyitissignificant/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/india-slargestfloatingsolar-plant-andwhyitissignificant/"}
 ---
 
 ----
-Headline:: [[Current Affairs/INDIA’SLARGESTFLOATINGSOLAR PLANT,ANDWHYITISSIGNIFICANT📰🗞️|INDIA’SLARGESTFLOATINGSOLAR PLANT,ANDWHYITISSIGNIFICANT📰🗞️]]
-Date:: [[Current Affairs/04-07-2022|04-07-2022]]
-Course:: [[Environment|Environment]] 
+Headline:: [[Current Affairs/INDIA’SLARGESTFLOATINGSOLAR PLANT,ANDWHYITISSIGNIFICANT📰🗞️\|INDIA’SLARGESTFLOATINGSOLAR PLANT,ANDWHYITISSIGNIFICANT📰🗞️]]
+Date:: [[Current Affairs/04-07-2022\|04-07-2022]]
+Course:: [[Environment\|Environment]] 
 
 ----
 ##### What to read and why? 
