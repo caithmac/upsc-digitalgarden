@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/surat-split/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/surat-split/"}
 ---
 
-[[UPSC/Indian National Congress|Indian National Congress]]
+[[UPSC/Indian National Congress\|Indian National Congress]]
