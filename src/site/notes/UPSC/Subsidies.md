@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/subsidies/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/subsidies/"}
 ---
 
 Topic: Subsidies
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
