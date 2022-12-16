@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/capital/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/capital/"}
 ---
 
 Topic: Capital
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar3 
 
 ---
@@ -14,9 +14,9 @@ Tags: #pillar3
 
 
 ### Notes
-- [[UPSC/Investment|Investment]]
-- [[UPSC/Loan|Loan]]
-- [[Banking Capital|Banking Capital]]
+- [[UPSC/Investment\|Investment]]
+- [[UPSC/Loan\|Loan]]
+- [[Banking Capital\|Banking Capital]]
 - 
 
 
