@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/russia-s-gold-reserve-and-why-g7-has-moved-to-ban-imports-partners-in-the-blue-pacific/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/russia-s-gold-reserve-and-why-g7-has-moved-to-ban-imports-partners-in-the-blue-pacific/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Russia’s gold reserve and why G7 has moved to ban imports📰🗞️ Partners in the Blue Pacific📰🗞️|Russia’s gold reserve and why G7 has moved to ban imports📰🗞️ Partners in the Blue Pacific📰🗞️]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[UPSC/International Relations|International Relations]] 
+Headline:: [[Current Affairs/Russia’s gold reserve and why G7 has moved to ban imports📰🗞️ Partners in the Blue Pacific📰🗞️\|Russia’s gold reserve and why G7 has moved to ban imports📰🗞️ Partners in the Blue Pacific📰🗞️]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[UPSC/International Relations\|International Relations]] 
 
 ----
 ##### What to read and why? 
