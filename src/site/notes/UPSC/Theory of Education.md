@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/theory-of-education/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/theory-of-education/"}
 ---
 
 ----
 Topic:: Theory of Education
 Date:: 2022-06-19
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -16,7 +16,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Training
 
 ###### Context
-- To establish [[UPSC/Plato's Justice|Plato's Justice]] and [[Ideal State|Ideal State]]
+- To establish [[UPSC/Plato's Justice\|Plato's Justice]] and [[Ideal State\|Ideal State]]
 
 ###### What?
 - Education for all(Compulsory)
