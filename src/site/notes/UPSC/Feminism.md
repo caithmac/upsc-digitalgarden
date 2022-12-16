@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/feminism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/feminism/"}
 ---
 
 ----
 Topic:: Feminism
 Date:: 2022-07-14
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 - Androgyny - The possession of both male and female characteristic; used to imply that human are sexless person, that sex is irrelevant to their social role or political status. 
@@ -46,7 +46,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Their core demand were
 	- Right to Vote 
 	- Right to Property 
-- [[Men and women are two different natures and biology, the root cause of disadvantage position of women lies in legal inequality rather than cultural structure Analyze the statement in context of first wave of feminism as well as on lines of liberal understanding|Men and women are two different natures and biology, the root cause of disadvantage position of women lies in legal inequality rather than cultural structure Analyze the statement in context of first wave of feminism as well as on lines of liberal understanding]]
+- [[Men and women are two different natures and biology, the root cause of disadvantage position of women lies in legal inequality rather than cultural structure Analyze the statement in context of first wave of feminism as well as on lines of liberal understanding\|Men and women are two different natures and biology, the root cause of disadvantage position of women lies in legal inequality rather than cultural structure Analyze the statement in context of first wave of feminism as well as on lines of liberal understanding]]
 - Virginia Wolf - 'A room of ones own', in her book she pointed out there is a domination of 'seeing the world from male point of view, absence of women from the mankind and failure of male language in expressing female experience, kind of like psychological dependence over existing male world'. She finds the glorified and romanticized image of women in poetry completely insignificant in real life. 
 
 ##### Socialist Feminist 
@@ -71,7 +71,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- They are responsible for socializing children. 
 	- They are sex object. 
 - Their emancipation can only happen through Marxist revolution.
-- [[Discuss criticism of socialist feminism of liberal feminist,what are the major issue of women's problem and how can it be adressed as per Marxist undestanding |Discuss criticism of socialist feminism of liberal feminist,what are the major issue of women's problem and how can it be adressed as per Marxist undestanding ]]
+- [[Discuss criticism of socialist feminism of liberal feminist,what are the major issue of women's problem and how can it be adressed as per Marxist undestanding \|Discuss criticism of socialist feminism of liberal feminist,what are the major issue of women's problem and how can it be adressed as per Marxist undestanding ]]
 - They essentially connected the idea of patriarchy with economic aspect of life. 
 - They stressed on revolution
 - They completely and outrightly rejected family institution without examining the importance of it. 
@@ -80,12 +80,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Demand of redefining the political - personal is political 
 - Idea of patriarchy, debate of sex and gender. 
 - In second wave it was established there is  no consensus among feminist and there is difference among feminist demand along with understanding of women subjugation. 
-- Andrea Dworkin, Kate millet; 'Sexual Politics', Eva Figgis. "Patriarchal Attitude", Germaine Greer, [[Simone de Beauvoir|Simone de Beauvoir]], 
+- Andrea Dworkin, Kate millet; 'Sexual Politics', Eva Figgis. "Patriarchal Attitude", Germaine Greer, [[Simone de Beauvoir\|Simone de Beauvoir]], 
 - Radical Feminist do not ask for equal right but *liberation*. 
 - They identified patriarchy as root cause of subjugation
 - They believe in completely transformation that must be radical in nature
 - Reject idea of political activism and promotes consciousness raising 
-- They identified [[UPSC/Personal is political|personal is political]] along with sexual politics and talks about transformation of private realm, few of the radical feminist talks about sisterhood and identifies women as better sex than men. 
+- They identified [[UPSC/Personal is political\|personal is political]] along with sexual politics and talks about transformation of private realm, few of the radical feminist talks about sisterhood and identifies women as better sex than men. 
 -  Patriarchy positioned men and women in hierarchy, actually it is type of power relationship. It is the patriarchy that defines male supremacy and male dominance, patriarchy is core value that determines structure and functioning and political institution 
 - Kate Millet describe patriarchal government whereby the halve of population which is female is controlled by half of population that is male. 
 - Patriarchy leads to control over labor of women all the technical works are assigned to men on the other hand the domestic and unpaid work has been assigned to women. 
@@ -102,8 +102,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 >[!quote] Women are not born but made. 
 
-- [[UPSC/Personal is political|Personal is political]]
-- [[Radical feminist firmly critcised the idea of politcs stops at front door, in the light of this statement explain public man and private women|Radical feminist firmly critcised the idea of politcs stops at front door, in the light of this statement explain public man and private women]]. 
-- [[Radical feminist view of politics of everyday life|Radical feminist view of politics of everyday life]]. 
+- [[UPSC/Personal is political\|Personal is political]]
+- [[Radical feminist firmly critcised the idea of politcs stops at front door, in the light of this statement explain public man and private women\|Radical feminist firmly critcised the idea of politcs stops at front door, in the light of this statement explain public man and private women]]. 
+- [[Radical feminist view of politics of everyday life\|Radical feminist view of politics of everyday life]]. 
 
 ##### The idea of difference 
