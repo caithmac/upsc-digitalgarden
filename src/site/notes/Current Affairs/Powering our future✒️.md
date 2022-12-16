@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/powering-our-future/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/powering-our-future/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Powering our future✒️|Powering our future✒️]]
-Date:: [[Current Affairs/25-06-2022|25-06-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Powering our future✒️\|Powering our future✒️]]
+Date:: [[Current Affairs/25-06-2022\|25-06-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
