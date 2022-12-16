@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/hobbes-was-first-individualist/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/hobbes-was-first-individualist/"}
 ---
 
 ----
 Topic:: Hobbes was first individualist
 Date:: 2022-07-01
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
