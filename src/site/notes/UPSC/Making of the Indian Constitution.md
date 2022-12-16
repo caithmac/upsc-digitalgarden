@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/making-of-the-indian-constitution/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/making-of-the-indian-constitution/"}
 ---
 
 ----
 Topic:: Making of the Indian Constitution
 Date:: 2022-10-03
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ## Legacies of the British rule
@@ -40,18 +40,18 @@ Course:: [[UPSC/PSIR|PSIR]]
    - Not the growth of creativity and rationale thinking.
    - Unfortunate that continuation of Macaulay's Education System 
 4. **Political System** 
-   - [[UPSC/Government of India Act. 1935|Government of India Act. 1935]] became the basis of Indian Constitution which in itself were based on the recommendation of [[UPSC/Simon Commission|Simon Commission]] 
+   - [[UPSC/Government of India Act. 1935\|Government of India Act. 1935]] became the basis of Indian Constitution which in itself were based on the recommendation of [[UPSC/Simon Commission\|Simon Commission]] 
 	   - Nature of Indian Federation 
 	   - Governor 
 	   - Ordinance Making Power 
 	   - Emergency Provision 
    - These are all the colonial constitution with the objective to maintain the hold of the Raj 
-   - [[Jayprakash Narayan|Jayprakash Narayan]] called for Lok Nitti against Raj Nitti
+   - [[Jayprakash Narayan\|Jayprakash Narayan]] called for Lok Nitti against Raj Nitti
    - 
 5. **Foreign Policy**
    - South Asia remains the least integrated among all the regions barring Arabs. 
    - foreign Policy remain play things in the hand of the Neo-Imperialist Power. 
-6. **Burecracy**
+6. **Bureaucracy**
    - Continues to manifest colonial character. 
    - Indian elites preferred the continuation of Draconian acts like Preventive Detention Laws.
    - Bureaucracy still thrive under *cloak of secrecy*
@@ -59,13 +59,13 @@ Course:: [[UPSC/PSIR|PSIR]]
 Thus India reflects more of a continuation and less of change from the British Raj. 
 ## Constitution of India
  
-- It has been argued that the consitution is neither the product of will of people nor it represents the views of all the section of society, 
+- It has been argued that the constitution is neither the product of will of people nor it represents the views of all the section of society, 
 - Indian Constitution is *Congress Constitution*
 - Constituent Assembly was a one party assembly; Churchill said it was "The assembly of Brahmin"
 - Assembly was neither elected by people nor people decided its structure or mode of functioning
 
 #### Evolution of Constituent Assembly.
-- [[UPSC/Gandhi|Gandhi]] promised that Swaraj will not be the 'Free Gift'
+- [[UPSC/Gandhi\|Gandhi]] promised that Swaraj will not be the 'Free Gift'
 - Swaraj is an expression of Indians. 
 - In 1934 CWC of INC adopted resolution the constituent assembly will be elected on the basis of Universal Adult Franchise. 
 - However in practice
@@ -82,8 +82,8 @@ Thus India reflects more of a continuation and less of change from the British R
 - Above arguments are factually correct . 
 - Yet these argument by themselves do not establish that Indian constitution does not reflect the will pf people we can give following arguments
 	- Time was not conducive
-	- [[UPSC/Supreme Court|Supreme Court]] in [[UPSC/Kesavananda Bharti Case|Kesavananda Bharti Case]] has settled the matter wrt will of people. 
-	- Though dominated by [[UPSC/Indian National Congress|Indian National Congress]] yet as suggested by Garvin Austin "Congress was India and India was congress. "
+	- [[UPSC/Supreme Court\|Supreme Court]] in [[UPSC/Kesavananda Bharti Case\|Kesavananda Bharti Case]] has settled the matter wrt will of people. 
+	- Though dominated by [[UPSC/Indian National Congress\|Indian National Congress]] yet as suggested by Garvin Austin "Congress was India and India was congress. "
 	- Congress co-opted members of other parties so that constitution becomes a consensus document. 
 	- Majority of provision were adopted by consensus rather voting. 
 	- There was extensive debate on all the features
@@ -96,11 +96,19 @@ Thus India reflects more of a continuation and less of change from the British R
 	- Like Indian Culture, it is also syncretic and Eclectic 
 
 
+
+>[!question]
+>- [[UPSC/Discuss the dominant external and internal influence in the framing of the Indian constitution\|Discuss the dominant external and internal influence in the framing of the Indian constitution]].(20)
+>- [[Indian constitution is a lawyers paradise-Sir Ivor Jennings. Discuss \|Indian constitution is a lawyers paradise-Sir Ivor Jennings. Discuss ]](10)
+
+
+
+
 ---
 **Backlinks**
 | File                   |
 | ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
+| [[UPSC/PSIR\|PSIR]] |
 
 
 
