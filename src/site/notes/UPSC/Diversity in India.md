@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/diversity-in-india/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/diversity-in-india/"}
 ---
 
 ----
 Topic:: Diversity in India
 Date:: 2022-07-02
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 
