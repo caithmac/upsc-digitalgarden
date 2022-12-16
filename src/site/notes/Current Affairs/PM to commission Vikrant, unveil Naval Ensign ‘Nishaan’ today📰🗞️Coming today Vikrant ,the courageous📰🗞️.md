@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/pm-to-commission-vikrant-unveil-naval-ensign-nishaan-today-coming-today-vikrant-the-courageous/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/pm-to-commission-vikrant-unveil-naval-ensign-nishaan-today-coming-today-vikrant-the-courageous/"}
 ---
 
 ----
-Headline:: [[Current Affairs/PM to commission Vikrant, unveil Naval Ensign ‘Nishaan’ today📰🗞️Coming today Vikrant ,the courageous📰🗞️|PM to commission Vikrant, unveil Naval Ensign ‘Nishaan’ today📰🗞️Coming today Vikrant ,the courageous📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[Defense|Defense]] 
+Headline:: [[Current Affairs/PM to commission Vikrant, unveil Naval Ensign ‘Nishaan’ today📰🗞️Coming today Vikrant ,the courageous📰🗞️\|PM to commission Vikrant, unveil Naval Ensign ‘Nishaan’ today📰🗞️Coming today Vikrant ,the courageous📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[Defense\|Defense]] 
 
 ----
 ##### What to read and why? 
