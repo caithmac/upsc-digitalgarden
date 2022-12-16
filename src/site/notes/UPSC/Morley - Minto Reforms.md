@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/morley-minto-reforms/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/morley-minto-reforms/"}
 ---
 
-[[Shimla Deputation|Shimla Deputation]] 
+[[Shimla Deputation\|Shimla Deputation]] 
