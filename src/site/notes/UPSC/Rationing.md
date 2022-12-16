@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/rationing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/rationing/"}
 ---
 
 Topic: Rationing
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
@@ -14,7 +14,7 @@ Tags: #pillar1A
 
 
 ### Notes
-- [[Priority Sector Lending|Priority Sector Lending]]
+- [[Priority Sector Lending\|Priority Sector Lending]]
 
 
 
