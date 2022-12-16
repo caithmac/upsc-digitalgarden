@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/surcharge/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/surcharge/"}
 ---
 
 Topic: Surcharge
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
@@ -14,7 +14,7 @@ Tags: #Pillar2
 
 
 ### Notes
-- Computed on [[UPSC/Types of Taxes|Tax]] amount. 
+- Computed on [[UPSC/Types of Taxes\|Tax]] amount. 
 - 'Tax on Tax'
 - 
 
