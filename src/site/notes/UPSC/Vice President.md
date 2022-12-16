@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/vice-president/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/vice-president/"}
 ---
 
 ### Election
@@ -8,5 +8,5 @@
 ### Conditions
 ###  Term and Vacancy
 ### Powers and Function
-- Ex-officio Chairman of [[Rajya Sabha|Rajya Sabha]]
+- Ex-officio Chairman of [[Rajya Sabha\|Rajya Sabha]]
 - 
