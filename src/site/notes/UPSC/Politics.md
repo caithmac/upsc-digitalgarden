@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/politics/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/politics/"}
 ---
 
 ----
 Topic:: Politics
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
