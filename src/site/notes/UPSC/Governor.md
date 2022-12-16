@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/governor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/governor/"}
 ---
 
 ### Appointment of Governor 
@@ -12,7 +12,7 @@
 4. Judicial Power
 
 
-[[UPSC/Veto Power|Veto Power]]
+[[UPSC/Veto Power\|Veto Power]]
 
 ### Constitutional Position of Governor 
 - 
