@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/non-cooperation-movement/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/non-cooperation-movement/"}
 ---
 
 "Hindu Muslim Unity"
 WW I 
 Allied Powers vs Central Powers 
 
-[[Chauri Chara |Chauri Chara ]]
+[[Chauri Chara \|Chauri Chara ]]
