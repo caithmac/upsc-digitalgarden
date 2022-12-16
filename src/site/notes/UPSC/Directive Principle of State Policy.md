@@ -1,39 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/directive-principle-of-state-policy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/directive-principle-of-state-policy/"}
 ---
 
 # Directive Principle of State Policy
->[!note] [[UPSC/Directive Principle of State Policy|DPSP]] is enumerated in[[UPSC/Directive Principle of State Policy|Part IV]] from Article 36 to 51. 
+>[!note] [[UPSC/Directive Principle of State Policy\|DPSP]] is enumerated in[[UPSC/Directive Principle of State Policy\|Part IV]] from Article 36 to 51. 
 >Called Conscience of the Constitution.
  Taken from Ireland -> Spanish
 
 >[!quote]
 >Novel Features of the Indian Constitution
->~B.R. [[UPSC/B.R. Ambedkar|B.R. Ambedkar]]
+>~B.R. [[UPSC/B.R. Ambedkar\|B.R. Ambedkar]]
 
 - 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Features of the DPSP
 
 >[!Quote]
 >the Directive Principles are like the instrument of instructions, which were issued to the Governor-General and to the Governors of the colonies of India by the British Government under the Government of India Act of 1935. What is called Directive Principles is merely another name for the instrument of instructions. The only difference is that they are instructions to the legislature and the executive’
->~ [[UPSC/B.R. Ambedkar|B.R. Ambedkar]]
+>~ [[UPSC/B.R. Ambedkar\|B.R. Ambedkar]]
 
 
-- [[Instrument of Instruction|Instrument of Instruction]] in [[UPSC/Government of India Act. 1935|Government of India Act. 1935]]
-	- High ideals of  [[UPSC/Justice|Justice]],[[UPSC/Equality|Equality]],[[UPSC/Liberty|Liberty]] outlined in [[UPSC/Preamble|Preamble]] are to be realized by [[UPSC/Directive Principle of State Policy|DPSP]]
+- [[Instrument of Instruction\|Instrument of Instruction]] in [[UPSC/Government of India Act. 1935\|Government of India Act. 1935]]
+	- High ideals of  [[UPSC/Justice\|Justice]],[[UPSC/Equality\|Equality]],[[UPSC/Liberty\|Liberty]] outlined in [[UPSC/Preamble\|Preamble]] are to be realized by [[UPSC/Directive Principle of State Policy\|DPSP]]
 	- Non-Justiciable. 
 	- Embody the concept of 'Welfare State' : Not 'Police State'
 	- Helps the court in examining and determining the constitutional validity of a law. 
-	- [[UPSC/Rule of Law#^e7866d|Rule of Law#^e7866d]] Where Article 31-C comes in, Article 14 goes out.
+	- [[UPSC/Rule of Law#^e7866d\|Rule of Law#^e7866d]] Where Article 31-C comes in, Article 14 goes out.
 
 
 
@@ -44,22 +40,14 @@
 - 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Classification of the DPSP
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Socialistic Principle
@@ -100,7 +88,7 @@
 
 
 
-[^1]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
@@ -108,14 +96,10 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
 
-</div>
-
-
-Course:: [[UPSC/Polity|Polity]]
+Course:: [[UPSC/Polity\|Polity]]
 
 
 ##### Gandhian Principles
@@ -155,11 +139,7 @@ Course:: [[UPSC/Polity|Polity]]
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Liberal Intellectual Principles
@@ -192,8 +172,8 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
-[^2]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
+[^2]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
@@ -203,15 +183,11 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 ###### New Directive Principle
-- By [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+- By [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Socialistic Principle
@@ -252,18 +228,14 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Socialistic Principle
@@ -304,18 +276,14 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Liberal Intellectual Principles
@@ -348,21 +316,17 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
-[^2]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
+[^2]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
 
-- By [[(forty-four Amendment) Act, 1978|(forty-four Amendment) Act, 1978]]
+- By [[(forty-four Amendment) Act, 1978\|(forty-four Amendment) Act, 1978]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Socialistic Principle
@@ -403,20 +367,16 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
 
-- By [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
+- By [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Liberal Intellectual Principles
@@ -449,24 +409,20 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
-[^2]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
+[^2]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
 
-- By [[(ninety-seven Amendment) Act, 2011|(ninety-seven Amendment) Act, 2011]]
+- By [[(ninety-seven Amendment) Act, 2011\|(ninety-seven Amendment) Act, 2011]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
 
-</div>
-
-
-Course:: [[UPSC/Polity|Polity]]
+Course:: [[UPSC/Polity\|Polity]]
 
 
 ##### Gandhian Principles
@@ -505,11 +461,7 @@ Course:: [[UPSC/Polity|Polity]]
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 #### Criticism of DPSP
@@ -544,23 +496,19 @@ Course:: [[UPSC/Polity|Polity]]
 
 </div></div>
 
-- ##### [[Utility of DPSP|Utility of DPSP]]
+- ##### [[Utility of DPSP\|Utility of DPSP]]
 - ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Conflict between FR and DPSP
 
-1. [[Champakam Dorairajan Case|Champakam Dorairajan Case]] : 1951 - [[UPSC/Fundamental Rights|Fundamental Rights]] and [[UPSC/Directive Principle of State Policy|Directive Principle of State Policy]]- ==[[UPSC/Fundamental Rights|Fundamental Rights]] will prevail.== 
-2. [[Golaknath Case|Golaknath Case]] : 1967 - [[UPSC/Fundamental Rights|Fundamental Rights]] can not be amended for the implementation of [[UPSC/Directive Principle of State Policy|Directive Principle of State Policy]]
-3. [[UPSC/Kesavananda Bharti Case|Kesavananda Bharti Case]] : 1973 - [[UPSC/Supreme Court|Supreme Court]] 
-4. [[Minerva Mills Case|Minerva Mills Case]] : 1980 - ‘the Indian Constitution is founded on the bedrock of the balance between the Fundamental Rights and the Directive Principles'
+1. [[Champakam Dorairajan Case\|Champakam Dorairajan Case]] : 1951 - [[UPSC/Fundamental Rights\|Fundamental Rights]] and [[UPSC/Directive Principle of State Policy\|Directive Principle of State Policy]]- ==[[UPSC/Fundamental Rights\|Fundamental Rights]] will prevail.== 
+2. [[Golaknath Case\|Golaknath Case]] : 1967 - [[UPSC/Fundamental Rights\|Fundamental Rights]] can not be amended for the implementation of [[UPSC/Directive Principle of State Policy\|Directive Principle of State Policy]]
+3. [[UPSC/Kesavananda Bharti Case\|Kesavananda Bharti Case]] : 1973 - [[UPSC/Supreme Court\|Supreme Court]] 
+4. [[Minerva Mills Case\|Minerva Mills Case]] : 1980 - ‘the Indian Constitution is founded on the bedrock of the balance between the Fundamental Rights and the Directive Principles'
 
 </div></div>
  
