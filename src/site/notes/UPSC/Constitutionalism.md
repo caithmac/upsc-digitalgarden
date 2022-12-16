@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/constitutionalism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/constitutionalism/"}
 ---
 
 ----
 Topic:: Constitutionalism
 Date:: 2022-06-25
-Course:: [[UPSC/Constitution MOC|Constitution MOC]] 
+Course:: [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 
@@ -13,7 +13,7 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 - Rule of law
 	- Check the arbitriness of government. 
 	- Restrictions on power
-	- [[UPSC/Limited government|Limited government]]
+	- [[UPSC/Limited government\|Limited government]]
 		- By the people
 	- Feautre only of Democracy 
 - ###### WHY : In Democracy; power lies wuth people 
@@ -23,5 +23,5 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 
 | Left          | Centre | Right |
 | ------------- | ------ | ----- |
-| [[UPSC/Socialist|Socialist]] | [[UPSC/Liberal|Liberal]]       |[[Conservative|Conservative]]       |
+| [[UPSC/Socialist\|Socialist]] | [[UPSC/Liberal\|Liberal]]       |[[Conservative\|Conservative]]       |
 
