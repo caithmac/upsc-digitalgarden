@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/maternity-aspect/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/maternity-aspect/"}
 ---
 
 ----
 Topic:: Maternity Aspect
 Date:: 2022-07-05
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 - Unable to join workforce after having a child. 
