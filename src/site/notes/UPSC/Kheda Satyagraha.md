@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/kheda-satyagraha/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/kheda-satyagraha/"}
 ---
 
 Failure of Crops 
