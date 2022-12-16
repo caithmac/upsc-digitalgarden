@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/arthashastra/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/arthashastra/"}
 ---
 
 ----
 Topic:: Arthashastra
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -26,7 +26,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Hence, the relations b/w 2 state are the relation of war. Thus Arthshastra deals with Art of War like Sun Tzu, 
 
 - ##### War, strategies, planning. Balance of power, Geo politics
-	- [[UPSC/Arthashastra|Arthashastra]] can be considered as first book on geo-politics
+	- [[UPSC/Arthashastra\|Arthashastra]] can be considered as first book on geo-politics
 	- Geopolitics - Science of capturing land
 	- According to concept of geopolitics, land state is an organism like any organism, state has to grow. 
 	- If state does not grow/expand, state will perish/decay thus Arthshastra challenge the western view that Indians lacked strategic culture. 
@@ -34,14 +34,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- But Kutilya proves him wrong
 
 ### Prominent Ideas of Arthshastra 
-- [[UPSC/State of relations between two countries|State of relations between two countries]]
-- [[UPSC/Mandal Sidhanta|Mandal Sidhanta]]
-- [[ Saptanga Theory| Saptanga Theory]] 
-- [[Shadgunya Neeti |Shadgunya Neeti ]]
-- [[4 Upays |4 Upays ]]
-- [[UPSC/Types of War|Types of War]]
+- [[UPSC/State of relations between two countries\|State of relations between two countries]]
+- [[UPSC/Mandal Sidhanta\|Mandal Sidhanta]]
+- [[ Saptanga Theory\| Saptanga Theory]] 
+- [[Shadgunya Neeti \|Shadgunya Neeti ]]
+- [[4 Upays \|4 Upays ]]
+- [[UPSC/Types of War\|Types of War]]
 
- ### Relevance of [[UPSC/Saptanga Theory|Saptanga Theory]] in [[UPSC/Mandal Sidhanta|Mandal Sidhanta]] 
+ ### Relevance of [[UPSC/Saptanga Theory\|Saptanga Theory]] in [[UPSC/Mandal Sidhanta\|Mandal Sidhanta]] 
    - Before starting expedition, Vijigishu has to calculate the strength of the enemies as well as his own. 
    - The 7 element are the determinants of power. King has to make assessment of 12*7 = 84 elements of sovereignity to take calculated risk. 
 
@@ -51,41 +51,42 @@ Course:: [[UPSC/PSIR|PSIR]]
    
 ### Kautilya's view on corruption
 - It is inevitable part of administration 
-  > Honey on tounge, it is not possible not to taste it
-- Public officials handle so much resources that they themselves do not realise when they have committed the act of corruption. 
-- In his words,  'Fish swimmin in water will itself not realise when it has drank the water'
-- Even when corrption is ineviatble, yet it is not desirable.  
+  > Honey on tongue, it is not possible not to taste it
+- Public officials handle so much resources that they themselves do not realize when they have committed the act of corruption. 
+- In his words,  'Fish swimming in water will itself not realize when it has drank the water'
+- Even when corruption is inevitable, yet it is not desirable.  
 - **WHY?**
 	- Because it makes the state weak
 - **HOW?**
-	- Corruption weakens the capacity of the state to achieve the matterial welfare of its people, this weaknes the morale of people. 
+	- Corruption weakens the capacity of the state to achieve the material welfare of its people, this weakness the morale of people. 
 	- If morale is down, it is easy for enemy to win. 
 - **WHAT IS THE PROBLEM IN HANDELING CORRUPTION**
 	- The biggest problem is detection of corruption according to him it is easy to detect the movement of birds flying in the sky but not easy to detect when the officials have committed corruption
 	- There are 40 ways of embezzlement 
-- Though Kautilya is recognizes the difficulty, it does not mean that steps should not be taken for minimising corruption.
+- Though Kautilya is recognizes the difficulty, it does not mean that steps should not be taken for minimizing corruption.
 -  He gives following suggestions 
-	- Right sizing the beuracracy 
+	- Right sizing the bureaucracy 
 	- Transfer the official before he understands the loophole in office
 	- Reward whistle blower. 
 	- Punish the entire chain and not just official 
 		- Gives the bribe 
 		- Accepts the bribe 
 		- Keeps the bribe 
-	- Reward honest officere
-	- Compenste who suffered due to officials corruption
+	- Reward honest officer
+	- Compensate who suffered due to officials corruption
 
-[[UPSC/Comparison of Kautilya and Machiavelli|Comparison of Kautilya and Machiavelli]]
+[[UPSC/Comparison of Kautilya and Machiavelli\|Comparison of Kautilya and Machiavelli]]
 
 
 
 ---
 **Backlinks**
-| File                                                           |
-| -------------------------------------------------------------- |
-| [[UPSC/Arthashastra.md\|Arthashastra]]                         |
-| [[UPSC/Indian Political Thought.md\|Indian Political Thought]] |
-| [[UPSC/PSIR.md\|PSIR]]                                         |
+| File                                                                                       |
+| ------------------------------------------------------------------------------------------ |
+| [[UPSC/Arthashastra\|Arthashastra]]                                                     |
+| [[UPSC/Comparison of Kautilya and Machiavelli\|Comparison of Kautilya and Machiavelli]] |
+| [[UPSC/Indian Political Thought\|Indian Political Thought]]                             |
+| [[UPSC/PSIR\|PSIR]]                                                                     |
 
 
 
