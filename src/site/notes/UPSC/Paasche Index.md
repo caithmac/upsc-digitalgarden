@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/paasche-index/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/paasche-index/"}
 ---
 
 Topic: Paasche Index
 Date: 2022-05-30
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar4 
 
 ---
@@ -14,7 +14,7 @@ Tags: #pillar4
 
 
 ### Notes
-- Similar to [[Laspeyres|Laspeyres]] but different in sense that, it uses current period weightage
+- Similar to [[Laspeyres\|Laspeyres]] but different in sense that, it uses current period weightage
 
 
 
