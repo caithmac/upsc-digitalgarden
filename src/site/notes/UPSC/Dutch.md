@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/dutch/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/dutch/"}
 ---
 
 Topic: Dutch
@@ -11,7 +11,7 @@ Tags:
 
 
 
-- Arrived at [[Masulipatnam|Masulipatnam]] in 1605
-- [[UPSC/Battle of Bedara|Battle of Bedara]]
-- Established factory at [[Patna|Patna]] in 1632
+- Arrived at [[Masulipatnam\|Masulipatnam]] in 1605
+- [[UPSC/Battle of Bedara\|Battle of Bedara]]
+- Established factory at [[Patna\|Patna]] in 1632
 - 
