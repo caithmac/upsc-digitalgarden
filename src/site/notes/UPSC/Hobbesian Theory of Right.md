@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/hobbesian-theory-of-right/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/hobbesian-theory-of-right/"}
 ---
 
 ----
 Topic:: Hobbesian Theory of Right
 Date:: 2022-07-01
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
