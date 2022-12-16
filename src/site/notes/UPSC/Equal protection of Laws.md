@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/equal-protection-of-laws/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/equal-protection-of-laws/"}
 ---
 
 1. The equality of treatment under equal circumstances, both in the privileges conferred and liabilities imposed by the laws. i.e, everyone has same privileges and same liabilities. In this sense everyone is equal. 
