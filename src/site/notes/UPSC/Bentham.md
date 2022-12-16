@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/bentham/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/bentham/"}
 ---
 
 ----
 Topic:: Bentham
 Date:: 2022-07-07
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
