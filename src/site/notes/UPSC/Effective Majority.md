@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/effective-majority/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/effective-majority/"}
 ---
 
 ----
 Topic:: Effective Majority
 Date:: 2022-06-25
-Course:: [[UPSC/Effective Majority|]] 
+Course:: [[UPSC/Effective Majority\|]] 
 
 ----
 ##### Effective Majority 
