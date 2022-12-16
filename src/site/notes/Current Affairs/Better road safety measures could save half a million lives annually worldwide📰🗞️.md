@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/better-road-safety-measures-could-save-half-a-million-lives-annually-worldwide/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/better-road-safety-measures-could-save-half-a-million-lives-annually-worldwide/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Better road safety measures could save half a million lives annually worldwide📰🗞️|Better road safety measures could save half a million lives annually worldwide📰🗞️]]
-Date:: [[Current Affairs/30-06-2022|30-06-2022]]
-Course:: [[Current Affairs/Governance|Governance]] 
+Headline:: [[Current Affairs/Better road safety measures could save half a million lives annually worldwide📰🗞️\|Better road safety measures could save half a million lives annually worldwide📰🗞️]]
+Date:: [[Current Affairs/30-06-2022\|30-06-2022]]
+Course:: [[Current Affairs/Governance\|Governance]] 
 
 ----
 ##### What to read and why? 
