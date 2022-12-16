@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/socialism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/socialism/"}
 ---
 
 ----
 Topic:: Socialism
 Date:: 2022-07-18
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Background of Grwoth of Socialism 
-- [[Industrial Revolution |Industrial Revolution ]] growing monopoly 
+- [[Industrial Revolution \|Industrial Revolution ]] growing monopoly 
 - Economic inequality 
 - Inhuman working condtition 
 - Urbanisation without social infrastructure 
@@ -56,7 +56,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Joad is a part of guild, as he believed that guilds are best suited organisation to adress problem of inequality in modern society. GDH Colle, Burtend Russel were prominent guild socialist.
 	- Guild socialist prefer to organise polity in the line of functional representation. They argue that government of representative of guilds are better in position to understand problem challenges as well solution to overcome it for their respective guild. 
 	- Guild socialism is type of functional democracy. 
-	- [[Christopher Lasch|Christopher Lasch]] , [[Ernest Wigforss|Ernest Wigforss]], [[A R Orrage|A R Orrage]]
+	- [[Christopher Lasch\|Christopher Lasch]] , [[Ernest Wigforss\|Ernest Wigforss]], [[A R Orrage\|A R Orrage]]
 - ###### Democratic Socialism 
 	- They believe that there should be democraticaly elected government and it would be involved in planning of economy and industries must be managed by workers as well as professional managers. 
 	- Democratic socialism mainly sought for balance of economic and political liberty, they strongly recomend state as instrument to bring equality. State is engaged not only in economic planning but at same time distribution. 
@@ -66,5 +66,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 >[!Question]
->[[Briefly explain the post Marxian development in socialist thought|Briefly explain the post Marxian development in socialist thought]]
+>[[Briefly explain the post Marxian development in socialist thought\|Briefly explain the post Marxian development in socialist thought]]
 
