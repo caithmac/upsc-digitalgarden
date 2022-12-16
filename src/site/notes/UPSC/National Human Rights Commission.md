@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/national-human-rights-commission/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/national-human-rights-commission/"}
 ---
 
 Statutory Body :: 1993 
