@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/formal-equality/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/formal-equality/"}
 ---
 
 ----
 Topic:: Formal Equality
 Date:: 2022-08-14
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
