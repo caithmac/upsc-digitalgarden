@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/state-is-prior-than-individual/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/state-is-prior-than-individual/"}
 ---
 
 ----
 Topic:: State is prior than individual
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### State is prior than individual
@@ -20,8 +20,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 
-- [[UPSC/Aristotle's State|Aristotle's State]]
-- [[UPSC/State exist for sake of good life and not for life only|State exist for sake of good life and not for life only]]
-- [[UPSC/Thomas Hobbes|Thomas Hobbes]]
+- [[UPSC/Aristotle's State\|Aristotle's State]]
+- [[UPSC/State exist for sake of good life and not for life only\|State exist for sake of good life and not for life only]]
+- [[UPSC/Thomas Hobbes\|Thomas Hobbes]]
 
 
