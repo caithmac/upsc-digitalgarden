@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/caste-system/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/caste-system/"}
 ---
 
 ----
 Topic:: Caste System
 Date:: 2022-07-02
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 # Caste System
