@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/john-s-mill/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/john-s-mill/"}
 ---
 
 ----
 Topic:: John S. Mill
 Date:: 2022-07-08
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
  
@@ -17,12 +17,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Human beings are not only looking forward for their own interest but serve interest of other. 
 - Human nature is self centered and altruistic. 
 - Human nature not only enjoys self pleasure but ready to sacrifice himself. In this context only, Mill stated "It is better to be human being dissatisfied than pig satisfied, better to be Socrates dissatisfied than fool satisfied."
-- Mill improved [[UPSC/Bentham|Bentham]] idea that Human being is only seeking pleasure as ultimate goal of life self realization through self development. 
-- [[UPSC/Mill's objection to Utilitarianism and its revision|Mill's objection to Utilitarianism and its revision]]
-- [[UPSC/Mill's conception of Freedom and self development|Mill's conception of Freedom and self development]]
+- Mill improved [[UPSC/Bentham\|Bentham]] idea that Human being is only seeking pleasure as ultimate goal of life self realization through self development. 
+- [[UPSC/Mill's objection to Utilitarianism and its revision\|Mill's objection to Utilitarianism and its revision]]
+- [[UPSC/Mill's conception of Freedom and self development\|Mill's conception of Freedom and self development]]
 
-- Belonged to [[UPSC/Classic Liberalism|Classic Liberalism]]
-- [[UPSC/Negative Liberty|Negative Liberty]] 
+- Belonged to [[UPSC/Classic Liberalism\|Classic Liberalism]]
+- [[UPSC/Negative Liberty\|Negative Liberty]] 
 
 ##### Mill's On Liberty 
 - Most influential on his liberal principle. 
@@ -53,7 +53,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Discussion and debates clarify ideas. 
 	- Truth has multi dimensional character and it could be understood only through debate and discussion. 
 - Freedom of speech leads social development and enrichment as it distinguish between true or false, right or wring. Mill supported expression of everything whether it hold correct or incorrect idea. 
-- Freedom of speech is essential for [[UPSC/Democracy|democracy]] as subjugation of one person leads to ground subjugation of all 
+- Freedom of speech is essential for [[UPSC/Democracy\|democracy]] as subjugation of one person leads to ground subjugation of all 
 - 
 > If all mankind minus one, were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that **one person, than he, if he had the power, would be justified in silencing mankind**[^1]
 
@@ -125,17 +125,17 @@ Course:: [[UPSC/PSIR|PSIR]]
 ----
 
 >[!Question]
->- [[UPSC/Discuss Wayper criticism of Mill as reluctant democrat|Discuss Wayper criticism of Mill as reluctant democrat]]
->- [[Mill's criticism of Democracy is genuine concern for democracy |Mill's criticism of Democracy is genuine concern for democracy ]]
+>- [[UPSC/Discuss Wayper criticism of Mill as reluctant democrat\|Discuss Wayper criticism of Mill as reluctant democrat]]
+>- [[Mill's criticism of Democracy is genuine concern for democracy \|Mill's criticism of Democracy is genuine concern for democracy ]]
 
 
 [^1]: https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf
 
 ---
 **Backlinks**
-- [[UPSC/Democracy|Democracy]]
-- [[UPSC/Discuss the philosophical assumption of the welfare state|Discuss the philosophical assumption of the welfare state]]
-- [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
-- [[UPSC/Negative Liberty|Negative Liberty]]
-- [[UPSC/PSIR|PSIR]]
+- [[UPSC/Democracy\|Democracy]]
+- [[UPSC/Discuss the philosophical assumption of the welfare state\|Discuss the philosophical assumption of the welfare state]]
+- [[UPSC/Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state\|Enumerate the exclusive feature which differentiate a liberal state with totalitarian and authoritarian state]]
+- [[UPSC/Negative Liberty\|Negative Liberty]]
+- [[UPSC/PSIR\|PSIR]]
 
