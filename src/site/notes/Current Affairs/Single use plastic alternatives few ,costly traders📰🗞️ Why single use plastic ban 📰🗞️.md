@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/single-use-plastic-alternatives-few-costly-traders-why-single-use-plastic-ban/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/single-use-plastic-alternatives-few-costly-traders-why-single-use-plastic-ban/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Single use plastic alternatives few ,costly traders📰🗞️ Why single use plastic ban 📰🗞️|Single use plastic alternatives few ,costly traders📰🗞️ Why single use plastic ban 📰🗞️]]
-Date:: [[Current Affairs/01-07-2022|01-07-2022]]
-Course:: [[Environment|Environment]] 
+Headline:: [[Current Affairs/Single use plastic alternatives few ,costly traders📰🗞️ Why single use plastic ban 📰🗞️\|Single use plastic alternatives few ,costly traders📰🗞️ Why single use plastic ban 📰🗞️]]
+Date:: [[Current Affairs/01-07-2022\|01-07-2022]]
+Course:: [[Environment\|Environment]] 
 
 ----
 ##### What to read and why? 
@@ -13,7 +13,7 @@ Course:: [[Environment|Environment]]
 _What are the items being banned ?Major reasons to ban them,What are the implications of the ban on single-use plastics ?issues  in enforcement and suggest ways to handle them ._
 
 
-[[Current Affairs/Govt to set up control rooms to enforce single-use plastic ban📰🗞️|Govt to set up control rooms to enforce single-use plastic ban📰🗞️]]
+[[Current Affairs/Govt to set up control rooms to enforce single-use plastic ban📰🗞️\|Govt to set up control rooms to enforce single-use plastic ban📰🗞️]]
 
 Plastic Waste Management (Amendment) Rules notified in August 2021
 Ministry of Environment, ForestandClimateChange
