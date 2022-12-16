@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/wavell-plan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/wavell-plan/"}
 ---
 
-[[Shimla Conference|Shimla Conference]]
+[[Shimla Conference\|Shimla Conference]]
