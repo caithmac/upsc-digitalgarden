@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/equality-before-law/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/equality-before-law/"}
 ---
 
 1. Absence of any special privileges in favor of any person.
