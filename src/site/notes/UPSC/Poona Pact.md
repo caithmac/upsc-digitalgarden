@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/poona-pact/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/poona-pact/"}
 ---
 
-[[UPSC/Communal Award|Communal Award]] 
+[[UPSC/Communal Award\|Communal Award]] 
 Abandoned Separate Electorates for depressed class
 
