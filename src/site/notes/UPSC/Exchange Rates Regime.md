@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/exchange-rates-regime/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/exchange-rates-regime/"}
 ---
 
 Topic: Exchange Rates Regime
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
