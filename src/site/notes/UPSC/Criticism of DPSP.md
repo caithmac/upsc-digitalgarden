@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/criticism-of-dpsp/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/criticism-of-dpsp/"}
 ---
 
 #### Criticism of DPSP
