@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/rig-veda/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/rig-veda/"}
 ---
 
-[[Aaitariya Brahmana|Aaitariya Brahmana]]
+[[Aaitariya Brahmana\|Aaitariya Brahmana]]
