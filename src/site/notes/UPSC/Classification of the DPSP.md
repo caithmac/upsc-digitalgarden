@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/classification-of-the-dpsp/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/classification-of-the-dpsp/"}
 ---
 
 ##### Classification of the DPSP
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Socialistic Principle
@@ -51,7 +47,7 @@
 
 
 
-[^1]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
 
@@ -59,14 +55,10 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
 
-</div>
-
-
-Course:: [[UPSC/Polity|Polity]]
+Course:: [[UPSC/Polity\|Polity]]
 
 
 ##### Gandhian Principles
@@ -106,11 +98,7 @@ Course:: [[UPSC/Polity|Polity]]
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Liberal Intellectual Principles
@@ -143,7 +131,7 @@ Course:: [[UPSC/Polity|Polity]]
 
 
 
-[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
-[^2]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
+[^2]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
 
 </div></div>
