@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/indian-nationalism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/indian-nationalism/"}
 ---
 
 ----
 Topic:: Indian Nationalism
 Date:: 2022-09-06
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # National Movement 
@@ -32,28 +32,28 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Anonyms
 	- Impersonal 
 	- unfamiliar 
-- [[Eric Hobsbawm|Eric Hobsbawm]] used the concept of [[UPSC/Invented Traditions|Invented Traditions]]
-- [[Benedict Anderson|Benedict Anderson]] in "Imagined communities  : Reflections on the Origin and spread of Nationalism." - Nationalism is *imagined communities*
-- [[Ernest Gellner|Ernest Gellner]] : Nationalism is primarily a political principle; which hold that the political and the national unit should be congruent. That nation laid the claims to have state of their own.
-	- [[UPSC/Glenner Nation|Glenner Nation]]
-- [[Ernest Renam|Ernest Renam]] - Rejected both Racial and natural definition of nation. 
-	- [[UPSC/Renam Nation|Renam Nation]]
-- [[Stalin|Stalin]] : His definition of nation left five main characteristics that would give us clue as to what is a nation 
+- [[Eric Hobsbawm\|Eric Hobsbawm]] used the concept of [[UPSC/Invented Traditions\|Invented Traditions]]
+- [[Benedict Anderson\|Benedict Anderson]] in "Imagined communities  : Reflections on the Origin and spread of Nationalism." - Nationalism is *imagined communities*
+- [[Ernest Gellner\|Ernest Gellner]] : Nationalism is primarily a political principle; which hold that the political and the national unit should be congruent. That nation laid the claims to have state of their own.
+	- [[UPSC/Glenner Nation\|Glenner Nation]]
+- [[Ernest Renam\|Ernest Renam]] - Rejected both Racial and natural definition of nation. 
+	- [[UPSC/Renam Nation\|Renam Nation]]
+- [[Stalin\|Stalin]] : His definition of nation left five main characteristics that would give us clue as to what is a nation 
 	1. History Continuity 
 	2. Common Language
 	3. Territory 
 	4. Common Grid of Economic Life
 	5. Common Culture
-- [[John Herder|John Herder]] gave concept of [[UPSC/Cultural Nationalism|Cultural Nationalism]]
+- [[John Herder\|John Herder]] gave concept of [[UPSC/Cultural Nationalism\|Cultural Nationalism]]
 
 
 ##### Before 1857 
 - Entire nation was not under one sovereign rulers. There were many princely state. 
-- [[UPSC/EIC|EIC]] along with rulers were ruling.
+- [[UPSC/EIC\|EIC]] along with rulers were ruling.
 - They were controlling Kings and Nawabs. 
 
 ##### After 1857 
-- [[UPSC/EIC|EIC]] Indian territory came under British Crown. 
+- [[UPSC/EIC\|EIC]] Indian territory came under British Crown. 
 - British crown was ruling India in two ways 
 	- British India
 	- Princely State with Residents. 
@@ -63,8 +63,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Judiciary 
 	- Law and Regulation 
 - There was uniformity in law/rules/regulation
-- [[UPSC/Indian National Congress|Indian National Congress]] started raising new demand, for it there was demand.  [[UPSC/Indian Nationalism|]]
-- By 1885 [[UPSC/Indian National Congress|Indian National Congress]] - Demands 
+- [[UPSC/Indian National Congress\|Indian National Congress]] started raising new demand, for it there was demand.  [[UPSC/Indian Nationalism\|]]
+- By 1885 [[UPSC/Indian National Congress\|Indian National Congress]] - Demands 
 	- Initially the demand was a democratic rule
 	- Participation in Indian administration 
 	- Legal rights 
@@ -73,15 +73,18 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Wanted to be dominion status. 
 - Prayer, Petition and Protest 
 
-[[Why Social Reform was precondition of Indian National Movement|Why Social Reform was precondition of Indian National Movement]]? 
+
+>[!question]
+>[[UPSC/Why Social Reform was precondition of Indian National Movement\|Why Social Reform was precondition of Indian National Movement]]? 
+>"Terrorism is a phase, a necessary an inevitable phase of revolution as it instils fear in the hearts of the oppressors, it brings hopes of revenge and redemption to the oppressed masses." B C Vohra.[[ In the light of this statement, discuss the militant and revolutionary movement during Indian freedom struggle. Compare and contrast their approach with that of Gandhi\| In the light of this statement, discuss the militant and revolutionary movement during Indian freedom struggle. Compare and contrast their approach with that of Gandhi]]
 
 
 ---
 **Backlinks**
 | File                                                                                           |
 | ---------------------------------------------------------------------------------------------- |
-| [[UPSC/PSIR.md\|PSIR]]                                                                         |
-| [[UPSC/Perspectives on Indian National Movement.md\|Perspectives on Indian National Movement]] |
+| [[UPSC/PSIR\|PSIR]]                                                                         |
+| [[UPSC/Perspectives on Indian National Movement\|Perspectives on Indian National Movement]] |
 
 
 
