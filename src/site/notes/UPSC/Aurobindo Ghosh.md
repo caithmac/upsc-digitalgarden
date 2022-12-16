@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aurobindo-ghosh/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aurobindo-ghosh/"}
 ---
 
 ----
 Topic:: Sri Aurobindo
 Date:: 2022-10-06
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 - Prophet of Indian Nationalism 
@@ -16,8 +16,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Happened to emmerge as messenger of India
 - Was selected in Civil Services 
 - Series of article **New Lamps for Old** -In newspaper **Indu Prakash**
-	- Here Old represent [[UPSC/Moderates|Moderates]]
-	- [[UPSC/Aurobindo Ghosh|Aurobindo Ghosh]]
+	- Here Old represent [[UPSC/Moderates\|Moderates]]
+	- [[UPSC/Aurobindo Ghosh\|Aurobindo Ghosh]]
 	- He had no faith in the leadership of Moderates 
 	- He neither supported views of Moderate on India as nation 
 	- Neither supported Moderates goal of Swaraj 
@@ -27,7 +27,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ### Aurbindo Ghos criticism of Early Nationalist 
 - He had objection as to way how moderates or early nationalist looked at British imperialism. 
-- [[UPSC/Perspectives on Indian National Movement|Perspectives on Indian National Movement]]
+- [[UPSC/Perspectives on Indian National Movement\|Perspectives on Indian National Movement]]
 - No foreign rule can never be blessing, because it prevents natural growth of nation. 
 - He disagreed with moderates goal of Swarajya
 - He was the first person in India who talked about Poorna Swaraj 
@@ -89,9 +89,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                                                                           |
 | ---------------------------------------------------------------------------------------------- |
-| [[UPSC/Aurobindo Ghosh.md\|Aurobindo Ghosh]]                                                   |
-| [[UPSC/PSIR.md\|PSIR]]                                                                         |
-| [[UPSC/Perspectives on Indian National Movement.md\|Perspectives on Indian National Movement]] |
+| [[UPSC/Aurobindo Ghosh\|Aurobindo Ghosh]]                                                   |
+| [[UPSC/PSIR\|PSIR]]                                                                         |
+| [[UPSC/Perspectives on Indian National Movement\|Perspectives on Indian National Movement]] |
 
 
 
