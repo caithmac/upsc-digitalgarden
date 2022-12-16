@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/niti-aayog/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/niti-aayog/"}
 ---
 
 Created by and Executive resolution. 
@@ -14,12 +14,12 @@ Created by and Executive resolution.
 
 
 
-[[National Development Council|National Development Council]]
+[[National Development Council\|National Development Council]]
 
 
 
 >[!tip] Conclusion
->NITI's approach is more modernized, forward looking, less bureaucratic and less status quo oriented than erstwhile [[Planning Commission|Planning Commission]].
+>NITI's approach is more modernized, forward looking, less bureaucratic and less status quo oriented than erstwhile [[Planning Commission\|Planning Commission]].
 >NITI Aayog is playing a pivotal role for economic growth, human development and good governance in India.
 
 - aspirational districts
