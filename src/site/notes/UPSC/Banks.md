@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/banks/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/banks/"}
 ---
 
 Topic: Banks
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar1A 
 
 ---
@@ -13,7 +13,7 @@ Tags: #pillar1A
 > Here is something! 
 
 
-> [!Notes] [[Payment Bank|Payment Bank]]
+> [!Notes] [[Payment Bank\|Payment Bank]]
 > 1. Only Current Account and Saving Accounts (CASA)
 > 2. - [x]  FD and Banking 
 > 3. Government Security
@@ -24,14 +24,14 @@ Tags: #pillar1A
 
 |                                                     | Commercial Bank                  | Cooperative Bank |     |
 | --------------------------------------------------- | -------------------------------- | ---------------- | 
-| [[Cash Reserve Ration|Cash Reserve Ration]],[[Statutory Liquid Ration|Statutory Liquid Ration]] | Yes                              | Yes              |     |
-| [[Priority Sector Lending|Priority Sector Lending]]                         | Yes                              | No               |     
+| [[Cash Reserve Ration\|Cash Reserve Ration]],[[Statutory Liquid Ration\|Statutory Liquid Ration]] | Yes                              | Yes              |     |
+| [[Priority Sector Lending\|Priority Sector Lending]]                         | Yes                              | No               |     
 | Motive                                              | Profit motive                    | No profit making |     
 | Voting power                                        | Voting power as per shareholding | 1 Person 1 Vote  |     
 |                                                     |                                  |                  |                                                       |                                  |                  |     |
 
 
 > [!Question] What is RRB?
-> RRB is [[Regional Rural Bank|Regional Rural Bank]]
+> RRB is [[Regional Rural Bank\|Regional Rural Bank]]
 
 
