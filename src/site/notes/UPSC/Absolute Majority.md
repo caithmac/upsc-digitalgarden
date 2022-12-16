@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/absolute-majority/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/absolute-majority/"}
 ---
 
 ----
 Topic:: Absolute Majority
 Date:: 2022-06-25
-Course:: [[UPSC/Absolute Majority|]] 
+Course:: [[UPSC/Absolute Majority\|]] 
 
 ----
 
