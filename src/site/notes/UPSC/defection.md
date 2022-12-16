@@ -1,26 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/defection/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/defection/"}
 ---
 
 ----
 Topic:: defection
 Date:: 2022-06-28
-Course:: [[UPSC/Constitution MOC|Constitution MOC]] 
+Course:: [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 - 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Topic: Schedules
 Date: 2022-05-30
-Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]] [[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #gs2
 
 ---
