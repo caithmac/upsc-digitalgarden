@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/what-is-hermit-the-pegasus-like-spyware-that-targeted-android-i-os-devices/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/what-is-hermit-the-pegasus-like-spyware-that-targeted-android-i-os-devices/"}
 ---
 
 ----
-Headline:: [[Current Affairs/What is Hermit, the Pegasus-like spyware that targeted Android, iOS devices📰🗞️|What is Hermit, the Pegasus-like spyware that targeted Android, iOS devices📰🗞️]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[Science-Tech|Science-Tech]] 
+Headline:: [[Current Affairs/What is Hermit, the Pegasus-like spyware that targeted Android, iOS devices📰🗞️\|What is Hermit, the Pegasus-like spyware that targeted Android, iOS devices📰🗞️]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[Science-Tech\|Science-Tech]] 
 
 ----
 ##### What to read and why? 
