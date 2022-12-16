@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/loan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/loan/"}
 ---
 
 Topic: Loan
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar3 
 
 ---
@@ -14,8 +14,8 @@ Tags: #pillar3
 
 
 ### Notes
-- [[Sovereign Loan|Sovereign Loan]]
-- [[Commercial|Commercial]]
+- [[Sovereign Loan\|Sovereign Loan]]
+- [[Commercial\|Commercial]]
 
 
 
