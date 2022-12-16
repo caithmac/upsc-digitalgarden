@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/taxation-and-fiscal-capacity/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/taxation-and-fiscal-capacity/"}
 ---
 
 Topic: Taxation and Fiscal Capacity
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
@@ -14,7 +14,7 @@ Tags: #Pillar2
 
 > [!Question] How to increase $Tax : GDP$
 
-> [!info] [[UPSC/15th Finance Commission|15th Finance Commission]] recommendation
+> [!info] [[UPSC/15th Finance Commission\|15th Finance Commission]] recommendation
 > 
 
 
