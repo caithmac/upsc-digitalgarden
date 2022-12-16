@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/saptanga-theory/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/saptanga-theory/"}
 ---
 
 ----
 Topic:: Saptanga Theory
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
  ### Saptanga Theory
@@ -19,17 +19,13 @@ Course:: [[UPSC/PSIR|PSIR]]
    - 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ----
 Topic:: Manu Smriti
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ## Ideas relating to Dharma 
@@ -95,14 +91,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Kings should help people achieve Yogkshen and Purushsthas
 		- Rakshan and Palan are the responsibilities of the King
 		- King should administer punishment according to the Shastras
-			- [[UPSC/Manu Smriti|Manu Smriti]] there is no concept of equality before law
+			- [[UPSC/Manu Smriti\|Manu Smriti]] there is no concept of equality before law
 			- Lower the varna the higher the punishment
 
-- [[UPSC/Manu Smriti|Manu Smriti]] also deals with taxation 
+- [[UPSC/Manu Smriti\|Manu Smriti]] also deals with taxation 
 - Principle of taxation was directly proportional to fertility of land 
 
 ### Conclusion 
-- [[UPSC/Manu Smriti|Manu Smriti]] is one of the most controversial texts. 
+- [[UPSC/Manu Smriti\|Manu Smriti]] is one of the most controversial texts. 
 - Among the admirers of Manu Smriti - Dr. S Radhakrishnan
 - Among the critics, B R Ambedkar in his book "Anhilation of Caste" - he asked untouchables to put dynamite on vedas and Manu Smriti
 
@@ -112,7 +108,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                   |
 | -------------------------------------- |
-| [[UPSC/Arthashastra.md\|Arthashastra]] |
+| [[UPSC/Arthashastra\|Arthashastra]] |
 
 
 
@@ -122,8 +118,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
    - If king is strong and other elements of sovreignity are weak, the strong and smart king can convert the element of weakness into element of strength. 
    - If other elements are strong, but if king is weak, it will lead too overall weakness. 
-   - Though king is central, yet [[UPSC/Kautilya|Kautilya]] writes that a single wheel can not turn the chariot. It means king can not run the state alonew but will require help of others. 
-   - Thus [[UPSC/Kautilya|Kautilya]] emphasis that king should not be arrogant and give aequate recognition to othe elements. State is a system of interdependence. He also reminds that King that kingship is duty- DHARMA! 
+   - Though king is central, yet [[UPSC/Kautilya\|Kautilya]] writes that a single wheel can not turn the chariot. It means king can not run the state alonew but will require help of others. 
+   - Thus [[UPSC/Kautilya\|Kautilya]] emphasis that king should not be arrogant and give aequate recognition to othe elements. State is a system of interdependence. He also reminds that King that kingship is duty- DHARMA! 
      > In the happiness of the subjects, lies the happiness of the king. 
 2.  **Amatya**
    - They are mostly Brahmins 
@@ -138,7 +134,7 @@ Course:: [[UPSC/PSIR|PSIR]]
    - Place where common people live, operates, conducts business and various activities. 
    - It is very important as it provides economic resources/ 
    - King has to ensure that his people are happy. 
-   - [[UPSC/Kautilya|Kautilya]] even in case of Janpad - suggest spy
+   - [[UPSC/Kautilya\|Kautilya]] even in case of Janpad - suggest spy
    - spies to remain in touch with public mood. 
 4.  **Durg**
    - Mauryan 1empire is known for different types of forts. Kautilya mentions about forts on hill, water, deserts. 
@@ -164,7 +160,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                   |
 | -------------------------------------- |
-| [[UPSC/Arthashastra.md\|Arthashastra]] |
+| [[UPSC/Arthashastra\|Arthashastra]] |
 
 
 
