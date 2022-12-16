@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/gold-consumption/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/gold-consumption/"}
 ---
 
 Topic:: Gold Consumption 🙋🏽‍♂️
 Date:: May 6, 2022
-Course:: [[UPSC/Economy|Economy]]
+Course:: [[UPSC/Economy\|Economy]]
 
 ---
 
