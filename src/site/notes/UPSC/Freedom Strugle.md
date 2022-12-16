@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/freedom-strugle/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/freedom-strugle/"}
 ---
 
 ----
 Topic: Freedom Strugle
 Date: 2022-06-07
-Course: [[UPSC/Modern History|Modern History]] 
+Course: [[UPSC/Modern History\|Modern History]] 
 
 ----
 ##### Cusative factor for People's Uprising 🥷🏼
@@ -17,12 +17,12 @@ Course: [[UPSC/Modern History|Modern History]]
 
 Indian Response
 1. Traditional Response
-	1. [[Civilian|Civilian]]
+	1. [[Civilian\|Civilian]]
 	2. Peasant 
-	3. [[UPSC/Revolts before 1857|Revolts before 1857]] 
-[[UPSC/Revolution of 1857|Revolution of 1857]]
+	3. [[UPSC/Revolts before 1857\|Revolts before 1857]] 
+[[UPSC/Revolution of 1857\|Revolution of 1857]]
 2. Modern Response
 	1. Socio Religious Reform 
-	2. [[UPSC/Political Aspect|Political Aspect]]
-	3. [[UPSC/Economic Aspect|Economic Aspect]]
+	2. [[UPSC/Political Aspect\|Political Aspect]]
+	3. [[UPSC/Economic Aspect\|Economic Aspect]]
 
