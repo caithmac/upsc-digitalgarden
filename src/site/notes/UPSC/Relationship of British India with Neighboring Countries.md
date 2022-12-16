@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/relationship-of-british-india-with-neighboring-countries/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/relationship-of-british-india-with-neighboring-countries/"}
 ---
 
 ----
 Topic: Relationship of British India with Neighboring Countries
 Date: 2022-06-06
-Course: [[UPSC/Modern History|Modern History]] 
+Course: [[UPSC/Modern History\|Modern History]] 
 
 ----
 1. Anglo-Bhutanese Relation
