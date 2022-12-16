@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/pursuit-of-great-powerhood/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/pursuit-of-great-powerhood/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Pursuit of great powerhood 📰🗞️|Pursuit of great powerhood 📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[UPSC/International Relations|International Relations]] 
+Headline:: [[Current Affairs/Pursuit of great powerhood 📰🗞️\|Pursuit of great powerhood 📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[UPSC/International Relations\|International Relations]] 
 
 ----
 ##### What to read and why? 
