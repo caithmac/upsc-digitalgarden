@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/multiculturism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/multiculturism/"}
 ---
 
 ----
 Topic:: Multiculturism
 Date:: 2022-07-09
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -15,7 +15,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - It claims that even in most democratic state and society minority remain at disadvantage place and suffers. 
 - It aims to minimize the discrimination of minority cultural communities and to promote the ideal of non-discrimination giving identical rights to all person as citizen are not enough , it leads to domination of majority over minority. 
 - Multiculturalist argued with identical rights and uniform laws majority is gradually assimilating culture of minority. It is process of homogeneity and any attempt to promote diversity is seen as way of endangering identity of nation state. 
-- Extend form of [[UPSC/Liberalism|Liberalism]]; because Individualism is involved 
+- Extend form of [[UPSC/Liberalism\|Liberalism]]; because Individualism is involved 
 - Multicultarism is a state of value plularism. 
 - It profoundaly accepted that each culture incorporates a distinctive value and it leads to specialisation. 
 - Multiculturaism tried to protect cultural experiences of people it mainly demands minorirt culture, their language and coustoms are survive and are treated as equal in the public domain
@@ -33,12 +33,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 > Societal structure provides its member with meaningful way of life across full range of activities including social, educational, religious and economical life encompassing both public and private spheres. These cultures tend to be territorial and concentrated and based on shared language.  
 
 
-- [[What is multiculturism and how it has been analyzed by Will Kilmika|What is multiculturism and how it has been analyzed by Will Kilmika]]
-- [[Discuss Joseph Raz conception of moral pluralism which is base of multiculturalism|Discuss Joseph Raz conception of moral pluralism which is base of multiculturalism]]
-- [[Short Notes Human Rights|Short Notes Human Rights]]
-- [[Short Note Democracy|Short Note Democracy]]
-- [[Short Note Multiculturalism|Short Note Multiculturalism]]
-- [[UPSC/Poly-ethnic rights|Poly-ethnic rights]]
+- [[What is multiculturism and how it has been analyzed by Will Kilmika\|What is multiculturism and how it has been analyzed by Will Kilmika]]
+- [[Discuss Joseph Raz conception of moral pluralism which is base of multiculturalism\|Discuss Joseph Raz conception of moral pluralism which is base of multiculturalism]]
+- [[Short Notes Human Rights\|Short Notes Human Rights]]
+- [[Short Note Democracy\|Short Note Democracy]]
+- [[Short Note Multiculturalism\|Short Note Multiculturalism]]
+- [[UPSC/Poly-ethnic rights\|Poly-ethnic rights]]
 
 ---
 **Backlinks**
