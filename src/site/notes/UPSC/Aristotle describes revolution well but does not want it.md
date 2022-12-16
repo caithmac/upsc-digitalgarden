@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aristotle-describes-revolution-well-but-does-not-want-it/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aristotle-describes-revolution-well-but-does-not-want-it/"}
 ---
 
 ----
 Topic:: Aristotle describes revolution well but does not want it
 Date:: 2022-07-11
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
