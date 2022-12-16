@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/cervical-cancer-vaccine-ready-likely-to-be-part-of-govt-s-immunisation-programme/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/cervical-cancer-vaccine-ready-likely-to-be-part-of-govt-s-immunisation-programme/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Cervical cancer vaccine ready, likely to be part of govt’s immunisation programme📰🗞️|Cervical cancer vaccine ready, likely to be part of govt’s immunisation programme📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[Health|Health]] 
+Headline:: [[Current Affairs/Cervical cancer vaccine ready, likely to be part of govt’s immunisation programme📰🗞️\|Cervical cancer vaccine ready, likely to be part of govt’s immunisation programme📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[Health\|Health]] 
 
 ----
 ##### What to read and why? 
