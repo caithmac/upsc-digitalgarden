@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/neomarxism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/neomarxism/"}
 ---
 
 ----
 Topic:: Neomarxism
 Date:: 2022-07-25
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 #### Neo - Marxist 
-- Identfied various reason as to why theories of [[UPSC/Karl Marx|Karl Marx]] failed to get culiminated in revolution. 
+- Identfied various reason as to why theories of [[UPSC/Karl Marx\|Karl Marx]] failed to get culiminated in revolution. 
 - They argued that in post industrial society there is projected better living standard and bridging the gap between social classes through mass education, mass production and mass consumption. 
 - Arguments of :
 - Working class has not evolve into revolutionary movemnt
@@ -35,6 +35,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Nicos : Capitalist bourgoises state exist in structural sense. In othe words, state and its organisation function internally and its relationship to society where shaped by class relations of capitalist society. 
 - Ralph : The modern state seems to democratic but power and politics were dominated by capitalist class through variety of mechanism. Modern states seems to be neutral because of electorate, political parties and interest group but in reality power and politics were dominated by capitalist class directly or indirectly. 
 - Capitalist class exert its power and domination through different mechanism. 
-- Instrument of fair electorate, political parties, interestgroup were meerly projection and these above mentioned instituion were completely controled by [[Capitalist|Capitalist]] class.  
+- Instrument of fair electorate, political parties, interestgroup were meerly projection and these above mentioned instituion were completely controled by [[Capitalist\|Capitalist]] class.  
  ###### Conclusion
 - It is not the only capitalist class, but capitalist state limits relatively autonomus state ruled by maybe neutral government. 
