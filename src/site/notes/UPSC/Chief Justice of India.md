@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/chief-justice-of-india/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/chief-justice-of-india/"}
 ---
 
 ----
 Topic: Chief Justice of India
 Date: 2022-06-03
-Course: [[UPSC/Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
+Course: [[UPSC/Polity\|Polity]] , [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 
