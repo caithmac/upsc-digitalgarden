@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/simon-commission/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/simon-commission/"}
 ---
 
 Simon Go Back
 
-[[Nehru Report|Nehru Report]]
+[[Nehru Report\|Nehru Report]]
 
  
