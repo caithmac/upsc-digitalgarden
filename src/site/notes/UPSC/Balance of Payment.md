@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/balance-of-payment/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/balance-of-payment/"}
 ---
 
 Topic: Balance of Payment
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #unanswered #pillar3
 
 ---
@@ -14,8 +14,8 @@ Tags: #unanswered #pillar3
 
 
 ### Notes
-- [[UPSC/Current|Current]]
-- [[UPSC/Capital|Capital]]
+- [[UPSC/Current\|Current]]
+- [[UPSC/Capital\|Capital]]
 
 
 
