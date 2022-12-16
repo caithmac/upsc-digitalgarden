@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/schools-poor-in-digital-learning-180-districts-score-less-than-10/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/schools-poor-in-digital-learning-180-districts-score-less-than-10/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Schools poor in digital learning,180 districts score less than 10%📰🗞️|Schools poor in digital learning,180 districts score less than 10%📰🗞️]]
-Date:: [[Current Affairs/28-06-2022|28-06-2022]]
-Course:: [[Current Affairs/Governance|Governance]] 
+Headline:: [[Current Affairs/Schools poor in digital learning,180 districts score less than 10%📰🗞️\|Schools poor in digital learning,180 districts score less than 10%📰🗞️]]
+Date:: [[Current Affairs/28-06-2022\|28-06-2022]]
+Course:: [[Current Affairs/Governance\|Governance]] 
 
 ----
 ##### What to read and why? 
