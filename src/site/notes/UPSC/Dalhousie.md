@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/dalhousie/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/dalhousie/"}
 ---
 
