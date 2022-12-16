@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/concept-of-power/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/concept-of-power/"}
 ---
 
 ----
 Topic:: Concept of power
 Date:: 2022-08-18
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Power 
@@ -16,7 +16,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - <mark style="background: #FFB8EBA6;">For state, power is force exercised by state in the name of law</mark>. 
 - <mark style="background: #FF5582A6;">Harold Laswell</mark> and <mark style="background: #FF5582A6;">Abraham Caplan</mark>  <mark style="background: #D2B3FFA6;">constructed exercise of power as act effecting or determining other acts</mark>. 
 - <mark style="background: #FF5582A6;">Robert Dahl</mark> defined power as <mark style="background: #ADCCFFA6;">one actors ability to make another to do something that later would not otherwise do</mark>. 
-- [[UPSC/Hannah Arendt|Hannah Arendt]] argued that <mark style="background: #D2B3FFA6;">power is not the property of agents or actor, but of group and collectivity acting together</mark>. 
+- [[UPSC/Hannah Arendt\|Hannah Arendt]] argued that <mark style="background: #D2B3FFA6;">power is not the property of agents or actor, but of group and collectivity acting together</mark>. 
 - <mark style="background: #FF5582A6;">Fredrich</mark> : Power is a certain kind of human relationship. 
 - <mark style="background: #FF5582A6;">Tawney</mark> : It is a capacity of an individual or group to modify others conduct as one desire, 
 - The precise connotation of power become difficult when the term become interchangeable with several related theme. In political theory it is mainly associated with - force. 
@@ -44,8 +44,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 	
 - ##### Marxian Theory 
 	- Links politics and economics through instrument of power. 
-	- [[UPSC/Karl Marx|Karl Marx]] viewed political power as being possessed those who control means of production. The <mark style="background: #FFB8EBA6;">relation of production therefore determines distribution of political power</mark>. 
-	- Thus, [[UPSC/Karl Marx|Karl Marx]] sees a <mark style="background: #FFB8EBA6;">close integration between political power and prevailing socio-economic system</mark> and regards it as transient - <mark style="background: #ADCCFFA6;">it shall disappear with rise of stateless and classless society</mark>. 
+	- [[UPSC/Karl Marx\|Karl Marx]] viewed political power as being possessed those who control means of production. The <mark style="background: #FFB8EBA6;">relation of production therefore determines distribution of political power</mark>. 
+	- Thus, [[UPSC/Karl Marx\|Karl Marx]] sees a <mark style="background: #FFB8EBA6;">close integration between political power and prevailing socio-economic system</mark> and regards it as transient - <mark style="background: #ADCCFFA6;">it shall disappear with rise of stateless and classless society</mark>. 
 
 ### Dimension of Power 
 - Power has two specific dimension 
@@ -86,7 +86,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- <mark style="background: #FFB8EBA6;">Coercive power. </mark>
 - Authority correspond to all three power when legitimacy is associated with it. 
 
-##### [[Legitimacy|Legitimacy]]
+##### [[Legitimacy\|Legitimacy]]
 - Legitimacy is defined around the idea of exercise of power in any act. 
 - In political science, <mark style="background: #FFB8EBA6;">legitimacy is essentially associated with right and acceptance of authority</mark>. 
 - Legitimacy is value <mark style="background: #FFB8EBA6;">whereby something or someone is recognized as right and proper</mark>. 
@@ -101,16 +101,16 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- <mark style="background: #FF5582A6;">Habermas</mark> ̥is considered to be supporter of this theory the key to legitimacy is "<mark style="background: #BBFABBA6;">non instrumental</mark>" ideal of non-communicative rationality. 
 	- This can only achieved in what he call ideal speech situation. 
 
-> [[UPSC/How does reliance on authority affect nature of power|How does reliance on authority affect nature of power]]
+> [[UPSC/How does reliance on authority affect nature of power\|How does reliance on authority affect nature of power]]
 
-##### [[UPSC/Foucault Concept of Power|Foucault Concept of Power]]
+##### [[UPSC/Foucault Concept of Power\|Foucault Concept of Power]]
 
 
 ##### Legitimacy Crisis
 
-- <mark style="background: #FF5582A6;">Habbermass</mark> ̥has developed an alternative to webberian approach to legitamacy. 
-- Habbermass didn't <mark style="background: #FFB8EBA6;">adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth</mark>. 
-- Habbermass admited that <mark style="background: #FFB8EBA6;">modern capitalist society or liberal democracy have a system of drying out of consent and support of the people</mark>. <mark style="background: #FFB8EBA6;">Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy</mark>. 
+- <mark style="background: #FF5582A6;">Habermas</mark> ̥has developed an alternative to webberian approach to legitamacy. 
+- Habermas didn't <mark style="background: #FFB8EBA6;">adopt orthodox marxist position which saw legitimacy as nothing more than burgoise myth</mark>. 
+- Habermas admited that <mark style="background: #FFB8EBA6;">modern capitalist society or liberal democracy have a system of drying out of consent and support of the people</mark>. <mark style="background: #FFB8EBA6;">Democratic system, party system, social and welfare reforms are mechanism to maintain consent and legitamacy</mark>. 
 - In his work "<mark style="background: #FF5582A6;">Legitamacy Crisis 1973</mark>"̥, he<mark style="background: #FFB8EBA6;"> identified arising crisis tendency within capitalist society</mark>. These <mark style="background: #D2B3FFA6;">crisis tendency emerged as a result of fundamnetal contradiction between the logic of capitalist accumulation and popular pressure of welfarism unleashed by democratic politics</mark>. 
 - The cycle of welfarism - capitalism- legitamacy
 	- In modern capitalist society legitamacy is secured by democratic process, which lead to further demand for social welfare provision. Increased poupular participationn and social equality. 
@@ -119,7 +119,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 -  Thus a capitalist society is constantly in the grip of crisis tendency that is legitamacy. 
 - According to habbermass capitalist democracy can not satisfy both for popular demands for social equality welfare right and requirement of a market economy based on private proft. The implication of such crisis involves a disturbance  of integration or cohesion of society and regulatory structure of capitalist system
 
->[!question] [[UPSC/Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis|Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis]].
+>[!question] [[UPSC/Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis\|Are there fundamental crisis tendencies in the modern democractic welfare state. Discuss  with reference to habbermasian idea of legitamacy crisis]].
 >
 
 ###### State Action 
