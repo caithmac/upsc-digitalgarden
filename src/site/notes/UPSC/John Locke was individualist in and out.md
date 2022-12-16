@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/john-locke-was-individualist-in-and-out/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/john-locke-was-individualist-in-and-out/"}
 ---
 
 ----
-Topic:: [[UPSC/John Locke|John Locke]] was individualist in and out
+Topic:: [[UPSC/John Locke\|John Locke]] was individualist in and out
 Date:: 2022-07-13
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 According to M Seligar, in his book "Liberal Politics of John Locke"; "John Locke was the first political philosopher to elaborate on modern liberalism and individualism as a comprehensive and influential system of thought."
