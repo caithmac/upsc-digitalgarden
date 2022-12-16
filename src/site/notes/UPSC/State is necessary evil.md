@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/state-is-necessary-evil/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/state-is-necessary-evil/"}
 ---
 
 ----
 Topic:: State is necessary evil
 Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
