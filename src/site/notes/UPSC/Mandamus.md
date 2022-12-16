@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mandamus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mandamus/"}
 ---
 
 ##### Mandamus
