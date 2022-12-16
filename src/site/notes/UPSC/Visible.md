@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/visible/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/visible/"}
 ---
 
 Topic: Visible
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar3 
 
 ---
@@ -14,7 +14,7 @@ Tags: #pillar3
 
 
 ### Notes
-- [[Goods|Goods]]
+- [[Goods\|Goods]]
 
 
 
