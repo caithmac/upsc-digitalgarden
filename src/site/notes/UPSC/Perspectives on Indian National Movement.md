@@ -1,22 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/perspectives-on-indian-national-movement/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/perspectives-on-indian-national-movement/"}
 ---
 
 ----
 Topic:: Perspectives on Indian National Movement
 Date:: 2022-09-06
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
  
 ----
+[[UPSC/Conception of Nation State\|Conception of Nation State]]
 # Perspectives on Indian National Movement
 
 ## Colonial Perspective 
-- According to [[John Strachey|John Strachey]]  there was never a nation called India. There is no "indian nation" , no "people of India" 
+- According to [[John Strachey\|John Strachey]]  there was never a nation called India. There is no "indian nation" , no "people of India" 
 	- It had no political, physical social or religious unity according to European ideas. 
-- [[John Seeley|John Seeley]] expressed that India is merely a geographical expression much like Africa or Europe. It marks territories of many language and many nation. 
-- [[John Strachey|John Strachey]] and [[John Seeley|John Seeley]] both asserted that it was impossible to forge a nation in India, because it never had a the characteristics of nation nor it will have in future. 
-- With the rise of [[UPSC/Indian Nationalism|Indian Nationalism]] movement, it became very important for colonial ideologues and historian to counter Nationalists position of existence of an Indian Nation. 
-- [[Valentine Chirol|Valentine Chirol]] in Indian Unrest (1910) - wrote - India is a mere geographical expression, and even this expression was forged by British. 
+- [[John Seeley\|John Seeley]] expressed that India is merely a geographical expression much like Africa or Europe. It marks territories of many language and many nation. 
+- [[John Strachey\|John Strachey]] and [[John Seeley\|John Seeley]] both asserted that it was impossible to forge a nation in India, because it never had a the characteristics of nation nor it will have in future. 
+- With the rise of [[UPSC/Indian Nationalism\|Indian Nationalism]] movement, it became very important for colonial ideologues and historian to counter Nationalists position of existence of an Indian Nation. 
+- [[Valentine Chirol\|Valentine Chirol]] in Indian Unrest (1910) - wrote - India is a mere geographical expression, and even this expression was forged by British. 
 	- India is the "antithesis" of the word nation, 
 	- As India was inhabited by " great variety of nation" and was essentially 'variegated jumble of races and people, castes and creeds'
 	- And British administration was handling all the administration in a way as to prevent these ancient divisions from breaking out once more into open and sanguinary strife. 
@@ -28,19 +29,19 @@ Course:: [[UPSC/PSIR|PSIR]]
 - They accepted Colonial arguments and didn't contest British on  'India was not nation'. Rather put forward a simple word, "yet", India was not yet a nation. 
 - Hence as S N Banerjee said, "India is nation in making", which was the title of his autobiography too. 
 - India was old civilization and new nation. 
-- Liberals had a Whig view of history as per [[Bipin Chandra|Bipin Chandra]] and see nationalism as result of the spread of the ideas or spirit of nationalization. 
+- Liberals had a Whig view of history as per [[Bipin Chandra\|Bipin Chandra]] and see nationalism as result of the spread of the ideas or spirit of nationalization. 
 - Liberals considered that the task of nationalism was to unite India from various regions and different walks of life into a single nation based on their common grievances. 
-- [[R C Majumdar|R C Majumdar]] argued that the 'conception of India as a common motherland was still in the realm of fancy'
-- He thought movement started by [[UPSC/Indian National Congress|Indian National Congress]] gave reality to ideal Indian unity. 
-- [[Tara Chand|Tara Chand]] also thought that the creation of an Indian nation was a recent phenomenon which emerged due to combined economic and political change 
+- [[R C Majumdar\|R C Majumdar]] argued that the 'conception of India as a common motherland was still in the realm of fancy'
+- He thought movement started by [[UPSC/Indian National Congress\|Indian National Congress]] gave reality to ideal Indian unity. 
+- [[Tara Chand\|Tara Chand]] also thought that the creation of an Indian nation was a recent phenomenon which emerged due to combined economic and political change 
 
 
 ### Cultural Nationalism
-- [[UPSC/Cultural Nationalism|Cultural Nationalism]]
-- [[Radha Kumud Mookerji|Radha Kumud Mookerji]] - India had been great and unified since ancient times. There had existed sense of geographical unity of India. 
+- [[UPSC/Cultural Nationalism\|Cultural Nationalism]]
+- [[Radha Kumud Mookerji\|Radha Kumud Mookerji]] - India had been great and unified since ancient times. There had existed sense of geographical unity of India. 
 - H B Sarda -   "The ancient Hindus were the great nation that has yet flourished in the Earth"
 - J P Jayswal - "India possessed everything which modern British could claim - big empires, enduring and successful republic, representative elective institution etc"
-- - [[UPSC/Aurobindo Ghosh|Aurobindo Ghosh]] - Held that India was always a nation. Nation has a spirit and spirit never dies. 
+- - [[UPSC/Aurobindo Ghosh\|Aurobindo Ghosh]] - Held that India was always a nation. Nation has a spirit and spirit never dies. 
 
 
  ### Marxist 
@@ -49,42 +50,42 @@ Course:: [[UPSC/PSIR|PSIR]]
 - They try to explain these with reference to the economic changes under colonialism 
 - They also believe that India was not a nation but rather was nation that was being created in modern time and nationalist movement had a major role to play.
 
-- [[UPSC/M.N. Roy|M.N. Roy]] in his book; *India in Transition* , argued that the nationalist movement had developed at a certain juncture in the development of international capitalism 
+- [[UPSC/M.N. Roy\|M.N. Roy]] in his book; *India in Transition* , argued that the nationalist movement had developed at a certain juncture in the development of international capitalism 
 	- That India was  moving toward capitalism and had already come within the ambit of global capitalism. 
 	- The dominant class in India were not feudal class but bourgeoise. 
 	- He believed that it was the political of native capitalism which developed in the late 19th and early 20th century in the shadow of imperialism. 
 	- For him, Indian national movement represented "political ideology and aspiration of a youthful bourgeoisie"
 
-- [[R P Dutt|R P Dutt]] - most influential Marxist interpretation of Indian Nationalism in his book *India Today*
-	- [[UPSC/Revolution of 1857|Revolution of 1857]] "was in its essential character and dominant leadership the revolt of the old conservative and feudal forces dethroned potentates"
-	- He believed that [[UPSC/Indian National Congress|Indian National Congress]] came into existence through the initiative and under the guidance of direct British government policy, on a plan secretly pre-arranged with the Viceroy as an intended weapon for safeguarding British rule against the rising forces of popular unrest and anti-British feeling. 
-	- But later on [[UPSC/Indian National Congress|Indian National Congress]] had to give in to popular nationalist feeling and had to abandoned its loyalist character and adopted a national role. 
+- [[R P Dutt\|R P Dutt]] - most influential Marxist interpretation of Indian Nationalism in his book *India Today*
+	- [[UPSC/Revolution of 1857\|Revolution of 1857]] "was in its essential character and dominant leadership the revolt of the old conservative and feudal forces dethroned potentates"
+	- He believed that [[UPSC/Indian National Congress\|Indian National Congress]] came into existence through the initiative and under the guidance of direct British government policy, on a plan secretly pre-arranged with the Viceroy as an intended weapon for safeguarding British rule against the rising forces of popular unrest and anti-British feeling. 
+	- But later on [[UPSC/Indian National Congress\|Indian National Congress]] had to give in to popular nationalist feeling and had to abandoned its loyalist character and adopted a national role. 
 	- In the initial years - "only big bourgeoise" were represented by Indian Nationalism. 
 	- After World War - urban petty bourgeois class became more influential. 
 	- Leadership though remained in the hands of the "propertied class"
 		- These element prevented radicalization of the national movement. 
-	- [[UPSC/Gandhi|Gandhi]] was "the mascot of the bourgeoisie" according to [[R P Dutt|R P Dutt]]
-	- He argued that [[UPSC/Non Cooperation Movement|Non Cooperation Movement]] was withdrawn because it threatened propertied class. 
+	- [[UPSC/Gandhi\|Gandhi]] was "the mascot of the bourgeoisie" according to [[R P Dutt\|R P Dutt]]
+	- He argued that [[UPSC/Non Cooperation Movement\|Non Cooperation Movement]] was withdrawn because it threatened propertied class. 
 	- His work was a trendsetter in the Marxist perspective of National Movement. 
 
-- [[A R Desai|A R Desai]] Social Background of Indian Nationalism (1948) : He categorizes national development in five phases. 
-	1. First Phase; Initiated by intelligentsia, product of modern system of education, [[Raja Rammohan Roy|Raja Rammohan Roy]] 
-	2. Second Phase; Formation of [[UPSC/Indian National Congress|Indian National Congress]] till 1905l it represented the interest of new bourgeoisie. 
-	3. Third Phase : From [[Swadeshi Movement|Swadeshi Movement]] till 1918; relatively broader which includes lower middle class. 
-	4. Fourth Phase : From [[UPSC/Rowlatt Act|Rowlatt Act]] till [[UPSC/Civil Disobedience|Civil Disobedience]] : Substantial increase in the social base including masses
+- [[A R Desai\|A R Desai]] Social Background of Indian Nationalism (1948) : He categorizes national development in five phases. 
+	1. First Phase; Initiated by intelligentsia, product of modern system of education, [[Raja Rammohan Roy\|Raja Rammohan Roy]] 
+	2. Second Phase; Formation of [[UPSC/Indian National Congress\|Indian National Congress]] till 1905l it represented the interest of new bourgeoisie. 
+	3. Third Phase : From [[Swadeshi Movement\|Swadeshi Movement]] till 1918; relatively broader which includes lower middle class. 
+	4. Fourth Phase : From [[UPSC/Rowlatt Act\|Rowlatt Act]] till [[UPSC/Civil Disobedience\|Civil Disobedience]] : Substantial increase in the social base including masses
 		- Leadership of congress came under those who had strong influence of the capitalist class. 
 	5. Fifth Phase : Disenchantment with Gandhi started; rise of congress socialist . Rise of peasants, workers, depressed classes, and various linguistic nationalities outside the congress. 
 
-- Bipin Chandra - Nationalist movement as represented by the [[UPSC/Indian National Congress|Indian National Congress]] was "a bourgeois democratic movement, that is, it represented the interest of all classes and segment of Indian Society vis-a-vis imperialism but under the hegemony of the industrial bourgeoisie. 
-	- Bipin Chandra in his later work has shifted his view and now considered working of  [[UPSC/Indian National Congress|Indian National Congress]] as   [[UPSC/Gramsci|Gramsci]] 's war of Position whereby prolonged struggle is waged for the attainment of goal. 
+- Bipin Chandra - Nationalist movement as represented by the [[UPSC/Indian National Congress\|Indian National Congress]] was "a bourgeois democratic movement, that is, it represented the interest of all classes and segment of Indian Society vis-a-vis imperialism but under the hegemony of the industrial bourgeoisie. 
+	- Bipin Chandra in his later work has shifted his view and now considered working of  [[UPSC/Indian National Congress\|Indian National Congress]] as   [[UPSC/Gramsci\|Gramsci]] 's war of Position whereby prolonged struggle is waged for the attainment of goal. 
 	- **The struggle was not violent because th enationalist leaders were concerned with fighting against imperalism as well as welding India into a nation.** 
 	- The national movement was now conceived as an all class movement which provided space and opportunity for any class to build hegemony. 
-	- Moreover now [[UPSC/Indian National Congress|Indian National Congress]] is considered not as a party but as movement. 
+	- Moreover now [[UPSC/Indian National Congress\|Indian National Congress]] is considered not as a party but as movement. 
 
-- [[Sumit Sarkar|Sumit Sarkar]] argued that [[Swadeshi Movement|Swadeshi Movement]] was a "simplistic version of the Marxian class approach"
-	- He uses [[Trotsky|Trotsky]] conception of substitution where by the intelligentsia acts "repeatedly as a kind of proxy for as yet passive social forces with which it had little organic connection"
-	- He also uses [[UPSC/Gramsci|Gramsci]]'s  category of traditional intellectual and original intellectual. 
-	- He held that [[UPSC/Gandhi|Gandhi]] was no more bourgeoise tool in any simplistic or mechanical sense" and that he can hardly be considered as a puppet in the hands of the capitalists. 
+- [[Sumit Sarkar\|Sumit Sarkar]] argued that [[Swadeshi Movement\|Swadeshi Movement]] was a "simplistic version of the Marxian class approach"
+	- He uses [[Trotsky\|Trotsky]] conception of substitution where by the intelligentsia acts "repeatedly as a kind of proxy for as yet passive social forces with which it had little organic connection"
+	- He also uses [[UPSC/Gramsci\|Gramsci]]'s  category of traditional intellectual and original intellectual. 
+	- He held that [[UPSC/Gandhi\|Gandhi]] was no more bourgeoise tool in any simplistic or mechanical sense" and that he can hardly be considered as a puppet in the hands of the capitalists. 
 	- He however insist that the Gandhian leadership had a certain coincidence of subjective attitudes and inhibition with bourgeois interest. 
 
  ### Dalit Perspective
@@ -92,10 +93,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Dalit leadership wanted to be internally wanted to be free of all the oppression before the freedom from British. 
 
 - #### Context
-	- British after [[UPSC/Revolution of 1857|Revolution of 1857]] utilised dividing Indians on different line, one being giving opportunity to dalits and protecting their right, liberty, equality and justice.
+	- British after [[UPSC/Revolution of 1857\|Revolution of 1857]] utilised dividing Indians on different line, one being giving opportunity to dalits and protecting their right, liberty, equality and justice.
 	- This gave Dalit leaders a boost and birth to new consciousnes among Dalits. 
 
-- [[Jotiba Phule|Jotiba Phule]] first raised voice for liberation of Dalits.
+- [[Jotiba Phule\|Jotiba Phule]] first raised voice for liberation of Dalits.
 	- In his book **Gulamgiri** he describe Brahmins as Aryans who came from outside and subduded the indigenous people who were Shudras and he gave a call to discard caste. 
 	- He was natural critic of Nationalism which he equated with another form of Brahmanism. 
 	- He argued that "there can not be a nation worth the name until and unless all the people ... such as Shudras, AtiShudras, Bhils and fisherman etc become truly educated, and are able to think independently for themselves and are unifromly unified and emotionaly integrated."
@@ -103,10 +104,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- He strongly argued that without emacipating the oppressed the reform initiatives ensured National movements and the Dalits domination of upper castes in other forms
 	- Nationalism was seen by him as an ideology created b upper castes to downplay the internal divisions withing Indian Society.
 
-- [[Jotiba Phule|Jotiba Phule]] , [[Periyar|Periyar]] [[UPSC/B.R. Ambedkar|B.R. Ambedkar]] were critics of the anti-colonial struggle by the upper caste elites without aboloshing internal oppression in Indian society.
+- [[Jotiba Phule\|Jotiba Phule]] , [[Periyar\|Periyar]] [[UPSC/B.R. Ambedkar\|B.R. Ambedkar]] were critics of the anti-colonial struggle by the upper caste elites without aboloshing internal oppression in Indian society.
 
 - ##### National Movement and Integration of Dalit Issues. 
-	1. In Calcutta Session - 1917  [[UPSC/Indian National Congress|Indian National Congress]] passed a resolution for abolishment of untouchability. 
+	1. In Calcutta Session - 1917  [[UPSC/Indian National Congress\|Indian National Congress]] passed a resolution for abolishment of untouchability. 
 	2. In Napur Session 1920 - Untouchability was made integral part for natioanal liberation. 
 	3. In Belgaum session - 1924 - Gandhi supported Vaikom Satyagrah movement organised by the Kerala Congress Committee to secure the rights if untouchables for using the forbidden roads to the temple. 
 	4. In CWC Delhi 1929- Anti-untouchability sub-committee with Madan Mohan Malviya as its president and Jamnalal Bajaj as the secretary to ensure Dalits rights to enter temples. 
@@ -124,12 +125,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ### Socialist Perspective 
-- Critical of [[UPSC/Gandhi|Gandhi]] but later on realised opposition to Gandhi is political sucide
+- Critical of [[UPSC/Gandhi\|Gandhi]] but later on realised opposition to Gandhi is political sucide
 - Gandhi's Swarjya was loosely defined term which could be molded towards socialistic orientation. 
 - Acharya Narendra Dev was of the view that "Gandhi's approach of reconciliation between classes is impractical."
 	- He did not subscribe to Gandhi' sharp criticism of modern civilisation. 
 	- He also was skeptic of non-violence as a viable option. 
-- [[Jayprakash Narayan|Jayprakash Narayan]] in his book " Why Socialism?" wrote that "any freedom can be realised only in the atmosphere of economic equality."
+- [[Jayprakash Narayan\|Jayprakash Narayan]] in his book " Why Socialism?" wrote that "any freedom can be realised only in the atmosphere of economic equality."
 - ]
 
 #### Genesis of Congress Socialist Party
@@ -138,7 +139,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ##### The Merrut Thesis
 - CSP experience sharpened after last two national struggle. 
-- Formed at the end of [[UPSC/Civil Disobedience|Civil Disobedience]] 
+- Formed at the end of [[UPSC/Civil Disobedience\|Civil Disobedience]] 
 - CSP declared that the task before them is to form a national movement into real anti-imperialist movement.
 - Movement aiming at freedom from the freign power and the native system of exploitation.  
 - For it the leaders need to be changed from bourgeoise leadership to leadership of radical socialism.
@@ -156,8 +157,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
  ### Radical Humanist Perspective
-- Associated with [[UPSC/M.N. Roy|M.N. Roy]] . 
-- He was of the view that [[UPSC/Indian National Congress|Indian National Congress]] was burgoise party. 
+- Associated with [[UPSC/M.N. Roy\|M.N. Roy]] . 
+- He was of the view that [[UPSC/Indian National Congress\|Indian National Congress]] was burgoise party. 
 - He later developed his radical humanist perspective. 
 - Radical Humanis as a perspective is against the idea of Nation. 
 - It is a cosmopolitan vision. 
@@ -178,21 +179,23 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 >[!Question] 
-> 1. [[What was the difference between JP Narayan and MN Roy thought on Nationalism|What was the difference between JP Narayan and MN Roy thought on Nationalism]]
-> 2. [[Comment. Dalit perspective on Indian Natioanal Movement|Comment. Dalit perspective on Indian Natioanal Movement]]
-> 3. [[Comment in 150 words. Marxist understanding of India's freedom struggle|Comment in 150 words. Marxist understanding of India's freedom struggle]]
-> 4. [[Critically examine the radical humanist perspective on Indian National Movement|Critically examine the radical humanist perspective on Indian National Movement]]
-> 5. [[Dalit perspective on Indian Natioanal Movement. Discuss|Dalit perspective on Indian Natioanal Movement. Discuss]]
-> 6. [[Ansawer in 150 words. Role of socialists in Indian National Movement|Ansawer in 150 words. Role of socialists in Indian National Movement]]
-
+> 1. [[What was the difference between JP Narayan and MN Roy thought on Nationalism\|What was the difference between JP Narayan and MN Roy thought on Nationalism]]
+> 2. [[Comment. Dalit perspective on Indian Natioanal Movement\|Comment. Dalit perspective on Indian Natioanal Movement]]
+> 3. [[Comment in 150 words. Marxist understanding of India's freedom struggle\|Comment in 150 words. Marxist understanding of India's freedom struggle]]
+> 4. [[UPSC/Critically examine the radical humanist perspective on Indian National Movement\|Critically examine the radical humanist perspective on Indian National Movement]]
+> 5. [[Dalit perspective on Indian Natioanal Movement. Discuss\|Dalit perspective on Indian Natioanal Movement. Discuss]]
+> 6. [[Ansawer in 150 words. Role of socialists in Indian National Movement\|Ansawer in 150 words. Role of socialists in Indian National Movement]]
+> 7. [[UPSC/Peasant insurrection in India was autonomous of Intervention of outside leaders. Discuss.\|Peasant insurrection in India was autonomous of Intervention of outside leaders. Discuss.]]
+> 8. [[UPSC/If nation-states are widely conceded to be “new” and “historical,” the nations to which they give political expression always loom out of an immemorial past, and still more important, glide into a limitless future\|If nation-states are widely conceded to be “new” and “historical,” the nations to which they give political expression always loom out of an immemorial past, and still more important, glide into a limitless future]]
+> 9.  [[UPSC/Discuss the socialist perspective of Indian national movement. How it was different from the Marxist perspective\|Discuss the socialist perspective of Indian national movement. How it was different from the Marxist perspective]]
 
 
 ---
 **Backlinks**
 | File                                         |
 | -------------------------------------------- |
-| [[UPSC/Aurobindo Ghosh.md\|Aurobindo Ghosh]] |
-| [[UPSC/PSIR.md\|PSIR]]                       |
+| [[UPSC/Aurobindo Ghosh\|Aurobindo Ghosh]] |
+| [[UPSC/PSIR\|PSIR]]                       |
 
 
 
