@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/municipality/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/municipality/"}
 ---
 
-### [[74th Amendment act of 1992|74th Amendment act of 1992]]
+### [[74th Amendment act of 1992\|74th Amendment act of 1992]]
 #### Salient Features
 Three type of Municipalities
 1. Nagar Panchayat.
