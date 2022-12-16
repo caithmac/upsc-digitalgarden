@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/the-new-virus-sub-variants/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/the-new-virus-sub-variants/"}
 ---
 
 ----
-Headline:: [[Current Affairs/The new virus sub variants 📰🗞️|The new virus sub variants 📰🗞️]]
-Date:: [[Current Affairs/02-07-2022|02-07-2022]]
-Course:: [[Science-Tech|Science-Tech]] 
+Headline:: [[Current Affairs/The new virus sub variants 📰🗞️\|The new virus sub variants 📰🗞️]]
+Date:: [[Current Affairs/02-07-2022\|02-07-2022]]
+Course:: [[Science-Tech\|Science-Tech]] 
 
 ----
 ##### What to read and why? 
