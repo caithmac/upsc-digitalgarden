@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/national-statistical-office-nso/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/national-statistical-office-nso/"}
 ---
 
 Topic: National Statistical Office(NSO)
 Date: 2022-05-29
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar4 
 
 ---
@@ -14,8 +14,8 @@ Tags: #pillar4
 
 
 ### Notes
-- [[CSO|CSO]] :: Central Statistics Office
-- [[NSSO|NSSO]] :: National Statistics Office
+- [[CSO\|CSO]] :: Central Statistics Office
+- [[NSSO\|NSSO]] :: National Statistics Office
 
 
 
