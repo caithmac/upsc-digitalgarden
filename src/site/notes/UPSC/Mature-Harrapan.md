@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mature-harrapan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mature-harrapan/"}
 ---
 
-[[Kalibangan|Kalibangan]]
+[[Kalibangan\|Kalibangan]]
