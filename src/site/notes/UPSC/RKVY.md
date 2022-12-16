@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/rkvy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/rkvy/"}
 ---
 
 Topic: RKVY
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar4 
 
 ---
@@ -18,11 +18,11 @@ Tags: #pillar4
 
 
 
-[[RAFTAAR|RAFTAAR]] :: Remunerative Approaches for Agriculture and allied Sector Rejuvenation. 
+[[RAFTAAR\|RAFTAAR]] :: Remunerative Approaches for Agriculture and allied Sector Rejuvenation. 
 
->[!tip] [[Krishonati Yojana|Krishonati Yojana]]
+>[!tip] [[Krishonati Yojana\|Krishonati Yojana]]
 
-> [!hint] [[Kissan Sampada Yojana|Kissan Sampada Yojana]]
+> [!hint] [[Kissan Sampada Yojana\|Kissan Sampada Yojana]]
 
-> [!hint] [[Paradhan Mantri Masya Yojana|Paradhan Mantri Masya Yojana]]
+> [!hint] [[Paradhan Mantri Masya Yojana\|Paradhan Mantri Masya Yojana]]
 
