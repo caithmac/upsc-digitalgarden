@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/what-unchanged-small-savings-rates-mean-for-banks-savers/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/what-unchanged-small-savings-rates-mean-for-banks-savers/"}
 ---
 
 ----
-Headline:: [[Current Affairs/What unchanged small savings rates mean for banks, savers📰🗞️|What unchanged small savings rates mean for banks, savers📰🗞️]]
-Date:: [[Current Affairs/01-07-2022|01-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/What unchanged small savings rates mean for banks, savers📰🗞️\|What unchanged small savings rates mean for banks, savers📰🗞️]]
+Date:: [[Current Affairs/01-07-2022\|01-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
