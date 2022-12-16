@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/positive-liberty/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/positive-liberty/"}
 ---
 
 ----
 Topic:: Positive Liberty
 Date:: 2022-08-09
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### Positive Liberty
@@ -27,5 +27,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ##### Criticism 
-- Alex Zakaras : Criticised [[UPSC/I Berlin|I Berlin]] for not looking into 'freedom as acess to an adeequate range of alternatives.' 
+- Alex Zakaras : Criticised [[UPSC/I Berlin\|I Berlin]] for not looking into 'freedom as acess to an adeequate range of alternatives.' 
 - Skinner : argued it well that liberty and free state can go together. In free state liberty is possible. 
