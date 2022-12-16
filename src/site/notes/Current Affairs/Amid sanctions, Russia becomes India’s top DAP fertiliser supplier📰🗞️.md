@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/amid-sanctions-russia-becomes-india-s-top-dap-fertiliser-supplier/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/amid-sanctions-russia-becomes-india-s-top-dap-fertiliser-supplier/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Amid sanctions, Russia becomes India’s top DAP fertiliser supplier📰🗞️|Amid sanctions, Russia becomes India’s top DAP fertiliser supplier📰🗞️]]
-Date:: [[Current Affairs/30-06-2022|30-06-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Amid sanctions, Russia becomes India’s top DAP fertiliser supplier📰🗞️\|Amid sanctions, Russia becomes India’s top DAP fertiliser supplier📰🗞️]]
+Date:: [[Current Affairs/30-06-2022\|30-06-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
