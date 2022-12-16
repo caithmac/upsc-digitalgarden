@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aristotle-s-state/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aristotle-s-state/"}
 ---
 
 ----
 Topic:: Aristotle's State
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ## Aristotle's State
@@ -29,7 +29,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - State is essential 
 - State came into being for sake of good life. 
 - State is organic 
-- [[UPSC/State is prior than individual|State is prior than individual]] 
+- [[UPSC/State is prior than individual\|State is prior than individual]] 
 - State is natural, natural is best.
 - State is highest institutions 
 - Politics is the highest intellectual activity 
@@ -37,5 +37,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ---
-- [[UPSC/Aristotle|Aristotle]]
+- [[UPSC/Aristotle\|Aristotle]]
 
