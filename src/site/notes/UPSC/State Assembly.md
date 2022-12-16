@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/state-assembly/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/state-assembly/"}
 ---
 
 ----
 Topic: State Assembly
 Date: 2022-06-03
-Course: [[UPSC/State Assembly|]] 
+Course: [[UPSC/State Assembly\|]] 
 
 ----
 
