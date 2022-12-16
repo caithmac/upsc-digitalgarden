@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/conceptions-of-justice/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/conceptions-of-justice/"}
 ---
 
 ----
 Topic:: Conceptions of justice
 Date:: 2022-09-04
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
-[[UPSC/Plato's Justice|Plato's Justice]]
-[[UPSC/Aristotle's Justice|Aristotle's Justice]]
+[[UPSC/Plato's Justice\|Plato's Justice]]
+[[UPSC/Aristotle's Justice\|Aristotle's Justice]]
 
 
 ##### What is procedural justice? 
@@ -17,7 +17,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Whatever the outcome
 
 ##### Theory of Entitlement 
-- [[UPSC/Robert Nozick|Robert Nozick]] - Whatever modern property distribution, is it just or unjust? 
+- [[UPSC/Robert Nozick\|Robert Nozick]] - Whatever modern property distribution, is it just or unjust? 
 - He is against idea redustribution of resources on the name of justice. 
 - **Principal of just acquisition** 
 - **Principal of Just Transfer**
@@ -25,7 +25,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ### Femenist Conception of Justice
-- [[Susan Moller Okin|Susan Moller Okin]] - added a new dimension to contempory debate on justice. She argued that there is absence of justice within family and all theory of justice ignored gender as factor. 
+- [[Susan Moller Okin\|Susan Moller Okin]] - added a new dimension to contempory debate on justice. She argued that there is absence of justice within family and all theory of justice ignored gender as factor. 
 - She argued by criticizing  all existing theory
 	- Gender and Family are not given due consideration in all existing theorem of justice. These theories ignores differences established by pratriarchy by men and women. In all exesting theorem of justice, justice is only for male. Gendered theory of justice. 
 	- She critisizes liberal tradition for keeping gender system outside the sphere of justice. 
@@ -38,12 +38,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- She argued that there is a posibility of creating universal framework of justice. Applicable in all society as gender is a factor of injustice across the globe. 
 
 #### Rawl's Theory of Justice
-- [[Distributive Justice|Distributive Justice]]
+- [[Distributive Justice\|Distributive Justice]]
 - Liberal tradition 
-- [[Egalitarian|Egalitarian]] 
+- [[Egalitarian\|Egalitarian]] 
 - Kantian assumption 
 - He was mainly *worried* about outcome of Liberal theorem of Justice
-- He completely rejected the methodology of Marxist and [[UPSC/Socialist|Socialist]] justice. 
+- He completely rejected the methodology of Marxist and [[UPSC/Socialist\|Socialist]] justice. 
 - He was willing to fuse procedural and substantive justice. 
 - Method of distribution should be procedural and result should be substantive. 
 - *Original Position*
@@ -70,8 +70,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Race 
 		- Income 
 		- Wealth 
-		- Natural Indominate 
-	- The political system of society , its class structure, economic system or level of economic development. 
+		- Natural Innominate 
+		- The political system of society ,
+		- its class structure, 
+		- economic system or level of economic development. 
 	- Parties do know 
 		- Citizens in society have different comprehensive doctrine and plans of life.  
 		- The society is under condition of moderate scarcity, there is enough to go around , but not enough for everyone to get what they want 
@@ -80,27 +82,27 @@ Course:: [[UPSC/PSIR|PSIR]]
 - ##### First Principal
 - All primary goods are available to all. 
 - ##### Difference Principal
-- Social and economic inequalities are to be aranged so that
-	- a) There should be condition of fairl Equality of  oportunity 
-	- b) Socio economic inequality is justfied if it is benefiting or reaping benefit to least advantage. 
+- Social and economic inequalities are to be arranged so that
+	- a) There should be condition of fairly Equality of  opportunity 
+	- b) Socio economic inequality is justified if it is benefiting or reaping benefit to least advantage. 
 
-- The first principal of equal basic liberty is to  be embodied in political constitution. While second principa applies to economic institution. The first principal affirms that all citizens should have familiar basic rights and liberty such as freedom of speech, right to vote etc.
-- Second distinctive feature of rawls theory requires that citizens with same tallent and wilingness to use them. Have the same educational and economic opportunities regardless of whether they are born rich or poor. 
-- Second part of second principal is the difference principal which regualtes the distribution of wealth and  income. Allowing inequality of wealth and income can lead to larger social product.  The diff. prin. allows inequality of wealth and income so long as that these will be to everyone advantage and specially to those who will be worsed off. 
-- The difference principal thus expresses positive ideal and ideal of deep social unity. In a society that satisfies the difference principal in citizens knows that the economics work in everyones benefit. 
+- The first principal of equal basic liberty is to  be embodied in political constitution. While second principle applies to economic institution. The first principal affirms that all citizens should have familiar basic rights and liberty such as freedom of speech, right to vote etc.
+- Second distinctive feature of raw'ls theory requires that citizens with same talent and willingness to use them. Have the same educational and economic opportunities regardless of whether they are born rich or poor. 
+- Second part of second principal is the difference principal which regulates the distribution of wealth and  income. Allowing inequality of wealth and income can lead to larger social product.  The diff. prin. allows inequality of wealth and income so long as that these will be to everyone advantage and specially to those who will be worsen off. 
+- The difference principal thus expresses positive ideal and ideal of deep social unity. In a society that satisfies the difference principal in citizens knows that the economics work in everyone's benefit. 
 - Lexical Priority :
-	- Princiapl of justice should be implemented in sequence wise manner. 
+	- Principle of justice should be implemented in sequence wise manner. 
 	- Next principal can not be implemented until unless first principal is achieved.
 	- Sequence is fixed and must not be changed. 
 
 
->[!question] [[UPSC/Explain Justice as fairness. How does an overlapping consensus among cultural, religious, and ideological group is achieved by Rawls|Explain Justice as fairness. How does an overlapping consensus among cultural, religious, and ideological group is achieved by Rawls]] 
+>[!question] [[UPSC/Explain Justice as fairness. How does an overlapping consensus among cultural, religious, and ideological group is achieved by Rawls\|Explain Justice as fairness. How does an overlapping consensus among cultural, religious, and ideological group is achieved by Rawls]] 
 
 
 **Backlinks**
 | File                   |
 | ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
+| [[UPSC/PSIR\|PSIR]] |
 
 
 
