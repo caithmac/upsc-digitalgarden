@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/plastic-surgery/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/plastic-surgery/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Plastic Surgery 📰🗞️|Plastic Surgery 📰🗞️]]
-Date:: [[Current Affairs/30-06-2022|30-06-2022]]
-Course:: [[Environment|Environment]] 
+Headline:: [[Current Affairs/Plastic Surgery 📰🗞️\|Plastic Surgery 📰🗞️]]
+Date:: [[Current Affairs/30-06-2022\|30-06-2022]]
+Course:: [[Environment\|Environment]] 
 
 ----
 ##### What to read and why? 
