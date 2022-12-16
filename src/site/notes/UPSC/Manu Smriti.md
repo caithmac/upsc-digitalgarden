@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/manu-smriti/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/manu-smriti/"}
 ---
 
 ----
 Topic:: Manu Smriti
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ## Ideas relating to Dharma 
@@ -71,14 +71,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Kings should help people achieve Yogkshen and Purushsthas
 		- Rakshan and Palan are the responsibilities of the King
 		- King should administer punishment according to the Shastras
-			- [[UPSC/Manu Smriti|Manu Smriti]] there is no concept of equality before law
+			- [[UPSC/Manu Smriti\|Manu Smriti]] there is no concept of equality before law
 			- Lower the varna the higher the punishment
 
-- [[UPSC/Manu Smriti|Manu Smriti]] also deals with taxation 
+- [[UPSC/Manu Smriti\|Manu Smriti]] also deals with taxation 
 - Principle of taxation was directly proportional to fertility of land 
 
 ### Conclusion 
-- [[UPSC/Manu Smriti|Manu Smriti]] is one of the most controversial texts. 
+- [[UPSC/Manu Smriti\|Manu Smriti]] is one of the most controversial texts. 
 - Among the admirers of Manu Smriti - Dr. S Radhakrishnan
 - Among the critics, B R Ambedkar in his book "Anhilation of Caste" - he asked untouchables to put dynamite on vedas and Manu Smriti
 
@@ -88,10 +88,10 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                                           |
 | -------------------------------------------------------------- |
-| [[UPSC/Dharamshastra.md\|Dharamshastra]]                       |
-| [[UPSC/Indian Political Thought.md\|Indian Political Thought]] |
-| [[UPSC/Manu Smriti.md\|Manu Smriti]]                           |
-| [[UPSC/Saptanga Theory.md\|Saptanga Theory]]                   |
+| [[UPSC/Dharamshastra\|Dharamshastra]]                       |
+| [[UPSC/Indian Political Thought\|Indian Political Thought]] |
+| [[UPSC/Manu Smriti\|Manu Smriti]]                           |
+| [[UPSC/Saptanga Theory\|Saptanga Theory]]                   |
 
 
 
