@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/politics-is-master-science/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/politics-is-master-science/"}
 ---
 
 ----
 Topic:: Politics is master science
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]]  
+Course:: [[UPSC/PSIR\|PSIR]]  
 
 ----
 ##### Politics is master science
