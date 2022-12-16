@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/education-employment-trade-off/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/education-employment-trade-off/"}
 ---
 
 ----
 Topic:: Education-Employment Trade off
 Date:: 2022-07-05
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 - Probability of being employed steadily increases as woman's education increases. 
