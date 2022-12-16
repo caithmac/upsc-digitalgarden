@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/william-bentinck/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/william-bentinck/"}
 ---
 
