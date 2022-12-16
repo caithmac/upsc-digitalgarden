@@ -1,69 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/theories-of-the-state/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/theories-of-the-state/"}
 ---
 
 ----
 Topic:: Theory of State
 Date:: 2022-08-03
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Liberal theory of State
-Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]]  
-
-----
 # Liberal theory of State
-##### Context
-- Rejection of state.
-- Classic Liberals rejected earlier divine theory of state
-1. State is not created by god
-2. State is not natural institution 
-3. There is a special purpose of political obligation(to follow states order)
-
-##### Main Body 
-- After rejecting the divine theory they proposed 
-- State is outcome of mutual consent
-- It is not a natural institution but mechanistic and artificial institution 
-- The purpose of political obligation of because it is created through consent. 
-- ###### Function of State
-- The primary function of state is to promote right liberty freedom of people. 
-	- These are essentially associated with absence of restriction 
-- As state is outcome of consent. Its primary function is to implement free will of people.  That is closely associated with liberty and freedom. 
-- Function of state is very much limited. 
-	- Promotion of negativve liberty 
-	- [[UPSC/Procedural Justice|Procedural Justice]]
-	- Formal Equality 
-
-###### Supporters 
-- Liberal's slogan is "The government is best which governs the least"
--  [[UPSC/John Locke|John Locke]] confined the function of state to protect the Natural Rights. 
-- Hobbes State will ensure right to life of person
--[[ I Berlin| I Berlin]] supported that states function should be minimum that too only protect negative liberty 
-- Adam Smith restricted state must not interfere in economic affairs and must not try to reorder it. 
-- Apart from above scholars; all the Neo-Liberals also supported minimal role of state. 
-###### Critique
-[[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[UPSC/Hobbhouse|Hobbhouse]] criticized the idea of limited and negative state and promoted positive and welfare. 
-Positive State; Liberalism has always seen the poor as they if they become poor of their own mistakes. 
-[[UPSC/T H Green|T H Green]] criticized Classical Liberalism ; **Will, not force, is the basis of the state."**
-###### General Critiscism 
-Classical Liberalism is also considered as philosophy of Capitalist of class. 
-Ideology of urban entrepreneur middle class which later became industrialist and capitalist
-[[UPSC/Laski|Laski]] commented : The purpose of the Capitalist was to free owners of means of production from all those constraints which hampered complete economic exploitations 
-
-
 
 </div></div>
 
@@ -72,19 +23,8 @@ Ideology of urban entrepreneur middle class which later became industrialist and
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Neo- Liberalism State
-Date:: 2022-08-03
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 ##### Neo- Liberalism State
 - State should be minimal state and must be limited to function of providing security against force theft fraud at the same time enforcement of contract.  
 - State must be there to promote the interest of everyone mainly in economic terms. 
@@ -93,12 +33,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 >Libertarian state has to provide all such activities which leads to consolidation of individual rights establishing free markets and establish peace. 
 
 
->[!error] Concept of [[UPSC/Robert Nozick|Robert Nozick]] is considered to be best explanation of neo-liberal state
+>[!error] Concept of [[UPSC/Robert Nozick\|Robert Nozick]] is considered to be best explanation of neo-liberal state
 > 1. All individual have inalienable rights independent to society. They are not dependent over the state or society for possessing of the individual rights. 
 > 2. Function of state is to ensure there should not be violation of this inalienable right of individual. Nozcik believe in "Nightwatchman state"
 > 3. Liberty must get priority over equality. Function of state must be limited only to ensuring exercise of liberty.  
-> 4. He categorically instructed state not to go for [[Progressive Tax|Progressive Tax]] , Public Healthcare. State intervention means both ones resources and ones self. Seizing the result of some ones labor is equivalent to seizing hours from him and directing various activities thus welfare state is threat to liberty and independence of individual. 
-> 5. [[The minimal state is inspiring as well as right|The minimal state is inspiring as well as right]]. What is important is that state must not use coercive apparatus for purpose of getting some citizens other and prohibit activity of other for their own good and protection. 
+> 4. He categorically instructed state not to go for [[Progressive Tax\|Progressive Tax]] , Public Healthcare. State intervention means both ones resources and ones self. Seizing the result of some ones labor is equivalent to seizing hours from him and directing various activities thus welfare state is threat to liberty and independence of individual. 
+> 5. [[The minimal state is inspiring as well as right\|The minimal state is inspiring as well as right]]. What is important is that state must not use coercive apparatus for purpose of getting some citizens other and prohibit activity of other for their own good and protection. 
 
 
 >[!error] Hayek's View 
@@ -124,19 +64,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: Marxist Conception of State
-Date:: 2022-08-03
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 
 ## Marxist Conception of State
 - State is an instrument of exploitation. 
@@ -145,7 +73,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Function of state is always exxplotive. 
 - Always use security to maintain domination of captialist class. 
 - After the revolution state is in control of worker class and it will be used to stop counter revolution. As state is an instrument of exploitation, there will be no need of state after communism. State will wither away. 
-- As per [[UPSC/Karl Marx|Karl Marx]], state is a reflection of dominant force or class. 
+- As per [[UPSC/Karl Marx\|Karl Marx]], state is a reflection of dominant force or class. 
 - State is an organized corcive and opperesive power. 
 - State is an executive committee of bourgesie. The primary task is to provide law and order and establish stablise maintain existing economic relationship. 
 
@@ -156,19 +84,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Post-colonial Theory of State
-Date:: 2022-11-20
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 # Post Colonial Theory of State
 
 >[!error] Introduction 
@@ -176,40 +93,11 @@ Course:: [[UPSC/PSIR|PSIR]]
 > 
 
 
-### Core Idea of their Argument 
-- The west sees the non-west through a lenses which is a highly clouded by the legacies of European colonialism and imperialism 
-- It discusses mainly how the legacy of colonialism has made an image of the non-westerner as 'other' than the west, and most often than not - as inferior 
-- By doing so Europe has justified the colonialization and imperialism in the garb of bringing civilization or progress to non west people. 
-
-### Feature of Post-Colonialism 
-
-### Views on Modernity and Globalisation
-- Rise of post-colonialism is also related to the process of western reflection on modernity.. 
-- History shows that modernity in the whole world is phenomenon that occurs in collusion with colonization. 
-- Western countries use an unbalanced power to force people of other areas to conform to western standards of modernity whether or not it express their reality. 
-- Reflection of Modernity lead to reflection on globalization. 
-- The age of post-colonialism is simply the age of of globalization. 
-- As Giddens says, globalization is the extension of modernity in the whole world. 
-- Western bourgeois tries to create a world according to their own perceptions, tries to subjugate the uncivilized and semi-civilized countries,.
-- The process of globalization itself creates imperialism. 
-- If globalization is unavoidable, it will be realized by way of colonialism. 
-- Post colonialism reflects globalization from the point of view of colonization and discusses the cultural relations between the East and the West from the perspective of globalization- the orientalisation and cultural hegemony of the west to the east 
-- 
-
----
-**Backlinks**
-| File                   |
-| ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
-
-
-
-
 
 </div></div>
 
 
 >[! question] 
->1. [[Explain what is the relevance of Marxist relative autonomy of state |Explain what is the relevance of Marxist relative autonomy of state ]]
->2. [[Elaborate on the post colonial theory of state in the context of globalization|Elaborate on the post colonial theory of state in the context of globalization]]
+>1. [[Explain what is the relevance of Marxist relative autonomy of state \|Explain what is the relevance of Marxist relative autonomy of state ]]
+>2. [[Elaborate on the post colonial theory of state in the context of globalization\|Elaborate on the post colonial theory of state in the context of globalization]]
 
