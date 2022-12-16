@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/sovereignty/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/sovereignty/"}
 ---
 
 ----
 Topic:: Sovereignty
 Date:: 2022-07-09
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### Plural Soverignity 
@@ -13,9 +13,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 - State is just a political instituion 
 - State as a organisation evolved or developed later. 
 - In 1648, modern state was formed. 
-- [[ Discuss chalanges posed by gloablisation against monestic notion of sovereignity| Discuss chalanges posed by gloablisation against monestic notion of sovereignity]].
-- [[In era of GLOBALISATION THERE IS A NEED TO REFFORMULATE CONCEPT OF SOVEREIGNITY|In era of GLOBALISATION THERE IS A NEED TO REFFORMULATE CONCEPT OF SOVEREIGNITY]]
-- [[Discuss Stehen Krasner notion of soverignity in age of globalisation.|Discuss Stehen Krasner notion of soverignity in age of globalisation.]]
+- [[ Discuss chalanges posed by gloablisation against monestic notion of sovereignity\| Discuss chalanges posed by gloablisation against monestic notion of sovereignity]].
+- [[In era of GLOBALISATION THERE IS A NEED TO REFFORMULATE CONCEPT OF SOVEREIGNITY\|In era of GLOBALISATION THERE IS A NEED TO REFFORMULATE CONCEPT OF SOVEREIGNITY]]
+- [[Discuss Stehen Krasner notion of soverignity in age of globalisation.\|Discuss Stehen Krasner notion of soverignity in age of globalisation.]]
 
 > It is widely believed that Globalisation limits sovereignty but apart from globalization international politics and evolution of international system put significantly put change on sovereignty. Puts it limit through transnational economical units, like MNCs and TNCs and they are not regulated or controlled by one state. 
 > Economic forces are heavily influenced by many factors that are not controlled by state. Eg., reduction in staple food crisis in Latin America, led world food crisis. Iran and USA - 
