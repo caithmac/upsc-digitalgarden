@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/passing-stress-test/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/passing-stress-test/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Passing stress test 📰🗞️|Passing stress test 📰🗞️]]
-Date:: [[Current Affairs/02-07-2022|02-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Passing stress test 📰🗞️\|Passing stress test 📰🗞️]]
+Date:: [[Current Affairs/02-07-2022\|02-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
