@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/five-years-stronger/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/five-years-stronger/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Five years stronger 📰🗞️|Five years stronger 📰🗞️]]
-Date:: [[Current Affairs/01-07-2022|01-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Five years stronger 📰🗞️\|Five years stronger 📰🗞️]]
+Date:: [[Current Affairs/01-07-2022\|01-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
@@ -13,10 +13,10 @@ Course:: [[UPSC/Economy|Economy]]
 
 _Overview of GST ,Salient Features of GST,Achievements  ,Shortcomings /Challenges,Conclusion & Way Forward_
 
-[[UPSC/GST|GST]]
-[[UPSC/GST Tax Council|GST Tax Council]]
-[[Current Affairs/Avoiding a GST exit ✒️💭|Avoiding a GST exit ✒️💭]]
-[[Current Affairs/At least 12 states say continue GST compensation, no decision taken📰🗞️No more mandatory GST registration for small online sellers, but with riders|At least 12 states say continue GST compensation, no decision taken📰🗞️No more mandatory GST registration for small online sellers, but with riders]]
+[[UPSC/GST\|GST]]
+[[UPSC/GST Tax Council\|GST Tax Council]]
+[[Current Affairs/Avoiding a GST exit ✒️💭\|Avoiding a GST exit ✒️💭]]
+[[Current Affairs/At least 12 states say continue GST compensation, no decision taken📰🗞️No more mandatory GST registration for small online sellers, but with riders\|At least 12 states say continue GST compensation, no decision taken📰🗞️No more mandatory GST registration for small online sellers, but with riders]]
 
 Kelkar Task Force on indirect taxes in 2003 and was long in the making
 
