@@ -1,30 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aristotle-s-justice/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aristotle-s-justice/"}
 ---
 
 ----
 Topic:: Aristotle's Justice
 Date:: 2022-06-25
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: Types of Justice
-Date:: 2022-06-25
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 
 ## Types of Justice 
 - ##### Universal Justice 
@@ -48,13 +36,13 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 # Aristotle's Justice
-- [[UPSC/Types of Justice#^508271|Distributive Justice ]] 
+- [[UPSC/Types of Justice#^508271\|Distributive Justice ]] 
 - Equals should be treated equally; unequal should be treated as unequally 
 - Proportional equality.  
 - Differential Treatment 
 - Aristotlian is based on proportional equality 
 - He believed that justice is virtue; Justice is virtue in action
-- [[UPSC/Aristotle|Aristotle]] believed that only virtues person can provide justice 
+- [[UPSC/Aristotle\|Aristotle]] believed that only virtues person can provide justice 
 - It is justice that makes a state gives it vision and coupled with eithics 
 - it takes the state to height of ethical value
 - Particular justice is part of complete or general justice 
