@@ -1,26 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/article-14-equality-before-law-and-equal-protection-of-laws/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/article-14-equality-before-law-and-equal-protection-of-laws/"}
 ---
 
 Topic: Article 14. Equality before Law and Equal Protection of Laws
 Date: 2022-05-31
-Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]] [[UPSC/Constitution MOC\|Constitution MOC]]
 
 
 ---
 >[!note] Equality Before Law
 >State shall not deny to any person equality before the law or the equal protection o the laws within the territory of India. 
->[[Citizens as well as foreigners|Citizens as well as foreigners]]
->- [[UPSC/Equality before law|Equality before law]] is [[UPSC/British|British]] origin
+>[[Citizens as well as foreigners\|Citizens as well as foreigners]]
+>- [[UPSC/Equality before law\|Equality before law]] is [[UPSC/British\|British]] origin
 >
 > ==Equality before law== 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 1. Absence of any special privileges in favor of any person.
@@ -30,16 +26,12 @@ Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
 
 </div></div>
  
->- [[UPSC/Equal protection of Laws|Equal protection of Laws]] is taken from [[America Constitution|America Constitution]] 
+>- [[UPSC/Equal protection of Laws\|Equal protection of Laws]] is taken from [[America Constitution\|America Constitution]] 
 > 
 >-==Equal protection of Laws== 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 1. The equality of treatment under equal circumstances, both in the privileges conferred and liabilities imposed by the laws. i.e, everyone has same privileges and same liabilities. In this sense everyone is equal. 
