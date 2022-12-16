@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/dharamshastra/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/dharamshastra/"}
 ---
 
 ----
 Topic:: Dharamshastra
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ### Who is Manu? 
@@ -17,7 +17,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ## Thoughts of Manu
 >[!bug] Discuss the salient Ideas found in Manu Smriti 
 ##### Intro
-- [[UPSC/Manu Smriti|Manu Smriti]] belongs to the tradition of Dharma Shastra
+- [[UPSC/Manu Smriti\|Manu Smriti]] belongs to the tradition of Dharma Shastra
 - Who was Manu? 
 	- Manu is manasputra of Brahma(originator of Universe)
 - Role of Manu 
@@ -29,14 +29,14 @@ Course:: [[UPSC/PSIR|PSIR]]
 - According to Rig Veda
 	- _Prithvim dharmam dhritam_
 	- Dharma is that which holds life on this earth 
-- What will happen when we will not follow Dharma? 
+- What will happen when we will not follow Dharma?  ^5dc94d
 	- It will lead arajakta 
 	- Which will lead to pralay
 	- This will bring end to life on earth
 
 ##### Sources of Dharma 
-- Dharma is discussed in [[UPSC/Dharamshastra|Dharamshastra]]
-- Most well known [[UPSC/Dharamshastra|Dharamshastra]] is [[UPSC/Manu Smriti|Manu Smriti]]
+- Dharma is discussed in [[UPSC/Dharamshastra\|Dharamshastra]]
+- Most well known [[UPSC/Dharamshastra\|Dharamshastra]] is [[UPSC/Manu Smriti\|Manu Smriti]]
 - Smriti is based on Shruti 
 - What is Shruti?
 	- Shrutis represents Veda 
@@ -52,13 +52,15 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 
+
 ---
 **Backlinks**
 | File                                                           |
 | -------------------------------------------------------------- |
-| [[UPSC/Dharamshastra.md\|Dharamshastra]]                       |
-| [[UPSC/Indian Political Thought.md\|Indian Political Thought]] |
-| [[UPSC/PSIR.md\|PSIR]]                                         |
+| [[UPSC/Buddhist traditions\|Buddhist traditions]]           |
+| [[UPSC/Dharamshastra\|Dharamshastra]]                       |
+| [[UPSC/Indian Political Thought\|Indian Political Thought]] |
+| [[UPSC/PSIR\|PSIR]]                                         |
 
 
 
