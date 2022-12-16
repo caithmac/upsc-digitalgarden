@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/schedules/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/schedules/"}
 ---
 
 Topic: Schedules
 Date: 2022-05-30
-Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]] [[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #gs2
 
 ---
