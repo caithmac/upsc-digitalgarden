@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/govt-to-set-up-control-rooms-to-enforce-single-use-plastic-ban/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/govt-to-set-up-control-rooms-to-enforce-single-use-plastic-ban/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Govt to set up control rooms to enforce single-use plastic ban📰🗞️|Govt to set up control rooms to enforce single-use plastic ban📰🗞️]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[Environment|Environment]] 
+Headline:: [[Current Affairs/Govt to set up control rooms to enforce single-use plastic ban📰🗞️\|Govt to set up control rooms to enforce single-use plastic ban📰🗞️]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[Environment\|Environment]] 
 
 ----
 ##### What to read and why? 
