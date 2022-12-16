@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/nehurvian-socialism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/nehurvian-socialism/"}
 ---
 
 ----
 Topic:: Nehruvian Socialism
 Date:: 2022-08-09
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
 ### Nehruvian Socialism
-- Nehru understod [[UPSC/Socialism|Socialism]] as a value not as method. 
+- Nehru understod [[UPSC/Socialism\|Socialism]] as a value not as method. 
 - Socialism was not limited to economic aspect. 
 	- Essentially associated with social aspect of life. 
 - Socialism was associated with value of equality 
