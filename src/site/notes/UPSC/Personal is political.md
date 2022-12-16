@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/personal-is-political/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/personal-is-political/"}
 ---
 
 ----
 Topic:: Personal is political
 Date:: 2022-11-17
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 - It is supposed to be coined by Caole Hanisch 
@@ -28,4 +28,4 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                           |
 | ------------------------------ |
-| [[UPSC/Feminism.md\|Feminism]] |
+| [[UPSC/Feminism\|Feminism]] |
