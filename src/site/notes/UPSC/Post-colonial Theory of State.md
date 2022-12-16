@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/post-colonial-theory-of-state/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/post-colonial-theory-of-state/"}
 ---
 
 ----
 Topic:: Post-colonial Theory of State
 Date:: 2022-11-20
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Post Colonial Theory of State
@@ -33,14 +33,17 @@ Course:: [[UPSC/PSIR|PSIR]]
 - The process of globalization itself creates imperialism. 
 - If globalization is unavoidable, it will be realized by way of colonialism. 
 - Post colonialism reflects globalization from the point of view of colonization and discusses the cultural relations between the East and the West from the perspective of globalization- the orientalisation and cultural hegemony of the west to the east 
-- 
+
+
+> Homi Bhabha, in his book "The Location of Culture", argues that the modern state is a site of cultural hybridity, in which the legacies of colonialism and imperialism are mixed and intertwined with the cultures of the colonized and the colonizer. Bhabha argues that this hybridity creates a space for resistance and subversion, as the legacies of colonialism are transformed and challenged through the encounter with the cultures of the colonized.
+
 
 ---
 **Backlinks**
 | File                                                     |
 | -------------------------------------------------------- |
-| [[UPSC/PSIR.md\|PSIR]]                                   |
-| [[UPSC/Theories of the state.md\|Theories of the state]] |
+| [[UPSC/PSIR\|PSIR]]                                   |
+| [[UPSC/Theories of the state\|Theories of the state]] |
 
 
 
