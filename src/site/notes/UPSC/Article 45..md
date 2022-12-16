@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/article-45/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/article-45/"}
 ---
 
 ##### Article 45.
