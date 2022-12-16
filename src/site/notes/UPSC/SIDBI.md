@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/sidbi/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/sidbi/"}
 ---
 
 ----
 Topic:: SIDBI
 Date:: 2022-06-24
-Course:: [[UPSC/Economy|Economy]] 
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 
