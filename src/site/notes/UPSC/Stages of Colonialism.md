@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/stages-of-colonialism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/stages-of-colonialism/"}
 ---
 
-Stages of Colonialism by [[UPSC/British|British]]
+Stages of Colonialism by [[UPSC/British\|British]]
 
 Phase I (Mercantile Phase)
 
