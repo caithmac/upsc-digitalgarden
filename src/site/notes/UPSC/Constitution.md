@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/constitution/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/constitution/"}
 ---
 
 ----
 Topic:: Constitution
 Date:: 2022-06-25
-Course:: [[UPSC/Constitution MOC|Constitution MOC]] 
+Course:: [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 
@@ -27,34 +27,22 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 
 ###### 1. Rigid 
    - USA 
-   - [[UPSC/Special Majority|Special Majority]]
+   - [[UPSC/Special Majority\|Special Majority]]
 ###### 2. Flexible 
    - British
-   - [[UPSC/Simple Majority|Simple Majority]]
+   - [[UPSC/Simple Majority\|Simple Majority]]
 
 
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: Constitutionalism
-Date:: 2022-06-25
-Course:: [[UPSC/Constitution MOC|Constitution MOC]] 
-
-----
 
 ### Constitutionalism
 - Rule of law
 	- Check the arbitriness of government. 
 	- Restrictions on power
-	- [[UPSC/Limited government|Limited government]]
+	- [[UPSC/Limited government\|Limited government]]
 		- By the people
 	- Feautre only of Democracy 
 - ###### WHY : In Democracy; power lies wuth people 
@@ -64,7 +52,7 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 
 | Left          | Centre | Right |
 | ------------- | ------ | ----- |
-| [[UPSC/Socialist|Socialist]] | [[UPSC/Liberal|Liberal]]       |[[Conservative|Conservative]]       |
+| [[UPSC/Socialist\|Socialist]] | [[UPSC/Liberal\|Liberal]]       |[[Conservative\|Conservative]]       |
 
 
 
@@ -75,8 +63,8 @@ Course:: [[UPSC/Constitution MOC|Constitution MOC]]
 - Our Constitution evolves by:: 
 	- Amendment 
 	- Interpretations 
-- [[UPSC/Menaka Gandhi Case|Menaka Gandhi Case]] is milestone because it made a huge change in the interpretations of provision of Constitution. 
-	- Biggest change with respect to interpretation of [[UPSC/Article 21. Protection of Life and Personal Liberty|Article 21. Protection of Life and Personal Liberty]] 
+- [[UPSC/Menaka Gandhi Case\|Menaka Gandhi Case]] is milestone because it made a huge change in the interpretations of provision of Constitution. 
+	- Biggest change with respect to interpretation of [[UPSC/Article 21. Protection of Life and Personal Liberty\|Article 21. Protection of Life and Personal Liberty]] 
 
 
 
