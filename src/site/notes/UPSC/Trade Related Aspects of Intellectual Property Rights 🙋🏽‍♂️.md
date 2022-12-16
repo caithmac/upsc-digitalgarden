@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/trade-related-aspects-of-intellectual-property-rights/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/trade-related-aspects-of-intellectual-property-rights/"}
 ---
 
 Topic: Trade Related Aspects of Intellectual Property Rights 🙋🏽‍♂️
 Date: May 6, 2022
-Course:: [[UPSC/Economy|Economy]]
+Course:: [[UPSC/Economy\|Economy]]
 
 ---
 
@@ -13,7 +13,7 @@ Course:: [[UPSC/Economy|Economy]]
 
 
 ### Notes
-- [[United Nation|United Nation]] specialized agency [[WIPO|WIPO]] 
+- [[United Nation\|United Nation]] specialized agency [[WIPO\|WIPO]] 
 
 
 
