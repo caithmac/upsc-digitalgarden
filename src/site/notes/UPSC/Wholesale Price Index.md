@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/wholesale-price-index/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/wholesale-price-index/"}
 ---
 
 Topic: Wholesale Price Index
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
