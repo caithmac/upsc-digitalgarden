@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/cabinet/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/cabinet/"}
 ---
 
 ----
 Topic: Cabinet
 Date: 2022-06-03
-Course: [[UPSC/Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]] 
+Course: [[UPSC/Polity\|Polity]] , [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 
@@ -13,4 +13,4 @@ Course: [[UPSC/Polity|Polity]] , [[UPSC/Constitution MOC|Constitution MOC]]
 
 
 
-Role of [[UPSC/Cabinet|Cabinet]]
+Role of [[UPSC/Cabinet\|Cabinet]]
