@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/nurturing-services/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/nurturing-services/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Nurturing services 📰🗞️|Nurturing services 📰🗞️]]
-Date:: [[Current Affairs/01-07-2022|01-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Nurturing services 📰🗞️\|Nurturing services 📰🗞️]]
+Date:: [[Current Affairs/01-07-2022\|01-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
