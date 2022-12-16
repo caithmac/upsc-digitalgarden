@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/bjp-seeks-floor-test-in-house-cm-makes-fresh-plea-to-rebels/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/bjp-seeks-floor-test-in-house-cm-makes-fresh-plea-to-rebels/"}
 ---
 
 ----
-Headline:: [[Current Affairs/BJP seeks floor test in House, CM makes fresh plea to rebels📰🗞️|BJP seeks floor test in House, CM makes fresh plea to rebels📰🗞️]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[UPSC/Polity|Polity]] 
+Headline:: [[Current Affairs/BJP seeks floor test in House, CM makes fresh plea to rebels📰🗞️\|BJP seeks floor test in House, CM makes fresh plea to rebels📰🗞️]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[UPSC/Polity\|Polity]] 
 
 ----
 ##### What to read and why? 
