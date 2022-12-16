@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/panchayats-extension-to-the-scheduled-areas-act-1996/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/panchayats-extension-to-the-scheduled-areas-act-1996/"}
 ---
 
 ----
 Topic:: PANCHAYATS (EXTENSION TO THE SCHEDULED AREAS) ACT, 1996
 Date:: 2022-10-06
-Course:: [[UPSC/Constitution MOC|Constitution MOC]] 
+Course:: [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 - Latest state to implement PESA - Chattisgarh
