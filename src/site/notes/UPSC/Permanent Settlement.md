@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/permanent-settlement/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/permanent-settlement/"}
 ---
 
 Cornwallis - 1793
