@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/fazi-ali-commission/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/fazi-ali-commission/"}
 ---
 
 ==rejected== the theory of ‘==one language-one state==’
