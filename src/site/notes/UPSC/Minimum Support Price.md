@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/minimum-support-price/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/minimum-support-price/"}
 ---
 
 Topic: Minimum Support Price
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar4 
 
 ---
