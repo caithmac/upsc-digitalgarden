@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/income/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/income/"}
 ---
 
 Topic: Income
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags:  #pillar3 
 
 ---
@@ -14,9 +14,9 @@ Tags:  #pillar3
 
 
 ### Notes
-[[Profit|Profit]]
-- [[Interest|Interest]]
-- [[Dividend|Dividend]]
+[[Profit\|Profit]]
+- [[Interest\|Interest]]
+- [[Dividend\|Dividend]]
 
 
 
