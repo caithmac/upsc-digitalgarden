@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/indian-society/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/indian-society/"}
 ---
 
 ----
 Topic: Indian Society
 Date: 2022-06-07
-Course: [[UPSC/Modern History|Modern History]] ->  
+Course: [[UPSC/Modern History\|Modern History]] ->  
 
 ----
 
