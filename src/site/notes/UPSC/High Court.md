@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/high-court/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/high-court/"}
 ---
 
-[[UPSC/Supreme Court|Supreme Court]] same! 
+[[UPSC/Supreme Court\|Supreme Court]] same! 
 
 
 ### Jurisdiction and Powers of Supreme Court
