@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/how-the-bank-held-its-own/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/how-the-bank-held-its-own/"}
 ---
 
 ----
-Headline:: [[Current Affairs/How the bank held its own 📰🗞️|How the bank held its own 📰🗞️]]
-Date:: [[Current Affairs/02-07-2022|02-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/How the bank held its own 📰🗞️\|How the bank held its own 📰🗞️]]
+Date:: [[Current Affairs/02-07-2022\|02-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
