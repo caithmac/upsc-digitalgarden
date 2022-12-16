@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/reorganization-of-states-on-linguistic-basis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/reorganization-of-states-on-linguistic-basis/"}
 ---
 
 ----
 Topic:: Reorganization of states on linguistic basis
 Date:: 2022-07-04
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 
