@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mountbatten-plan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mountbatten-plan/"}
 ---
 
-[[Partition of India|Partition of India]] 
-[[Radcliffe Commission|Radcliffe Commission]]
+[[Partition of India\|Partition of India]] 
+[[Radcliffe Commission\|Radcliffe Commission]]
 
-[[Independence Act |Independence Act ]]
+[[Independence Act \|Independence Act ]]
 
-[[Balkan Plan|Balkan Plan]]
+[[Balkan Plan\|Balkan Plan]]
 
