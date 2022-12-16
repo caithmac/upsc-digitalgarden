@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/liberal-theory-of-state/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/liberal-theory-of-state/"}
 ---
 
 ----
 Topic:: Liberal theory of State
 Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]]  
+Course:: [[UPSC/PSIR\|PSIR]]  
 
 ----
 # Liberal theory of State
@@ -27,22 +27,22 @@ Course:: [[UPSC/PSIR|PSIR]]
 - As state is outcome of consent. Its primary function is to implement free will of people.  That is closely associated with liberty and freedom. 
 - Function of state is very much limited. 
 	- Promotion of negativve liberty 
-	- [[UPSC/Procedural Justice|Procedural Justice]]
+	- [[UPSC/Procedural Justice\|Procedural Justice]]
 	- Formal Equality 
 
 ###### Supporters 
 - Liberal's slogan is "The government is best which governs the least"
--  [[UPSC/John Locke|John Locke]] confined the function of state to protect the Natural Rights. 
+-  [[UPSC/John Locke\|John Locke]] confined the function of state to protect the Natural Rights. 
 - Hobbes State will ensure right to life of person
--[[ I Berlin| I Berlin]] supported that states function should be minimum that too only protect negative liberty 
+-[[ I Berlin\| I Berlin]] supported that states function should be minimum that too only protect negative liberty 
 - Adam Smith restricted state must not interfere in economic affairs and must not try to reorder it. 
 - Apart from above scholars; all the Neo-Liberals also supported minimal role of state. 
 ###### Critique
-[[UPSC/T H Green|T H Green]], [[UPSC/Laski|Laski]], [[UPSC/Hobbhouse|Hobbhouse]] criticized the idea of limited and negative state and promoted positive and welfare. 
+[[UPSC/T H Green\|T H Green]], [[UPSC/Laski\|Laski]], [[UPSC/Hobbhouse\|Hobbhouse]] criticized the idea of limited and negative state and promoted positive and welfare. 
 Positive State; Liberalism has always seen the poor as they if they become poor of their own mistakes. 
-[[UPSC/T H Green|T H Green]] criticized Classical Liberalism ; **Will, not force, is the basis of the state."**
+[[UPSC/T H Green\|T H Green]] criticized Classical Liberalism ; **Will, not force, is the basis of the state."**
 ###### General Critiscism 
 Classical Liberalism is also considered as philosophy of Capitalist of class. 
 Ideology of urban entrepreneur middle class which later became industrialist and capitalist
-[[UPSC/Laski|Laski]] commented : The purpose of the Capitalist was to free owners of means of production from all those constraints which hampered complete economic exploitations 
+[[UPSC/Laski\|Laski]] commented : The purpose of the Capitalist was to free owners of means of production from all those constraints which hampered complete economic exploitations 
 
