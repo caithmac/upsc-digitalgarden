@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/social-science/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/social-science/"}
 ---
 
 >**GS1 Syllabus Topic:**
->> [[UPSC/Communalism|Communalism]], [[UPSC/Regionalism|Regionalism]], [[UPSC/Secularism|Secularism]]; Social Empowerment
-  [[UPSC/Salient features of Indian Society|Salient features of Indian Society]]; Diversity of India;
+>> [[UPSC/Communalism\|Communalism]], [[UPSC/Regionalism\|Regionalism]], [[UPSC/Secularism\|Secularism]]; Social Empowerment
+  [[UPSC/Salient features of Indian Society\|Salient features of Indian Society]]; Diversity of India;
   
 >[!todo] Social Science: Caste, Religion, Region, Globalization
 >- Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations. (बहु-सांस्कृतिक भारतीय समाज को समझने में क्या जाती की प्रासंगिकता समाप्त हो गई है? उदाहरों सहित विस्तृत उत्तर दीजिए l)	2020
@@ -21,7 +21,7 @@
 >- Has the formation of linguistic States strengthened the cause of Indian Unity?	2016
 >- Why are the tribals in India referred to as the Scheduled Tribes? Indicate the major provisions enshrined in the Constitution of India for their upliftment.	2016
 >- What is the basis of regionalism? Is it that unequal distribution of benefits of development on regional basis eventually promotes regionalism? Substantiate your answer.	2016
->- Mahatma Gandhi and Dr. [[UPSC/B.R. Ambedkar|B.R. Ambedkar]], despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate.	2015
+>- Mahatma Gandhi and Dr. [[UPSC/B.R. Ambedkar\|B.R. Ambedkar]], despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate.	2015
 >- Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity.	2015
 >- Debate the issue of whether and how contemporary movements for assertion of Dalit identity work towards annihilation of caste.	2015
 >- How do the Indian debates on secularism differ from the debates in the West?	2014
@@ -29,7 +29,7 @@
 ---
 
 > **GS1 Syllabus Topic:**
->> Poverty, [[Population|Population]]; Development and associated issues
+>> Poverty, [[Population\|Population]]; Development and associated issues
 
 
 >[!todo] Social Science: Poverty, Population, Globalization
@@ -48,7 +48,7 @@
 
 ---
 > **GS1 Syllabus Topic:**
->> [[UPSC/Globalisation|Globalisation]] (effects on Indian society)
+>> [[UPSC/Globalisation\|Globalisation]] (effects on Indian society)
 
 >[!todo] Social Science: Globalization
 >- Are we losing our local identity for the global identity? Discuss. (क्या हम वैश्विक पहचान के लिए अपनी स्थानीय पहचान को खोते जा रहे हैं ? चर्चा कीजिए | ) (15m,250 words)	2019
@@ -59,7 +59,7 @@
 
 ---
 > **GS1 Syllabus Topic:**
->> [[UPSC/Role of women and women’s organisation|Role of women and women’s organisation]]
+>> [[UPSC/Role of women and women’s organisation\|Role of women and women’s organisation]]
 
 >[!todo] Social Science: Women
 >- “Empowering women is the key to control population growth”. Discuss (“महिला सशक्तिकरण जनसंख्या संवृद्धि को नियंत्रित करने की कुंजी है |” चर्चा कीजिए | ) (10m,150 words)	2019
@@ -73,17 +73,17 @@
 
 | Topic                                                                                                  | Source  |
 | ------------------------------------------------------------------------------------------------------ | ------- |
-| [[UPSC/Caste System.md\|Caste System]]                                                                 | SOC1    |
-| [[UPSC/Communalism.md\|Communalism]]                                                                   | SOC1B   |
-| [[UPSC/Diversity in India.md\|Diversity in India]]                                                     | SOC1    |
-| [[UPSC/Evolution of Communism.md\|Evolution of Communism]]                                             | SOC1B   |
-| [[UPSC/Family in India.md\|Family in India]]                                                           | SOC1    |
-| [[UPSC/Marriage.md\|Marriage]]                                                                         | SOC1    |
-| [[UPSC/Salient features of Indian Society.md\|Salient features of Indian Society]]                     | SOC1    |
-| [[UPSC/Secularism.md\|Secularism]]                                                                     | SOC1D   |
-| [[UPSC/Regionalism.md\|Regionalism]]                                                                   | SOC1C   |
-| [[UPSC/Reorganization of states on linguistic basis.md\|Reorganization of states on linguistic basis]] | SOC1    |
-| [[UPSC/Education-Employment Trade off.md\|Education-Employment Trade off]]                             | onlyias |
-| [[UPSC/Maternity Aspect.md\|Maternity Aspect]]                                                         | onlyias |
-| [[UPSC/Role of women and women’s organisation.md\|Role of women and women’s organisation]]             | SOC2    |
+| [[UPSC/Caste System\|Caste System]]                                                                 | SOC1    |
+| [[UPSC/Communalism\|Communalism]]                                                                   | SOC1B   |
+| [[UPSC/Diversity in India\|Diversity in India]]                                                     | SOC1    |
+| [[UPSC/Evolution of Communism\|Evolution of Communism]]                                             | SOC1B   |
+| [[UPSC/Family in India\|Family in India]]                                                           | SOC1    |
+| [[UPSC/Marriage\|Marriage]]                                                                         | SOC1    |
+| [[UPSC/Salient features of Indian Society\|Salient features of Indian Society]]                     | SOC1    |
+| [[UPSC/Secularism\|Secularism]]                                                                     | SOC1D   |
+| [[UPSC/Regionalism\|Regionalism]]                                                                   | SOC1C   |
+| [[UPSC/Reorganization of states on linguistic basis\|Reorganization of states on linguistic basis]] | SOC1    |
+| [[UPSC/Education-Employment Trade off\|Education-Employment Trade off]]                             | onlyias |
+| [[UPSC/Maternity Aspect\|Maternity Aspect]]                                                         | onlyias |
+| [[UPSC/Role of women and women’s organisation\|Role of women and women’s organisation]]             | SOC2    |
 
