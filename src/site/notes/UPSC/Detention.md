@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/detention/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/detention/"}
 ---
 
 ##### Detention 
