@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/quo-warranto/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/quo-warranto/"}
 ---
 
 ##### Quo-Warranto 
