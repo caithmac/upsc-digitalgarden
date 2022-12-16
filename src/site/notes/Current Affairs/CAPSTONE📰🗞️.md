@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/capstone/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/capstone/"}
 ---
 
 ----
-Headline:: [[Current Affairs/CAPSTONE📰🗞️|CAPSTONE📰🗞️]]
-Date:: [[Current Affairs/30-06-2022|30-06-2022]]
-Course:: [[Science-Tech|Science-Tech]] 
+Headline:: [[Current Affairs/CAPSTONE📰🗞️\|CAPSTONE📰🗞️]]
+Date:: [[Current Affairs/30-06-2022\|30-06-2022]]
+Course:: [[Science-Tech\|Science-Tech]] 
 
 ----
 ##### What to read and why? 
