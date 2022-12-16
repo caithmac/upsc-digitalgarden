@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/annual-financial-statement-annual-budget/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/annual-financial-statement-annual-budget/"}
 ---
 
 Topic: Annual Financial Statement(Annual Budget)
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]/[[UPSC/Constitution MOC|Constitution MOC]]
+Course:[[UPSC/Economy\|Economy]]/[[UPSC/Constitution MOC\|Constitution MOC]]
 
 
 ---
@@ -19,7 +19,7 @@ Course:[[UPSC/Economy|Economy]]/[[UPSC/Constitution MOC|Constitution MOC]]
 	- Finance Bill(117,265)
 	- Appropriation Bill(114)
 	
-### [[Types of Taxes |Types of Taxes ]]
+### [[Types of Taxes \|Types of Taxes ]]
 
 
 > [!Question] What are Adam Smith's four cannon of taxation? #unanswered 
