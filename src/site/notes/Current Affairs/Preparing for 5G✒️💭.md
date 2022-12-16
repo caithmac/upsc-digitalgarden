@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/preparing-for-5-g/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/preparing-for-5-g/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Preparing for 5G✒️💭|Preparing for 5G✒️💭]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[Science-Tech|Science-Tech]] 
+Headline:: [[Current Affairs/Preparing for 5G✒️💭\|Preparing for 5G✒️💭]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[Science-Tech\|Science-Tech]] 
 
 ----
 ##### What to read and why? 
