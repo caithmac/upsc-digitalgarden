@@ -1,34 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aristotle/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aristotle/"}
 ---
 
 ----
 Topic:: Aristotle
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Aristotle 
 - Aristotle Ideal state is sub-ideal state of Plato 
 - Aristotle - Reproduced Ideas of Plato in pragmatic way. 
-- [[UPSC/Plato|Plato]] is considered ideal ; Aristotle is pragmatic. 
+- [[UPSC/Plato\|Plato]] is considered ideal ; Aristotle is pragmatic. 
 - Plato takes about human being having 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ----
 Topic: What is Justice
 Date: 2022-06-19
-Course: [[UPSC/PSIR|PSIR]] 
+Course: [[UPSC/PSIR\|PSIR]] 
 
 ----
-- For [[UPSC/Plato's Justice|Plato's Justice]] is: 
+- For [[UPSC/Plato's Justice\|Plato's Justice]] is: 
 	- Linked with Ideal state
 	- To perform duties as per natural trait 
 	- To live in orientation of natural trait 
@@ -44,121 +40,23 @@ Course: [[UPSC/PSIR|PSIR]]
 	- **Desire/Appetite** 
 		- Traders
 
-- [[UPSC/Plato's Justice|Plato's Justice]] is outcome of co-ordination of three classes. 
+- [[UPSC/Plato's Justice\|Plato's Justice]] is outcome of co-ordination of three classes. 
 - Mutual benefits for all classes. 
 - Beyond gender. 
 
 >[!Question]
-> [[UPSC/How to identify our dominant trait|How to identify our dominant trait]]? 
+> [[UPSC/How to identify our dominant trait\|How to identify our dominant trait]]? 
 ---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Plato's Theorem of Justice
-Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 # What is Plato's Theorem of Justice
-### Introduction. 
-> [!Error] ##### Traditional Theory of Justice/ Customary View of Justice by Cephlus
-> - He defines justice as consisting in speaking the truth and paying ones debt. 
 
+</div></div>
 
-> [!error] Radical Theory of Justice by Sophist or Thrasymachuc
-> - Might is right
-
->[!error] Contractual Theory of Justice by Glaucon
-> - Justice is interest of weaker; it is child of fear 
-
-> 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-----
-Topic: State is individual writ large
-Date: 2022-06-22
-Course:: [[UPSC/PSIR|PSIR]] 
-
-
-----
-
-## Introduction: 
-1. This statement reflects nature and construct of State. 
-2. As [[UPSC/Plato|Plato]] identifies state as 
-	 - Perfect
-	 - Organic
-	 - Natural
-3. As he identified interconnecting organic relationship between human beings nature and state. 
-
-##### State is individual writ large(15m,150words)
-- State is individual write large: The inner principle of human mind work themselves out in social institution and are manifested. 
-- The minds of individual and mind of states are identical: Life of state is life of men composing it. 
-- Therefore instead of analyzing the human soul and considering justice there, [[UPSC/Plato|Plato]] studies it as it exist in general in the state. 
-- State is formed of the individuals but in functional format therefore it is nothing but reflection of human nature. 
-
-> Like State, Like Humans.
-- In order to understand State, one needs to understand human nature. 
-- Without understanding human nature one can't determine the function and needs of human beings and will not be able to figure who is best to fit to rule over them. 
-- In order to create justice human nature firstly needs to be understood; state is magnification of individuals.
-- **Same principles which provides justice  at the level of Individuals are good enough to provide justice at level of state as well.** 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-----
-Topic: What is Justice
-Date: 2022-06-19
-Course: [[UPSC/PSIR|PSIR]] 
-
-----
-- For [[UPSC/Plato's Justice|Plato's Justice]] is: 
-	- Linked with Ideal state
-	- To perform duties as per natural trait 
-	- To live in orientation of natural trait 
-	- Duty 
-	- Derived from virtue
-- Three types of Trait:   ^0dbe57
-	- **Traits of Wisdom/Reason** 
-		- Political Leaders
-		- Administration 
-	- **Courage/Spirit**
-		- Police
-		- Army 
-	- **Desire/Appetite** 
-		- Traders
-
-- [[UPSC/Plato's Justice|Plato's Justice]] is outcome of co-ordination of three classes. 
-- Mutual benefits for all classes. 
-- Beyond gender. 
-
->[!Question]
-> [[UPSC/How to identify our dominant trait|How to identify our dominant trait]]? 
----
-
-![[UPSC/Plato's Theorem of Justice#What is Plato's Theorem of Justice|Plato's Theorem of Justice#What is Plato's Theorem of Justice]]
 
 ---
 
@@ -175,144 +73,33 @@ Course: [[UPSC/PSIR|PSIR]]
 - Human Nature biologically continue to evolve. 
 
 >[!Quote]
->**[[UPSC/State is individual writ large|State is individual writ large]]**
+>**[[UPSC/State is individual writ large\|State is individual writ large]]**
 >Nature of Human Being is as nature of state. 
 >Like State,Like Humans. 
 
 ### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Plato's Communism
-Date:: 2022-06-22
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 ### Plato's Communism
-##### Why
-- The two class were very strong 
-- Separation of political and economic power. 
-- No material possesions for gaurduian class
-	- If you all property; it may come in conflict with virtue
-	- Public officers will be choosen as per property
-- There is strong interrelation between family and property
-- Women are not in position to play their role/contributes. 
-	- Family dwarfs women
-- Abbolition or elimination of family will destroy centre of selfishness 
-- Eugenic 
-
-##### Communism of Property
-- The first two classes cant hold property. 
-- Root cause of corruption is difference of property among people 
-- State will provide basic need
-	- Food
-	- Clothes
-- Should live in groups. 
-	- Eat together and hold a common kitchen.
-
-###### Purpose
-- Property is one of the major point of switching or diverting from one class to another. 
-- Trying to address corrupt methods to earn money. 
-- He believed that people accumulate more than they need. 
-
-##### Communism of Wives/Family
-- The two classes will not be allowed to hold family. 
-- Creates diversion
-- The first 2 classes must not hold family.
-- No private family. 
-- All men and women are living separately 
-- All children born out of such relations will be nurtured by states. 
-- State will provide care for them
-- Neither parents will be aware of thier kid nor kids of their parents. 
-- What is utility of family?? 
-- With consent first 2 class can be partners. 
-- Can be parents but kids will be taken away by state.
-- Community Parenting
 
 </div></div>
 
-
-
-
-</div></div>
-
-
->[!Todo]+ Write short note on [[UPSC/State is individual writ large|State is individual writ large]]
-> This statement of Plato reflects nature and construct of State. Plato identifies state as
-> 1. Perfect
-> 2. Organic 
-> 3. Natural.
-> 
-> He identified interconnecting organic relationship between human beings nature and state.  For him, the inner principle of human mind work themselves out in social institution and are manifested. The minds of individual and mind of states are identical : Life of state is life of men composing it. Therefore instead of analyzing the human soul and considering justice there, Plato studies it as it exist in general in the state.
-> For Plato, "Like State, Like Humans."
-> Hence, to understand state, one needs to understand human nature. Without understanding human nature one can't determine the function and needs of human beings and will not be able to figure who  is best to fit to rule over them. For him, same principles which provides justice at the level of individuals are good enough to provide justice at level of state as well. 
-> He also suggested that, "State does not come out of oak or rock, it inheres in the mind of people living in state". Thus, the only way Athens could become virtues is when the people of Athens become  virtues. 
-> 
-
-
-
-
-
-</div></div>
-
-
-
-
-</div></div>
-
-
----
-
-##### Plato's Argument on Justice
-- Justice is all about performing as per dominant natural trait. 
-- Individual justice as well as collective justice. 
-- Purpose of an individual is to get its highest form/Ideal Format 
-- An individual can't get it alone. 
-- State came into being for sake of good life.  => Highest form 
-- Pre-condition is; State must be ideal state. 
-
-##### Organic Theory of State
-- State is space where human nature is reflected in its best form. 
-- Human Nature biologically continue to evolve. 
-
->[!Quote]
->**[[UPSC/State is individual writ large|State is individual writ large]]**
->Nature of Human Being is as nature of state. 
->Like State,Like Humans. 
-
-### ![[UPSC/Plato's Communism#Plato's Communism|Plato's Communism#Plato's Communism]]
 
 
 
 </div></div>
 
 - Aristotle's argument : Each trait of Human being evolves and leads to formation of institution. 
-- Aristotle's Book - [[UPSC/Politics|Politics]] - 8 Chapter. 
+- Aristotle's Book - [[UPSC/Politics\|Politics]] - 8 Chapter. 
 ---
 
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Aristotle's State
-Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 ## Aristotle's State
 - Organic body that gradually evolves
 	- **Family** : There to fulfil basic needs. It is an institution which institutionalize basic nature of human being.
@@ -334,7 +121,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - State is essential 
 - State came into being for sake of good life. 
 - State is organic 
-- [[UPSC/State is prior than individual|State is prior than individual]] 
+- [[UPSC/State is prior than individual\|State is prior than individual]] 
 - State is natural, natural is best.
 - State is highest institutions 
 - Politics is the highest intellectual activity 
@@ -342,11 +129,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 ---
-- [[UPSC/Aristotle's Justice|Aristotle's Justice]]
-- [[UPSC/Criticism of Plato|Criticism of Plato]]
-- [[UPSC/Democracy|Democracy]]
-- [[UPSC/PSIR|PSIR]]
-- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+- [[UPSC/Aristotle's Justice\|Aristotle's Justice]]
+- [[UPSC/Criticism of Plato\|Criticism of Plato]]
+- [[UPSC/Democracy\|Democracy]]
+- [[UPSC/Discuss the role of  power elite in democracy\|Discuss the role of  power elite in democracy]]
+- [[UPSC/PSIR\|PSIR]]
+- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state\|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
 
 
 
@@ -357,19 +145,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Politics is master science
-Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]]  
-
-----
 ##### Politics is master science
 - The ultimate aim of politics is to know ultimate objective of human life, end of human life. 
 - Other subject tells ways how one can achieve such good life. 
@@ -384,19 +161,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Aristotle's Slavery
-Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 #####  Aristotle's Slavery
 - Slavery is natural institution 
 - For social good and essential for slave
@@ -405,33 +171,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Master is head; Slave is body 
 	- Favor in slavery
 
-###### Two types of Slaves
-- _Natural Slaves_
-	- Intellectually weak; Physically Strong 
-	- They have to be under service of master 
-	- 
-- _Made Slaves_
-	- Foreign indulged in wrongdoing 
-	- PoW
-	- Thieves 
-	- 
-
-Aristotle's writes in justification of Slavery 
->[!quote] For that some should rule and others be ruled is a thing not only necessary, but expedient; from the hour of their birth, some are marked out for subjection, others for rule.
-
->[!cite] Each man is an end in itself. No one ought to be treat other person as a means to an end. 
->~ Immanuel Kant
-
->[!cite] What is, should not determine what ought to be rather it should be vice-versa. 
-
-
-
->[!bug] Conclusion
->- His justification should not be taken as philosophical view but it was out of necessities of time; he was setting the ground for emancipation of slaves. 
->- According to Barker: Aristotle's conception of slavery is more a justification of necessity than a deduction from disinterested observation of facts.
-
-
-
 
 </div></div>
 
@@ -439,19 +178,7 @@ Aristotle's writes in justification of Slavery
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: Aristotle's Property
-Date:: 2022-06-25
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 
 ### Aristotle's Property
 - It is basic to survivable  
@@ -462,39 +189,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Ancient and tested instution which yields such result 
 - For Aristitole; property provided psychological satisfaction by fulfiling human instinct for possesion and ownership 
 
-##### Why Plato is incorrect on Property 
-- [[UPSC/Plato|Plato]] failed to make a balance between 
-	- Production 
-	- Distribution 
-
-- Here he sugested three models for utiisation of property and he claimed it make a balance between production and distribution 
-	1. Property owned by individual and utilised by individual 
-		- It is most dangerous thing, leads to corruption 
-		- Concentration of wealth, root cause of revolution 
-	2. Common ownership and individual use
-		- It leads to conflict and fractionism 
-		- Completely destroys basic fabric of society 
-			- Cooperation and Harmony 
-		- Most irresponsible way of utilising way of property 
-	3. Common property and common use
-		- Impractical 
-		- Social conflict 
-	4. **Individual ownership and common use**
-		- Accepted this form
-	
-
-- Aristotle says; Property ought to be genrally and in the main private but common in use
-- Aristotle at the same time put certain restriction on way of earning and property 
-	- Property has to be acquired though honest means 
-	- He is dead against taking interest for loan aid or debt
-	- he considered it as a most unatural method 
-	- He identified agricultural practises and genral trade and services within tereitory of state is best way of acquiring property 
-	- he didnt praise earning wealth through across the countr(he advissed people as well as king aware of such traders)
-	- He is also against piling or acquiring huge amount of wealth; He says: 
-	> To acquire too much property will be a gross error as to make hammer too heavy 
-	
-
-
 
 </div></div>
 
@@ -502,82 +196,21 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-----
-Topic:: Aristotle's Justice
-Date:: 2022-06-25
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-----
-Topic:: Types of Justice
-Date:: 2022-06-25
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
-
-## Types of Justice 
-- ##### Universal Justice 
-	- Ideal Justice done through forces of nature 
-- ##### Particular Justice 
-	- ###### Corrective Justice 
-		- In order to regulate interpersonal issue
-		- Everybody will be treated equally; if any of them is violating laws of state
-		- Everyone must be treated equally irrespective of their contribution
-		- The relationship of people and state. 
-		- Not talking about Foreigner and Slaves
-			- Only for Freemen; Women and Residents. 
-	- ###### Distributive Justice ^508271
-		- Associated with distribution of honor 
-		- Distribution of rewards and awards 
-		> Equal should be treated equally and unequal  should be treated unequally. 
-
-
-
-</div></div>
 
 
 # Aristotle's Justice
-- [[UPSC/Types of Justice#^508271|Distributive Justice ]] 
+- [[UPSC/Types of Justice#^508271\|Distributive Justice ]] 
 - Equals should be treated equally; unequal should be treated as unequally 
 - Proportional equality.  
 - Differential Treatment 
 - Aristotlian is based on proportional equality 
 - He believed that justice is virtue; Justice is virtue in action
-- [[UPSC/Aristotle|Aristotle]] believed that only virtues person can provide justice 
+- [[UPSC/Aristotle\|Aristotle]] believed that only virtues person can provide justice 
 - It is justice that makes a state gives it vision and coupled with eithics 
 - it takes the state to height of ethical value
 - Particular justice is part of complete or general justice 
 - Therfore it is part of complete goodnes. 
 - A person seeks particular justice is one who observes law but does not demand from society more than what he deserves
-##### How Aristotle defines Justice 
-- Vitue in action 
-- In reality it means two principle 
-	- Asking for what a person deseves
-	- Application of knowledge 
-
-
-
-
-
-
 
 </div></div>
 
@@ -640,16 +273,17 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- State must do all effort to maintain proportional equality not only in economic term but political as well as social term 
 
 >[!Question]
->- [[UPSC/Which type of government is considered best by Aristotle, and why|Which type of government is considered best by Aristotle, and why]]
->- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
->- [[UPSC/Man is by nature, a political animal|Man is by nature, a political animal]]
->- [[UPSC/The Authority of statesman is different than authority of masters|The Authority of statesman is different than authority of masters]]
->- [[UPSC/Law is reason without passion|Law is reason without passion]]
+>- [[UPSC/Which type of government is considered best by Aristotle, and why\|Which type of government is considered best by Aristotle, and why]]
+>- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state\|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+>- [[UPSC/Man is by nature, a political animal\|Man is by nature, a political animal]]
+>- [[UPSC/The Authority of statesman is different than authority of masters\|The Authority of statesman is different than authority of masters]]
+>- [[UPSC/Law is reason without passion\|Law is reason without passion]]
 >- 
 --- 
-- [[UPSC/Aristotle's Justice|Aristotle's Justice]]
-- [[UPSC/Criticism of Plato|Criticism of Plato]]
-- [[UPSC/Democracy|Democracy]]
-- [[UPSC/PSIR|PSIR]]
-- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
+- [[UPSC/Aristotle's Justice\|Aristotle's Justice]]
+- [[UPSC/Criticism of Plato\|Criticism of Plato]]
+- [[UPSC/Democracy\|Democracy]]
+- [[UPSC/Discuss the role of  power elite in democracy\|Discuss the role of  power elite in democracy]]
+- [[UPSC/PSIR\|PSIR]]
+- [[UPSC/The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state\|The onset of western political thoughts starts with ideological discourse between Aristotle and Plato regarding the conception of state]]
 
