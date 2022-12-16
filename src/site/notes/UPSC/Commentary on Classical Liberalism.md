@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/commentary-on-classical-liberalism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/commentary-on-classical-liberalism/"}
 ---
 
 ----
 Topic:: Commentary on Classical Liberalism
 Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -40,6 +40,6 @@ Inequality is more based on economy.
 ###### Support
 ###### Opposition 
 ##### Conclusion
-- Next phase was [[Modern Liberalism |Modern Liberalism ]]
+- Next phase was [[Modern Liberalism \|Modern Liberalism ]]
 
 
