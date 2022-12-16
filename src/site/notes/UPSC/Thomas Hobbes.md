@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/thomas-hobbes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/thomas-hobbes/"}
 ---
 
 ----
 Topic:: Thomas Hobbes 
 Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -13,8 +13,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 - His view and thoughts are product of his personal experience and his positioning in royal court. 
 - 1588-1679
 - Biggest rebel of his time. 
-- "[[UPSC/The Leviathan|The Leviathan]]"
-- First person to give full theory on [[UPSC/Sovereignty|Sovereignty]]. 
+- "[[UPSC/The Leviathan\|The Leviathan]]"
+- First person to give full theory on [[UPSC/Sovereignty\|Sovereignty]]. 
 
 #### Hobbes Experience
 1. Fear is core. (**My mother gave birth to twin, Me and my fear.**)
@@ -31,7 +31,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 7. Was in British Royal Court and because of Renaissance Reform Enlightenment
    - Civil War was going on 
    - Kings using this to get out of church 
-   - Parliament wanted to get [[UPSC/Democracy|democracy]] 
+   - Parliament wanted to get [[UPSC/Democracy\|democracy]] 
 8. Supported power of King
    - Rejected divine theory 
    - Not a royalist 
@@ -40,19 +40,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: Hobbes Sovereignty
-Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 
 ###### Feature of Hobbes Sovereignty 
 - Absolute
@@ -61,9 +49,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- In medieval time; authority was federal. No one knew who was supreme. 
 	- Whose law will prevail. So there was chaos. 
 - No restrictions over sovereignty 
-- [[UPSC/The Leviathan|The Leviathan]] power can not be transfer to anyone. 
+- [[UPSC/The Leviathan\|The Leviathan]] power can not be transfer to anyone. 
 - Sovereign is internally and externally most powerful. 
->[[ While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate| While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
+>[[ While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate\| While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
 
 - Essentially lies in power of determining on behalf of community what needs to be done to promote peace and order to promote welfare. 
 - All men apart from sovereign becomes its subject.
@@ -85,42 +73,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Hobbes State
-Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 ##### Hobbes State
-###### Function of State
-- State is [[UPSC/Sovereign|Sovereign]]. 
-	- No other association, not even church will have power over the state. 
-- State is absolute
-	- Man has liberty only where law is silent.
-	- Man is free only to the extent state has permitted him to be free by not making the law. 
-	- If a man doesn't follow law, state has the right to punish him. 
-
->“[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]].”
-
-> [[UPSC/Why Hobbes supports strong and absolute state|Why Hobbes supports strong and absolute state]]
-
-###### Purpose of State
-- Most important thing for which state is exist preservation of life.
-- If a state is not able to do so, it is failed state. 
-- And man has every right to resist the state. 
-
-###### [[UPSC/Feature of Social Contract|Feature of Social Contract]]
-
-
-
-
 
 </div></div>
 
@@ -129,19 +84,8 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Hobbes Materialism
-Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 ##### Hobbes Materialism
 Hobbes proposes to analyze human kind from materialistic point of view with same symbolic language. 
 - Hobbes proposes to study human being as a set of purely physical process.  That are reducible to body and motion. 
@@ -156,9 +100,9 @@ Hobbes proposes to analyze human kind from materialistic point of view with same
 
 ##### Individualism 
 - Man being prior to state. 
-	- Opposite of [[UPSC/State is prior than individual|State is prior than individual]]
+	- Opposite of [[UPSC/State is prior than individual\|State is prior than individual]]
 - Man is individualistic by nature and social only out of necessity. 
-- [[UPSC/Hobbes was first individualist|Hobbes was first individualist]] 
+- [[UPSC/Hobbes was first individualist\|Hobbes was first individualist]] 
 
 ##### Absolutist
 - One who gives absolute power to the state. 
@@ -167,38 +111,13 @@ Hobbes proposes to analyze human kind from materialistic point of view with same
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Hobbes on Human Nature
-Date:: 2022-07-10
-Course:: [[UPSC/Thomas Hobbes|]] 
-
-----
 ##### Hobbes on Human Nature
 
 > Life of a man is continuous search for power, after power which ceasesth only with his death. 
 
->[[UPSC/Hobbesian Theory of Right|Hobbesian Theory of Right]]
-###### Reason behind power seeking nature of man. 
-- Applies "[[resolutive compositive method|resolutive compositive method]]" to explain the fundamental characteristics of human nature. 
-- Human Mind is made up of particle like everything else in Universe. They are in state of motion. 
-- All motions can be categorized into basic types - Love and Aversion. 
-- Love
-	- Pleasure 
-	- Emotion of Love 
-- Aversion
-	- Generates pain
-- Hence there is a continuous desire for things which give pleasures. 
-- Man is never satisfied. 
-- Satisfaction of one pleasure give rise to search of the other.
-- Power is a means to obtain the things which gives us pleasure. It can be physical power, economic power, political power or any other sort of power.
-
+>[[UPSC/Hobbesian Theory of Right\|Hobbesian Theory of Right]]
 
 </div></div>
  
@@ -210,19 +129,8 @@ Course:: [[UPSC/Thomas Hobbes|]]
 ##### 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
 
-
-</div>
-
-
-----
-Topic:: Hobbes's Liberty
-Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
-
-----
 ##### Hobbes's Liberty
 > Liberty is where law is silent
 
@@ -242,24 +150,25 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 
 >[!question]
->- [[UPSC/While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate|While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
->- [[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]]
->- [[UPSC/Difference between Positive Liberty and Negative Liberty|Difference between Positive Liberty and Negative Liberty]]
->- [[UPSC/What is meaning of absolute state|What is meaning of absolute state]]
->- [[UPSC/What are the arguments to establish Hobbes of all Individualist|What are the arguments to establish Hobbes of all Individualist]]
->- [[Possesive Individualism |Possesive Individualism ]]
->- [[UPSC/Normative Individualists|Normative Individualists]]
->- [[UPSC/Positive Law|Positive Law]]
->- [[Hobbsian sovereign's authority is based on nothing but fear of death and that is why it is moraly binding |Hobbsian sovereign's authority is based on nothing but fear of death and that is why it is moraly binding ]]
->- [[Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke |Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke ]]
+>- [[UPSC/While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate\|While Bodin was standing on gates on modernity, it was Hobbes who jumped inside the gate]]
+>- [[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all\|Covenants, without the sword, are but words and of no strength to secure a man at all]]
+>- [[UPSC/Difference between Positive Liberty and Negative Liberty\|Difference between Positive Liberty and Negative Liberty]]
+>- [[UPSC/What is meaning of absolute state\|What is meaning of absolute state]]
+>- [[UPSC/What are the arguments to establish Hobbes of all Individualist\|What are the arguments to establish Hobbes of all Individualist]]
+>- [[Possesive Individualism \|Possesive Individualism ]]
+>- [[UPSC/Normative Individualists\|Normative Individualists]]
+>- [[UPSC/Positive Law\|Positive Law]]
+>- [[Hobbsian sovereign's authority is based on nothing but fear of death and that is why it is moraly binding \|Hobbsian sovereign's authority is based on nothing but fear of death and that is why it is moraly binding ]]
+>- [[Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke \|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke ]]
 >
  
 ---
-- [[UPSC/Classic Liberalism|Classic Liberalism]]
-- [[UPSC/Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke]]
-- [[UPSC/Fascism|Fascism]]
-- [[UPSC/Methodological Individualist|Methodological Individualist]]
-- [[UPSC/Normative Individualists|Normative Individualists]]
-- [[UPSC/PSIR|PSIR]]
-- [[UPSC/Rights|Rights]]
+- [[UPSC/Classic Liberalism\|Classic Liberalism]]
+- [[UPSC/Discuss the defense of right to property in political theory\|Discuss the defense of right to property in political theory]]
+- [[UPSC/Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke\|Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke]]
+- [[UPSC/Fascism\|Fascism]]
+- [[UPSC/Methodological Individualist\|Methodological Individualist]]
+- [[UPSC/Normative Individualists\|Normative Individualists]]
+- [[UPSC/PSIR\|PSIR]]
+- [[UPSC/Rights\|Rights]]
 
