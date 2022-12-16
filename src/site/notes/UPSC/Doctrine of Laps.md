@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/doctrine-of-laps/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/doctrine-of-laps/"}
 ---
 
 Topic: Doctrine of Laps
 Date: 2022-06-01
-Course: [[UPSC/Modern History|Modern History]]
+Course: [[UPSC/Modern History\|Modern History]]
 
 ---
 
 
 
-1825 [[UPSC/British|British]]: Every ruler under Hindu laws is free to nominate his his successor real or adopted son
+1825 [[UPSC/British\|British]]: Every ruler under Hindu laws is free to nominate his his successor real or adopted son
 1831:  Government may accept or reject
-1848: [[UPSC/Dalhousie|Dalhousie]] is made Governor General
+1848: [[UPSC/Dalhousie\|Dalhousie]] is made Governor General
 		In absence of real heir the state would be merged into British India
 
 1. Satara - 1848
