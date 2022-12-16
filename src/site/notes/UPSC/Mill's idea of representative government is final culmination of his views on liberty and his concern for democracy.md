@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mill-s-idea-of-representative-government-is-final-culmination-of-his-views-on-liberty-and-his-concern-for-democracy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mill-s-idea-of-representative-government-is-final-culmination-of-his-views-on-liberty-and-his-concern-for-democracy/"}
 ---
 
 ----
 Topic:: Mill's idea of representative government is final culmination of his views on liberty and his concern for democracy
 Date:: 2022-07-20
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
  Represntative government for Mill is the best form of government since it most adequatly fulfil purpose of government. 
