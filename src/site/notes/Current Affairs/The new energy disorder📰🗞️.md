@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/the-new-energy-disorder/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/the-new-energy-disorder/"}
 ---
 
 ----
-Headline:: [[Current Affairs/The new energy disorder📰🗞️|The new energy disorder📰🗞️]]
-Date:: [[Current Affairs/04-07-2022|04-07-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/The new energy disorder📰🗞️\|The new energy disorder📰🗞️]]
+Date:: [[Current Affairs/04-07-2022\|04-07-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
