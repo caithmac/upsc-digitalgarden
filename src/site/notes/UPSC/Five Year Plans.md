@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/five-year-plans/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/five-year-plans/"}
 ---
 
 ----
 
 Topic: Five Year Plans
 Date: 2022-06-02
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 
 ----
 
