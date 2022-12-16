@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/open-market-operation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/open-market-operation/"}
 ---
 
 Topic: Open Market Operation
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
