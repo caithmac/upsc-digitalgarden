@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/article-20-protection-in-respect-of-conviction-for-offences/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/article-20-protection-in-respect-of-conviction-for-offences/"}
 ---
 
 Topic: Article 20. Protection in Respect of Conviction for Offences
 Date: 2022-05-31
-Course: [[UPSC/Polity|Polity]] [[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]] [[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #GS2 
 
 ---
