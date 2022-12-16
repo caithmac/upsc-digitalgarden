@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/family-in-india/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/family-in-india/"}
 ---
 
 ----
 Topic:: Family in India
 Date:: 2022-07-02
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 
