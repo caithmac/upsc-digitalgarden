@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/un-accuses-beijing-of-uighur-rights-abuses/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/un-accuses-beijing-of-uighur-rights-abuses/"}
 ---
 
 ----
-Headline:: [[Current Affairs/UN accuses Beijing of Uighur rights abuses 📰🗞️|UN accuses Beijing of Uighur rights abuses 📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[UPSC/International Relations|International Relations]] 
+Headline:: [[Current Affairs/UN accuses Beijing of Uighur rights abuses 📰🗞️\|UN accuses Beijing of Uighur rights abuses 📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[UPSC/International Relations\|International Relations]] 
 
 ----
 ##### What to read and why? 
