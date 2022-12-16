@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/hannah-arendt/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/hannah-arendt/"}
 ---
 
 ----
 Topic:: Hannah Arendt
 Date:: 2022-08-30
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -72,7 +72,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 #### Idea of Revolution 
 - Revolution creates universal category where all participants have a uniform understanding of the system or the value created at the time. 
 - It always lead to creation of public space. 
-- Hannah's understanding of revvolution is dfifferent from  both [[UPSC/Karl Marx|Karl Marx]] and [[UPSC/Liberalism|Liberalism]] understanding and interpreatation of revolution. 
+- Hannah's understanding of revvolution is dfifferent from  both [[UPSC/Karl Marx\|Karl Marx]] and [[UPSC/Liberalism\|Liberalism]] understanding and interpreatation of revolution. 
 - She critisized liberal revolution that it fails to make liberty as an  integrate value  all. In other word failed to create public space for liberty. 
 - Marxist revolution was critisized for not creating universal category for everyone. 
 - For Hannah Arendt revolution creates universal category. It helps to create public space and enhance political capacity of participants. 
