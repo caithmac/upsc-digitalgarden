@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/equalityy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/equalityy/"}
 ---
 
 ----
 Topic:: Equalityy
 Date:: 2022-08-14
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Equality : 
-- Those who believe in Liberty; they believe in [[UPSC/Formal Equality|Formal Equality]]
+- Those who believe in Liberty; they believe in [[UPSC/Formal Equality\|Formal Equality]]
 - They talk about idea of legal 
-- [[UPSC/Substantive Equality|Substantive Equality]]
-- There is a debate over priority of two important value, that is [[UPSC/Liberty|Liberty]] and [[UPSC/Equalityy|Equalityy]]  Scholars of PS recognise equality is important value as liverty abut there understanding of equality varies. 
+- [[UPSC/Substantive Equality\|Substantive Equality]]
+- There is a debate over priority of two important value, that is [[UPSC/Liberty\|Liberty]] and [[UPSC/Equalityy\|Equalityy]]  Scholars of PS recognise equality is important value as liverty abut there understanding of equality varies. 
 - Aristotle identiefied inequality as root cause of revolution and he proposed ""
 - In modern days, idea of formal equality was very much challenged which led to emergence of idea of substantive equality.
 - Sandra Friedman has argued that substantive equality should be viewd as 4 dimensional concept of recognition, redistribution,participation and transformation. 
@@ -21,7 +21,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- Equality of results. 
 	- Right based 
 	- value driven approach
-- Michal Walzer introduces - [[UPSC/Complex Equality|Complex Equality]] 
+- Michal Walzer introduces - [[UPSC/Complex Equality\|Complex Equality]] 
 
 - Starting Point Equality  
 	- ###### Equality of Opportunity 
@@ -57,7 +57,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 		- Dworkin is critical of welfare egglatarian and adequate his theory of Equality of resources, 
 		- When inequality emerge due to uniequal tallent there is no redistributoon to equalise but he believed that justice requires an equal auction from time to time and equality of resiurces is devoted to whole life because we must not allow distrubtion of resources to be endownment sensetive that is being affected by difference principle. 
 	- ###### Equality of capability 
-		- [[UPSC/Amartya Sen|Amartya Sen]] criticised existing models of understanding of equality. He also criticised measures taken to adress problem of equality. He was convinced of the inadequacy of income inequality, economic and resources equality and even the combination of all three
+		- [[UPSC/Amartya Sen\|Amartya Sen]] criticised existing models of understanding of equality. He also criticised measures taken to adress problem of equality. He was convinced of the inadequacy of income inequality, economic and resources equality and even the combination of all three
 		- **Income and economic equality contradict with non-economic circumstances and this inturn, results in inequality.**
 		- He argued that because of parametric variation income resource are material goods do not go hand in hand. 
 		- He identifeid 5 types of parametric variations 
@@ -109,6 +109,6 @@ Course:: [[UPSC/PSIR|PSIR]]
 
 ---
 **Backlinks**
-- [[UPSC/Equalityy|Equalityy]]
-- [[UPSC/PSIR|PSIR]]
+- [[UPSC/Equalityy\|Equalityy]]
+- [[UPSC/PSIR\|PSIR]]
 
