@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/complex-equality/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/complex-equality/"}
 ---
 
 ----
 Topic:: Complex Equality
 Date:: 2022-07-13
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
