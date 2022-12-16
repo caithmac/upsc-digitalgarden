@@ -1,45 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/nbfi/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/nbfi/"}
 ---
 
 Topic: NBFI
 Date: May 6, 2022
-Course::[[UPSC/Economy|Economy]]
+Course::[[UPSC/Economy\|Economy]]
 
 ---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
-
-
-----
-Topic:: AIFI
-Date:: 2022-06-24
-Course:: [[UPSC/Economy|Economy]] 
-
-----
 
 ##### All India Financial Institution 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ----
 Topic:: EXIM
 Date:: 2022-06-24
-Course:: [[UPSC/Economy|Economy]] 
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 >[!error] Export Import Bank
@@ -60,22 +44,18 @@ Course:: [[UPSC/Economy|Economy]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ----
 Topic:: NABARD
 Date:: 2022-06-24
-Course:: [[UPSC/Economy|Economy]] 
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 >[!error] NABARD
 > - Regulatory Authority : Cooperatives + RBI 
-> - Rural Infrastructure Development Fund(RID) if [[Priority Sector Lending|Priority Sector Lending]] target not met
+> - Rural Infrastructure Development Fund(RID) if [[Priority Sector Lending\|Priority Sector Lending]] target not met
 > - Helps => SCB;MFI;CS Farmer 
 
 ^13d6e0
@@ -88,17 +68,13 @@ Course:: [[UPSC/Economy|Economy]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ----
 Topic:: NHB
 Date:: 2022-06-24
-Course:: [[UPSC/Economy|Economy]] 
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 
@@ -119,17 +95,13 @@ Course:: [[UPSC/Economy|Economy]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ----
 Topic:: SIDBI
 Date:: 2022-06-24
-Course:: [[UPSC/Economy|Economy]] 
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 
