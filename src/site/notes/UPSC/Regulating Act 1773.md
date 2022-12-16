@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/regulating-act-1773/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/regulating-act-1773/"}
 ---
 
-# [[UPSC/Regulating Act 1773|Regulating Act 1773]]
-why? Corruption amongst [[UPSC/EIC|EIC]]
-[[UPSC/EIC|Eic]] applied 1,000,000 pounds- 1772
+# [[UPSC/Regulating Act 1773\|Regulating Act 1773]]
+why? Corruption amongst [[UPSC/EIC\|EIC]]
+[[UPSC/EIC\|Eic]] applied 1,000,000 pounds- 1772
 Lack of judicial administration
  
 ## Changes in England
@@ -14,4 +14,4 @@ Lack of judicial administration
 ## changes in India
 governor of Bengal- Governor General of Bengal
 
-[[Warren Hasting|Warren Hasting]] was first Governor General of in Bengal
+[[Warren Hasting\|Warren Hasting]] was first Governor General of in Bengal
