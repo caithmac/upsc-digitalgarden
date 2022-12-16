@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/john-locke/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/john-locke/"}
 ---
 
 ----
 Topic:: Locke
 Date:: 2022-07-01
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -22,7 +22,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - State is not limited. 
 - Absolutism 
 - Father of Liberalism. 
-- [[UPSC/John Locke was individualist in and out|John Locke was individualist in and out]]
+- [[UPSC/John Locke was individualist in and out\|John Locke was individualist in and out]]
 - Supporter of Parliament
 - Democracy
 - Rights of People
@@ -57,9 +57,9 @@ He further explained state of nature. Human nature is good helpful, people live 
 
 - As per Locke state of nature proved to be inconvenient. Locke identified two major inconvenience.
 	- Common authority to interpret law, at the same time implement those law. There was always threat that everyone can become judge of its own case that is violation of natural justice. 
-	- Locke was who created idea of [[UPSC/Constitutionalism|Constitutionalism]], limited government and political sovereignty and representative government 
-	- [[Locke is an individualist|Locke is an individualist]]
-	- [[Locke was not critique of Hobbes but Filmer|Locke was not critique of Hobbes but Filmer]]
+	- Locke was who created idea of [[UPSC/Constitutionalism\|Constitutionalism]], limited government and political sovereignty and representative government 
+	- [[Locke is an individualist\|Locke is an individualist]]
+	- [[Locke was not critique of Hobbes but Filmer\|Locke was not critique of Hobbes but Filmer]]
 - ##### Feature of Lockean State
 	- Based on consent 
 	- State is limited (Minimal state)
@@ -115,7 +115,7 @@ He further explained state of nature. Human nature is good helpful, people live 
 - The freedom of man and liberty and acting according to his will is grounded on his reason, which is able to instruct him to govern himself. 
 
 ##### Concept of Property 
-- According to Locke right to property is most important and crucial right, social contract has been done to save this property and even state can not impose any limitation without the consent of owner of property. Right to property is intimately connected with right to life and liberty as it is necessary consequence. Sometimes Locke sums up all natural right in the right to property. Man creates property by mixing his labor with the object of his nature. In the beginning objects of nature all the things were held in common but common ownership is not enough to satisfy their need. Man must mix his labor with his resources provided by nature to enable him to make use of them in a more effective and profitable way.  Since man owns his own personality, his body and limbs, mind, the object with which he mixes his labor becomes his own property by right. 
+- According to Locke right to property is most important and crucial right, social contract has been done to save this property and even state can not impose any limitation without the consent of owner of property. [[UPSC/Right to property\|Right to property]] is intimately connected with right to life and liberty as it is necessary consequence. Sometimes Locke sums up all natural right in the right to property. Man creates property by mixing his labor with the object of his nature. In the beginning objects of nature all the things were held in common but common ownership is not enough to satisfy their need. Man must mix his labor with his resources provided by nature to enable him to make use of them in a more effective and profitable way.  Since man owns his own personality, his body and limbs, mind, the object with which he mixes his labor becomes his own property by right. 
 - Labor theory of Value / Labour Mix Theory 
 - Possessive Individualism 
 - According to Locke labor not only creates property but it also determines value of property. He said that 90% value of property must be determined on basis of labor. Locke puts three limitation over property. 
@@ -144,7 +144,7 @@ He further explained state of nature. Human nature is good helpful, people live 
 	- Macpherson concludes that Locke is presented as an ideologue of Possessive Individualism of market economy and dictatorship of bourgeoisie. "He is seen as typical representation spirit of capitalism". 
 - John Plamentz critic
 	- Locke as pro-capitalist and anti-people. He further said that limitation imposed by Locke are either irrelevant or inadequate. 
-- [[UPSC/I Berlin|I Berlin]] , Alan Ryan, Richard Ascraft, John Dun
+- [[UPSC/I Berlin\|I Berlin]] , Alan Ryan, Richard Ascraft, John Dun
 	- Supported Locke's view. And argued that Macpherson's view overlooks the overriding role of natural law and idea of common good that it implies. 
 	- John Plamentaz > Locke was the first of the liberal of our era. 
 - John Dunning
@@ -164,7 +164,7 @@ He further explained state of nature. Human nature is good helpful, people live 
 	- The end of law is not to abolish or restraint but to preserve and enlarge freedom. As per Locke citizens are householders who employ night watchamn to gaurd the house and the citizens remain vigilant to watchman that the 
 
 > [!question]
-> - [[UPSC/No Law, No Liberty|No Law, No Liberty]]
-> - [[UPSC/Sole purpose for which state is created is protection of property|Sole purpose for which state is created is protection of property]]
-> - [[UPSC/John Locke was individualist in and out|John Locke was individualist in and out]]
+> - [[UPSC/No Law, No Liberty\|No Law, No Liberty]]
+> - [[UPSC/Sole purpose for which state is created is protection of property\|Sole purpose for which state is created is protection of property]]
+> - [[UPSC/John Locke was individualist in and out\|John Locke was individualist in and out]]
 
