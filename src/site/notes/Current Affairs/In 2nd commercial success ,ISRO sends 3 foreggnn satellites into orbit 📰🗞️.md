@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/in-2nd-commercial-success-isro-sends-3-foreggnn-satellites-into-orbit/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/in-2nd-commercial-success-isro-sends-3-foreggnn-satellites-into-orbit/"}
 ---
 
 ----
-Headline:: [[Current Affairs/In 2nd commercial success ,ISRO sends 3 foreggnn satellites into orbit 📰🗞️|In 2nd commercial success ,ISRO sends 3 foreggnn satellites into orbit 📰🗞️]]
-Date:: [[Current Affairs/01-07-2022|01-07-2022]]
-Course:: [[Defense|Defense]] 
+Headline:: [[Current Affairs/In 2nd commercial success ,ISRO sends 3 foreggnn satellites into orbit 📰🗞️\|In 2nd commercial success ,ISRO sends 3 foreggnn satellites into orbit 📰🗞️]]
+Date:: [[Current Affairs/01-07-2022\|01-07-2022]]
+Course:: [[Defense\|Defense]] 
 
 ----
 ##### What to read and why? 
