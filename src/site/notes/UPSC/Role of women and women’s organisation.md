@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/role-of-women-and-women-s-organisation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/role-of-women-and-women-s-organisation/"}
 ---
 
 ----
 Topic:: Role of women and women’s organisation
 Date:: 2022-07-05
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 #### Introduction 
@@ -76,14 +76,14 @@ Course:: [[UPSC/Social Science|Social Science]]
 	- Employment
 - Need to come out of the vicious circle of poverty which prevented them from even coming out of the tyranny of tradition. 
 - Women were included in more often than not confined to the reproductive role which was a stereotypical western understanding of the Third World women.
-- [[United Nation|United Nation]] since 1975 - Year of Woman - has brought issues related to women in the major international forum. 
+- [[United Nation\|United Nation]] since 1975 - Year of Woman - has brought issues related to women in the major international forum. 
 - Women's development flourished during freedom struggle. 
 - Constitution even accepted equal rights to vote, it vindicated that struggle of 1947 had accepted the basic ethos of equality. 
-- Some [[feminist|feminist]] authors have shown that [[India's Green Revolution|India's Green Revolution]] as a classic example of how development was anti-women. 
+- Some [[feminist\|feminist]] authors have shown that [[India's Green Revolution\|India's Green Revolution]] as a classic example of how development was anti-women. 
 
 #### Empowerment 
 - Only possible when they participated in their own development and this in turn was possible only when the concentration were to be small with an effective local level development vision 
-> [[UPSC/Amartya Sen|Amartya Sen]], "freedom in one are foster freedom in other area as well"
+> [[UPSC/Amartya Sen\|Amartya Sen]], "freedom in one are foster freedom in other area as well"
 
 - During 1980 - gender was made an important component in development programming. 
 - Beginning of the 30% reservation for women in panchayats for women to enter decision making domain. 
@@ -103,8 +103,8 @@ Course:: [[UPSC/Social Science|Social Science]]
 - Caste factor - Stigma attached to women working outside the home. 
 - Safety issues and harassment at the workplace -Women more vulnerable to exploitation and harassment at work in developing countries. 
 - Double Burden - Family and Work Place
--  [[UPSC/Maternity Aspect|Maternity Aspect]] :
-- [[UPSC/Education-Employment Trade off|Education-Employment Trade off]]
+-  [[UPSC/Maternity Aspect\|Maternity Aspect]] :
+- [[UPSC/Education-Employment Trade off\|Education-Employment Trade off]]
 
 ###### Suggestion to improve FLFP 
 - Introduction of digital and STEM education in schools. 
@@ -116,7 +116,7 @@ Course:: [[UPSC/Social Science|Social Science]]
 - Due to unequal treatment, society's gender norms, the economic status and financial literacy among the women shows downward trend. 
 - Major factor curbing potential candidates from performing where they ought to. 
 - ###### Global Gender Gap report 2020
-	- Published by the [[World Economic Forum|World Economic Forum]] 
+	- Published by the [[World Economic Forum\|World Economic Forum]] 
 	- 112/153 
 	- **Reason behind Gender Pay Gap**
 		- Preference for male
@@ -161,14 +161,14 @@ Course:: [[UPSC/Social Science|Social Science]]
 
 
 >[!question] Question 
->- [[Any discourse on environmental movements in India is incomplete without analysing the role of women in it. Comment.|Any discourse on environmental movements in India is incomplete without analysing the role of women in it. Comment.]]
->- [[UPSC/Feminization of agriculture has led to women empowerment in rural India. Critically analyse.|Feminization of agriculture has led to women empowerment in rural India. Critically analyse.]]
->- [[Why is it that the societal trends that maintain a violent order against women have remained intact, when there has been a legal expansion of women’s rights in India?|Why is it that the societal trends that maintain a violent order against women have remained intact, when there has been a legal expansion of women’s rights in India?]]
->- [[What are the factors responsible for high infant mortality rate in India? Discuss its implications for Indian women. Suggest steps that have been taken by the government to address this problem.|What are the factors responsible for high infant mortality rate in India? Discuss its implications for Indian women. Suggest steps that have been taken by the government to address this problem.]]
->-[[ Investment in the future of girl child is not only a question of economic priority but also one of social attitude. Comment. How can the government schemes help change entrenched social attitudes vis a vis the girl child?| Investment in the future of girl child is not only a question of economic priority but also one of social attitude. Comment. How can the government schemes help change entrenched social attitudes vis a vis the girl child?]]
->- [[Even though the provision of reservation for women has enhanced their presence and visibility, this has not necessarily translated into their empowerment. Do you agree? On what grounds is the reservation for women in Parliament opposed?|Even though the provision of reservation for women has enhanced their presence and visibility, this has not necessarily translated into their empowerment. Do you agree? On what grounds is the reservation for women in Parliament opposed?]]
->- [[Over the past few years, there have been innumerable cases of domestic workers, nearly all of them female, being abused and exploited by their employers. What are the factors that make domestic workers vulnerable to abuse and exploitation? Enumerate the provisions in Domestic Workers Welfare and Social Security Act 2010 to prevent their exploitation.|Over the past few years, there have been innumerable cases of domestic workers, nearly all of them female, being abused and exploited by their employers. What are the factors that make domestic workers vulnerable to abuse and exploitation? Enumerate the provisions in Domestic Workers Welfare and Social Security Act 2010 to prevent their exploitation.]]
->- [[Gender justice is often hindered by religious sensitivity over women related issues. In this context, discuss how gender justice can be ensured while also keeping in mind religious sensitivity of different communities.|Gender justice is often hindered by religious sensitivity over women related issues. In this context, discuss how gender justice can be ensured while also keeping in mind religious sensitivity of different communities.]]
->- [[It has been observed by some that emergence of a distinct “female vote bank” has made political parties and leaders take women related issues seriously. Critically examine in the context of electoral mobilisation in India in the recent times.|It has been observed by some that emergence of a distinct “female vote bank” has made political parties and leaders take women related issues seriously. Critically examine in the context of electoral mobilisation in India in the recent times.]]
->- [[Portrayal of stereotypical sensational images of women not only reduces their identity to a mere object of desire but also reinforces the patriarchal structure of the society. Discuss with examples.|Portrayal of stereotypical sensational images of women not only reduces their identity to a mere object of desire but also reinforces the patriarchal structure of the society. Discuss with examples.]]
+>- [[Any discourse on environmental movements in India is incomplete without analysing the role of women in it. Comment.\|Any discourse on environmental movements in India is incomplete without analysing the role of women in it. Comment.]]
+>- [[UPSC/Feminization of agriculture has led to women empowerment in rural India. Critically analyse.\|Feminization of agriculture has led to women empowerment in rural India. Critically analyse.]]
+>- [[Why is it that the societal trends that maintain a violent order against women have remained intact, when there has been a legal expansion of women’s rights in India?\|Why is it that the societal trends that maintain a violent order against women have remained intact, when there has been a legal expansion of women’s rights in India?]]
+>- [[What are the factors responsible for high infant mortality rate in India? Discuss its implications for Indian women. Suggest steps that have been taken by the government to address this problem.\|What are the factors responsible for high infant mortality rate in India? Discuss its implications for Indian women. Suggest steps that have been taken by the government to address this problem.]]
+>-[[ Investment in the future of girl child is not only a question of economic priority but also one of social attitude. Comment. How can the government schemes help change entrenched social attitudes vis a vis the girl child?\| Investment in the future of girl child is not only a question of economic priority but also one of social attitude. Comment. How can the government schemes help change entrenched social attitudes vis a vis the girl child?]]
+>- [[Even though the provision of reservation for women has enhanced their presence and visibility, this has not necessarily translated into their empowerment. Do you agree? On what grounds is the reservation for women in Parliament opposed?\|Even though the provision of reservation for women has enhanced their presence and visibility, this has not necessarily translated into their empowerment. Do you agree? On what grounds is the reservation for women in Parliament opposed?]]
+>- [[Over the past few years, there have been innumerable cases of domestic workers, nearly all of them female, being abused and exploited by their employers. What are the factors that make domestic workers vulnerable to abuse and exploitation? Enumerate the provisions in Domestic Workers Welfare and Social Security Act 2010 to prevent their exploitation.\|Over the past few years, there have been innumerable cases of domestic workers, nearly all of them female, being abused and exploited by their employers. What are the factors that make domestic workers vulnerable to abuse and exploitation? Enumerate the provisions in Domestic Workers Welfare and Social Security Act 2010 to prevent their exploitation.]]
+>- [[Gender justice is often hindered by religious sensitivity over women related issues. In this context, discuss how gender justice can be ensured while also keeping in mind religious sensitivity of different communities.\|Gender justice is often hindered by religious sensitivity over women related issues. In this context, discuss how gender justice can be ensured while also keeping in mind religious sensitivity of different communities.]]
+>- [[It has been observed by some that emergence of a distinct “female vote bank” has made political parties and leaders take women related issues seriously. Critically examine in the context of electoral mobilisation in India in the recent times.\|It has been observed by some that emergence of a distinct “female vote bank” has made political parties and leaders take women related issues seriously. Critically examine in the context of electoral mobilisation in India in the recent times.]]
+>- [[Portrayal of stereotypical sensational images of women not only reduces their identity to a mere object of desire but also reinforces the patriarchal structure of the society. Discuss with examples.\|Portrayal of stereotypical sensational images of women not only reduces their identity to a mere object of desire but also reinforces the patriarchal structure of the society. Discuss with examples.]]
 >- 
