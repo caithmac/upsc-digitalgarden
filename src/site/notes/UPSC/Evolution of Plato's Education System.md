@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/evolution-of-plato-s-education-system/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/evolution-of-plato-s-education-system/"}
 ---
 
 ----
 Topic:: Evolution of Plato's Education System
 Date:: 2022-06-24
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### Evolution of Plato's Education System
