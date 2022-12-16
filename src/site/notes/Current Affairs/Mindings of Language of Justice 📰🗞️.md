@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/mindings-of-language-of-justice/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/mindings-of-language-of-justice/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Mindings of Language of Justice 📰🗞️|Mindings of Language of Justice 📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[Judiciary|Judiciary]] 
+Headline:: [[Current Affairs/Mindings of Language of Justice 📰🗞️\|Mindings of Language of Justice 📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[Judiciary\|Judiciary]] 
 
 ----
 ##### What to read and why? 
