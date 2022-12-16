@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/administrative-relations/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/administrative-relations/"}
 ---
 
 ----
 Topic: Administrative relations
 Date: 2022-06-03
-Course: [[UPSC/Polity|Polity]], [[UPSC/Constitution MOC|Constitution MOC]] 
+Course: [[UPSC/Polity\|Polity]], [[UPSC/Constitution MOC\|Constitution MOC]] 
 
 ----
 
