@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/buoyancy-in-direct-tax-collections-if-it-continues-could-cross-budget-targets/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/buoyancy-in-direct-tax-collections-if-it-continues-could-cross-budget-targets/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Buoyancy in direct tax collections if it continues, could cross Budget targets📰🗞️|Buoyancy in direct tax collections if it continues, could cross Budget targets📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/Buoyancy in direct tax collections if it continues, could cross Budget targets📰🗞️\|Buoyancy in direct tax collections if it continues, could cross Budget targets📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
