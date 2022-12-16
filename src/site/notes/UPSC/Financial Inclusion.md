@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/financial-inclusion/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/financial-inclusion/"}
 ---
 
 Topic: Financial Inclusion
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
