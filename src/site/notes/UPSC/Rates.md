@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/rates/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/rates/"}
 ---
 
 Topic: Rates
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
@@ -13,9 +13,9 @@ Tags: #pillar1A
 - Item
 
 ### Notes
-- [[Bank Rate|Bank Rate]]
-- [[UPSC/Repo Rate|Repo Rate]]
-- [[Reverse Repo Rate|Reverse Repo Rate]]
+- [[Bank Rate\|Bank Rate]]
+- [[UPSC/Repo Rate\|Repo Rate]]
+- [[Reverse Repo Rate\|Reverse Repo Rate]]
 
 
 
