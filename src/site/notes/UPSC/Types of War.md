@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/types-of-war/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/types-of-war/"}
 ---
 
 ----
 Topic:: Types of War
 Date:: 2022-10-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ### Types of War 
@@ -24,7 +24,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                                   |
 | -------------------------------------- |
-| [[UPSC/Arthashastra.md\|Arthashastra]] |
+| [[UPSC/Arthashastra\|Arthashastra]] |
 
 
 
