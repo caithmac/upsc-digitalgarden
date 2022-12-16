@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/veto-power/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/veto-power/"}
 ---
 
-[[UPSC/President|President]]
-[[UPSC/Governor|Governor]]
+[[UPSC/President\|President]]
+[[UPSC/Governor\|Governor]]
