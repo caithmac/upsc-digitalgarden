@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/moderates/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/moderates/"}
 ---
 
-[[UPSC/Annie Besant|Annie Besant]]
+[[UPSC/Annie Besant\|Annie Besant]]
