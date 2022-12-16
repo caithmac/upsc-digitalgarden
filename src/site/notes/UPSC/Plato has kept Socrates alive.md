@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/plato-has-kept-socrates-alive/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/plato-has-kept-socrates-alive/"}
 ---
 
 ----
 Topic:: Plato has kept Socrates alive
 Date:: 2022-06-23
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -28,12 +28,12 @@ Course:: [[UPSC/PSIR|PSIR]]
 ##### How did Plato kept Socrates alive? 
 - What were his method? 
 	- ###### By writing and ideas made Socrates immortals.
-	- ###### Wrote the book [[UPSC/The Republic|The Republic]]; in which [[UPSC/Socrates|Socrates]] is chief orator.  Chapter Justice. 
+	- ###### Wrote the book [[UPSC/The Republic\|The Republic]]; in which [[UPSC/Socrates\|Socrates]] is chief orator.  Chapter Justice. 
 - Why he wanted to keep him alive? 
--  Did the death of [[UPSC/Socrates|Socrates]] made any impact on life of [[UPSC/Plato|Plato]]. 
+-  Did the death of [[UPSC/Socrates\|Socrates]] made any impact on life of [[UPSC/Plato\|Plato]]. 
 
 ##### What he proposed after death of Socrates?
-- Put forward the concept of [[UPSC/Philosopher King|Philosopher King]]. 
+- Put forward the concept of [[UPSC/Philosopher King\|Philosopher King]]. 
 - Which won't be democratic process. 
 - Thus furthering Socrates ideas. 
 
