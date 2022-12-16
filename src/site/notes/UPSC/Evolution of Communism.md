@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/evolution-of-communism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/evolution-of-communism/"}
 ---
 
 ----
 Topic:: Evolution of Communism
 Date:: 2022-07-02
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 
@@ -16,7 +16,7 @@ Course:: [[UPSC/Social Science|Social Science]]
 - Syed Ahmed Khan founded Aligarh College. 
 - Communalism started when Syed Ahmed Khan opposed the national movement. 
 - Muslim League was formed. 
-- Policies such as division of Bengal, [[UPSC/Morley - Minto Reforms|Morley - Minto Reforms]] , [[Communal Award
+- Policies such as division of Bengal, [[UPSC/Morley - Minto Reforms\|Morley - Minto Reforms]] , [[Communal Award
 
 ##### Extremist Phase
 - M.A Jinnah declared that; "Muslims should organize themselves, stand united and should press every reasonable point for the protection of their community"
