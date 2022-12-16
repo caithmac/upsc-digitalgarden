@@ -1,21 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/article-21-a-right-to-education/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/article-21-a-right-to-education/"}
 ---
 
 ##### Right to Education
 
 >[!quote]
 >‘the dawn of the second revolution in the chapter of citizens’ rights’
-- [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
-- There was already article in the constitution [[UPSC/Article 45.|Article 45.]] of [[UPSC/Directive Principle of State Policy|DPSP]]
+- [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
+- There was already article in the constitution [[UPSC/Article 45.\|Article 45.]] of [[UPSC/Directive Principle of State Policy\|DPSP]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Article 45.
@@ -26,19 +22,15 @@
 - Fundamental Duty 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-
-
-</div>
 
 
 
 
-- [[Features of the Fundamental Duties|Features of the Fundamental Duties]]
-- [[Criticism of Fundamental Duties|Criticism of Fundamental Duties]]
-- [[Significance of Fundamental Duties|Significance of Fundamental Duties]]
-- [[Verma Committee|Verma Committee]]
+
+- [[Features of the Fundamental Duties\|Features of the Fundamental Duties]]
+- [[Criticism of Fundamental Duties\|Criticism of Fundamental Duties]]
+- [[Significance of Fundamental Duties\|Significance of Fundamental Duties]]
+- [[Verma Committee\|Verma Committee]]
 
 
 > It shall be the duty of every citizen of India to provide opportunities for education to his child or ward between the age of six and fourteen years
@@ -86,23 +78,19 @@ between the age of six and fourteen years
 -Compulsory Education (RTE) Act 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Topic: Compulsory Education (RTE) Act, 2009
 Date: 2022-05-31
-Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]],[[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #GS2 
 
 ---
 
 > This act seeks: 
 > 1. Every child is given full time elementary education of satisfactory and equitable quality in a formal school which satisfies certain essential norms and standards. 
-> 2. This legislation is anchored in the belied that the values of [[UPSC/Equality|Equality]], Social Justice and democracy and the creation of a just and humane society can be achieved only through provision of inclusive elementary education to all. 
+> 2. This legislation is anchored in the belied that the values of [[UPSC/Equality\|Equality]], Social Justice and democracy and the creation of a just and humane society can be achieved only through provision of inclusive elementary education to all. 
 
 ^34515e
 
