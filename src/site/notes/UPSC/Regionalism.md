@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/regionalism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/regionalism/"}
 ---
 
 ----
 Topic:: Regionalism
 Date:: 2022-07-04
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 ##### Region
@@ -43,7 +43,7 @@ Course:: [[UPSC/Social Science|Social Science]]
 >3. Major landmarks in the development of regional politics. 
 >> - ==Democratic form of Government== : Each region wanted fair deal of nation building, anything short of it and they started competing and felt disenchantment and it resulted in the emergence of regional politics. 
 >> - ==Integration of princely states:== Many princely states were integrated with other princely state and british provinces to make one big state, people still continued to be loyal to their old territorial units. The Princes often recieved support and won election from their former territories. 
->> - [[UPSC/Reorganization of states on linguistic basis|Reorganization of states on linguistic basis]]:
+>> - [[UPSC/Reorganization of states on linguistic basis\|Reorganization of states on linguistic basis]]:
 >> - Personal and Selfish ends of politicians
 >> 
 
@@ -61,7 +61,7 @@ Course:: [[UPSC/Social Science|Social Science]]
 	- Most important mark of identification. 
 	- Language expresses the shared life, thought structure and value pattern of people. 
 	- Linguistic homogeneity strengthens a positive movement. 
-	- Establishment of [[State Reorganisation Commission, 1955|State Reorganisation Commission, 1955]]
+	- Establishment of [[State Reorganisation Commission, 1955\|State Reorganisation Commission, 1955]]
 	- Regionalism is closely associated with language but is not synonymous with regionalism. 
 	- Maharashtra did form on basis of linguistic state. 
 	- But North East india refers themselves as seven sister. 
@@ -114,12 +114,12 @@ Course:: [[UPSC/Social Science|Social Science]]
 
 ####
 >[!faq] ###### Questions
->- [[There have been instances of people advocating that they be given the major, if not the sole, right to work in their states or regions. Analyze the economic, demographic and socio-cultural factors which have given rise to these ‘sons of the soil’ movements|There have been instances of people advocating that they be given the major, if not the sole, right to work in their states or regions. Analyze the economic, demographic and socio-cultural factors which have given rise to these ‘sons of the soil’ movements]]
->- [[Post-independence India has witnessed many instances of extreme form of regionalism. Is regionalism a threat to national integrity? How can regional aspirations be addressed within the constitutional framework|Post-independence India has witnessed many instances of extreme form of regionalism. Is regionalism a threat to national integrity? How can regional aspirations be addressed within the constitutional framework]]
->- [[Ethnic similarities are as important as territorial boundaries in promoting the feeling of common brotherhood among the citizens of a country. In context of the above statement, examine the problems faced by people from North-East in other parts of India. Also analyse the steps taken by the government in this regard.|Ethnic similarities are as important as territorial boundaries in promoting the feeling of common brotherhood among the citizens of a country. In context of the above statement, examine the problems faced by people from North-East in other parts of India. Also analyse the steps taken by the government in this regard.]]
->-  [[What is regionalism? Despite persistent regional inequalities, it is increasingly becoming less important in the Indian scenario. Analyse|What is regionalism? Despite persistent regional inequalities, it is increasingly becoming less important in the Indian scenario. Analyse]]
->- [[Regionalism in India is not only rooted in India's diversity of languages, cultures, tribes and religions but also fuelled by a sense of regional deprivations. Discuss.|Regionalism in India is not only rooted in India's diversity of languages, cultures, tribes and religions but also fuelled by a sense of regional deprivations. Discuss.]]
->- [[Regional aspirations in the North East have been dominated by demands for autonomy, movements for secession, and opposition to ‘outsiders’. Discuss with relevant examples.|Regional aspirations in the North East have been dominated by demands for autonomy, movements for secession, and opposition to ‘outsiders’. Discuss with relevant examples.]]
+>- [[There have been instances of people advocating that they be given the major, if not the sole, right to work in their states or regions. Analyze the economic, demographic and socio-cultural factors which have given rise to these ‘sons of the soil’ movements\|There have been instances of people advocating that they be given the major, if not the sole, right to work in their states or regions. Analyze the economic, demographic and socio-cultural factors which have given rise to these ‘sons of the soil’ movements]]
+>- [[Post-independence India has witnessed many instances of extreme form of regionalism. Is regionalism a threat to national integrity? How can regional aspirations be addressed within the constitutional framework\|Post-independence India has witnessed many instances of extreme form of regionalism. Is regionalism a threat to national integrity? How can regional aspirations be addressed within the constitutional framework]]
+>- [[Ethnic similarities are as important as territorial boundaries in promoting the feeling of common brotherhood among the citizens of a country. In context of the above statement, examine the problems faced by people from North-East in other parts of India. Also analyse the steps taken by the government in this regard.\|Ethnic similarities are as important as territorial boundaries in promoting the feeling of common brotherhood among the citizens of a country. In context of the above statement, examine the problems faced by people from North-East in other parts of India. Also analyse the steps taken by the government in this regard.]]
+>-  [[What is regionalism? Despite persistent regional inequalities, it is increasingly becoming less important in the Indian scenario. Analyse\|What is regionalism? Despite persistent regional inequalities, it is increasingly becoming less important in the Indian scenario. Analyse]]
+>- [[Regionalism in India is not only rooted in India's diversity of languages, cultures, tribes and religions but also fuelled by a sense of regional deprivations. Discuss.\|Regionalism in India is not only rooted in India's diversity of languages, cultures, tribes and religions but also fuelled by a sense of regional deprivations. Discuss.]]
+>- [[Regional aspirations in the North East have been dominated by demands for autonomy, movements for secession, and opposition to ‘outsiders’. Discuss with relevant examples.\|Regional aspirations in the North East have been dominated by demands for autonomy, movements for secession, and opposition to ‘outsiders’. Discuss with relevant examples.]]
 >- 
 
 
