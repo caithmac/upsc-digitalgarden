@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/maratha/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/maratha/"}
 ---
 
-# [[UPSC/Maratha|Maratha]]
+# [[UPSC/Maratha\|Maratha]]
 Sahuji 
 	- Shivaji 
 		 Rajaram
 		 Sambhaji 
 
-[[Anglo - Maratha War |Anglo - Maratha War ]] 
+[[Anglo - Maratha War \|Anglo - Maratha War ]] 
 
 
 ```mermaid
