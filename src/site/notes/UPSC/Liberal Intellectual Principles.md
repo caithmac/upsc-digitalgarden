@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/liberal-intellectual-principles/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/liberal-intellectual-principles/"}
 ---
 
 ##### Liberal Intellectual Principles
@@ -32,5 +32,5 @@
 
 
 
-[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002|(Eighty-six Amendment) Act, 2002]]
-[^2]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Eighty-six Amendment) Act, 2002\|(Eighty-six Amendment) Act, 2002]]
+[^2]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
