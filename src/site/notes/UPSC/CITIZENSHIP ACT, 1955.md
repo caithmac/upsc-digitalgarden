@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/citizenship-act-1955/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/citizenship-act-1955/"}
 ---
 
 Topic: CITIZENSHIP ACT, 1955
 Date: 2022-05-31
-Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]],[[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #GS2 
 
 ---
