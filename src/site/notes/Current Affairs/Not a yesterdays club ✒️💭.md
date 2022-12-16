@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/not-a-yesterdays-club/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/not-a-yesterdays-club/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Not a yesterdays club ✒️💭|Not a yesterdays club ✒️💭]]
-Date:: [[Current Affairs/29-06-2022|29-06-2022]]
-Course:: [[UPSC/International Relations|International Relations]] 
+Headline:: [[Current Affairs/Not a yesterdays club ✒️💭\|Not a yesterdays club ✒️💭]]
+Date:: [[Current Affairs/29-06-2022\|29-06-2022]]
+Course:: [[UPSC/International Relations\|International Relations]] 
 
 ----
 ##### What to read and why? 
