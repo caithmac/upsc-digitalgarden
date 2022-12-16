@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/feature-of-social-contract/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/feature-of-social-contract/"}
 ---
 
 ----
 Topic:: Feature of Social Contract
 Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ###### Feature of Social Contract
