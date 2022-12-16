@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/mahalwari/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/mahalwari/"}
 ---
 
