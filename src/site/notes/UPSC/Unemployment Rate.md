@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/unemployment-rate/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/unemployment-rate/"}
 ---
 
 Topic: Unemployment Rate
 Date: 2022-05-29
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar4 
 
 ---
