@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/a-skewed-playing-field/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/a-skewed-playing-field/"}
 ---
 
 ----
-Headline:: [[Current Affairs/A skewed playing field✒️💭|A skewed playing field✒️💭]]
-Date:: [[Current Affairs/28-06-2022|28-06-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/A skewed playing field✒️💭\|A skewed playing field✒️💭]]
+Date:: [[Current Affairs/28-06-2022\|28-06-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
