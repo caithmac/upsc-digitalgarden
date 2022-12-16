@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/terms-of-reference/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/terms-of-reference/"}
 ---
 
 Topic: Terms of Reference
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
