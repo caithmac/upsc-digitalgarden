@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/article-22-protection-against-arrest-and-detention/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/article-22-protection-against-arrest-and-detention/"}
 ---
 
 
 Topic: Article 22. Protection against Arrest and Detention
 Date: 2022-05-31
-Course: [[UPSC/Polity|Polity]],[[UPSC/Constitution MOC|Constitution MOC]]
+Course: [[UPSC/Polity\|Polity]],[[UPSC/Constitution MOC\|Constitution MOC]]
 Tags: #GS2 
 
 
@@ -13,15 +13,11 @@ Tags: #GS2
 
 > [!Question] What is Article 22?
 > Grants protection to persons who are arrested or detained. 
-> [[UPSC/Detention|Detention]] is of two type:
+> [[UPSC/Detention\|Detention]] is of two type:
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Detention 
