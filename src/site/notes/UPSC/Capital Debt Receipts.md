@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/capital-debt-receipts/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/capital-debt-receipts/"}
 ---
 
 Topic: Capital Debt Receipts
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2 
 
 ---
@@ -14,9 +14,9 @@ Tags: #Pillar2
 
 
 
->[!info] [[UPSC/Capital Debt Receipts|Capital Debt Receipts]]
+>[!info] [[UPSC/Capital Debt Receipts\|Capital Debt Receipts]]
 
->[!info] [[Capital Non-Debt Receipts|Capital Non-Debt Receipts]]
+>[!info] [[Capital Non-Debt Receipts\|Capital Non-Debt Receipts]]
 
 
 
