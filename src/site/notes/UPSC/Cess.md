@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/cess/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/cess/"}
 ---
 
 Topic: Cess
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 
 ---
 
@@ -12,7 +12,7 @@ Course: [[UPSC/Economy|Economy]]
 
 
 ### Notes
-- [[UPSC/Types of Taxes|Tax]] + [[UPSC/Surcharge|Surcharge]]
+- [[UPSC/Types of Taxes\|Tax]] + [[UPSC/Surcharge\|Surcharge]]
 - 
 
 
