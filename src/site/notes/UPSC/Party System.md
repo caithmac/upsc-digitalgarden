@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/party-system/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/party-system/"}
 ---
 
 ----
 Topic:: Party System
 Date:: 2022-10-06
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 # Party System 
@@ -26,7 +26,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 **Backlinks**
 | File                   |
 | ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
+| [[UPSC/PSIR\|PSIR]] |
 
 
 
