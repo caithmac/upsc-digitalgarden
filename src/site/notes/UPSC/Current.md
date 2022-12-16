@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/current/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/current/"}
 ---
 
 Topic: Current
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar3 
 
 ---
@@ -14,19 +14,19 @@ Tags: #pillar3
 
 
 ### Notes
--  [[UPSC/Current|Current]]
-	- [[UPSC/Visible|Visible]]
-		- [[Goods|Goods]]
-	- [[UPSC/Invisible|Invisible]]
-		- [[Service|Service]]
-		- [[UPSC/Income|Income]]
-			- [[Profit|Profit]]
-			- [[Interest|Interest]]
-			- [[Dividend|Dividend]]
-		- [[UPSC/Transfer|Transfer]]
-			- [[Remittance|Remittance]]
-			- [[Donation|Donation]]
-			- [[Gifts|Gifts]]
+-  [[UPSC/Current\|Current]]
+	- [[UPSC/Visible\|Visible]]
+		- [[Goods\|Goods]]
+	- [[UPSC/Invisible\|Invisible]]
+		- [[Service\|Service]]
+		- [[UPSC/Income\|Income]]
+			- [[Profit\|Profit]]
+			- [[Interest\|Interest]]
+			- [[Dividend\|Dividend]]
+		- [[UPSC/Transfer\|Transfer]]
+			- [[Remittance\|Remittance]]
+			- [[Donation\|Donation]]
+			- [[Gifts\|Gifts]]
 
 
 
