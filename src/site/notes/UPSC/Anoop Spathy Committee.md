@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/anoop-spathy-committee/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/anoop-spathy-committee/"}
 ---
 
 
 Topic: Anoop Spathy Committee
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 
 
 ---
@@ -15,7 +15,7 @@ Course: [[UPSC/Economy|Economy]]
 
 
 ### Notes
-- Talks about [[Minimum Wages|Minimum Wages]] and its reform
+- Talks about [[Minimum Wages\|Minimum Wages]] and its reform
 
 
 
