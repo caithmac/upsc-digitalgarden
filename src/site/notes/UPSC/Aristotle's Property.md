@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/aristotle-s-property/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/aristotle-s-property/"}
 ---
 
 ----
 Topic:: Aristotle's Property
 Date:: 2022-06-25
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -19,7 +19,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - For Aristitole; property provided psychological satisfaction by fulfiling human instinct for possesion and ownership 
 
 ##### Why Plato is incorrect on Property 
-- [[UPSC/Plato|Plato]] failed to make a balance between 
+- [[UPSC/Plato\|Plato]] failed to make a balance between 
 	- Production 
 	- Distribution 
 
