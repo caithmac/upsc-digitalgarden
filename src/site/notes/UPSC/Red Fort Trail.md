@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/red-fort-trail/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/red-fort-trail/"}
 ---
 
 
 
-Agitation against [[UPSC/Red Fort Trail|Red Fort Trail]]
+Agitation against [[UPSC/Red Fort Trail\|Red Fort Trail]]
 1. Calcutta
 2. Calcutta
-3. Bombay - [[Royal Indian Navy Mutiny|Royal Indian Navy Mutiny]]
+3. Bombay - [[Royal Indian Navy Mutiny\|Royal Indian Navy Mutiny]]
