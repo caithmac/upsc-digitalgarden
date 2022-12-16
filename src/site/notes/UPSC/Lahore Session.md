@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/lahore-session/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/lahore-session/"}
 ---
 
 
 
-[[UPSC/Round Table Conference|Round Table Conference]] boycotted 
-Launch of [[UPSC/Civil Disobedience|Civil Disobedience]]
+[[UPSC/Round Table Conference\|Round Table Conference]] boycotted 
+Launch of [[UPSC/Civil Disobedience\|Civil Disobedience]]
 
