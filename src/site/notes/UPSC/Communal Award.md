@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/communal-award/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/communal-award/"}
 ---
 
 Topic: Communal Award
 Date: 2022-06-01
-Course: [[UPSC/Modern History|Modern History]]
+Course: [[UPSC/Modern History\|Modern History]]
 Tags: 
 
 ---
 
 
 
-[[UPSC/Poona Pact|Poona Pact]]
+[[UPSC/Poona Pact\|Poona Pact]]
