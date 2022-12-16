@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/sarkaria-commission/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/sarkaria-commission/"}
 ---
 
 ----
 Topic: Sarkaria Commission
 Date: 2022-06-03
-Course: [[UPSC/Sarkaria Commission|]] 
+Course: [[UPSC/Sarkaria Commission\|]] 
 
 ----
 
 
 
-In selection of [[UPSC/Governor|Governor]]
+In selection of [[UPSC/Governor\|Governor]]
