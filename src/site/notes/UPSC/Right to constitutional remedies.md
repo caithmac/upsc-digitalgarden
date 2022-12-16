@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/right-to-constitutional-remedies/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/right-to-constitutional-remedies/"}
 ---
 
 # Right to constitutional remedies
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Habeas corpus
@@ -26,11 +22,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Mandamus
@@ -45,17 +37,13 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Prohibition
 - `To forbid`
-- Higher court to lower court or [[UPSC/Tribunals|Tribunals]] to prevent later from exceeding its jurisdiction. 
-- Unlike [[UPSC/Mandamus|Mandamus]] that directs activity; the `prohibition` directs inactivity
+- Higher court to lower court or [[UPSC/Tribunals\|Tribunals]] to prevent later from exceeding its jurisdiction. 
+- Unlike [[UPSC/Mandamus\|Mandamus]] that directs activity; the `prohibition` directs inactivity
 - Only against -> Judicial and Quasi-Judicial Authorities
 - Not against : (i)Private individuals or bodies
 - Only preventive in nature ^2299a2
@@ -66,28 +54,20 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Certiorari
 - `To be certified` or `To be informed`
-- Higher court to lower court or [[UPSC/Tribunals|Tribunals]] either to transfer a case pending with latter to itself or to squash the order of the latter in a case. 
-- Both preventive as well as curative. Unlike [[UPSC/Prohibition|Prohibition]], which is only preventive in nature -> [[UPSC/Prohibition#^2299a2|Prohibition#^2299a2]] 
+- Higher court to lower court or [[UPSC/Tribunals\|Tribunals]] either to transfer a case pending with latter to itself or to squash the order of the latter in a case. 
+- Both preventive as well as curative. Unlike [[UPSC/Prohibition\|Prohibition]], which is only preventive in nature -> [[UPSC/Prohibition#^2299a2\|Prohibition#^2299a2]] 
 
 </div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ##### Quo-Warranto 
