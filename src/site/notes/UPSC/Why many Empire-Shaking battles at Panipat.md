@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/why-many-empire-shaking-battles-at-panipat/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/why-many-empire-shaking-battles-at-panipat/"}
 ---
 
 ----
 Topic: Why many Empire-Shaking battles at Panipat
 Date: 2022-06-03
-Course:: [[UPSC/History|History]] 
+Course:: [[UPSC/History\|History]] 
 
 ----
 
