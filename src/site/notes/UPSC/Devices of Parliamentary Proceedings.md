@@ -1,22 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/devices-of-parliamentary-proceedings/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/devices-of-parliamentary-proceedings/"}
 ---
 
-- [[Question Hour|Question Hour]]
-	- [[Starred Question|Starred Question]]
-	- [[Unstarred Question|Unstarred Question]]
-	- [[Short Notice Question |Short Notice Question ]]
-- [[Zero Hour|Zero Hour]]
-- [[Motions|Motions]]
-		- [[Substantive Motion|Substantive Motion]] :: 
-		- [[Substitute Motion|Substitute Motion]] :: 
-		- [[Subsidiary Motion|Subsidiary Motion]] ::
-			- [[Ancillary Motion|Ancillary Motion]]::-
-			- [[Superseding Motion|Superseding Motion]]::-
-			- [[Amendment|Amendment]]::-- 
-	- [[Closure Motion|Closure Motion]]
-	- [[Privilege Motion|Privilege Motion]]
-	- [[Calling Attention Motion|Calling Attention Motion]]
-	- [[Adjournment motion|Adjournment motion]]
-	- [[No-confidence motion|No-confidence motion]]
+- [[Question Hour\|Question Hour]]
+	- [[Starred Question\|Starred Question]]
+	- [[Unstarred Question\|Unstarred Question]]
+	- [[Short Notice Question \|Short Notice Question ]]
+- [[Zero Hour\|Zero Hour]]
+- [[Motions\|Motions]]
+		- [[Substantive Motion\|Substantive Motion]] :: 
+		- [[Substitute Motion\|Substitute Motion]] :: 
+		- [[Subsidiary Motion\|Subsidiary Motion]] ::
+			- [[Ancillary Motion\|Ancillary Motion]]::-
+			- [[Superseding Motion\|Superseding Motion]]::-
+			- [[Amendment\|Amendment]]::-- 
+	- [[Closure Motion\|Closure Motion]]
+	- [[Privilege Motion\|Privilege Motion]]
+	- [[Calling Attention Motion\|Calling Attention Motion]]
+	- [[Adjournment motion\|Adjournment motion]]
+	- [[No-confidence motion\|No-confidence motion]]
 - Point of Order:: 
