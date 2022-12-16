@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/battling-crisis-srilanka-secures-first-imf-ok-for-a-2-9-billion-with-reform-roadmap-imf-clears-package-with-belt-tightening-budget-sri-lanka-begins-long-walk-to-economic-recovery/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/battling-crisis-srilanka-secures-first-imf-ok-for-a-2-9-billion-with-reform-roadmap-imf-clears-package-with-belt-tightening-budget-sri-lanka-begins-long-walk-to-economic-recovery/"}
 ---
 
 ----
-Headline:: [[Current Affairs/Battling crisis ,Srilanka secures first IMF ok for a $2.9 billion with reform roadmap 📰🗞️ IMF clears package ;with belt tightening budget ,Sri lanka begins long walk to economic recovery 📰🗞️|Battling crisis ,Srilanka secures first IMF ok for a $2.9 billion with reform roadmap 📰🗞️ IMF clears package ;with belt tightening budget ,Sri lanka begins long walk to economic recovery 📰🗞️]]
-Date:: [[Current Affairs/02-09-2022|02-09-2022]]
-Course:: [[UPSC/International Relations|International Relations]] 
+Headline:: [[Current Affairs/Battling crisis ,Srilanka secures first IMF ok for a $2.9 billion with reform roadmap 📰🗞️ IMF clears package ;with belt tightening budget ,Sri lanka begins long walk to economic recovery 📰🗞️\|Battling crisis ,Srilanka secures first IMF ok for a $2.9 billion with reform roadmap 📰🗞️ IMF clears package ;with belt tightening budget ,Sri lanka begins long walk to economic recovery 📰🗞️]]
+Date:: [[Current Affairs/02-09-2022\|02-09-2022]]
+Course:: [[UPSC/International Relations\|International Relations]] 
 
 ----
 ![IMF bailout and Sri Lanka’s long, difficult road to recovery | Explained News,The Indian Express](https://indianexpress.com/article/explained/explained-global/explained-imf-bailout-sri-lankas-long-difficult-road-recovery-8125699/)
