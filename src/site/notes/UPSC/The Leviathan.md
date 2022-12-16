@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/the-leviathan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/the-leviathan/"}
 ---
 
 ----
 Topic:: The Leviathan
 Date:: 2022-06-28
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -20,9 +20,9 @@ Course:: [[UPSC/PSIR|PSIR]]
 	- All rights surrendered to Leviathan 
 	- Only Right to Life.
 - All powerful 
-> “[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]]”
+> “[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all\|Covenants, without the sword, are but words and of no strength to secure a man at all]]”
 
-- Silence of law is liberty : What has not been restricted it is your liberty. - [[UPSC/Negative Liberty|Negative Liberty]]
+- Silence of law is liberty : What has not been restricted it is your liberty. - [[UPSC/Negative Liberty\|Negative Liberty]]
 
 
 
@@ -51,7 +51,7 @@ Course:: [[UPSC/PSIR|PSIR]]
 - Life was brutish, nasty and short.
 - His understanding of Human Nature. 
 - Survival is natural instinct 
-- To enter into a state they give up their natural right to "[[UPSC/The Leviathan|The Leviathan]]"
+- To enter into a state they give up their natural right to "[[UPSC/The Leviathan\|The Leviathan]]"
 
 >[!bug] Understanding Hobbesian Social Contract
 > Hobbes is social contractiualist as he used methodology of social contract to create common wealth and civil societies. 
@@ -63,5 +63,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 >Hobbesian Social COntract considers all individuals equal while entering into contract even in state of nature everyone is sovereign, thus he laid the foundation of formal equality and rejected the system of privilege. 
 >Hobbesian Social Contract provide absolute power to Leviathen. Sovreignity is undeniable fact of human life. 
 >Hobbes still believed that human nature can not be controlled even in common wealth without power. 
->> [[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]]
+>> [[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all\|Covenants, without the sword, are but words and of no strength to secure a man at all]]
 >  
