@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/why-hobbes-supports-strong-and-absolute-state/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/why-hobbes-supports-strong-and-absolute-state/"}
 ---
 
 ----
 Topic:: Why Hobbes supports strong and absolute state
 Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 
@@ -14,5 +14,5 @@ Course:: [[UPSC/PSIR|PSIR]]
 3. People could only on right to life. 
 4. Conssistent effort to protect right to life by Leviathen and thus he needs to be strong. 
 
->[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all|Covenants, without the sword, are but words and of no strength to secure a man at all]]
+>[[UPSC/Covenants, without the sword, are but words and of no strength to secure a man at all\|Covenants, without the sword, are but words and of no strength to secure a man at all]]
 
