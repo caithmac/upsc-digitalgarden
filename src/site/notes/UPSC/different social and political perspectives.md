@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/different-social-and-political-perspectives/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/different-social-and-political-perspectives/"}
 ---
 
 ----
 Topic:: different social and political perspectives
 Date:: 2022-10-03
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ## Major debates
 On Nature of political system 
-- Modernists like Nehru and [[UPSC/B.R. Ambedkar|B.R. Ambedkar]] preferred Parliamentary Democracy.
+- Modernists like Nehru and [[UPSC/B.R. Ambedkar\|B.R. Ambedkar]] preferred Parliamentary Democracy.
 - Whereas Gandhians preferred Panchayati Raj System 
 - However Modernists won and Gandhian got place in Part IV
 On Nature of Fedration 
@@ -47,7 +47,7 @@ Thus CA has adopted different provisions after elaborate debates and with conses
 **Backlinks**
 | File                   |
 | ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
+| [[UPSC/PSIR\|PSIR]] |
 
 
 
