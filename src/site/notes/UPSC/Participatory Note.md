@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/participatory-note/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/participatory-note/"}
 ---
 
 Topic: Participatory Note
 Date: May 6, 2022
-Course:[[UPSC/Economy|Economy]]
+Course:[[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
