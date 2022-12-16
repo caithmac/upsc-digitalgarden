@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/the-extent-of-poverty/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/the-extent-of-poverty/"}
 ---
 
 ----
-Headline:: [[Current Affairs/The extent of poverty ✒️💭|The extent of poverty ✒️💭]]
-Date:: [[Current Affairs/30-06-2022|30-06-2022]]
-Course:: [[UPSC/Economy|Economy]] 
+Headline:: [[Current Affairs/The extent of poverty ✒️💭\|The extent of poverty ✒️💭]]
+Date:: [[Current Affairs/30-06-2022\|30-06-2022]]
+Course:: [[UPSC/Economy\|Economy]] 
 
 ----
 ##### What to read and why? 
