@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/discuss-aristotle-s-evaluation-of-platonic-idea-of-state/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/discuss-aristotle-s-evaluation-of-platonic-idea-of-state/"}
 ---
 
 ----
 Topic:: Discuss Aristotle's evaluation of platonic idea of state
 Date:: 2022-07-11
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 Aristotle's practical approach comes in conflict with Plato's vision of ideal state. 
-- The rule of [[UPSC/Philosopher King|Philosopher King]] is not practical
+- The rule of [[UPSC/Philosopher King\|Philosopher King]] is not practical
 - Aristotle focuses on best practicable rather than best overall. 
 - Property is not evil for Aristotle. 
 - Those who have property have a stake in political system hence are more cautious about its stability and order. 
