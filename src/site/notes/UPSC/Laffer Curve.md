@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/laffer-curve/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/laffer-curve/"}
 ---
 
 Topic: Laffer Curve
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #Pillar2  #curves 
 
 ---
