@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/forex-reserve/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/forex-reserve/"}
 ---
 
 Topic: Forex Reserve
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar1A
 
 ---
@@ -14,7 +14,7 @@ Tags: #pillar1A
 
 
 ### Notes
-- [[SDR|SDR]]
+- [[SDR\|SDR]]
 - 
 
 
