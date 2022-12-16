@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/do-you-agree-on-laslet-s-opinion-that-it-was-filmer-and-not-hobbes-who-was-main-oponent-of-locke/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/do-you-agree-on-laslet-s-opinion-that-it-was-filmer-and-not-hobbes-who-was-main-oponent-of-locke/"}
 ---
 
 ----
 Topic:: Do you agree on Laslet's opinion that it was filmer and not hobbes who was main oponent of Locke
 Date:: 2022-07-20
-Course:: [[UPSC/PSIR|PSIR]]
+Course:: [[UPSC/PSIR\|PSIR]]
 
 ----
- Robert Filmer argues that kings are choosen by gods and man is not free and is able to choose a ruler.  All government is absolute monarchy and no man is born free, this led to [[UPSC/Thomas Hobbes|Thomas Hobbes]] and Filmer being compared together since Hobbes believes that " Fear and I were born twins together." The nature of absoultist state is also common ground between the two. 
-Differences between Hobbes and Filmer, Hobbes never says that absolute monarchy is the only system just prefers it over democracy since the division of sovereign powers makes decision making difficult. Filmers argument to support monarchy is entirely different. Monarchy is given by God, whereas [[UPSC/Democracy|democracy]] is created by people.
+ Robert Filmer argues that kings are choosen by gods and man is not free and is able to choose a ruler.  All government is absolute monarchy and no man is born free, this led to [[UPSC/Thomas Hobbes\|Thomas Hobbes]] and Filmer being compared together since Hobbes believes that " Fear and I were born twins together." The nature of absoultist state is also common ground between the two. 
+Differences between Hobbes and Filmer, Hobbes never says that absolute monarchy is the only system just prefers it over democracy since the division of sovereign powers makes decision making difficult. Filmers argument to support monarchy is entirely different. Monarchy is given by God, whereas [[UPSC/Democracy\|democracy]] is created by people.
 Filmer believes that people can't govern themselves therfore monarchy is needed. 
 Atleast in Hobbseian State of Nature individual is born free. For Filmer no one is born free. 
 For Hobbes peole can choose who can rule them, Filmer gives no such choice. 
