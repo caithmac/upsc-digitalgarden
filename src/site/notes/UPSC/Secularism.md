@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/secularism/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/secularism/"}
 ---
 
 ----
 Topic:: Secularism
 Date:: 2022-07-02
-Course:: [[UPSC/Social Science|Social Science]] 
+Course:: [[UPSC/Social Science\|Social Science]] 
 
 ----
 https://onlyias.com/secularism/
@@ -43,8 +43,8 @@ https://onlyias.com/secularism/
 
 
 >[!done]+ Contemporary Issues. 
->- [[Uniform Civil Code|Uniform Civil Code]]
->- [[Instant Triple Talaq|Instant Triple Talaq]]
+>- [[UPSC/Uniform Civil Code\|Uniform Civil Code]]
+>- [[Instant Triple Talaq\|Instant Triple Talaq]]
 
 >[!cite] Court Cases
 >- Stanislaus vs State of Madhya Pradesh case (1977), The Supreme Court held that the right to propagate religion (under Article 25) does not include right to forcible conversion as it may disturb public order.
