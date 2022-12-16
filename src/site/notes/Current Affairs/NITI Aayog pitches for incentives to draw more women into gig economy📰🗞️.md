@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/niti-aayog-pitches-for-incentives-to-draw-more-women-into-gig-economy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/niti-aayog-pitches-for-incentives-to-draw-more-women-into-gig-economy/"}
 ---
 
 ----
-Headline:: [[Current Affairs/NITI Aayog pitches for incentives to draw more women into gig economy📰🗞️|NITI Aayog pitches for incentives to draw more women into gig economy📰🗞️]]
-Date:: [[Current Affairs/28-06-2022|28-06-2022]]
-Course:: [[UPSC/Polity|Polity]] 
+Headline:: [[Current Affairs/NITI Aayog pitches for incentives to draw more women into gig economy📰🗞️\|NITI Aayog pitches for incentives to draw more women into gig economy📰🗞️]]
+Date:: [[Current Affairs/28-06-2022\|28-06-2022]]
+Course:: [[UPSC/Polity\|Polity]] 
 
 ----
 ##### What to read and why? 
 
-In an attempt to increase participation of women in the gig economy, the [[NITI Aayog |NITI Aayog ]]has proposed fiscal incentives like tax breaks or startup grants for companies with about one-third of their workforce as women and people with disabilities (PwDs).
+In an attempt to increase participation of women in the gig economy, the [[NITI Aayog \|NITI Aayog ]]has proposed fiscal incentives like tax breaks or startup grants for companies with about one-third of their workforce as women and people with disabilities (PwDs).
 
 >“Fiscal incentives such as tax-breaks or startup grants may be provided for businesses that provide livelihood opportunities where women constitute a substantial portion (say, 30%) of their workers. Likewise, a platform with high accessibility or high degree of participation of PwDs too may be rewarded with fiscal incentives
 
