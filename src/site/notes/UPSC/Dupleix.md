@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/dupleix/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/dupleix/"}
 ---
 
 Topic: Dupleix
@@ -11,5 +11,5 @@ Tags:
 
 
 
-- Captured [[Madras|Madras]] in 1746
+- Captured [[Madras\|Madras]] in 1746
 
