@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/hobbes-s-liberty/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/hobbes-s-liberty/"}
 ---
 
 ----
 Topic:: Hobbes's Liberty
 Date:: 2022-07-10
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 ##### Hobbes's Liberty
