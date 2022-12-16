@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/pluralist/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/pluralist/"}
 ---
 
 ----
 Topic:: Pluralist
 Date:: 2022-09-05
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 Pluralist
@@ -35,7 +35,7 @@ Pluralist
 **Backlinks**
 | File                   |
 | ---------------------- |
-| [[UPSC/PSIR.md\|PSIR]] |
+| [[UPSC/PSIR\|PSIR]] |
 
 
 
