@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/socialistic-principle/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/socialistic-principle/"}
 ---
 
 ##### Socialistic Principle
@@ -40,4 +40,4 @@
 
 
 
-[^1]: [[UPSC/(Forty-second Amendment) Act, 1976|(Forty-second Amendment) Act, 1976]]
+[^1]: [[UPSC/(Forty-second Amendment) Act, 1976\|(Forty-second Amendment) Act, 1976]]
