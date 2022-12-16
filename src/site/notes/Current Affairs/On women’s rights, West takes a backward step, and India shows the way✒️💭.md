@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/on-women-s-rights-west-takes-a-backward-step-and-india-shows-the-way/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/on-women-s-rights-west-takes-a-backward-step-and-india-shows-the-way/"}
 ---
 
 ----
-Headline:: [[Current Affairs/On women’s rights, West takes a backward step, and India shows the way✒️💭|On women’s rights, West takes a backward step, and India shows the way✒️💭]]
-Date:: [[Current Affairs/27-06-2022|27-06-2022]]
-Course:: [[UPSC/Polity|Polity]] 
+Headline:: [[Current Affairs/On women’s rights, West takes a backward step, and India shows the way✒️💭\|On women’s rights, West takes a backward step, and India shows the way✒️💭]]
+Date:: [[Current Affairs/27-06-2022\|27-06-2022]]
+Course:: [[UPSC/Polity\|Polity]] 
 
 ----
 ###### What to read and why? 
