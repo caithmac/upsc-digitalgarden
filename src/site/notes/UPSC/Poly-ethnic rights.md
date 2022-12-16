@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/poly-ethnic-rights/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/poly-ethnic-rights/"}
 ---
 
 ----
 Topic:: Poly-ethnic rights
 Date:: 2022-07-12
-Course:: [[UPSC/PSIR|PSIR]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 Will Kimlicaka mentions two type of minority
@@ -36,7 +36,7 @@ Delibrative relatiovsim refer to a conscious decion of diff minority to accept a
 
 ---
 **Backlinks**
-- [[UPSC/Multiculturism|Multiculturism]]
+- [[UPSC/Multiculturism\|Multiculturism]]
 
 
 
