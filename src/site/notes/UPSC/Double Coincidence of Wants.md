@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/double-coincidence-of-wants/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/double-coincidence-of-wants/"}
 ---
 
 Topic: Double Coincidence of Wants
 Date: May 6, 2022
-Course: [[UPSC/Economy|Economy]]
+Course: [[UPSC/Economy\|Economy]]
 Tags: #pillar1A #money
 
 ---
