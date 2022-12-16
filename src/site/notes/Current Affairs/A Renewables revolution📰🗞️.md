@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/current-affairs/a-renewables-revolution/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-affairs/a-renewables-revolution/"}
 ---
 
 ----
-Headline:: [[Current Affairs/A Renewables revolution📰🗞️|A Renewables revolution📰🗞️]]
-Date:: [[Current Affairs/02-07-2022|02-07-2022]]
-Course:: [[Environment|Environment]] 
+Headline:: [[Current Affairs/A Renewables revolution📰🗞️\|A Renewables revolution📰🗞️]]
+Date:: [[Current Affairs/02-07-2022\|02-07-2022]]
+Course:: [[Environment\|Environment]] 
 
 ----
 ##### What to read and why? 
