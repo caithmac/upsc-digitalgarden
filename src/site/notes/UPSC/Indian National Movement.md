@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/upsc/indian-national-movement/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/upsc/indian-national-movement/"}
 ---
 
 Development of Nationalism: 
@@ -8,4 +8,4 @@ Development of Nationalism:
 	3. What is Nation-State?
 	4. What do you mean by Nationalism?
 
-[[UPSC/Factors Causing growth of Nationalism|Factors Causing growth of Nationalism]]
+[[UPSC/Factors Causing growth of Nationalism\|Factors Causing growth of Nationalism]]
