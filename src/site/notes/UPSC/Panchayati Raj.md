@@ -16,6 +16,8 @@
 ### Significance of Law
 - Part IX was added
 - 243 to 243 O
+- 29 functional items of the Panchayats 
+- 
 
 ### Salient Features
 - Gram Sabha
