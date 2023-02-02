@@ -8,13 +8,11 @@ module.exports = async() => {
         const res = await axios.get(process.env.THEME)
         themeStyle = `<style>${res.data}</style>`;
     }
-    const meta ={
+    return {
         env: process.env.ELEVENTY_ENV,
         theme: process.env.THEME,
         themeStyle: themeStyle,
-        baseTheme: process.env.BASE_THEME || "dark",
-        siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
-    };
+        baseTheme: process.env.BASE_THEME || "dark"
+    }
 
-    return meta;
 };
