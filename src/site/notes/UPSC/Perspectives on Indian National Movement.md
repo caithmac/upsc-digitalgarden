@@ -12,10 +12,10 @@ Course:: [[UPSC/PSIR\|PSIR]]
 # Perspectives on Indian National Movement
 
 ## Colonial Perspective 
-- According to [[John Strachey\|John Strachey]]  there was never a nation called India. There is no "indian nation" , no "people of India" 
+- According to [[UPSC/John Strachey\|John Strachey]]  there was never a nation called India. There is no "indian nation" , no "people of India" 
 	- It had no political, physical social or religious unity according to European ideas. 
 - [[John Seeley\|John Seeley]] expressed that India is merely a geographical expression much like Africa or Europe. It marks territories of many language and many nation. 
-- [[John Strachey\|John Strachey]] and [[John Seeley\|John Seeley]] both asserted that it was impossible to forge a nation in India, because it never had a the characteristics of nation nor it will have in future. 
+- [[UPSC/John Strachey\|John Strachey]] and [[John Seeley\|John Seeley]] both asserted that it was impossible to forge a nation in India, because it never had a the characteristics of nation nor it will have in future. 
 - With the rise of [[UPSC/Indian Nationalism\|Indian Nationalism]] movement, it became very important for colonial ideologues and historian to counter Nationalists position of existence of an Indian Nation. 
 - [[Valentine Chirol\|Valentine Chirol]] in Indian Unrest (1910) - wrote - India is a mere geographical expression, and even this expression was forged by British. 
 	- India is the "antithesis" of the word nation, 
