@@ -165,7 +165,7 @@ Course:: [[UPSC/PSIR\|PSIR]]
 - Then highlighting  contradiction inconsistency shortcomings - about that theory 
 - Negating theories 
 - Proposing new theory 
-- [[Methodology of Marx\|Methodology of Marx]] was similar to Plato
+- [[UPSC/Methodology of Marx\|Methodology of Marx]] was similar to Plato
 
 
 
