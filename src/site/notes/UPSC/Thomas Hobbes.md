@@ -171,4 +171,5 @@ Hobbes proposes to analyze human kind from materialistic point of view with same
 - [[UPSC/Normative Individualists\|Normative Individualists]]
 - [[UPSC/PSIR\|PSIR]]
 - [[UPSC/Rights\|Rights]]
+- [[UPSC/What is Global Politics\|What is Global Politics]]
 
