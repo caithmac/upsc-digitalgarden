@@ -5,7 +5,7 @@
 ----
 Topic:: What are the major impediment in the UN Security Council Reform
 Date:: 2023-02-02
-Course:: [[UPSC/What are the major impediment in the UN Security Council Reform\|]] 
+Course:: [[UPSC/PSIR\|PSIR]] 
 
 ----
 UN Security Council Reform: Impediments and Current Debates
@@ -28,7 +28,12 @@ The United Nations (UN) was established in 1945 with the aim of maintaining inte
 
 **Reform of the Veto Power**: Another debate on UNSC reform is the reform of the veto power of the P5. Proponents, such as former Secretary-General of the United Nations, Ban Ki-moon, argue that "The veto power undermines the credibility and effectiveness of the UNSC," and that it should be limited or abolished. On the other hand, opponents argue that the veto power is a necessary tool for maintaining international peace and security, and that it should be preserved.
 
-Representation of Developing Countries: The representation of developing countries on the UNSC is another issue of contention. Proponents argue that developing countries are underrepresented on the council, and that they should have a greater say in the decisions affecting their lives. On the other hand, opponents such as former Secretary-General of the United Nations, Boutros Boutros-Ghali, argue that "the representation of developing countries should be based on their contribution to international peace and security, and they should not be given a
+**Representation of Developing Countries**: The representation of developing countries on the UNSC is another issue of contention. Proponents argue that developing countries are underrepresented on the council, and that they should have a greater say in the decisions affecting their lives. On the other hand, opponents such as former Secretary-General of the United Nations, Boutros Boutros-Ghali, argue that "the representation of developing countries should be based on their contribution to international peace and security, and they should not be given a
+
+
+Given the complexity and political sensitivity of the UNSC reform, finding a way forward that addresses the concerns of all stakeholders may seem challenging. However, there are some as the General Assembly, the International Court of Justice, and regional organizations, to ensure a more coordinated and effective approach to international peace and security. This could help to enhance the UNSC's legitimacy and ensure that it is equipped to address the complex challenges facing the international community.
+
+In conclusion, the UNSC reform process is a complex and challenging one, but it is also a necessary one if the council is to remain relevant and effective in addressing the international peace and security challenges of the 21st century. By engaging all stakeholders in an inclusive and transparent process, exploring alternative models for reform, integrating new actors, and working in coordination with other UN bodies, the UNSC can continue to play a vital role in maintaining international peace and security.
 
 ---
 
