@@ -38,7 +38,7 @@ Course:: [[UPSC/PSIR\|PSIR]]
 	- She argued that there is a posibility of creating universal framework of justice. Applicable in all society as gender is a factor of injustice across the globe. 
 
 #### Rawl's Theory of Justice
-- [[Distributive Justice\|Distributive Justice]]
+- [[UPSC/Distributive Justice\|Distributive Justice]]
 - Liberal tradition 
 - [[Egalitarian\|Egalitarian]] 
 - Kantian assumption 
